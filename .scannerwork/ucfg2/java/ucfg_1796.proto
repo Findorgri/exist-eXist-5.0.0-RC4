@@ -1,0 +1,64 @@
+
+1org.exist.source.URLSource#getLastModification()JZ
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javac c(!"8*≈
+4Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javag g('"d
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javag g('
+""*Ê
+5Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javag
+ g(≥
+∞
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javag
+ g(
+%3java.net.URLConnection"__id*.*,
+org.exist.source.URLSource"
+
+connection…∆
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javag
+ g(&
+
+%4long")java.net.URLConnection#getLastModified()J*
+
+%3java.net.URLConnection2getLastModified()*
+4*ö
+6Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaf f(&≥
+∞
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaf f(&,
+org.exist.source.URLSource"
+
+connection"__id*
+
+%2java.net.URLConnection*
+5*Ë
+7Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaf f(¢
+ü
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaf f(
+%1java.net.URL"__id*'*%
+org.exist.source.URLSource"
+url‹Ÿ
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaf f(&
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+%1java.net.URL2openConnection()*
+6*ù
+8Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javae e(≥
+∞
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javae e(
+%0java.net.URLConnection"__id*.*,
+org.exist.source.URLSource"
+
+connection*
+5
+7B
+org.exist.source.URLSource

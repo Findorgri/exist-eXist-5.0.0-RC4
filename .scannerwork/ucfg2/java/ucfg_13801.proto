@@ -1,0 +1,48 @@
+
+@org.exist.dom.memtree.NamespaceNode#toString()Ljava/lang/String;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java{ {("1*­
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java| |(&æã
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java|) |(4
+%0java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*'%
+#org.exist.dom.memtree.NamespaceNode2getPrefix()¿
+¼
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java| |(4
+%1java.lang.String"__concat*
+in-memory#namespace {*
+
+%0java.lang.String¬
+©
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java| |(;
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+}{÷ô
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java|> |(H
+%3java.lang.String"@org.exist.dom.memtree.NamespaceNode#getValue()Ljava/lang/String;*'%
+#org.exist.dom.memtree.NamespaceNode2
+getValue()¾
+»
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java| |(H
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String¬
+©
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java| |(O
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+} "
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NamespaceNode.java| |(P
+
+%5java.lang.StringB'%
+#org.exist.dom.memtree.NamespaceNode

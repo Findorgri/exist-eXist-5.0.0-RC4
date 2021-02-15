@@ -1,0 +1,16 @@
+
+Uorg.exist.security.realm.activedirectory.ContextFactory#getDomain()Ljava/lang/String;œ
+‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java9 9("1*ê
+1œ
+‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java:	 :(‰
+†
+œ
+‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java:	 :(
+%0java.lang.String"__id*G*E9
+7org.exist.security.realm.activedirectory.ContextFactory"
+domain"¹
+œ
+‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java: :(
+
+%0java.lang.StringB;9
+7org.exist.security.realm.activedirectory.ContextFactory

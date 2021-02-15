@@ -1,0 +1,102 @@
+
+Iorg.exist.storage.btree.Value#compareTo(Lorg/exist/storage/btree/Value;)I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¡ ¡("15"16*ï
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¯4 ¯(8ƒ
+€
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¯1 ¯(=	
+%8int"__id*
+
+
+%10int*
+1*í
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¯& ¯(*
+
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¯& ¯(.	
+%8int"__id*
+	
+%9int*
+1*ø
+15_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¢7 ¢(:
+
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¢7 ¢(:	
+%0int"__id*
+	
+%2int*
+2
+3
+5
+12*ø
+16_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¢+ ¢(0
+
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¢+ ¢(4	
+%0int"__id*
+	
+%1int*
+2
+3
+5
+12*Ï
+5_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java­ ­("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java­ ­(
+""*Ï
+8_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java© ©(5"i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java© ©(5
+""*í
+9_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java©. ©(/
+
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java©+ ©(4	
+%5int"__id*
+	
+%7int*
+8*î
+10_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java©" ©(#
+
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java©" ©('	
+%5int"__id*
+	
+%6int*
+8*Ò
+12_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¤ ¤( ¥
+¢
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¤ ¤( 
+%3byte[]"__id*+*)
+org.exist.storage.btree.Value"
+data¬
+©
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¥ ¥(&
+%4byte[]"__id*2*0
+&
+valueorg.exist.storage.btree.Value"
+data*
+2
+3
+5
+9
+10
+12*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¯ ¯(>"i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¯ ¯(>
+"":&
+valueorg.exist.storage.btree.ValueB!
+org.exist.storage.btree.Value

@@ -1,0 +1,16 @@
+
+Sorg.exist.storage.txn.TransactionManager#getLock()Ljava/util/concurrent/locks/Lock;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaÞ Þ("1*Þ
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaß ß(Ô
+Ñ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaß ß(%
+%0java.util.concurrent.locks.Lock"__id*6*4*
+(org.exist.storage.txn.TransactionManager"
+lock"•
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaß ß('
+%
+%0java.util.concurrent.locks.LockB,*
+(org.exist.storage.txn.TransactionManager

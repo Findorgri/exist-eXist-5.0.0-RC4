@@ -1,0 +1,49 @@
+
+Torg.exist.util.OrderedLinkedList#removeLast()Lorg/exist/util/OrderedLinkedList$Node;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaã ã("1*ª
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaå å( 
+«
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaå å(+
+%0%org.exist.util.OrderedLinkedList$Node"__id*.*,"
+ org.exist.util.OrderedLinkedList"
+lastÀ
+»
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaå å(-
+node%org.exist.util.OrderedLinkedList$Node"__id*-
++
+%0%org.exist.util.OrderedLinkedList$Node’
+“
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaç ç(+
+%1%org.exist.util.OrderedLinkedList$Node"__id*9*7
+-
+node%org.exist.util.OrderedLinkedList$Node"
+prev 
+«
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaç ç(,"
+ org.exist.util.OrderedLinkedList"
+last"__id*-
++
+%1%org.exist.util.OrderedLinkedList$Node 
+«
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaé é(+
+%2%org.exist.util.OrderedLinkedList$Node"__id*.*,"
+ org.exist.util.OrderedLinkedList"
+last¨
+©
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaé é(5
++
+%2%org.exist.util.OrderedLinkedList$Node"
+next"__id*
+"""ï
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaê ê(/
+-
+node%org.exist.util.OrderedLinkedList$NodeB$"
+ org.exist.util.OrderedLinkedList

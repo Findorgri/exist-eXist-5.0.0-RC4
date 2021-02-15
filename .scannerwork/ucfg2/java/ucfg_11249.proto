@@ -1,0 +1,20 @@
+
+_org.exist.util.serializer.IndentingXMLWriter#isInlineTag(Ljava/lang/String;Ljava/lang/String;)Zn
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/IndentingXMLWriter.javaÈ È(!"1*É
+1n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/IndentingXMLWriter.javaÉ É(Ù
+Ö
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/IndentingXMLWriter.javaÉ É(2
+%0boolean"^org.exist.util.serializer.IndentingXMLWriter#isMatchTag(Ljava/lang/String;Ljava/lang/String;)Z*0.
+,org.exist.util.serializer.IndentingXMLWriter*"
+ 
+namespaceURIjava.lang.String*
+
+	localNamejava.lang.String"x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/IndentingXMLWriter.javaÉ É(3
+"": 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB0.
+,org.exist.util.serializer.IndentingXMLWriter

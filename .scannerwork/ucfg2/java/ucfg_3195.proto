@@ -1,0 +1,44 @@
+
+Zorg.exist.xquery.modules.persistentlogin.PersistentLogin#generateToken()Ljava/lang/String;é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaÅ Å( "1*˚
+1é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaÇ$ Ç(8≠
+™
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaÇ$ Ç(8	
+%0int"__id*
+""∑
+¥
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaÇ Ç(:
+	newSeriesbyte[]"__id*
+""Ü
+É
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaÉ É( 
+%1java.security.SecureRandom"__id*H*F:
+8org.exist.xquery.modules.persistentlogin.PersistentLogin"
+randomïí
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaÉ É(#
+
+%2void")java.security.SecureRandom#nextBytes([B)V*"
+ 
+%1java.security.SecureRandom*
+
+	newSeriesbyte[]2nextBytes([B)æª
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaá á(
+%3java.lang.String"java.lang.StringÍ
+Á
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaá á(1
+%4",java.lang.String#<init>(Ljava/lang/String;)V*
+
+%3java.lang.String*
+"""´
+é
+ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaá á(2
+
+%3java.lang.StringB<:
+8org.exist.xquery.modules.persistentlogin.PersistentLogin

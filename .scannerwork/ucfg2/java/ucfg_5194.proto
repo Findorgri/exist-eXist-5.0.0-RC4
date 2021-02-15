@@ -1,0 +1,154 @@
+
+äorg.exist.validation.resolver.eXistXMLCatalogResolver#resolveEntityFallback(Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javan n(-"7*∞	
+2u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java}' }((˚¯
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java}' }(9
+%10java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+fjava.nio.file.Path2toAbsolutePath()ÌÍ
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java}' }(D
+%11java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%10java.nio.file.Path2
+toString()≥∞
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java} }(&
+%12org.xml.sax.InputSource"org.xml.sax.InputSourceÛ
+
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java} }(E
+%13"3org.xml.sax.InputSource#<init>(Ljava/lang/String;)V* 
+
+%12org.xml.sax.InputSource*
+
+%11java.lang.String"ô
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java} }(F 
+
+%12org.xml.sax.InputSource*É
+3u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java{ {($ÖÇ
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java{ {(A
+%9"Çorg.exist.validation.resolver.eXistXMLCatalogResolver#resolveEntity(Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;*97
+5org.exist.validation.resolver.eXistXMLCatalogResolver*
+""*
+""23resolveEntity(Ljava/lang/String;Ljava/lang/String;)"
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.java{ {(B
+
+%9*›
+4u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javax  x(#ﬁ€
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javax  x(-
+%5java.lang.String"(java.net.URL#getPath()Ljava/lang/String;*
+
+urljava.net.URL2	getPath()¥
+±
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javax x(.
+pathjava.lang.String"__id*
+
+%5java.lang.Stringù
+ö
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javay y(*
+%6java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+pathjava.lang.StringÒÓ
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javay y(6
+%7java.nio.file.Path"2java.nio.file.Path#normalize()Ljava/nio/file/Path;*
+
+%6java.nio.file.Path2normalize()µ
+≤
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javay y(7
+fjava.nio.file.Path"__id*
+
+%7java.nio.file.PathÙ
+Ò
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaz z($
+%8boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+fjava.nio.file.Path*
+2
+3*ï	
+5u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javav  v((úô
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javav v(
+%1java.net.URL"java.net.URL‡
+›
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javav v()
+%2"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%1java.net.URL*
+
+systemIdjava.lang.String´
+®
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javav v(*
+urljava.net.URL"__id*
+
+%1java.net.URLÊ„
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaw w(+
+%3java.lang.String",java.net.URL#getProtocol()Ljava/lang/String;*
+
+urljava.net.URL2getProtocol()˜Ù
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaw w(,
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+file*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*
+4
+1*˚
+6u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javas s("
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javas s(
+""*ì
+7u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaq q(é
+ã
+u
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaq q(
+%0"__id*
+""*
+5
+6*¿
+1w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÄ# Ä(&ÌÍ
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÄ# Ä(3
+%14java.io.InputStream".java.net.URL#openStream()Ljava/io/InputStream;*
+
+urljava.net.URL2openStream()µ≤
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÄ Ä("
+%15org.xml.sax.InputSource"org.xml.sax.InputSource˚
+¯
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÄ Ä(4
+%16"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V* 
+
+%15org.xml.sax.InputSource*
+
+%14java.io.InputStream"õ
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÄ Ä(5 
+
+%15org.xml.sax.InputSource:
+publicIdjava.lang.String:
+systemIdjava.lang.StringB97
+5org.exist.validation.resolver.eXistXMLCatalogResolver

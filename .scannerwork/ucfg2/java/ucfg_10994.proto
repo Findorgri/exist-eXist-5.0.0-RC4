@@ -1,0 +1,50 @@
+
+Dorg.exist.indexing.lucene.XMLToQuery#getSlop(Lorg/w3c/dom/Element;)I€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaú ú("8*”
+4€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaþ þ(."‹
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaþ þ(.
+""*ƒ
+5€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaþ þ(õ
+ò
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaþ þ(-	
+%2int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+slopjava.lang.String*
+4*ä
+7€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaü ü( ÓÐ
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaü ü()	
+%1int"java.lang.String#length()I*
+
+slopjava.lang.String2length()*
+5
+1*…
+8€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaû û(±®
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaû û(/
+%0java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*
+
+nodeorg.w3c.dom.Element*
+slop2 getAttribute(Ljava/lang/String;)À
+½
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaû û(0
+slopjava.lang.String"__id*
+
+%0java.lang.String*
+7
+1*”
+1€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaƒ ƒ("‹
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.javaƒ ƒ(
+"":
+nodeorg.w3c.dom.ElementB(&
+$org.exist.indexing.lucene.XMLToQuery

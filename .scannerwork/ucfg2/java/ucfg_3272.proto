@@ -1,0 +1,56 @@
+
+ìorg.exist.util.FileUtils$DirSizeVisitor#visitFile(Ljava/nio/file/Path;Ljava/nio/file/attribute/BasicFileAttributes;)Ljava/nio/file/FileVisitResult;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÿ ÿ(("startingBlock*†
+startingBlockZ
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÿ( ÿ(Zß
+§
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java◊ ◊(
+%2"
+__annotate*
+java.lang.Override*
+
+filejava.nio.file.Pathë
+é
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÿ4 ÿ(8
+filejava.nio.file.Path"__annotation*
+
+%2¡
+æ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java◊ ◊(
+%3"
+__annotate*
+java.lang.Override*6
+4
+attrs+java.nio.file.attribute.BasicFileAttributes´
+®
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÿT ÿ(Y4
+attrs+java.nio.file.attribute.BasicFileAttributes"__annotation*
+
+%3*
+1*–
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaŸ Ÿ(”
+–
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaŸ Ÿ($
+
+%0long"/java.nio.file.Files#size(Ljava/nio/file/Path;)J*"
+java.nio.file.Files*
+
+filejava.nio.file.Pathí
+è
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java⁄ ⁄(+#
+%1java.nio.file.FileVisitResult"__id*
+"""É
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java⁄ ⁄(,%
+#
+%1java.nio.file.FileVisitResult:
+filejava.nio.file.Path:4
+attrs+java.nio.file.attribute.BasicFileAttributesB+)
+'org.exist.util.FileUtils$DirSizeVisitor

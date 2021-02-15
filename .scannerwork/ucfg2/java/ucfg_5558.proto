@@ -1,0 +1,80 @@
+
+6org.exist.xquery.Function#toString()Ljava/lang/String;[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaº º("7*ê
+3[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÃ Ã(üù
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÄ Ä(*
+%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+3
+4
+1*ý
+4[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÁ Á(•’
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÁ Á(#
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+3*“
+
+7[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java»% »(8˜•
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java») »(6
+%0java.lang.StringBuilder"java.lang.StringBuilderª
+§
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java»% »(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderª
+§
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java» »(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¼¹
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java¼ ¼(
+%2"*org.exist.xquery.Function#getName()LQName;*
+org.exist.xquery.Function2	getName()üù
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java¼ ¼( 
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+
+%22append(Ljava/lang/Object;)òï
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java½ ½(
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+(2	append(C)*	
+3
+4
+1*°
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÆ Æ(òï
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÆ Æ(
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+)2	append(C)ßÜ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÇ Ç( 
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"w
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.javaÇ Ç(!
+
+%8java.lang.StringB
+org.exist.xquery.Function

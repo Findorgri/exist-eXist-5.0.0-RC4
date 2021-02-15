@@ -1,0 +1,31 @@
+
+Borg.exist.fluent.ItemList$ValuesFacet#toArray()[Ljava/lang/String;k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaL L("1*Ž	
+1k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaM
+ M(ûø
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaM
+ M(
+%0java.util.List">org.exist.fluent.ItemList$ValuesFacet#asList()Ljava/util/List;*)'
+%org.exist.fluent.ItemList$ValuesFacet2asList()ÑÎ
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaM& M(,	
+%1int"!org.exist.fluent.ItemList#size()I*)'
+%org.exist.fluent.ItemList$ValuesFacet2size()ž›
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaM M(-
+%2java.lang.String[]"java.lang.String[]œ™
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaM
+ M(.
+%3java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%0java.util.List*
+
+%2java.lang.String[]2toArray([Ljava/lang/Object;)"‰
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaM M(/
+
+%3java.lang.String[]B)'
+%org.exist.fluent.ItemList$ValuesFacet

@@ -1,0 +1,27 @@
+
+Uorg.exist.dom.memtree.TextImpl#replaceWholeText(Ljava/lang/String;)Lorg/w3c/dom/Text;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java9 9( "startingBlock*¼
+startingBlock^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java9  9(0¬
+©
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java8 8(
+%0"
+__annotate*
+java.lang.Override*
+
+contentjava.lang.String–
+“
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java9( 9(/
+contentjava.lang.String"__annotation*
+
+%0*
+1*Í
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java: :("h
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java: :(
+"":
+contentjava.lang.StringB" 
+org.exist.dom.memtree.TextImpl

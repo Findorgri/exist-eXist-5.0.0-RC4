@@ -1,0 +1,81 @@
+
+;org.exist.fluent.Listener$Event#equals(Ljava/lang/Object;)Zk
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java0 0("startingBlock*˚
+2k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java5 5(Ω
+∫
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java5 5(
+%2java.lang.String"__id*-*+!
+org.exist.fluent.Listener$Event"
+path√
+¿
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java5 5(
+%3java.lang.String"__id*3*1
+'
+thatorg.exist.fluent.Listener$Event"
+path˝˙
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java5 5(
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*
+1*≥
+3k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java2 2(∏
+µ
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java2 2('
+thatorg.exist.fluent.Listener$Event"__id*
+
+ojava.lang.Object*
+2
+1*⁄
+startingBlockk
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java0 0(!≥
+∞
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java/ /(
+%5"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Objectù
+ö
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java0 0( 
+ojava.lang.Object"__annotation*
+
+%5*
+4
+5*Á
+4k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java1< 1(A"u
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java15 1(B
+""*æ
+5k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java1 1(Ê„
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java1 1(#
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*#!
+org.exist.fluent.Listener$Event2
+getClass()⁄◊
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java1' 1(3
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+3
+4*Á
+1k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java3 5( "u
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Listener.java3 5( 
+"":
+ojava.lang.ObjectB#!
+org.exist.fluent.Listener$Event

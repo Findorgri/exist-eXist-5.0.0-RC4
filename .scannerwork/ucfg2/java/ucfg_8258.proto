@@ -1,0 +1,15 @@
+
+0org.exist.http.Descriptor#allowRequestLogging()Z[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÍ Í(&"1*„
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÎ Î( º
+·
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÎ Î( 
+%0java.io.BufferedWriter"__id*4*2
+org.exist.http.Descriptor"
+bufWriteReplayLog"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÎ Î()
+""B
+org.exist.http.Descriptor

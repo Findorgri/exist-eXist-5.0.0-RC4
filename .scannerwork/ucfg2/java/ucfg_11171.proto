@@ -1,0 +1,39 @@
+
+4org.exist.util.io.Resource#renameTo(Ljava/io/File;)Z\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java½ ½("15"5"19"10*É
+3\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ æ("f
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ æ( 
+""*Ê
+15\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÒ Ò("f
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÒ Ò(
+""*Ÿ
+5\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÝ Ý(B¶
+³
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÞ Þ(X
+%0"}org.exist.util.io.Resource#moveResource(LDBBroker;LTxn;LDocumentImpl;Ljava/util/Collection;Ljava/util/Collection;LXmldbURI;)V*
+org.exist.util.io.Resource*
+""*
+""*
+""*
+""*
+""*
+""*
+3*Ê
+19\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÎ Î("f
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÎ Î(
+""*Ê
+10\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java× ×( "f
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java× ×(!
+"":
+destjava.io.FileB
+org.exist.util.io.Resource

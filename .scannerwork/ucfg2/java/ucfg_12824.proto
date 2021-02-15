@@ -1,0 +1,27 @@
+
+9org.exist.source.StringSource#getReader()Ljava/io/Reader;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaS S("1*ý
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaT  T($­
+ª
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaT  T($
+%0java.lang.String"__id*+*)
+org.exist.source.StringSource"
+data”‘
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaT T(
+%1java.io.StringReader"java.io.StringReaderÒ
+Ï
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaT T(%
+%2"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%1java.io.StringReader*
+
+%0java.lang.String"}
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaT T(&
+
+%1java.io.StringReaderB!
+org.exist.source.StringSource

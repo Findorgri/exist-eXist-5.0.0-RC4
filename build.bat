@@ -43,4 +43,4 @@ echo _JAVA_OPTS=%_JAVA_OPTS%
 echo Starting Ant...
 echo
 
-%JAVA_RUN% %_JAVA_OPTS% -classpath "%_LIBJARS%" org.apache.tools.ant.launch.Launcher %1 %2 %3 %4 %5 %6 %7 %8 %9
+%JAVA_RUN% %_JAVA_OPTS% -classpath "%_LIBJARS%" org.apache.tools.ant.launch.Launcher sonar %1 %2 %3 %4 %5 %6 %7 %8 %9

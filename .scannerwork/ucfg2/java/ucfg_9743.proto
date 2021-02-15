@@ -1,0 +1,21 @@
+
+Ñorg.exist.security.realm.ldap.LdapContextFactory#getLdapContext(Ljava/lang/String;Ljava/lang/String;)Ljavax/naming/ldap/LdapContext;â
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java_ _(%"1*’
+1â
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java` `(çä
+â
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java` `(7#
+%0javax.naming.ldap.LdapContext"ìorg.exist.security.realm.ldap.LdapContextFactory#getLdapContext(Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)Ljavax/naming/ldap/LdapContext;*42
+0org.exist.security.realm.ldap.LdapContextFactory*
+
+usernamejava.lang.String*
+
+passwordjava.lang.String*
+""2CgetLdapContext(Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)"≥
+â
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java` `(8%
+#
+%0javax.naming.ldap.LdapContext:
+usernamejava.lang.String:
+passwordjava.lang.StringB42
+0org.exist.security.realm.ldap.LdapContextFactory

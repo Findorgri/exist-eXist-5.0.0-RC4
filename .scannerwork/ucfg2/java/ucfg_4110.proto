@@ -1,0 +1,168 @@
+
+worg.exist.config.Configurator#getConfigurationAnnotatedFields(Ljava/lang/Class;)Lorg/exist/config/Configurator$AFields;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java_ _(<"10*¦
+2]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaj( j(GÍ
+Ê
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaj( j(S,
+%11%org.exist.config.Configurator$AFields"worg.exist.config.Configurator#getConfigurationAnnotatedFields(Ljava/lang/Class;)Lorg/exist/config/Configurator$AFields;*!"
+org.exist.config.Configurator*
+
+
+superClassjava.lang.ClassÎ
+Ë
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaj j(T4
+superFields%org.exist.config.Configurator$AFields"__id*.
+,
+%11%org.exist.config.Configurator$AFieldsùö
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javak$ k(?
+%12"Eorg.exist.config.Configurator$AFields#getAttributes()Ljava/util/List;*6
+4
+superFields%org.exist.config.Configurator$AFields2getAttributes()”‘
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javak k(@
+%13"Iorg.exist.config.Configurator$AFields#addAllAttributes(Ljava/util/List;)V*1
+/
+fields%org.exist.config.Configurator$AFields*
+
+%122"addAllAttributes(Ljava/util/List;)õò
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javal" l(;
+%14"Corg.exist.config.Configurator$AFields#getElements()Ljava/util/List;*6
+4
+superFields%org.exist.config.Configurator$AFields2getElements()
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javal l(<
+%15"Gorg.exist.config.Configurator$AFields#addAllElements(Ljava/util/List;)V*1
+/
+fields%org.exist.config.Configurator$AFields*
+
+%142 addAllElements(Ljava/util/List;)*
+1*Þ
+3]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javah$ h()ØÕ
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javah$ h(9
+%9java.lang.Class"0java.lang.Class#getSuperclass()Ljava/lang/Class;*
+
+clazzjava.lang.Class2getSuperclass() 
+
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javah h(:
+
+superClassjava.lang.Class"__id*
+
+%9java.lang.Classóð
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javai i(D
+%10"7java.lang.Class#isAnnotationPresent(Ljava/lang/Class;)Z*
+
+
+superClassjava.lang.Class*
+""2&isAnnotationPresent(Ljava/lang/Class;)*
+2
+1*½
+4]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaa a(’
+
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaa a( 
+fieldjava.lang.reflect.Field"__id*
+""»
+¸
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaa a( 
+fieldjava.lang.reflect.Field"
+__arrayGet*!
+
+%2java.lang.reflect.Field[]*
+""*
+3
+8*°
+5]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javae e(‘Ž
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javae/ e(e
+%7"Yjava.lang.reflect.Field#getAnnotation(Ljava/lang/Class;)Ljava/lang/annotation/Annotation;*"
+ 
+fieldjava.lang.reflect.Field*
+""2 getAnnotation(Ljava/lang/Class;)²¯
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javae e(n
+%8"Yorg.exist.config.Configurator$AFields#addElement(Lorg/exist/config/Configurator$AField;)V*1
+/
+fields%org.exist.config.Configurator$AFields*
+""22addElement(Lorg/exist/config/Configurator$AField;)*
+4*õ
+6]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javad d(ˆ…
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javad d(S
+%6"Jjava.lang.reflect.AccessibleObject#isAnnotationPresent(Ljava/lang/Class;)Z*"
+ 
+fieldjava.lang.reflect.Field*
+""2&isAnnotationPresent(Ljava/lang/Class;)*
+4
+5*´
+7]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javac c(‘Ž
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javac1 c(i
+%4"Yjava.lang.reflect.Field#getAnnotation(Ljava/lang/Class;)Ljava/lang/annotation/Annotation;*"
+ 
+fieldjava.lang.reflect.Field*
+""2 getAnnotation(Ljava/lang/Class;)¶³
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javac c(r
+%5"[org.exist.config.Configurator$AFields#addAttribute(Lorg/exist/config/Configurator$AField;)V*1
+/
+fields%org.exist.config.Configurator$AFields*
+""24addAttribute(Lorg/exist/config/Configurator$AField;)*
+4*õ
+8]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javab b(ˆ…
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javab b(N
+%3"Jjava.lang.reflect.AccessibleObject#isAnnotationPresent(Ljava/lang/Class;)Z*"
+ 
+fieldjava.lang.reflect.Field*
+""2&isAnnotationPresent(Ljava/lang/Class;)*
+6
+7*Ý
+9]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaa! a(&óð
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaa! a(:
+%2java.lang.reflect.Field[]"=java.lang.Class#getDeclaredFields()[Ljava/lang/reflect/Field;*
+
+clazzjava.lang.Class2getDeclaredFields()*
+4*·
+10]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java` `(,¶³
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java`# `(*+
+%0%org.exist.config.Configurator$AFields"%org.exist.config.Configurator$AFieldsÈ
+Å
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java` `(,
+%1"/org.exist.config.Configurator$AFields#<init>()V*-
++
+%0%org.exist.config.Configurator$AFieldsÈ
+Å
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java` `(-/
+fields%org.exist.config.Configurator$AFields"__id*-
++
+%0%org.exist.config.Configurator$AFields*
+9*÷
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javan n("’
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javan n(1
+/
+fields%org.exist.config.Configurator$AFields:
+clazzjava.lang.ClassB!"
+org.exist.config.Configurator

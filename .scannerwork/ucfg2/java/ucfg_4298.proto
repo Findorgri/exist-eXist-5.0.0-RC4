@@ -1,0 +1,62 @@
+
+Eorg.exist.xmlrpc.RpcConnection#xupdateResource(Ljava/lang/String;[B)I`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java   ("startingBlock*¸
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java   (KØ
+¨
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java… …(
+%3"
+__annotate*
+java.lang.Override*
+
+resourcejava.lang.Stringô
+ñ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java ,  (4
+resourcejava.lang.String"__annotation*
+
+%3§
+°
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java… …(
+%4"
+__annotate*
+java.lang.Override*
+
+xupdatebyte[]é
+ã
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java C  (J
+xupdatebyte[]"__annotation*
+
+%4*
+1*º
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÀ À(ì
+ê
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÀ2 À(B
+%0java.nio.charset.Charset"__id*
+""⁄◊
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÀ2 À(I
+%1java.lang.String"1java.nio.charset.Charset#name()Ljava/lang/String;* 
+
+%0java.nio.charset.Charset2name()ıÚ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÀ À(J	
+%2int"Worg.exist.xmlrpc.RpcConnection#xupdateResource(Ljava/lang/String;[BLjava/lang/String;)I*" 
+org.exist.xmlrpc.RpcConnection*
+
+resourcejava.lang.String*
+
+xupdatebyte[]*
+
+%1java.lang.String27xupdateResource(Ljava/lang/String;[BLjava/lang/String;)"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÀ À(K
+"":
+resourcejava.lang.String:
+xupdatebyte[]B" 
+org.exist.xmlrpc.RpcConnection

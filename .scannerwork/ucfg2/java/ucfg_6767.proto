@@ -1,0 +1,36 @@
+
+Gorg.exist.util.ZipEntryInputSource#getByteStream()Ljava/io/InputStream;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java) )(!"4*Î
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java, ,(+"Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java, ,(+
+
+%2java.io.InputStream*µ
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java,
+ ,(ø
+º
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java,
+ ,(
+%0java.util.zip.ZipFile"__id*3*1$
+"org.exist.util.ZipEntryInputSource"	
+zipFile¡
+æ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java,! ,()
+%1java.util.zip.ZipEntry"__id*4*2$
+"org.exist.util.ZipEntryInputSource"
+
+zipEntry¿Ω
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java,
+ ,(*
+%2java.io.InputStream"Sjava.util.zip.ZipFile#getInputStream(Ljava/util/zip/ZipEntry;)Ljava/io/InputStream;*
+
+%0java.util.zip.ZipFile*
+
+%1java.util.zip.ZipEntry2(getInputStream(Ljava/util/zip/ZipEntry;)*
+3B&$
+"org.exist.util.ZipEntryInputSource

@@ -1,0 +1,155 @@
+
+[org.exist.debuggee.dbgp.packets.Command#errorBytes(Ljava/lang/String;ILjava/lang/String;)[B{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javac c("1*Å#
+1{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad d(#¶
+£
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad d(#
+%0java.lang.String"__id*
+""Ã
+…
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad e(
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+
+<response Ã
+…
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad f(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+command=\"ﬂ
+‹
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad f(
+%3java.lang.String"__concat*
+
+%2java.lang.String*!
+
+commandNamejava.lang.String≈
+¬
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad f("
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+\" ”
+–
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad g(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+transaction_id=\"ﬁ
+€
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javag g(%
+%6java.lang.String"__id*>*<)
+'org.exist.debuggee.dbgp.packets.Command"
+transactionID÷
+”
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad g(%
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String≈
+¬
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad g(+
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+\">–
+Õ
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad h(
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+<error code=\"Ê
+„
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javah h(.
+%10java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*"
+java.lang.String*
+""ÿ
+’
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad h(.
+%11java.lang.String"__concat*
+
+%9java.lang.String*
+
+%10java.lang.String«
+ƒ
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad h(4
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+\">Õ
+ 
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad i(
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+	<message>‚
+ﬂ
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad i(
+%14java.lang.String"__concat*
+
+%13java.lang.String*"
+ 
+errorMessagejava.lang.StringŒ
+À
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad i(*
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+
+</message>Ã
+…
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad j(
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+
+</error>œ
+Ã
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad k(
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+</response>ø
+º
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javad k(
+responsejava.lang.String"__id*
+
+%17java.lang.String⁄◊
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javam	 m(
+%18byte[]"java.lang.String#getBytes()[B*
+
+responsejava.lang.String2
+getBytes()"é
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javam m(
+
+%18byte[]:
+commandNamejava.lang.String:
+"": 
+errorMessagejava.lang.StringB+)
+'org.exist.debuggee.dbgp.packets.Command

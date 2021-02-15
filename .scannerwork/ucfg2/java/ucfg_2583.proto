@@ -1,0 +1,33 @@
+
+org.exist.dom.QName#hashCode()IU
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaß ß("1*Ü
+1U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaà à(£
+ 
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaà à(
+%0java.lang.String"__id*)*'
+org.exist.dom.QName"
+namespaceURI©¦
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaà à(&	
+%1int"java.lang.String#hashCode()I*
+
+%0java.lang.String2
+hashCode() 
+
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaà) à(2
+%2java.lang.String"__id*&*$
+org.exist.dom.QName"
+	localPart©¦
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaà) à(=	
+%3int"java.lang.String#hashCode()I*
+
+%2java.lang.String2
+hashCode()"_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaà à(>
+""B
+org.exist.dom.QName

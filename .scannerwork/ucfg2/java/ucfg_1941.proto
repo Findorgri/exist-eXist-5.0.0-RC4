@@ -1,0 +1,88 @@
+
+korg.exist.dom.persistent.ElementImpl#getAttributeNS(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java— —( "startingBlock*ª
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™0 ™(<‘
+Ž
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™0 ™(H
+%3java.lang.String"__id*
+""£
+ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™0 ™(H
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*ó
+3f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™ ™("Ú×
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™ ™(-
+%2java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
+
+attrorg.w3c.dom.Attr2
+getValue()£
+ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™ ™(-
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*º
+startingBlockf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java—  —(S¹
+¶
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java– –(
+%4"
+__annotate*
+java.lang.Override*"
+ 
+namespaceURIjava.lang.String£
+ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java—. —(: 
+namespaceURIjava.lang.String"__annotation*
+
+%4¶
+³
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java– –(
+%5"
+__annotate*
+java.lang.Override*
+
+	localNamejava.lang.String 
+
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java—I —(R
+	localNamejava.lang.String"__annotation*
+
+%5*
+4*
+4f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java˜ ˜('õ
+ò
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java˜ ˜(K
+%0"Porg.exist.dom.persistent.ElementImpl#findAttribute(Ljava/lang/String;)LAttrImpl;*(&
+$org.exist.dom.persistent.ElementImpl*
+""“
+
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java˜ ˜(L
+attrorg.w3c.dom.Attr"__id*
+
+%0*
+2
+3*ð
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™ ™(I"‚
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java™ ™(I
+
+%1java.lang.String: 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB(&
+$org.exist.dom.persistent.ElementImpl

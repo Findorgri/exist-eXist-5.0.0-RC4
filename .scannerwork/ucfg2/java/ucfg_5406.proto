@@ -1,0 +1,71 @@
+
+Aorg.exist.dom.persistent.ContextItem#toString()Ljava/lang/String;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.java> >("3*¦
+2d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaB B(š—
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaB B(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+/2append(Ljava/lang/String;)Õ
+Ò
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaB# B(-*
+%5$org.exist.dom.persistent.ContextItem"__id*8*6&
+$org.exist.dom.persistent.ContextItem"
+
+nextDirectÀ½
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaB B(.
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*,
+*
+%5$org.exist.dom.persistent.ContextItem2append(Ljava/lang/Object;)*
+1*Û
+3d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.java?" ?(5¡ž
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.java?& ?(3
+%0java.lang.StringBuilder"java.lang.StringBuilder³
+°
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.java?" ?(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder°
+­
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.java? ?(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder‚ÿ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.java@ @(
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)Õ
+Ò
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaA A(*
+%3$org.exist.dom.persistent.ContextItem"__id*8*6&
+$org.exist.dom.persistent.ContextItem"
+
+nextDirect*
+2
+1*Ô
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaD D(åâ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaD D(
+%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"€
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ContextItem.javaD D(
+
+%7java.lang.StringB(&
+$org.exist.dom.persistent.ContextItem

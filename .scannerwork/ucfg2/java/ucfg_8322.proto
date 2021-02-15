@@ -1,0 +1,367 @@
+
+5org.exist.dom.memtree.DOMTest#getElementsByTagName()Vb
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javab b($"6*Ω
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java¢ ¢(Ã…
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java¢  ¢(7
+
+%40int"!org.w3c.dom.NodeList#getLength()I*%
+#
+nlParameterorg.w3c.dom.NodeList2getLength()*
+5*Ω
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java† †(Ã…
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java†  †(7
+
+%39int"!org.w3c.dom.NodeList#getLength()I*%
+#
+nlParameterorg.w3c.dom.NodeList2getLength()*
+5*˝
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaó ó($ËÂ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaó ó(,
+%31org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*#
+!
+	nlModulesorg.w3c.dom.NodeList*
+""2item(I)ß
+§
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaó ó(-
+nModuleorg.w3c.dom.Node"__id*
+
+%31org.w3c.dom.Node∆√
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaô ô(,
+%32short"org.w3c.dom.Node#getNodeType()S*
+
+nModuleorg.w3c.dom.Node2getNodeType()Ö
+Ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaô0 ô(A
+%33short"__id*
+""‰·
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaö ö(-
+%34java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+nModuleorg.w3c.dom.Node2getLocalName()ÍÁ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaö ö(>
+%35boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%34java.lang.String*
+
+module2equals(Ljava/lang/Object;)Æ
+´
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaú ú(0
+eModuleorg.w3c.dom.Element"__id*
+
+nModuleorg.w3c.dom.Nodeµ≤
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaù# ù(L
+%36org.w3c.dom.NodeList"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;* 
+
+eModuleorg.w3c.dom.Element*
+	parameter2(getElementsByTagName(Ljava/lang/String;)≥
+∞
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaù ù(M#
+nlParameterorg.w3c.dom.NodeList"__id*
+
+%36org.w3c.dom.NodeListôñ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaü ü(-
+%37java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+eModuleorg.w3c.dom.Element*	
+class2 getAttribute(Ljava/lang/String;)îë
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaü ü(h
+%38boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%37java.lang.String*42
+0org.exist.xquery.functions.request.RequestModule2equals(Ljava/lang/Object;)*
+2
+3*æ
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javañ ñ( «
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javañ ñ(1
+
+%30int"!org.w3c.dom.NodeList#getLength()I*#
+!
+	nlModulesorg.w3c.dom.NodeList2getLength()*
+4
+0*¸R
+6b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javac! c(5µ≤
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javah# h(1(
+%0"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImpl«
+ƒ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javah h(3
+%1",org.xml.sax.helpers.AttributesImpl#<init>()V**
+(
+%0"org.xml.sax.helpers.AttributesImpl∆
+√
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javah h(4+
+attrs"org.xml.sax.helpers.AttributesImpl"__id**
+(
+%0"org.xml.sax.helpers.AttributesImplıÚ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javai i(j
+
+%2void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*	
+class*	
+class*
+
+string*.,
+*org.exist.xquery.functions.util.UtilModule2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ê„
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaj j([
+
+%3void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*
+uri*
+uri*
+
+string*#!
+http://exist-db.org/xquery/util2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)µ≤
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javan n("(
+%4"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImpl«
+ƒ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javan n($
+%5",org.xml.sax.helpers.AttributesImpl#<init>()V**
+(
+%4"org.xml.sax.helpers.AttributesImpl∆
+√
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javan n($+
+attrs"org.xml.sax.helpers.AttributesImpl"__id**
+(
+%4"org.xml.sax.helpers.AttributesImpl˚¯
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javao o(p
+
+%6void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*	
+class*	
+class*
+
+string*42
+0org.exist.xquery.functions.request.RequestModule2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)ÈÊ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javap p(^
+
+%7void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*
+uri*
+uri*
+
+string*&$
+"http://exist-db.org/xquery/request2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)µ≤
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javas s("(
+%8"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImpl«
+ƒ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javas s($
+%9",org.xml.sax.helpers.AttributesImpl#<init>()V**
+(
+%8"org.xml.sax.helpers.AttributesImpl∆
+√
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javas s($+
+attrs"org.xml.sax.helpers.AttributesImpl"__id**
+(
+%8"org.xml.sax.helpers.AttributesImpl–Õ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javat t(D
+%10void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*
+name*
+name*
+
+string*
+
+stream2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)–Õ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javau u(D
+%11void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*	
+value*	
+value*
+
+string*
+true2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)∂≥
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java{ {(")
+%12"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImpl…
+∆
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java{ {($
+%13",org.xml.sax.helpers.AttributesImpl#<init>()V*+
+)
+%12"org.xml.sax.helpers.AttributesImpl«
+ƒ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java{ {($+
+attrs"org.xml.sax.helpers.AttributesImpl"__id*+
+)
+%12"org.xml.sax.helpers.AttributesImpl˙˜
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java| |(n
+%14void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*	
+class*	
+class*
+
+string*20
+.org.exist.xquery.functions.util.ResponseModule2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)ÎË
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java} }(_
+%15void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*
+uri*
+uri*
+
+string*'%
+#http://exist-db.org/xquery/response2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)∏µ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaÅ Å(")
+%16"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImplÀ
+»
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaÅ Å($
+%17",org.xml.sax.helpers.AttributesImpl#<init>()V*+
+)
+%16"org.xml.sax.helpers.AttributesImpl…
+∆
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaÅ Å($+
+attrs"org.xml.sax.helpers.AttributesImpl"__id*+
+)
+%16"org.xml.sax.helpers.AttributesImpl˚¯
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaÇ Ç(m
+%18void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*	
+class*	
+class*
+
+string*1/
+-org.exist.xquery.functions.util.SessionModule2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)ÏÈ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaÉ É(^
+%19void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+attrs"org.xml.sax.helpers.AttributesImpl*
+""*
+uri*
+uri*
+
+string*&$
+"http://exist-db.org/xquery/session2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)î
+ë
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaç ç(+
+nXQueryorg.w3c.dom.Node"__id*
+""∆√
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaé é((
+%20short"org.w3c.dom.Node#getNodeType()S*
+
+nXQueryorg.w3c.dom.Node2getNodeType()Ö
+Ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaé, é(=
+%21short"__id*
+""‰·
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaè è()
+%22java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+nXQueryorg.w3c.dom.Node2getLocalName()ÍÁ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaè è(:
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%22java.lang.String*
+
+xquery2equals(Ljava/lang/Object;)Ê„
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaë ë(6
+%24org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+nXQueryorg.w3c.dom.Node2getFirstChild()Ø
+¨
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaë ë(7#
+nBuiltinModulesorg.w3c.dom.Node"__id*
+
+%24org.w3c.dom.NodeŒÀ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaí í(0
+%25short"org.w3c.dom.Node#getNodeType()S*%
+#
+nBuiltinModulesorg.w3c.dom.Node2getNodeType()Ö
+Ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaí4 í(E
+%26short"__id*
+""ÏÈ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaì ì(1
+%27java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*%
+#
+nBuiltinModulesorg.w3c.dom.Node2getLocalName()Û
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaì ì(K
+%28boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%27java.lang.String*
+builtin-modules2equals(Ljava/lang/Object;)ˆÛ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaï ï(<
+%29org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*%
+#
+nBuiltinModulesorg.w3c.dom.Node2getChildNodes()±
+Æ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.javaï ï(=!
+	nlModulesorg.w3c.dom.NodeList"__id*
+
+%29org.w3c.dom.NodeList*
+5*Ç
+0 "{
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/memtree/DOMTest.java• •(
+implicit returnB!
+org.exist.dom.memtree.DOMTest

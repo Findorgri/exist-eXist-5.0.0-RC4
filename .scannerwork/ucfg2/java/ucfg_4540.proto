@@ -1,0 +1,25 @@
+
+0org.exist.util.io.ByteBufferInputStream#skip(J)Jg
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javau u("8*Û
+7g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javax x(çä
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javax x(	
+%1int"4org.exist.util.io.ByteBufferInputStream#available()I*+)
+'org.exist.util.io.ByteBufferInputStream2available()*
+1*Þ
+8g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaw w(çä
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaw w(	
+%0int"4org.exist.util.io.ByteBufferInputStream#available()I*+)
+'org.exist.util.io.ByteBufferInputStream2available()*
+7
+1*ã
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaƒ ƒ("s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaƒ ƒ(
+"":
+""B+)
+'org.exist.util.io.ByteBufferInputStream

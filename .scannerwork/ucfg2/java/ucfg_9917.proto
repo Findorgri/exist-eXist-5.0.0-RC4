@@ -1,0 +1,21 @@
+
+<org.exist.indexing.IndexManager#getConfigurationTimestamp()J_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexManager.java[ [()"1*„
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexManager.java\ \(%Ù
+Ö
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexManager.java\ \(%,
+%0&java.util.concurrent.atomic.AtomicLong"__id*?*=!
+org.exist.indexing.IndexManager"
+configurationTimestampÖÓ
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexManager.java\ \(+
+
+%1long"-java.util.concurrent.atomic.AtomicLong#get()J*.
+,
+%0&java.util.concurrent.atomic.AtomicLong2get()"i
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexManager.java\ \(,
+""B#!
+org.exist.indexing.IndexManager

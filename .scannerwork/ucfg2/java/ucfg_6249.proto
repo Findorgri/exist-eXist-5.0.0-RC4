@@ -1,0 +1,48 @@
+
+@org.exist.xquery.value.FloatValue#compareTo(Ljava/lang/Object;)Ic
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaÕ Õ("4"5*Í
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“F “(O{
+y
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“F “(X
+%2"__id*
+
+%4*
+1*Í
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“1 “(:{
+y
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“1 “(C
+%2"__id*
+
+%3*
+1*∆
+4c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“ “(”–
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“ “(	
+%1int",org.exist.xquery.value.FloatValue#getType()I*%#
+!org.exist.xquery.value.FloatValue2	getType()*
+2
+3*ê
+5c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java– –(∂
+≥
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java– –(C	
+%0int"java.lang.Float#compare(FF)I*"
+java.lang.Float*
+""*
+"""m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java– –(D
+""*◊
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“ “(Y"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java“ “(Y
+"":
+ojava.lang.ObjectB%#
+!org.exist.xquery.value.FloatValue

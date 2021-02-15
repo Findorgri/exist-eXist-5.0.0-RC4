@@ -1,0 +1,36 @@
+
+]org.exist.dom.persistent.ElementImpl#setAttributeNodeNS(Lorg/w3c/dom/Attr;)Lorg/w3c/dom/Attr;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ	 ñ	(""startingBlock*Ô
+startingBlockf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ	" ñ	(6´
+±
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javað	 ð	(
+%1"
+__annotate*
+java.lang.Override*
+
+newAttrorg.w3c.dom.Attrž
+›
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ	. ñ	(5
+newAttrorg.w3c.dom.Attr"__annotation*
+
+%1*
+1*Á
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaò	 ò	(Î
+Ë
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaò	 ò	(t
+%0org.w3c.dom.Attr"xorg.exist.dom.persistent.ElementImpl#setAttributeNode(Lorg/w3c/dom/Attr;Ljava/util/function/Function;)Lorg/w3c/dom/Attr;*(&
+$org.exist.dom.persistent.ElementImpl*
+
+newAttrorg.w3c.dom.Attr*
+"""‚
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaò	 ò	(u
+
+%0org.w3c.dom.Attr:
+newAttrorg.w3c.dom.AttrB(&
+$org.exist.dom.persistent.ElementImpl

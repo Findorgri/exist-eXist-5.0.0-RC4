@@ -1,0 +1,33 @@
+
+\org.exist.http.RESTServiceTest#getConnection(Ljava/lang/String;)Ljava/net/HttpURLConnection;e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaõ õ(+"1*Ö
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaö ö(!Œ‰
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaö ö(
+%0java.net.URL"java.net.URLË
+È
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaö ö("
+%1"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%0java.net.URL*
+
+urljava.lang.String™
+–
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaö ö(#
+ujava.net.URL"__id*
+
+%0java.net.URLæã
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java÷# ÷(5
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+ujava.net.URL2openConnection()"‡
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java÷ ÷(6
+
+%2java.net.URLConnection:
+urljava.lang.StringB" 
+org.exist.http.RESTServiceTest

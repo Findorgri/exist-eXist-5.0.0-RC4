@@ -1,0 +1,58 @@
+
+:org.exist.dom.memtree.AttrImpl#equals(Ljava/lang/Object;)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÅ Å("startingBlock*Ñ
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÌ Í(c"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÌ Í(c
+""*º
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÅ Å(+ª
+§
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÄ Ä(
+%1"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object”
+‘
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÅ' Å(*
+objjava.lang.Object"__annotation*
+
+%1*
+7*œ
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaË. Ë(1¯
+¬
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaË Ë(3'
+otherorg.exist.dom.memtree.AttrImpl"__id*
+
+objjava.lang.Object*
+2*Ñ
+6`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÇ Ç("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÇ Ç(
+""*¸
+7`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÆ Æ(Å
+Â
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÆ Æ(
+%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+""*
+
+objjava.lang.Object*	
+4
+6
+1*Ñ
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÐ Ð("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaÐ Ð(
+"":
+objjava.lang.ObjectB" 
+org.exist.dom.memtree.AttrImpl

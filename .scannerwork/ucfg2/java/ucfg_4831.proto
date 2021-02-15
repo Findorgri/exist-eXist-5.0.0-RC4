@@ -1,0 +1,64 @@
+
+‚org.exist.xquery.value.DateValue#stripCalendar(Ljavax/xml/datatype/XMLGregorianCalendar;)Ljavax/xml/datatype/XMLGregorianCalendar;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java:( :(5"1*÷
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java; ;(}
+{
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java; ;(:	
+%0int"__id*
+""öó
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java; ;(;
+
+%1void"3javax.xml.datatype.XMLGregorianCalendar#setHour(I)V*5
+3
+calendar'javax.xml.datatype.XMLGregorianCalendar*
+	
+%0int2
+setHour(I)}
+{
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java< <(<	
+%2int"__id*
+""ú÷
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java< <(=
+
+%3void"5javax.xml.datatype.XMLGregorianCalendar#setMinute(I)V*5
+3
+calendar'javax.xml.datatype.XMLGregorianCalendar*
+	
+%2int2setMinute(I)}
+{
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java= =(<	
+%4int"__id*
+""ú÷
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java= =(=
+
+%5void"5javax.xml.datatype.XMLGregorianCalendar#setSecond(I)V*5
+3
+calendar'javax.xml.datatype.XMLGregorianCalendar*
+	
+%4int2setSecond(I)}
+{
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java>  >(A	
+%6int"__id*
+""„
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java> >(B
+
+%7void":javax.xml.datatype.XMLGregorianCalendar#setMillisecond(I)V*5
+3
+calendar'javax.xml.datatype.XMLGregorianCalendar*
+	
+%6int2setMillisecond(I)"™
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateValue.java? ?(5
+3
+calendar'javax.xml.datatype.XMLGregorianCalendar:3
+calendar'javax.xml.datatype.XMLGregorianCalendarB$""
+ org.exist.xquery.value.DateValue

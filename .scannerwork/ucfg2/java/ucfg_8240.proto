@@ -1,0 +1,3435 @@
+
+3org.exist.client.ConnectionDialog#initComponents()Vc
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå å("4*„
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸ ¸( 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸ ¸("
+%109javax.swing.JPasswordField"__id*6*4#
+!org.exist.client.ConnectionDialog"
+txtPasswordê
+ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸  ¸(=
+%110java.lang.String"__id*
+""ìê
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸ ¸(>
+%111void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*$
+"
+%109javax.swing.JPasswordField*
+
+%110java.lang.String2setText(Ljava/lang/String;)*
+1*á
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˚ ˚(0îë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˚ ˚(2
+%108"[org.exist.client.ConnectionDialog#getDefaultConnectionSettings()LDefaultConnectionSettings;*%#
+!org.exist.client.ConnectionDialog2getDefaultConnectionSettings()*
+2
+1*µ◊
+4c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé é(3ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé é(1
+%0javax.swing.JPopupMenu"javax.swing.JPopupMenu∞
+≠
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé é(3
+%1" javax.swing.JPopupMenu#<init>()V*
+
+%0javax.swing.JPopupMenu≈
+¬
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé é(35#
+!org.exist.client.ConnectionDialog"
+pmFavourites"__id*
+
+%0javax.swing.JPopupMenuúô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè  è(5
+%2javax.swing.JMenuItem"javax.swing.JMenuItemÆ
+´
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè è(7
+%3"javax.swing.JMenuItem#<init>()V*
+
+%2javax.swing.JMenuItem…
+∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè è(7:#
+!org.exist.client.ConnectionDialog"
+miRemoveFavourite"__id*
+
+%2javax.swing.JMenuItem≤Ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê ê(:&
+%4 javax.swing.JPopupMenu$Separator" javax.swing.JPopupMenu$Separatorƒ
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê ê(<
+%5"*javax.swing.JPopupMenu$Separator#<init>()V*(
+&
+%4 javax.swing.JPopupMenu$SeparatorŒ
+À
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê ê(<4#
+!org.exist.client.ConnectionDialog"
+jSeparator2"__id*(
+&
+%4 javax.swing.JPopupMenu$Separatorúô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaë! ë(6
+%6javax.swing.JMenuItem"javax.swing.JMenuItemÆ
+´
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaë ë(8
+%7"javax.swing.JMenuItem#<init>()V*
+
+%6javax.swing.JMenuItem 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaë ë(8;#
+!org.exist.client.ConnectionDialog"
+miImportFavourites"__id*
+
+%6javax.swing.JMenuItemúô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaí! í(6
+%8javax.swing.JMenuItem"javax.swing.JMenuItemÆ
+´
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaí í(8
+%9"javax.swing.JMenuItem#<init>()V*
+
+%8javax.swing.JMenuItem 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaí í(8;#
+!org.exist.client.ConnectionDialog"
+miExportFavourites"__id*
+
+%8javax.swing.JMenuItemóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaì ì(-
+%10javax.swing.JLabel"javax.swing.JLabel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaì ì(/
+%11"javax.swing.JLabel#<init>()V*
+
+%10javax.swing.JLabel¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaì ì(/5#
+!org.exist.client.ConnectionDialog"
+lblExistLogo"__id*
+
+%10javax.swing.JLabelóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaî î(,
+%12javax.swing.JLabel"javax.swing.JLabel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaî î(.
+%13"javax.swing.JLabel#<init>()V*
+
+%12javax.swing.JLabel¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaî î(.4#
+!org.exist.client.ConnectionDialog"
+lblUsername"__id*
+
+%12javax.swing.JLabelóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaï ï(,
+%14javax.swing.JLabel"javax.swing.JLabel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaï ï(.
+%15"javax.swing.JLabel#<init>()V*
+
+%14javax.swing.JLabel¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaï ï(.4#
+!org.exist.client.ConnectionDialog"
+lblPassword"__id*
+
+%14javax.swing.JLabelóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ  ñ(2
+%16javax.swing.JLabel"javax.swing.JLabel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ñ(4
+%17"javax.swing.JLabel#<init>()V*
+
+%16javax.swing.JLabel«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ñ(4:#
+!org.exist.client.ConnectionDialog"
+lblConnectionType"__id*
+
+%16javax.swing.JLabelùö
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó  ó(5
+%18javax.swing.JComboBox"javax.swing.JComboBox∞
+≠
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó ó(7
+%19"javax.swing.JComboBox#<init>()V*
+
+%18javax.swing.JComboBox 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó ó(7:#
+!org.exist.client.ConnectionDialog"
+cmbConnectionType"__id*
+
+%18javax.swing.JComboBoxüú
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò ò(0
+%20javax.swing.JTextField"javax.swing.JTextField≤
+Ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò ò(2
+%21" javax.swing.JTextField#<init>()V*
+
+%20javax.swing.JTextField≈
+¬
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò ò(24#
+!org.exist.client.ConnectionDialog"
+txtUsername"__id*
+
+%20javax.swing.JTextFieldß§
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô ô(4!
+%22javax.swing.JPasswordField"javax.swing.JPasswordField∫
+∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô ô(6
+%23"$javax.swing.JPasswordField#<init>()V*#
+!
+%22javax.swing.JPasswordField…
+∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô ô(64#
+!org.exist.client.ConnectionDialog"
+txtPassword"__id*#
+!
+%22javax.swing.JPasswordField°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaö ö(6
+%24javax.swing.JTabbedPane"javax.swing.JTabbedPane¥
+±
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaö ö(8
+%25"!javax.swing.JTabbedPane#<init>()V* 
+
+%24javax.swing.JTabbedPaneÀ
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaö ö(89#
+!org.exist.client.ConnectionDialog"
+tpConnectionType"__id* 
+
+%24javax.swing.JTabbedPaneÀ
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ õ(
+%26javax.swing.JTabbedPane"__id*;*9#
+!org.exist.client.ConnectionDialog"
+tpConnectionType√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ# õ(K/
+%27(Lorg/exist/client/ConnectionDialog$6139;"(Lorg/exist/client/ConnectionDialog$6139;÷
+”
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ Õ(	
+%28"2javax.swing.plaf.basic.BasicTabbedPaneUI#<init>()V*1
+/
+%27(Lorg/exist/client/ConnectionDialog$6139;≥∞
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ Õ(
+
+%29void"?javax.swing.JTabbedPane#setUI(Ljavax/swing/plaf/TabbedPaneUI;)V* 
+
+%26javax.swing.JTabbedPane*1
+/
+%27(Lorg/exist/client/ConnectionDialog$6139;2&setUI(Ljavax/swing/plaf/TabbedPaneUI;)óî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŒ Œ(*
+%30javax.swing.JPanel"javax.swing.JPanel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŒ Œ(,
+%31"javax.swing.JPanel#<init>()V*
+
+%30javax.swing.JPanelø
+º
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŒ Œ(,2#
+!org.exist.client.ConnectionDialog"
+	panRemote"__id*
+
+%30javax.swing.JPanelóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaœ œ(-
+%32javax.swing.JLabel"javax.swing.JLabel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaœ œ(/
+%33"javax.swing.JLabel#<init>()V*
+
+%32javax.swing.JLabel¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaœ œ(/5#
+!org.exist.client.ConnectionDialog"
+lblServerUri"__id*
+
+%32javax.swing.JLabelüú
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java– –(1
+%34javax.swing.JTextField"javax.swing.JTextField≤
+Ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java– –(3
+%35" javax.swing.JTextField#<init>()V*
+
+%34javax.swing.JTextField∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java– –(35#
+!org.exist.client.ConnectionDialog"
+txtServerUri"__id*
+
+%34javax.swing.JTextFieldùö
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java— —(*
+%36javax.swing.JCheckBox"javax.swing.JCheckBox∞
+≠
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java— —(,
+%37"javax.swing.JCheckBox#<init>()V*
+
+%36javax.swing.JCheckBoxø
+º
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java— —(,/#
+!org.exist.client.ConnectionDialog"
+chkSsl"__id*
+
+%36javax.swing.JCheckBoxóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java“ “(,
+%38javax.swing.JPanel"javax.swing.JPanel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java“ “(.
+%39"javax.swing.JPanel#<init>()V*
+
+%38javax.swing.JPanel¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java“ “(.4#
+!org.exist.client.ConnectionDialog"
+panEmbedded"__id*
+
+%38javax.swing.JPanelóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java” ”(1
+%40javax.swing.JLabel"javax.swing.JLabel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java” ”(3
+%41"javax.swing.JLabel#<init>()V*
+
+%40javax.swing.JLabel∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java” ”(39#
+!org.exist.client.ConnectionDialog"
+lblConfiguration"__id*
+
+%40javax.swing.JLabelüú
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‘ ‘(5
+%42javax.swing.JTextField"javax.swing.JTextField≤
+Ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‘ ‘(7
+%43" javax.swing.JTextField#<init>()V*
+
+%42javax.swing.JTextField 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‘ ‘(79#
+!org.exist.client.ConnectionDialog"
+txtConfiguration"__id*
+
+%42javax.swing.JTextFieldôñ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’% ’(8
+%44javax.swing.JButton"javax.swing.JButton¨
+©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’! ’(:
+%45"javax.swing.JButton#<init>()V*
+
+%44javax.swing.JButtonÕ
+ 
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’ ’(:?#
+!org.exist.client.ConnectionDialog"
+btnSelectConfiguration"__id*
+
+%44javax.swing.JButtonóî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java÷ ÷(.
+%46javax.swing.JPanel"javax.swing.JPanel™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java÷ ÷(0
+%47"javax.swing.JPanel#<init>()V*
+
+%46javax.swing.JPanel√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java÷ ÷(06#
+!org.exist.client.ConnectionDialog"
+panFavourites"__id*
+
+%46javax.swing.JPanel°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java◊ ◊(2
+%48javax.swing.JScrollPane"javax.swing.JScrollPane¥
+±
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java◊ ◊(4
+%49"!javax.swing.JScrollPane#<init>()V* 
+
+%48javax.swing.JScrollPane«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java◊ ◊(45#
+!org.exist.client.ConnectionDialog"
+jScrollPane1"__id* 
+
+%48javax.swing.JScrollPaneïí
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ ÿ(-
+%50javax.swing.JList"javax.swing.JList®
+•
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ ÿ(/
+%51"javax.swing.JList#<init>()V*
+
+%50javax.swing.JList¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ ÿ(/6#
+!org.exist.client.ConnectionDialog"
+lstFavourites"__id*
+
+%50javax.swing.JListôñ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ" Ÿ(5
+%52javax.swing.JButton"javax.swing.JButton¨
+©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ Ÿ(7
+%53"javax.swing.JButton#<init>()V*
+
+%52javax.swing.JButton 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ Ÿ(7<#
+!org.exist.client.ConnectionDialog"
+btnSaveToFavourites"__id*
+
+%52javax.swing.JButtonôñ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java⁄ ⁄(*
+%54javax.swing.JButton"javax.swing.JButton¨
+©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java⁄ ⁄(,
+%55"javax.swing.JButton#<init>()V*
+
+%54javax.swing.JButtonø
+º
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java⁄ ⁄(,1#
+!org.exist.client.ConnectionDialog"
+
+btnClose"__id*
+
+%54javax.swing.JButtonôñ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€ €(,
+%56javax.swing.JButton"javax.swing.JButton¨
+©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€ €(.
+%57"javax.swing.JButton#<init>()V*
+
+%56javax.swing.JButton¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€ €(.3#
+!org.exist.client.ConnectionDialog"
+
+btnConnect"__id*
+
+%56javax.swing.JButtonüú
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‹ ‹(0
+%58javax.swing.JSeparator"javax.swing.JSeparator≤
+Ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‹ ‹(2
+%59" javax.swing.JSeparator#<init>()V*
+
+%58javax.swing.JSeparator≈
+¬
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‹ ‹(24#
+!org.exist.client.ConnectionDialog"
+jSeparator1"__id*
+
+%58javax.swing.JSeparator 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaﬁ ﬁ(
+%60javax.swing.JMenuItem"__id*<*:#
+!org.exist.client.ConnectionDialog"
+miRemoveFavourite˜Ù
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaﬁ ﬁ(+
+%61void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%60javax.swing.JMenuItem*
+
+Remove2setText(Ljava/lang/String;) 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaﬂ ﬂ(
+%62javax.swing.JMenuItem"__id*<*:#
+!org.exist.client.ConnectionDialog"
+miRemoveFavourite°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaﬂ ﬂ(S
+%63void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%62javax.swing.JMenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‡ ‡(
+%64javax.swing.JPopupMenu"__id*7*5#
+!org.exist.client.ConnectionDialog"
+pmFavourites 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‡ ‡(*
+%65javax.swing.JMenuItem"__id*<*:#
+!org.exist.client.ConnectionDialog"
+miRemoveFavourite±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‡ ‡(+
+%66javax.swing.JMenuItem"Jjavax.swing.JPopupMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+%64javax.swing.JPopupMenu*
+
+%65javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java· ·(
+%67javax.swing.JPopupMenu"__id*7*5#
+!org.exist.client.ConnectionDialog"
+pmFavouritesœ
+Ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java· ·($'
+%68 javax.swing.JPopupMenu$Separator"__id*6*4#
+!org.exist.client.ConnectionDialog"
+jSeparator2¨©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java· ·(%
+%69java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%67javax.swing.JPopupMenu*)
+'
+%68 javax.swing.JPopupMenu$Separator2add(Ljava/awt/Component;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java„ „(
+%70javax.swing.JMenuItem"__id*=*;#
+!org.exist.client.ConnectionDialog"
+miImportFavouritesÖÇ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java„ „(:
+%71void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%70javax.swing.JMenuItem*
+Import Favourites...2setText(Ljava/lang/String;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰ ‰(
+%72javax.swing.JMenuItem"__id*=*;#
+!org.exist.client.ConnectionDialog"
+miImportFavourites°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰ ‰(U
+%73void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%72javax.swing.JMenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÂ Â(
+%74javax.swing.JPopupMenu"__id*7*5#
+!org.exist.client.ConnectionDialog"
+pmFavouritesÀ
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÂ Â(+
+%75javax.swing.JMenuItem"__id*=*;#
+!org.exist.client.ConnectionDialog"
+miImportFavourites±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÂ Â(,
+%76javax.swing.JMenuItem"Jjavax.swing.JPopupMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+%74javax.swing.JPopupMenu*
+
+%75javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÁ Á(
+%77javax.swing.JMenuItem"__id*=*;#
+!org.exist.client.ConnectionDialog"
+miExportFavouritesÖÇ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÁ Á(:
+%78void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%77javax.swing.JMenuItem*
+Export Favourites...2setText(Ljava/lang/String;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaË Ë(
+%79javax.swing.JMenuItem"__id*=*;#
+!org.exist.client.ConnectionDialog"
+miExportFavourites°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaË Ë(U
+%80void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%79javax.swing.JMenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÈ È(
+%81javax.swing.JPopupMenu"__id*7*5#
+!org.exist.client.ConnectionDialog"
+pmFavouritesÀ
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÈ È(+
+%82javax.swing.JMenuItem"__id*=*;#
+!org.exist.client.ConnectionDialog"
+miExportFavourites±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÈ È(,
+%83javax.swing.JMenuItem"Jjavax.swing.JPopupMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+%81javax.swing.JPopupMenu*
+
+%82javax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)Å
+
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÎ! Î(M
+
+%84int"__id*
+""˘ˆ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÎ Î(N
+%85void"0javax.swing.JDialog#setDefaultCloseOperation(I)V*%#
+!org.exist.client.ConnectionDialog*
+
+
+%84int2setDefaultCloseOperation(I)Çˇ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÏ Ï('
+%86void"-java.awt.Dialog#setTitle(Ljava/lang/String;)V*%#
+!org.exist.client.ConnectionDialog*
+Database Connection2setTitle(Ljava/lang/String;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÓ Ó(
+%87javax.swing.JLabel"__id*7*5#
+!org.exist.client.ConnectionDialog"
+lblExistLogo·ﬁ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÓ< Ó(F
+%88java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*%#
+!org.exist.client.ConnectionDialog2
+getClass()‚ﬂ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÓ Ó(H
+%89"/javax.swing.JLabel#setIcon(Ljavax/swing/Icon;)V*
+
+%87javax.swing.JLabel*
+""2setIcon(Ljavax/swing/Icon;)¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java (
+%90javax.swing.JLabel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+lblUsernameê
+ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java (8
+%91java.lang.String"Torg.exist.client.ConnectionDialog#getLabelText(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.2˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java (9
+%92void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%90javax.swing.JLabel*
+
+%91java.lang.String2setText(Ljava/lang/String;)¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚ Ú(
+%93javax.swing.JLabel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+lblPasswordê
+ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚ Ú(8
+%94java.lang.String"Torg.exist.client.ConnectionDialog#getLabelText(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.3˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚ Ú(9
+%95void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%93javax.swing.JLabel*
+
+%94java.lang.String2setText(Ljava/lang/String;)«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÙ Ù(
+%96javax.swing.JLabel"__id*<*:#
+!org.exist.client.ConnectionDialog"
+lblConnectionTypeê
+ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÙ" Ù(>
+%97java.lang.String"Torg.exist.client.ConnectionDialog#getLabelText(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.4˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÙ Ù(?
+%98void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%96javax.swing.JLabel*
+
+%97java.lang.String2setText(Ljava/lang/String;) 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ ˆ(
+%99javax.swing.JComboBox"__id*<*:#
+!org.exist.client.ConnectionDialog"
+cmbConnectionTypeâ
+Ü
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ# ˆ(;!
+%100javax.swing.ComboBoxModel"Uorg.exist.client.ConnectionDialog#getConnectionTypeModel()Ljavax/swing/ComboBoxModel;*%#
+!org.exist.client.ConnectionDialog†ù
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ ˆ(<
+%101void"<javax.swing.JComboBox#setModel(Ljavax/swing/ComboBoxModel;)V*
+
+%99javax.swing.JComboBox*#
+!
+%100javax.swing.ComboBoxModel2%setModel(Ljavax/swing/ComboBoxModel;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˜ ˜(
+%102javax.swing.JComboBox"__id*<*:#
+!org.exist.client.ConnectionDialog"
+cmbConnectionTypeûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˜ ˜(S
+%103void"Ijavax.swing.JComboBox#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%102javax.swing.JComboBox*
+""22addActionListener(Ljava/awt/event/ActionListener;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘ ˘(
+%104javax.swing.JTextField"__id*6*4#
+!org.exist.client.ConnectionDialog"
+txtUsernameîë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘ ˘(:
+%105"[org.exist.client.ConnectionDialog#getDefaultConnectionSettings()LDefaultConnectionSettings;*%#
+!org.exist.client.ConnectionDialog2getDefaultConnectionSettings()ıÚ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘ ˘(I
+%106"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V* 
+
+%104javax.swing.JTextField*
+""2setText(Ljava/lang/String;)îë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˙ ˙(*
+%107"[org.exist.client.ConnectionDialog#getDefaultConnectionSettings()LDefaultConnectionSettings;*%#
+!org.exist.client.ConnectionDialog2getDefaultConnectionSettings()*
+3
+1*Å
+0 "z
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∑ ∑(
+implicit return*•ﬁ
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ ˇ(Ã
+…
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ ˇ(
+%112javax.swing.JTabbedPane"__id*;*9#
+!org.exist.client.ConnectionDialog"
+tpConnectionTypeÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ) ˇ(F
+%113int"__id*
+""ÈÊ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ ˇ(G
+%114void"+javax.swing.JTabbedPane#setTabPlacement(I)V*!
+
+%112javax.swing.JTabbedPane*
+
+%113int2setTabPlacement(I)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÅ Å(
+%115javax.swing.JLabel"__id*7*5#
+!org.exist.client.ConnectionDialog"
+lblServerUrií
+è
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÅ Å(:
+%116java.lang.String"Torg.exist.client.ConnectionDialog#getLabelText(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.12˛˚
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÅ Å(;
+%117void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%115javax.swing.JLabel*
+
+%116java.lang.String2setText(Ljava/lang/String;)«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÉ É(
+%118javax.swing.JTextField"__id*7*5#
+!org.exist.client.ConnectionDialog"
+txtServerUriîë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÉ É(;
+%119"[org.exist.client.ConnectionDialog#getDefaultConnectionSettings()LDefaultConnectionSettings;*%#
+!org.exist.client.ConnectionDialog2getDefaultConnectionSettings()ıÚ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÉ É(E
+%120"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V* 
+
+%118javax.swing.JTextField*
+""2setText(Ljava/lang/String;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ Ö(
+%121javax.swing.JCheckBox"__id*1*/#
+!org.exist.client.ConnectionDialog"
+chkSslîë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ Ö(9
+%122"[org.exist.client.ConnectionDialog#getDefaultConnectionSettings()LDefaultConnectionSettings;*%#
+!org.exist.client.ConnectionDialog2getDefaultConnectionSettings()’“
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ Ö(B
+%123"*javax.swing.AbstractButton#setSelected(Z)V*
+
+%121javax.swing.JCheckBox*
+""2setSelected(Z)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÜ Ü(
+%124javax.swing.JCheckBox"__id*1*/#
+!org.exist.client.ConnectionDialog"
+chkSslé
+ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÜ Ü(0
+%125java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.47âÜ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÜ Ü(1
+%126void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%124javax.swing.JCheckBox*
+
+%125java.lang.String2setText(Ljava/lang/String;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaàN à(W
+%127javax.swing.JPanel"__id*4*2#
+!org.exist.client.ConnectionDialog"
+	panRemote¢ü
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaà6 à(M
+%128javax.swing.GroupLayout"javax.swing.GroupLayoutË
+Â
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaà2 à(X
+%129"5javax.swing.GroupLayout#<init>(Ljava/awt/Container;)V*!
+
+%128javax.swing.GroupLayout*
+
+%127javax.swing.JPanelΩ
+∫
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaà à(Y*
+panRemoteLayoutjavax.swing.GroupLayout"__id*!
+
+%128javax.swing.GroupLayout¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaâ â(
+%130javax.swing.JPanel"__id*4*2#
+!org.exist.client.ConnectionDialog"
+	panRemote†ù
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaâ â(,
+%131void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%130javax.swing.JPanel*,
+*
+panRemoteLayoutjavax.swing.GroupLayout2#setLayout(Ljava/awt/LayoutManager;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã4 ã(U)
+%132!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã4 ã(])
+%133!javax.swing.GroupLayout$Alignment"__id*
+""•¢
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã ã(^-
+%134%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*,
+*
+panRemoteLayoutjavax.swing.GroupLayout*+
+)
+%133!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)∫∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå" å(I/
+%135'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*,
+*
+panRemoteLayoutjavax.swing.GroupLayout2createSequentialGroup()√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå" ç(2/
+%136'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%135'javax.swing.GroupLayout$SequentialGroup2addContainerGap()√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé. é(:
+%137javax.swing.JLabel"__id*7*5#
+!org.exist.client.ConnectionDialog"
+lblServerUriÉÄ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå" é(;/
+%138'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%136'javax.swing.GroupLayout$SequentialGroup*
+
+%137javax.swing.JLabel2"addComponent(Ljava/awt/Component;)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå" è(3/
+%139'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%138'javax.swing.GroupLayout$SequentialGroup*2?*2?*2?2addGap(III)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaêN ê(o)
+%140!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaêN ê(w)
+%141!javax.swing.GroupLayout$Alignment"__id*
+""•¢
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê* ê(x-
+%142%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*,
+*
+panRemoteLayoutjavax.swing.GroupLayout*+
+)
+%141!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaë6 ë(<
+%143javax.swing.JCheckBox"__id*1*/#
+!org.exist.client.ConnectionDialog"
+chkSsl˛˚
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê* ë(=-
+%144%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%142%javax.swing.GroupLayout$ParallelGroup*
+
+%143javax.swing.JCheckBox2"addComponent(Ljava/awt/Component;)«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaí6 í(B
+%145javax.swing.JTextField"__id*7*5#
+!org.exist.client.ConnectionDialog"
+txtServerUriÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaíD í(j
+%146int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaíq í(ó
+%147int"__id*
+""´®
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê* í(ò-
+%148%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%144%javax.swing.GroupLayout$ParallelGroup* 
+
+%145javax.swing.JTextField*
+
+%146int*2–*
+
+%147int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå" í(ô/
+%149'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%139'javax.swing.GroupLayout$SequentialGroup*/
+-
+%148%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)É
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaì1 ì(U
+%150int"__id*
+""Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaìW ì(f
+%151short"__id*
+""Á‰
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaå" ì(g/
+%152'javax.swing.GroupLayout$SequentialGroup"djavax.swing.GroupLayout$SequentialGroup#addContainerGap(II)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%149'javax.swing.GroupLayout$SequentialGroup*
+
+%150int*
+
+%151short2addContainerGap(II)ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã ì(h-
+%153%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%134%javax.swing.GroupLayout$ParallelGroup*1
+/
+%152'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)ÿ’
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaä î(	
+%154void"Ljavax.swing.GroupLayout#setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)V*,
+*
+panRemoteLayoutjavax.swing.GroupLayout*/
+-
+%153%javax.swing.GroupLayout$ParallelGroup23setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ4 ñ(U)
+%155!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ4 ñ(])
+%156!javax.swing.GroupLayout$Alignment"__id*
+""•¢
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ñ(^-
+%157%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*,
+*
+panRemoteLayoutjavax.swing.GroupLayout*+
+)
+%156!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ó(C)
+%158!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ó(L)
+%159!javax.swing.GroupLayout$Alignment"__id*
+""∫∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaóN ó(u/
+%160'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*,
+*
+panRemoteLayoutjavax.swing.GroupLayout2createSequentialGroup()É
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò1 ò(U
+%161int"__id*
+""Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaòW ò(f
+%162short"__id*
+""Á‰
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaóN ò(g/
+%163'javax.swing.GroupLayout$SequentialGroup"djavax.swing.GroupLayout$SequentialGroup#addContainerGap(II)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%160'javax.swing.GroupLayout$SequentialGroup*
+
+%161int*
+
+%162short2addContainerGap(II)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaôN ô(o)
+%164!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaôN ô(x)
+%165!javax.swing.GroupLayout$Alignment"__id*
+""•¢
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô* ô(y-
+%166%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*,
+*
+panRemoteLayoutjavax.swing.GroupLayout*+
+)
+%165!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaö6 ö(B
+%167javax.swing.JLabel"__id*7*5#
+!org.exist.client.ConnectionDialog"
+lblServerUri˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô* ö(C-
+%168%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%166%javax.swing.GroupLayout$ParallelGroup*
+
+%167javax.swing.JLabel2"addComponent(Ljava/awt/Component;)«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ6 õ(B
+%169javax.swing.JTextField"__id*7*5#
+!org.exist.client.ConnectionDialog"
+txtServerUriÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõD õ(j
+%170int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõl õ(ê
+%171int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõí õ(∏
+%172int"__id*
+""≥∞
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô* õ(π-
+%173%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%168%javax.swing.GroupLayout$ParallelGroup* 
+
+%169javax.swing.JTextField*
+
+%170int*
+
+%171int*
+
+%172int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaóN õ(∫/
+%174'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%163'javax.swing.GroupLayout$SequentialGroup*/
+-
+%173%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaú1 ú([2
+%175*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaú1 ú(c2
+%176*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaóN ú(d/
+%177'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%174'javax.swing.GroupLayout$SequentialGroup*4
+2
+%176*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaù. ù(4
+%178javax.swing.JCheckBox"__id*1*/#
+!org.exist.client.ConnectionDialog"
+chkSslÜÉ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaóN ù(5/
+%179'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%177'javax.swing.GroupLayout$SequentialGroup*
+
+%178javax.swing.JCheckBox2"addComponent(Ljava/awt/Component;)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaóN û(3/
+%180'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%179'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)íè
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ û(4-
+%181%javax.swing.GroupLayout$ParallelGroup"ôjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%157%javax.swing.GroupLayout$ParallelGroup*+
+)
+%159!javax.swing.GroupLayout$Alignment*1
+/
+%180'javax.swing.GroupLayout$SequentialGroup2LaddGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)‘—
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaï ü(	
+%182void"Jjavax.swing.GroupLayout#setVerticalGroup(Ljavax/swing/GroupLayout$Group;)V*,
+*
+panRemoteLayoutjavax.swing.GroupLayout*/
+-
+%181%javax.swing.GroupLayout$ParallelGroup21setVerticalGroup(Ljavax/swing/GroupLayout$Group;)Ã
+…
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java° °(
+%183javax.swing.JTabbedPane"__id*;*9#
+!org.exist.client.ConnectionDialog"
+tpConnectionType¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java°( °(1
+%184javax.swing.JPanel"__id*4*2#
+!org.exist.client.ConnectionDialog"
+	panRemote∫∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java° °(2
+%185void"Gjavax.swing.JTabbedPane#addTab(Ljava/lang/String;Ljava/awt/Component;)V*!
+
+%183javax.swing.JTabbedPane*
+tab3*
+
+%184javax.swing.JPanel2.addTab(Ljava/lang/String;Ljava/awt/Component;)«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£ £(
+%186javax.swing.JLabel"__id*;*9#
+!org.exist.client.ConnectionDialog"
+lblConfigurationë
+é
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£! £(=
+%187java.lang.String"Torg.exist.client.ConnectionDialog#getLabelText(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.8˛˚
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£ £(>
+%188void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%186javax.swing.JLabel*
+
+%187java.lang.String2setText(Ljava/lang/String;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java• •(
+%189javax.swing.JTextField"__id*;*9#
+!org.exist.client.ConnectionDialog"
+txtConfiguration·ﬁ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java• •(+
+%190void"/javax.swing.text.JTextComponent#setEditable(Z)V* 
+
+%189javax.swing.JTextField*
+""2setEditable(Z)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶ ¶(
+%191javax.swing.JTextField"__id*;*9#
+!org.exist.client.ConnectionDialog"
+txtConfigurationΩ
+∫
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶! ¶('
+%192java.nio.file.Path"__id*1*/#
+!org.exist.client.ConnectionDialog"
+configÌÍ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶! ¶(8
+%193java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%192java.nio.file.Path2toAbsolutePath()›⁄
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶! ¶(C
+%194java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%193java.nio.file.Path2
+toString()èå
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶ ¶(D
+%195void"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V* 
+
+%191javax.swing.JTextField*
+
+%194java.lang.String2setText(Ljava/lang/String;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaß ß(
+%196javax.swing.JTextField"__id*;*9#
+!org.exist.client.ConnectionDialog"
+txtConfigurationç
+ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaß( ß(@
+%197java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.9îë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaß ß(A
+%198void":javax.swing.JComponent#setToolTipText(Ljava/lang/String;)V* 
+
+%196javax.swing.JTextField*
+
+%197java.lang.String2"setToolTipText(Ljava/lang/String;)Œ
+À
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java© ©(
+%199javax.swing.JButton"__id*A*?#
+!org.exist.client.ConnectionDialog"
+btnSelectConfigurationÙÒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java© ©(-
+%200void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%199javax.swing.JButton*
+...2setText(Ljava/lang/String;)Œ
+À
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java™ ™(
+%201javax.swing.JButton"__id*A*?#
+!org.exist.client.ConnectionDialog"
+btnSelectConfigurationé
+ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java™. ™(G
+%202java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.11ëé
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java™ ™(H
+%203void":javax.swing.JComponent#setToolTipText(Ljava/lang/String;)V*
+
+%201javax.swing.JButton*
+
+%202java.lang.String2"setToolTipText(Ljava/lang/String;)Œ
+À
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java´ ´(
+%204javax.swing.JButton"__id*A*?#
+!org.exist.client.ConnectionDialog"
+btnSelectConfiguration°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java´ ´(]
+%205void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%204javax.swing.JButton*
+""22addActionListener(Ljava/awt/event/ActionListener;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≠P ≠([
+%206javax.swing.JPanel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+panEmbedded¢ü
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≠8 ≠(O
+%207javax.swing.GroupLayout"javax.swing.GroupLayoutË
+Â
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≠4 ≠(\
+%208"5javax.swing.GroupLayout#<init>(Ljava/awt/Container;)V*!
+
+%207javax.swing.GroupLayout*
+
+%206javax.swing.JPanelø
+º
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≠ ≠(],
+panEmbeddedLayoutjavax.swing.GroupLayout"__id*!
+
+%207javax.swing.GroupLayout¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÆ Æ(
+%209javax.swing.JPanel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+panEmbedded¢ü
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÆ Æ(0
+%210void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%209javax.swing.JPanel*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout2#setLayout(Ljava/awt/LayoutManager;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞6 ∞(W)
+%211!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞6 ∞(_)
+%212!javax.swing.GroupLayout$Alignment"__id*
+""ß§
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞ ∞(`-
+%213%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout*+
+)
+%212!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)ºπ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ±(K/
+%214'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout2createSequentialGroup()√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ≤(2/
+%215'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%214'javax.swing.GroupLayout$SequentialGroup2addContainerGap()«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≥. ≥(>
+%216javax.swing.JLabel"__id*;*9#
+!org.exist.client.ConnectionDialog"
+lblConfigurationÉÄ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ≥(?/
+%217'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%215'javax.swing.GroupLayout$SequentialGroup*
+
+%216javax.swing.JLabel2"addComponent(Ljava/awt/Component;)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ¥(3/
+%218'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%217'javax.swing.GroupLayout$SequentialGroup*2!*2!*2!2addGap(III)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaµ. µ(>
+%219javax.swing.JTextField"__id*;*9#
+!org.exist.client.ConnectionDialog"
+txtConfigurationÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaµ@ µ(d
+%220int"__id*
+""Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaµk µ(z
+%221short"__id*
+""¥±
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" µ({/
+%222'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%218'javax.swing.GroupLayout$SequentialGroup* 
+
+%219javax.swing.JTextField*
+
+%220int*2ó*
+
+%221short2%addComponent(Ljava/awt/Component;III)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∂1 ∂([2
+%223*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∂1 ∂(c2
+%224*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ∂(d/
+%225'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%222'javax.swing.GroupLayout$SequentialGroup*4
+2
+%224*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Œ
+À
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∑. ∑(D
+%226javax.swing.JButton"__id*A*?#
+!org.exist.client.ConnectionDialog"
+btnSelectConfigurationÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∑F ∑(l
+%227int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∑r ∑(ò
+%228int"__id*
+""Ø¨
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ∑(ô/
+%229'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%225'javax.swing.GroupLayout$SequentialGroup*
+
+%226javax.swing.JButton*
+
+%227int*2!*
+
+%228int2%addComponent(Ljava/awt/Component;III)√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±" ∏(2/
+%230'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%229'javax.swing.GroupLayout$SequentialGroup2addContainerGap()ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞ ∏(3-
+%231%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%213%javax.swing.GroupLayout$ParallelGroup*1
+/
+%230'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)⁄◊
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaØ π(	
+%232void"Ljavax.swing.GroupLayout#setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)V*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout*/
+-
+%231%javax.swing.GroupLayout$ParallelGroup23setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaª6 ª(W)
+%233!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaª6 ª(_)
+%234!javax.swing.GroupLayout$Alignment"__id*
+""ß§
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaª ª(`-
+%235%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout*+
+)
+%234!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaº" º(C)
+%236!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaº" º(L)
+%237!javax.swing.GroupLayout$Alignment"__id*
+""ºπ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaºN º(w/
+%238'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout2createSequentialGroup()√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaºN Ω(2/
+%239'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%238'javax.swing.GroupLayout$SequentialGroup2addContainerGap()°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaæP æ(q)
+%240!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaæP æ(z)
+%241!javax.swing.GroupLayout$Alignment"__id*
+""ß§
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaæ* æ({-
+%242%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout*+
+)
+%241!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaø6 ø(F
+%243javax.swing.JLabel"__id*;*9#
+!org.exist.client.ConnectionDialog"
+lblConfiguration˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaæ* ø(G-
+%244%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%242%javax.swing.GroupLayout$ParallelGroup*
+
+%243javax.swing.JLabel2"addComponent(Ljava/awt/Component;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¿6 ¿(F
+%245javax.swing.JTextField"__id*;*9#
+!org.exist.client.ConnectionDialog"
+txtConfigurationÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¿H ¿(n
+%246int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¿p ¿(î
+%247int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¿ñ ¿(º
+%248int"__id*
+""≥∞
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaæ* ¿(Ω-
+%249%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%244%javax.swing.GroupLayout$ParallelGroup* 
+
+%245javax.swing.JTextField*
+
+%246int*
+
+%247int*
+
+%248int2%addComponent(Ljava/awt/Component;III)Œ
+À
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¡6 ¡(L
+%250javax.swing.JButton"__id*A*?#
+!org.exist.client.ConnectionDialog"
+btnSelectConfigurationÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¡N ¡(t
+%251int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¡z ¡(†
+%252int"__id*
+""ß§
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaæ* ¡(°-
+%253%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%249%javax.swing.GroupLayout$ParallelGroup*
+
+%250javax.swing.JButton*
+
+%251int*2*
+
+%252int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaºN ¡(¢/
+%254'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%239'javax.swing.GroupLayout$SequentialGroup*/
+-
+%253%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¬5 ¬(D
+%255short"__id*
+""ﬁ€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaºN ¬(E/
+%256'javax.swing.GroupLayout$SequentialGroup"djavax.swing.GroupLayout$SequentialGroup#addContainerGap(II)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%254'javax.swing.GroupLayout$SequentialGroup*2&*
+
+%255short2addContainerGap(II)íè
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaª ¬(F-
+%257%javax.swing.GroupLayout$ParallelGroup"ôjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%235%javax.swing.GroupLayout$ParallelGroup*+
+)
+%237!javax.swing.GroupLayout$Alignment*1
+/
+%256'javax.swing.GroupLayout$SequentialGroup2LaddGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)÷”
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∫ √(	
+%258void"Jjavax.swing.GroupLayout#setVerticalGroup(Ljavax/swing/GroupLayout$Group;)V*.
+,
+panEmbeddedLayoutjavax.swing.GroupLayout*/
+-
+%257%javax.swing.GroupLayout$ParallelGroup21setVerticalGroup(Ljavax/swing/GroupLayout$Group;)Ã
+…
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≈ ≈(
+%259javax.swing.JTabbedPane"__id*;*9#
+!org.exist.client.ConnectionDialog"
+tpConnectionType¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≈( ≈(3
+%260javax.swing.JPanel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+panEmbedded∫∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≈ ≈(4
+%261void"Gjavax.swing.JTabbedPane#addTab(Ljava/lang/String;Ljava/awt/Component;)V*!
+
+%259javax.swing.JTabbedPane*
+tab2*
+
+%260javax.swing.JPanel2.addTab(Ljava/lang/String;Ljava/awt/Component;)ƒ
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java« «(
+%262javax.swing.JPanel"__id*8*6#
+!org.exist.client.ConnectionDialog"
+panFavouritesé
+ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java«M «(f
+%263java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.14Ø
+¨
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java«  «(g'
+%264javax.swing.border.TitledBorder"ajavax.swing.BorderFactory#createTitledBorder(Ljava/lang/String;)Ljavax/swing/border/TitledBorder;*"
+javax.swing.BorderFactory*
+
+%263java.lang.Stringß§
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java« «(h
+%265void">javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V*
+
+%262javax.swing.JPanel*)
+'
+%264javax.swing.border.TitledBorder2&setBorder(Ljavax/swing/border/Border;)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java… …(
+%266javax.swing.JList"__id*8*6#
+!org.exist.client.ConnectionDialog"
+lstFavouritesã
+à
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java… …(3$
+%267javax.swing.DefaultListModel"Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;*%#
+!org.exist.client.ConnectionDialogîë
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java… …(4
+%268void"4javax.swing.JList#setModel(Ljavax/swing/ListModel;)V*
+
+%266javax.swing.JList*&
+$
+%267javax.swing.DefaultListModel2!setModel(Ljavax/swing/ListModel;)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java   (
+%269javax.swing.JList"__id*8*6#
+!org.exist.client.ConnectionDialog"
+lstFavourites«
+ƒ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java ,  (8
+%270javax.swing.JPopupMenu"__id*7*5#
+!org.exist.client.ConnectionDialog"
+pmFavouritesØ¨
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java   (9
+%271void"Gjavax.swing.JComponent#setComponentPopupMenu(Ljavax/swing/JPopupMenu;)V*
+
+%269javax.swing.JList* 
+
+%270javax.swing.JPopupMenu2/setComponentPopupMenu(Ljavax/swing/JPopupMenu;)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÀ À(
+%272javax.swing.JList"__id*8*6#
+!org.exist.client.ConnectionDialog"
+lstFavourites∆√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÀ+ À(F1
+%273)Lorg/exist/client/ConnectionDialog$15938;")Lorg/exist/client/ConnectionDialog$15938;Ã
+…
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÀ' œ(	
+%274"%java.awt.event.MouseAdapter#<init>()V*3
+1
+%273)Lorg/exist/client/ConnectionDialog$15938;¿Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÀ œ(
+
+%275void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+%272javax.swing.JList*3
+1
+%273)Lorg/exist/client/ConnectionDialog$15938;20addMouseListener(Ljava/awt/event/MouseListener;)»
+≈
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java– –(
+%276javax.swing.JScrollPane"__id*7*5#
+!org.exist.client.ConnectionDialog"
+jScrollPane1√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java–% –(2
+%277javax.swing.JList"__id*8*6#
+!org.exist.client.ConnectionDialog"
+lstFavouritesùö
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java– –(3
+%278void">javax.swing.JScrollPane#setViewportView(Ljava/awt/Component;)V*!
+
+%276javax.swing.JScrollPane*
+
+%277javax.swing.JList2%setViewportView(Ljava/awt/Component;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java“ “(
+%279javax.swing.JButton"__id*>*<#
+!org.exist.client.ConnectionDialog"
+btnSaveToFavouritesé
+ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java“$ “(=
+%280java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.17áÑ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java“ “(>
+%281void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%279javax.swing.JButton*
+
+%280java.lang.String2setText(Ljava/lang/String;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java” ”(
+%282javax.swing.JButton"__id*>*<#
+!org.exist.client.ConnectionDialog"
+btnSaveToFavourites°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java” ”(W
+%283void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%282javax.swing.JButton*
+""22addActionListener(Ljava/awt/event/ActionListener;)ƒ
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’R ’(_
+%284javax.swing.JPanel"__id*8*6#
+!org.exist.client.ConnectionDialog"
+panFavourites¢ü
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’: ’(Q
+%285javax.swing.GroupLayout"javax.swing.GroupLayoutË
+Â
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’6 ’(`
+%286"5javax.swing.GroupLayout#<init>(Ljava/awt/Container;)V*!
+
+%285javax.swing.GroupLayout*
+
+%284javax.swing.JPanel¡
+æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java’ ’(a.
+panFavouritesLayoutjavax.swing.GroupLayout"__id*!
+
+%285javax.swing.GroupLayoutƒ
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java÷ ÷(
+%287javax.swing.JPanel"__id*8*6#
+!org.exist.client.ConnectionDialog"
+panFavourites§°
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java÷ ÷(4
+%288void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%287javax.swing.JPanel*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout2#setLayout(Ljava/awt/LayoutManager;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ8 ÿ(Y)
+%289!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ8 ÿ(a)
+%290!javax.swing.GroupLayout$Alignment"__id*
+""©¶
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ ÿ(b-
+%291%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout*+
+)
+%290!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)æª
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ" Ÿ(M/
+%292'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout2createSequentialGroup()√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ" ⁄(2/
+%293'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%292'javax.swing.GroupLayout$SequentialGroup2addContainerGap()°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€R €(s)
+%294!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€R €({)
+%295!javax.swing.GroupLayout$Alignment"__id*
+""©¶
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€* €(|-
+%296%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout*+
+)
+%295!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)»
+≈
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‹6 ‹(B
+%297javax.swing.JScrollPane"__id*7*5#
+!org.exist.client.ConnectionDialog"
+jScrollPane1É
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‹D ‹(h
+%298int"__id*
+""Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‹o ‹(~
+%299short"__id*
+""≠™
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€* ‹(-
+%300%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%296%javax.swing.GroupLayout$ParallelGroup*!
+
+%297javax.swing.JScrollPane*
+
+%298int*2œ*
+
+%299short2%addComponent(Ljava/awt/Component;III)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java›2 ›(S)
+%301!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java›2 ›(\)
+%302!javax.swing.GroupLayout$Alignment"__id*
+""øº
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java›^ ›(â/
+%303'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout2createSequentialGroup()Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaﬁ> ﬁ(M
+%304short"__id*
+""–Õ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java›^ ﬁ(N/
+%305'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%303'javax.swing.GroupLayout$SequentialGroup*2 *2 *
+
+%304short2addGap(III)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaﬂ> ﬂ(Q
+%306javax.swing.JButton"__id*>*<#
+!org.exist.client.ConnectionDialog"
+btnSaveToFavouritesÑÅ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java›^ ﬂ(R/
+%307'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%305'javax.swing.GroupLayout$SequentialGroup*
+
+%306javax.swing.JButton2"addComponent(Ljava/awt/Component;)íè
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java€* ﬂ(S-
+%308%javax.swing.GroupLayout$ParallelGroup"ôjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%300%javax.swing.GroupLayout$ParallelGroup*+
+)
+%302!javax.swing.GroupLayout$Alignment*1
+/
+%307'javax.swing.GroupLayout$SequentialGroup2LaddGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)§°
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ" ﬂ(T/
+%309'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%293'javax.swing.GroupLayout$SequentialGroup*/
+-
+%308%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaŸ" ‡(2/
+%310'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%309'javax.swing.GroupLayout$SequentialGroup2addContainerGap()ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÿ ‡(3-
+%311%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%291%javax.swing.GroupLayout$ParallelGroup*1
+/
+%310'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)‹Ÿ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java◊ ·(	
+%312void"Ljavax.swing.GroupLayout#setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)V*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout*/
+-
+%311%javax.swing.GroupLayout$ParallelGroup23setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java„8 „(Y)
+%313!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java„8 „(a)
+%314!javax.swing.GroupLayout$Alignment"__id*
+""©¶
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java„ „(b-
+%315%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout*+
+)
+%314!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)æª
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰" ‰(M/
+%316'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout2createSequentialGroup()À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÂ. Â(A
+%317javax.swing.JButton"__id*>*<#
+!org.exist.client.ConnectionDialog"
+btnSaveToFavouritesÑÅ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰" Â(B/
+%318'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%316'javax.swing.GroupLayout$SequentialGroup*
+
+%317javax.swing.JButton2"addComponent(Ljava/awt/Component;)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÊ1 Ê([2
+%319*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÊ1 Ê(c2
+%320*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰" Ê(d/
+%321'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%318'javax.swing.GroupLayout$SequentialGroup*4
+2
+%320*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)»
+≈
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÁ. Á(:
+%322javax.swing.JScrollPane"__id*7*5#
+!org.exist.client.ConnectionDialog"
+jScrollPane1É
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÁ< Á(`
+%323int"__id*
+""Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÁg Á(v
+%324short"__id*
+""µ≤
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰" Á(w/
+%325'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%321'javax.swing.GroupLayout$SequentialGroup*!
+
+%322javax.swing.JScrollPane*
+
+%323int*2è*
+
+%324short2%addComponent(Ljava/awt/Component;III)√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‰" Ë(2/
+%326'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%325'javax.swing.GroupLayout$SequentialGroup2addContainerGap()ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java„ Ë(3-
+%327%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%315%javax.swing.GroupLayout$ParallelGroup*1
+/
+%326'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)ÿ’
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java‚ È(	
+%328void"Jjavax.swing.GroupLayout#setVerticalGroup(Ljavax/swing/GroupLayout$Group;)V*0
+.
+panFavouritesLayoutjavax.swing.GroupLayout*/
+-
+%327%javax.swing.GroupLayout$ParallelGroup21setVerticalGroup(Ljavax/swing/GroupLayout$Group;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÎ Î(
+%329javax.swing.JButton"__id*3*1#
+!org.exist.client.ConnectionDialog"
+
+btnCloseé
+ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÎ Î(2
+%330java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.51áÑ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÎ Î(3
+%331void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%329javax.swing.JButton*
+
+%330java.lang.String2setText(Ljava/lang/String;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÏ Ï(
+%332javax.swing.JButton"__id*3*1#
+!org.exist.client.ConnectionDialog"
+
+btnClose°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÏ Ï(A
+%333void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%332javax.swing.JButton*
+""22addActionListener(Ljava/awt/event/ActionListener;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÓ Ó(
+%334javax.swing.JButton"__id*5*3#
+!org.exist.client.ConnectionDialog"
+
+btnConnecté
+ã
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÓ Ó(4
+%335java.lang.String"Porg.exist.client.ConnectionDialog#getLabel(Ljava/lang/String;)Ljava/lang/String;*%#
+!org.exist.client.ConnectionDialog*
+LoginPanel.50áÑ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÓ Ó(5
+%336void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%334javax.swing.JButton*
+
+%335java.lang.String2setText(Ljava/lang/String;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÔ Ô(
+%337javax.swing.JButton"__id*5*3#
+!org.exist.client.ConnectionDialog"
+
+btnConnectáÑ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÔ Ô(8
+%338"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%337javax.swing.JButton*
+""2,addKeyListener(Ljava/awt/event/KeyListener;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java (
+%339javax.swing.JButton"__id*5*3#
+!org.exist.client.ConnectionDialog"
+
+btnConnect°û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java (E
+%340void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%339javax.swing.JButton*
+""22addActionListener(Ljava/awt/event/ActionListener;)˜Ù
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚE Ú(U
+%341java.awt.Container"8javax.swing.JDialog#getContentPane()Ljava/awt/Container;*%#
+!org.exist.client.ConnectionDialog2getContentPane()¢ü
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚ- Ú(D
+%342javax.swing.GroupLayout"javax.swing.GroupLayoutË
+Â
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚ) Ú(V
+%343"5javax.swing.GroupLayout#<init>(Ljava/awt/Container;)V*!
+
+%342javax.swing.GroupLayout*
+
+%341java.awt.Container¥
+±
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÚ Ú(W!
+layoutjavax.swing.GroupLayout"__id*!
+
+%342javax.swing.GroupLayout˜Ù
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÛ Û(
+%344java.awt.Container"8javax.swing.JDialog#getContentPane()Ljava/awt/Container;*%#
+!org.exist.client.ConnectionDialog2getContentPane()óî
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÛ Û(*
+%345void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%344java.awt.Container*#
+!
+layoutjavax.swing.GroupLayout2#setLayout(Ljava/awt/LayoutManager;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaı+ ı(L)
+%346!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaı+ ı(T)
+%347!javax.swing.GroupLayout$Alignment"__id*
+""úô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaı ı(U-
+%348%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%347!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ" ˆ(@/
+%349'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ" ˜(2/
+%350'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%349'javax.swing.GroupLayout$SequentialGroup2addContainerGap()°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¯E ¯(f)
+%351!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¯E ¯(n)
+%352!javax.swing.GroupLayout$Alignment"__id*
+""úô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¯* ¯(o-
+%353%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%352!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘2 ˘(S)
+%354!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘2 ˘(\)
+%355!javax.swing.GroupLayout$Alignment"__id*
+""±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘^ ˘(|/
+%356'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˙> ˙(M
+%357short"__id*
+""–Õ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘^ ˙(N/
+%358'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%356'javax.swing.GroupLayout$SequentialGroup*2 *2 *
+
+%357short2addGap(III)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˚> ˚(F
+%359javax.swing.JButton"__id*3*1#
+!org.exist.client.ConnectionDialog"
+
+btnCloseÑÅ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘^ ˚(G/
+%360'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%358'javax.swing.GroupLayout$SequentialGroup*
+
+%359javax.swing.JButton2"addComponent(Ljava/awt/Component;)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸A ¸(k2
+%361*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸A ¸(s2
+%362*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘^ ¸(t/
+%363'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%360'javax.swing.GroupLayout$SequentialGroup*4
+2
+%362*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˝> ˝(H
+%364javax.swing.JButton"__id*5*3#
+!org.exist.client.ConnectionDialog"
+
+btnConnectÑÅ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˘^ ˝(I/
+%365'javax.swing.GroupLayout$SequentialGroup"sjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%363'javax.swing.GroupLayout$SequentialGroup*
+
+%364javax.swing.JButton2"addComponent(Ljava/awt/Component;)íè
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¯* ˝(J-
+%366%javax.swing.GroupLayout$ParallelGroup"ôjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%353%javax.swing.GroupLayout$ParallelGroup*+
+)
+%355!javax.swing.GroupLayout$Alignment*1
+/
+%365'javax.swing.GroupLayout$SequentialGroup2LaddGroup(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˛2 ˛(P/
+%367'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇU ˇ(v)
+%368!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇU ˇ(~)
+%369!javax.swing.GroupLayout$Alignment"__id*
+""úô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ: ˇ(-
+%370%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%369!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄB Ä(`/
+%371'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄB Å(P/
+%372'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%371'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÇN Ç(Z
+%373javax.swing.JLabel"__id*7*5#
+!org.exist.client.ConnectionDialog"
+lblExistLogoÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÇ\ Ç(Ç
+%374int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÇâ Ç(Ø
+%375int"__id*
+""Æ´
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄB Ç(∞/
+%376'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%372'javax.swing.GroupLayout$SequentialGroup*
+
+%373javax.swing.JLabel*
+
+%374int*2q*
+
+%375int2%addComponent(Ljava/awt/Component;III)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄB É(S/
+%377'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%376'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)¢
+ü
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑe Ñ(Ü)
+%378!javax.swing.GroupLayout$Alignment"__id*
+""¢
+ü
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑe Ñ(é)
+%379!javax.swing.GroupLayout$Alignment"__id*
+""ùö
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑJ Ñ(è-
+%380%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%379!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)ƒ
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖV Ö(c
+%381javax.swing.JPanel"__id*8*6#
+!org.exist.client.ConnectionDialog"
+panFavouritesÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖe Ö(ã
+%382int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖç Ö(±
+%383int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ≥ Ö(Ÿ
+%384int"__id*
+""Ø¨
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑJ Ö(⁄-
+%385%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%380%javax.swing.GroupLayout$ParallelGroup*
+
+%381javax.swing.JPanel*
+
+%382int*
+
+%383int*
+
+%384int2%addComponent(Ljava/awt/Component;III)Ã
+…
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÜV Ü(f
+%386javax.swing.JTabbedPane"__id*;*9#
+!org.exist.client.ConnectionDialog"
+tpConnectionTypeÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÜh Ü(é
+%387int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÜï Ü(ª
+%388int"__id*
+""¨©
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑJ Ü(º-
+%389%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%385%javax.swing.GroupLayout$ParallelGroup*!
+
+%386javax.swing.JTabbedPane*
+
+%387int*2è*
+
+%388int2%addComponent(Ljava/awt/Component;III)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaáR á(p/
+%390'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()¢
+ü
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaàu à(ñ)
+%391!javax.swing.GroupLayout$Alignment"__id*
+""¢
+ü
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaàu à(û)
+%392!javax.swing.GroupLayout$Alignment"__id*
+""ß§
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaàZ à(¶-
+%393%javax.swing.GroupLayout$ParallelGroup"xjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;Z)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%392!javax.swing.GroupLayout$Alignment*
+""29createParallelGroup(Ljavax/swing/GroupLayout$Alignment;Z)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaâf â(q
+%394javax.swing.JLabel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+lblPasswordÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaâs â(ó
+%395int"__id*
+""á
+Ñ
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaâû â(≠
+%396short"__id*
+""®•
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaàZ â(Æ-
+%397%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%393%javax.swing.GroupLayout$ParallelGroup*
+
+%394javax.swing.JLabel*
+
+%395int*2n*
+
+%396short2%addComponent(Ljava/awt/Component;III)»
+≈
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaäf ä(w
+%398javax.swing.JLabel"__id*<*:#
+!org.exist.client.ConnectionDialog"
+lblConnectionTypeÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaäy ä(ù
+%399int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaäü ä(√
+%400int"__id*
+""á
+Ñ
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaä≈ ä(‘
+%401short"__id*
+""±Æ
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaàZ ä(’-
+%402%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%397%javax.swing.GroupLayout$ParallelGroup*
+
+%398javax.swing.JLabel*
+
+%399int*
+
+%400int*
+
+%401short2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaáR ä(÷/
+%403'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%390'javax.swing.GroupLayout$SequentialGroup*/
+-
+%402%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaáR ã(`/
+%404'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%403'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)¢
+ü
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaåu å(ñ)
+%405!javax.swing.GroupLayout$Alignment"__id*
+""¢
+ü
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaåu å(û)
+%406!javax.swing.GroupLayout$Alignment"__id*
+""ùö
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaåZ å(ü-
+%407%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%406!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;) 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaçf ç(q"
+%408javax.swing.JPasswordField"__id*6*4#
+!org.exist.client.ConnectionDialog"
+txtPasswordÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaçs ç(ô
+%409int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaç† ç(∆
+%410int"__id*
+""Ø¨
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaåZ ç(«-
+%411%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%407%javax.swing.GroupLayout$ParallelGroup*$
+"
+%408javax.swing.JPasswordField*
+
+%409int*2é*
+
+%410int2%addComponent(Ljava/awt/Component;III)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaéf é(q
+%412javax.swing.JTextField"__id*6*4#
+!org.exist.client.ConnectionDialog"
+txtUsernameÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaés é(ô
+%413int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé† é(∆
+%414int"__id*
+""´®
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaåZ é(«-
+%415%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%411%javax.swing.GroupLayout$ParallelGroup* 
+
+%412javax.swing.JTextField*
+
+%413int*2é*
+
+%414int2%addComponent(Ljava/awt/Component;III)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaèf è(w
+%416javax.swing.JComboBox"__id*<*:#
+!org.exist.client.ConnectionDialog"
+cmbConnectionTypeÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaèy è(ü
+%417int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè¶ è(Ã
+%418int"__id*
+""©¶
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaåZ è(Õ-
+%419%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%415%javax.swing.GroupLayout$ParallelGroup*
+
+%416javax.swing.JComboBox*
+
+%417int*2d*
+
+%418int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaáR è(Œ/
+%420'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%404'javax.swing.GroupLayout$SequentialGroup*/
+-
+%419%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)üú
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑJ è(œ-
+%421%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%389%javax.swing.GroupLayout$ParallelGroup*1
+/
+%420'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaêV ê(a
+%422javax.swing.JLabel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+lblUsernameÑ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaêc ê(â
+%423int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaêê ê(∂
+%424int"__id*
+""¶£
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÑJ ê(∑-
+%425%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%421%javax.swing.GroupLayout$ParallelGroup*
+
+%422javax.swing.JLabel*
+
+%423int*2s*
+
+%424int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄB ê(∏/
+%426'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%377'javax.swing.GroupLayout$SequentialGroup*/
+-
+%425%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)üú
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ: ê(π-
+%427%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%370%javax.swing.GroupLayout$ParallelGroup*1
+/
+%426'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaëF ë(Q
+%428javax.swing.JSeparator"__id*6*4#
+!org.exist.client.ConnectionDialog"
+jSeparator1É
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaëS ë(y
+%429int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaëÄ ë(¶
+%430int"__id*
+""´®
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ: ë(ß-
+%431%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%427%javax.swing.GroupLayout$ParallelGroup* 
+
+%428javax.swing.JSeparator*
+
+%429int*2ö*
+
+%430int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˛2 ë(®/
+%432'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%367'javax.swing.GroupLayout$SequentialGroup*/
+-
+%431%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaí> í(M
+%433short"__id*
+""–Õ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˛2 í(N/
+%434'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%432'javax.swing.GroupLayout$SequentialGroup*2 *2 *
+
+%433short2addGap(III)ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¯* í(O-
+%435%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%366%javax.swing.GroupLayout$ParallelGroup*1
+/
+%434'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)§°
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ" í(P/
+%436'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%350'javax.swing.GroupLayout$SequentialGroup*/
+-
+%435%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)√¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˆ" ì(2/
+%437'javax.swing.GroupLayout$SequentialGroup"bjavax.swing.GroupLayout$SequentialGroup#addContainerGap()Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%436'javax.swing.GroupLayout$SequentialGroup2addContainerGap()ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaı ì(3-
+%438%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%348%javax.swing.GroupLayout$ParallelGroup*1
+/
+%437'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)œÃ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÙ î(	
+%439void"Ljavax.swing.GroupLayout#setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)V*#
+!
+layoutjavax.swing.GroupLayout*/
+-
+%438%javax.swing.GroupLayout$ParallelGroup23setHorizontalGroup(Ljavax/swing/GroupLayout$Group;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ+ ñ(L)
+%440!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ+ ñ(T)
+%441!javax.swing.GroupLayout$Alignment"__id*
+""úô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ñ(U-
+%442%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%441!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ó(@/
+%443'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaòE ò(f)
+%444!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaòE ò(n)
+%445!javax.swing.GroupLayout$Alignment"__id*
+""úô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò* ò(o-
+%446%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%445!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 ô(P/
+%447'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 ö(C/
+%448'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%447'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõU õ(v)
+%449!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõU õ()
+%450!javax.swing.GroupLayout$Alignment"__id*
+""ùö
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ: õ(Ä-
+%451%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%450!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaúF ú(Q
+%452javax.swing.JLabel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+lblUsername˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ: ú(R-
+%453%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%451%javax.swing.GroupLayout$ParallelGroup*
+
+%452javax.swing.JLabel2"addComponent(Ljava/awt/Component;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaùF ù(Q
+%454javax.swing.JTextField"__id*6*4#
+!org.exist.client.ConnectionDialog"
+txtUsernameÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaùS ù(y
+%455int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaù{ ù(ü
+%456int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaù° ù(«
+%457int"__id*
+""≥∞
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ: ù(»-
+%458%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%453%javax.swing.GroupLayout$ParallelGroup* 
+
+%454javax.swing.JTextField*
+
+%455int*
+
+%456int*
+
+%457int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 ù(…/
+%459'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%448'javax.swing.GroupLayout$SequentialGroup*/
+-
+%458%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 û(C/
+%460'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%459'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaüU ü(v)
+%461!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaüU ü()
+%462!javax.swing.GroupLayout$Alignment"__id*
+""ùö
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaü: ü(Ä-
+%463%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%462!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java†F †(Q
+%464javax.swing.JLabel"__id*6*4#
+!org.exist.client.ConnectionDialog"
+lblPassword˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaü: †(R-
+%465%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%463%javax.swing.GroupLayout$ParallelGroup*
+
+%464javax.swing.JLabel2"addComponent(Ljava/awt/Component;) 
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java°F °(Q"
+%466javax.swing.JPasswordField"__id*6*4#
+!org.exist.client.ConnectionDialog"
+txtPasswordÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java°S °(y
+%467int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java°{ °(ü
+%468int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java°° °(«
+%469int"__id*
+""∑¥
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaü: °(»-
+%470%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%465%javax.swing.GroupLayout$ParallelGroup*$
+"
+%466javax.swing.JPasswordField*
+
+%467int*
+
+%468int*
+
+%469int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 °(…/
+%471'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%460'javax.swing.GroupLayout$SequentialGroup*/
+-
+%470%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 ¢(C/
+%472'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%471'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£U £(v)
+%473!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£U £()
+%474!javax.swing.GroupLayout$Alignment"__id*
+""ùö
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£: £(Ä-
+%475%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%474!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)»
+≈
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java§F §(W
+%476javax.swing.JLabel"__id*<*:#
+!org.exist.client.ConnectionDialog"
+lblConnectionType˚¯
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£: §(X-
+%477%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%475%javax.swing.GroupLayout$ParallelGroup*
+
+%476javax.swing.JLabel2"addComponent(Ljava/awt/Component;)À
+»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java•F •(W
+%478javax.swing.JComboBox"__id*<*:#
+!org.exist.client.ConnectionDialog"
+cmbConnectionTypeÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java•Y •(
+%479int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java•Å •(•
+%480int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java•ß •(Õ
+%481int"__id*
+""≤Ø
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java£: •(Œ-
+%482%javax.swing.GroupLayout$ParallelGroup"rjavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%477%javax.swing.GroupLayout$ParallelGroup*
+
+%478javax.swing.JComboBox*
+
+%479int*
+
+%480int*
+
+%481int2%addComponent(Ljava/awt/Component;III)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaô2 •(œ/
+%483'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%472'javax.swing.GroupLayout$SequentialGroup*/
+-
+%482%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)üú
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò* •(–-
+%484%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%446%javax.swing.GroupLayout$ParallelGroup*1
+/
+%483'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)±Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶2 ¶(P/
+%485'javax.swing.GroupLayout$SequentialGroup"Xjavax.swing.GroupLayout#createSequentialGroup()Ljavax/swing/GroupLayout$SequentialGroup;*#
+!
+layoutjavax.swing.GroupLayout2createSequentialGroup()…∆
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶2 ß(C/
+%486'javax.swing.GroupLayout$SequentialGroup"\javax.swing.GroupLayout$SequentialGroup#addGap(III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%485'javax.swing.GroupLayout$SequentialGroup*2*2*22addGap(III)√
+¿
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java®> ®(J
+%487javax.swing.JLabel"__id*7*5#
+!org.exist.client.ConnectionDialog"
+lblExistLogoÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java®L ®(r
+%488int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java®y ®(ü
+%489int"__id*
+""Æ´
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¶2 ®(†/
+%490'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%486'javax.swing.GroupLayout$SequentialGroup*
+
+%487javax.swing.JLabel*
+
+%488int*2l*
+
+%489int2%addComponent(Ljava/awt/Component;III)üú
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò* ®(°-
+%491%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%484%javax.swing.GroupLayout$ParallelGroup*1
+/
+%490'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)•¢
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ®(¢/
+%492'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%443'javax.swing.GroupLayout$SequentialGroup*/
+-
+%491%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java©1 ©([2
+%493*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java©1 ©(c2
+%494*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ©(d/
+%495'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%492'javax.swing.GroupLayout$SequentialGroup*4
+2
+%494*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ã
+…
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java™. ™(>
+%496javax.swing.JTabbedPane"__id*;*9#
+!org.exist.client.ConnectionDialog"
+tpConnectionTypeÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java™@ ™(f
+%497int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java™l ™(í
+%498int"__id*
+""≥∞
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ™(ì/
+%499'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%495'javax.swing.GroupLayout$SequentialGroup*!
+
+%496javax.swing.JTabbedPane*
+
+%497int*2V*
+
+%498int2%addComponent(Ljava/awt/Component;III)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java´1 ´([2
+%500*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java´1 ´(c2
+%501*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ´(d/
+%502'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%499'javax.swing.GroupLayout$SequentialGroup*4
+2
+%501*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)ƒ
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¨. ¨(;
+%503javax.swing.JPanel"__id*8*6#
+!org.exist.client.ConnectionDialog"
+panFavouritesÉ
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¨= ¨(c
+%504int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¨e ¨(â
+%505int"__id*
+""Ö
+Ç
+e
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¨ã ¨(±
+%506int"__id*
+""∑¥
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ¨(≤/
+%507'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%502'javax.swing.GroupLayout$SequentialGroup*
+
+%503javax.swing.JPanel*
+
+%504int*
+
+%505int*
+
+%506int2%addComponent(Ljava/awt/Component;III)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≠1 ≠([2
+%508*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≠1 ≠(c2
+%509*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ≠(d/
+%510'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%507'javax.swing.GroupLayout$SequentialGroup*4
+2
+%509*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)∆
+√
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÆ. Æ(9
+%511javax.swing.JSeparator"__id*6*4#
+!org.exist.client.ConnectionDialog"
+jSeparator1É
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÆ; Æ(a
+%512int"__id*
+""Ñ
+Å
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÆg Æ(ç
+%513int"__id*
+""≤Ø
+d
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" Æ(é/
+%514'javax.swing.GroupLayout$SequentialGroup"vjavax.swing.GroupLayout$SequentialGroup#addComponent(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%510'javax.swing.GroupLayout$SequentialGroup* 
+
+%511javax.swing.JSeparator*
+
+%512int*2
+*
+
+%513int2%addComponent(Ljava/awt/Component;III)™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaØ1 Ø([2
+%515*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""™
+ß
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaØ1 Ø(c2
+%516*javax.swing.LayoutStyle$ComponentPlacement"__id*
+""“œ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" Ø(d/
+%517'javax.swing.GroupLayout$SequentialGroup"éjavax.swing.GroupLayout$SequentialGroup#addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%514'javax.swing.GroupLayout$SequentialGroup*4
+2
+%516*javax.swing.LayoutStyle$ComponentPlacement2=addPreferredGap(Ljavax/swing/LayoutStyle$ComponentPlacement;)°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞E ∞(f)
+%518!javax.swing.GroupLayout$Alignment"__id*
+""°
+û
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞E ∞(o)
+%519!javax.swing.GroupLayout$Alignment"__id*
+""úô
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞* ∞(p-
+%520%javax.swing.GroupLayout$ParallelGroup"wjavax.swing.GroupLayout#createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup;*#
+!
+layoutjavax.swing.GroupLayout*+
+)
+%519!javax.swing.GroupLayout$Alignment28createParallelGroup(Ljavax/swing/GroupLayout$Alignment;)¿
+Ω
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java±6 ±(>
+%521javax.swing.JButton"__id*3*1#
+!org.exist.client.ConnectionDialog"
+
+btnClose¸˘
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞* ±(?-
+%522%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%520%javax.swing.GroupLayout$ParallelGroup*
+
+%521javax.swing.JButton2"addComponent(Ljava/awt/Component;)¬
+ø
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≤6 ≤(@
+%523javax.swing.JButton"__id*5*3#
+!org.exist.client.ConnectionDialog"
+
+btnConnect¸˘
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∞* ≤(A-
+%524%javax.swing.GroupLayout$ParallelGroup"ojavax.swing.GroupLayout$ParallelGroup#addComponent(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%522%javax.swing.GroupLayout$ParallelGroup*
+
+%523javax.swing.JButton2"addComponent(Ljava/awt/Component;)§°
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ≤(B/
+%525'javax.swing.GroupLayout$SequentialGroup"zjavax.swing.GroupLayout$SequentialGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%517'javax.swing.GroupLayout$SequentialGroup*/
+-
+%524%javax.swing.GroupLayout$ParallelGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)Ö
+Ç
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java≥5 ≥(D
+%526short"__id*
+""ﬁ€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó" ≥(E/
+%527'javax.swing.GroupLayout$SequentialGroup"djavax.swing.GroupLayout$SequentialGroup#addContainerGap(II)Ljavax/swing/GroupLayout$SequentialGroup;*1
+/
+%525'javax.swing.GroupLayout$SequentialGroup*2#*
+
+%526short2addContainerGap(II)ûõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ≥(F-
+%528%javax.swing.GroupLayout$ParallelGroup"vjavax.swing.GroupLayout$ParallelGroup#addGroup(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup;*/
+-
+%442%javax.swing.GroupLayout$ParallelGroup*1
+/
+%527'javax.swing.GroupLayout$SequentialGroup2)addGroup(Ljavax/swing/GroupLayout$Group;)À»
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaï ¥(	
+%529void"Jjavax.swing.GroupLayout#setVerticalGroup(Ljavax/swing/GroupLayout$Group;)V*#
+!
+layoutjavax.swing.GroupLayout*/
+-
+%528%javax.swing.GroupLayout$ParallelGroup21setVerticalGroup(Ljavax/swing/GroupLayout$Group;)æª
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java∂ ∂(
+%530void"java.awt.Window#pack()V*%#
+!org.exist.client.ConnectionDialog2pack()*
+0B%#
+!org.exist.client.ConnectionDialog

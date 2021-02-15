@@ -1,0 +1,17 @@
+
+?org.exist.storage.lock.LockInfo#getLockMode()Ljava/lang/String;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.java@ @("1*™
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaA A(µ
+²
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaA A(
+%0java.lang.String"__id*1*/!
+org.exist.storage.lock.LockInfo"
+
+lockMode"{
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaA A(
+
+%0java.lang.StringB#!
+org.exist.storage.lock.LockInfo

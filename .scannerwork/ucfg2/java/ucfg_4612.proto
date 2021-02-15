@@ -1,0 +1,22 @@
+
+Horg.exist.client.security.SortedListModel#iterator()Ljava/util/Iterator;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaL L("1*¦
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaM M(É
+Æ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaM M(
+%0java.util.SortedSet"__id*8*6+
+)org.exist.client.security.SortedListModel"
+modelßÜ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaM M(
+%1java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*
+
+%0java.util.SortedSet2
+iterator()"‡
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaM M( 
+
+%1java.util.IteratorB-+
+)org.exist.client.security.SortedListModel

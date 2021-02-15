@@ -1,0 +1,25 @@
+
+Forg.exist.util.io.Resource#getBufferedReader()Ljava/io/BufferedReader;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÆ Æ(+"1*®
+1\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÇ" Ç(+ÜÙ
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÇ" Ç(-
+%0java.io.Reader"6org.exist.util.io.Resource#getReader()Ljava/io/Reader;*
+org.exist.util.io.Resource2getReader()—”
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÇ Ç(!
+%1java.io.BufferedReader"java.io.BufferedReaderÑ
+Î
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÇ Ç(.
+%2"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%1java.io.BufferedReader*
+
+%0java.io.Reader"~
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÇ Ç(/
+
+%1java.io.BufferedReaderB
+org.exist.util.io.Resource

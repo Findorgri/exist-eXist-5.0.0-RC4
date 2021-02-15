@@ -1,0 +1,23 @@
+
+`org.exist.security.AbstractApiSecurityTest#getResourceName(Ljava/lang/String;)Ljava/lang/String;q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/AbstractApiSecurityTest.javaå å($"1*É
+1q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/AbstractApiSecurityTest.javaç ç(ˇ¸
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/AbstractApiSecurityTest.javaç% ç(A	
+%0int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*!
+
+resourceUrijava.lang.String*
+/2lastIndexOf(Ljava/lang/String;)¯ı
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/AbstractApiSecurityTest.javaç ç(F
+%1java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*!
+
+resourceUrijava.lang.String*
+""2substring(I)"ç
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/AbstractApiSecurityTest.javaç ç(G
+
+%1java.lang.String:
+resourceUrijava.lang.StringB.,
+*org.exist.security.AbstractApiSecurityTest

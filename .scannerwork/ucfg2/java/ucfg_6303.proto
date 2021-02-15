@@ -1,0 +1,156 @@
+
+Rorg.exist.http.servlets.HttpServletRequestWrapper#getParameterMap()Ljava/util/Map;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java˙! ˙(0"9*Ï
+2s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÅ Å(?°
+û
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÅ Å(?
+mejava.util.Map$Entry"__id*
+""≈
+¬
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÅ Å(?
+mejava.util.Map$Entry"
+__arrayGet*
+
+	setParamsjava.util.Set*
+""*
+7
+1*Â
+3s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaç ç(ËÂ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaç ç()
+%12java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+mejava.util.Map$Entry2getKey()˙
+˜
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaç ç(2
+%13java.lang.String[]"__mapSet* 
+
+mapParametersjava.util.Map*
+
+%12java.lang.String*
+
+valuesjava.lang.String[]*
+2*º
+5s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaã ã(ûõ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaã ã(0H
+%9Borg.exist.http.servlets.HttpServletRequestWrapper$RequestParameter"+java.util.Iterator#next()Ljava/lang/Object;*%
+#
+itParamValuesjava.util.Iterator2next() «
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaã ã(;
+%10java.lang.String"_org.exist.http.servlets.HttpServletRequestWrapper$RequestParameter#getValue()Ljava/lang/String;*J
+H
+%9Borg.exist.http.servlets.HttpServletRequestWrapper$RequestParameter2
+getValue()Œ
+À
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaã ã(;
+%11"
+__arraySet*
+
+valuesjava.lang.String[]*
+""*
+
+%10java.lang.String*
+6*€
+6s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaä] ä(jÿ’
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaä] ä(t
+%8boolean"java.util.Iterator#hasNext()Z*%
+#
+itParamValuesjava.util.Iterator2	hasNext()*
+3
+5*à
+7s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÉ: É(<ÈÊ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÉ: É(G
+%4java.util.List"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
+
+mejava.util.Map$Entry2
+getValue()∏
+µ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÉ É(H 
+vecParamValuesjava.util.List"__id*
+
+%4java.util.List«ƒ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÜ/ Ü(D	
+%5int"java.util.List#size()I*"
+ 
+vecParamValuesjava.util.List2size()¶£
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÜ$ Ü(E
+%6java.lang.String[]"java.lang.String[]∏
+µ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÜ Ü(F
+valuesjava.lang.String[]"__id*
+
+%6java.lang.String[]ÒÓ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaäB ä([
+%7java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*"
+ 
+vecParamValuesjava.util.List2
+iterator()ø
+º
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaä ä([#
+itParamValuesjava.util.Iterator"__id*
+
+%7java.util.Iterator*
+6*Ç
+
+9s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java¸4 ¸(C§°
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java¸8 ¸(A
+%0java.util.HashMap"java.util.HashMap∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java¸4 ¸(C
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMapπ
+∂
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java¸ ¸(D
+mapParametersjava.util.Map"__id*
+
+%0java.util.HashMap÷
+”
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java˛I ˛(O
+%2java.util.Map"__id*A*?3
+1org.exist.http.servlets.HttpServletRequestWrapper"
+paramsŸ÷
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java˛I ˛(Z
+%3java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
+
+%2java.util.Map2
+entrySet()±
+Æ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java˛ ˛([
+	setParamsjava.util.Set"__id*
+
+%3java.util.Set*
+2*í
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaè è("ó
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaè è( 
+
+mapParametersjava.util.MapB53
+1org.exist.http.servlets.HttpServletRequestWrapper

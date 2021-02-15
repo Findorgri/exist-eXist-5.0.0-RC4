@@ -1,0 +1,289 @@
+
+/org.exist.xmldb.DTMHandleTest#treeLevelOrder()Vb
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java- -($"10*ﬁ
+2b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaZ Z(¥
+±
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaZ Z(?
+%32java.lang.String"__concat*" 
+Failed to read existing field[*2∏
+µ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaZ Z(Q
+%33java.lang.String"__concat*
+
+%32java.lang.String*
+]/name/text()*
+9*Ü
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaQ) Q(-ÍÁ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaS$ S(9
+%29org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*'
+%
+fieldChildrenorg.w3c.dom.NodeList*
+""2item(I)¢
+ü
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaS S(:
+nameorg.w3c.dom.Node"__id*
+
+%29org.w3c.dom.Nodeì
+ê
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaU U(M
+nameTextjava.lang.String"__id*
+""¥
+±
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaV& V(J
+%30java.lang.String"__concat*" 
+Failed to read existing field[*2∏
+µ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaV& V(\
+%31java.lang.String"__concat*
+
+%30java.lang.String*
+]/name/text()*
+6*¶
+5b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaP P(%ÍÁ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaP P(-
+%26org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*'
+%
+fieldChildrenorg.w3c.dom.NodeList*
+""2item(I)ﬁ€
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaP P(<
+%27java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+%26org.w3c.dom.Node2getLocalName()Ê„
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaP P(K
+%28boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%27java.lang.String*
+name2equals(Ljava/lang/Object;)*
+4
+6*æ
+6b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaO  O(!Ã…
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaO$ O(=
+
+%25int"!org.w3c.dom.NodeList#getLength()I*'
+%
+fieldChildrenorg.w3c.dom.NodeList2getLength()*
+2
+5*°
+7b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaJ! J(&ÈÊ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaL L(1
+%23org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*&
+$
+rootChildrenorg.w3c.dom.NodeList*
+""2item(I)£
+†
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaL L(2
+fieldorg.w3c.dom.Node"__id*
+
+%23org.w3c.dom.NodeÍÁ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaN) N(>
+%24org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*
+
+fieldorg.w3c.dom.Node2getChildNodes()≥
+∞
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaN N(?%
+fieldChildrenorg.w3c.dom.NodeList"__id*
+
+%24org.w3c.dom.NodeList*
+6*¶
+8b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaI I(ÈÊ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaI I($
+%20org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*&
+$
+rootChildrenorg.w3c.dom.NodeList*
+""2item(I)ﬁ€
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaI I(3
+%21java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+%20org.w3c.dom.Node2getLocalName()Á‰
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaI I(C
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%21java.lang.String*	
+field2equals(Ljava/lang/Object;)*
+7
+9*Ω
+9b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaH H(À»
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaH H(4
+
+%19int"!org.w3c.dom.NodeList#getLength()I*&
+$
+rootChildrenorg.w3c.dom.NodeList2getLength()*
+8
+0*á.
+10b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java. .(&õ
+ò
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java. .('
+documentjava.lang.String"__id*
+
+survey.xmlüú
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java0( 0(5
+%0java.lang.StringBuilder"java.lang.StringBuilder±
+Æ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java0$ 0(7
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder∂
+≥
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java0 0(8&
+xmlDocumentjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderß§
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java1 1(&
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+
+<survey>2append(Ljava/lang/String;)√¿
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java2 2(B
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*(&
+$<date>2004/11/24 17:42:31 GMT</date>2append(Ljava/lang/String;)¡æ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java3 3(@
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*&$
+"<from>tobias.wunden@o2it.ch</from>2append(Ljava/lang/String;)Ω∫
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java4 4(<
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*" 
+<to>tobias.wunden@o2it.ch</to>2append(Ljava/lang/String;)∂≥
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java5 5(5
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+<subject>Test</subject>2append(Ljava/lang/String;)¶£
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java6 6(%
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*	
+<field>2append(Ljava/lang/String;)¥±
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java7 7(3
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+<name>homepage</name>2append(Ljava/lang/String;)Ø¨
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java8 8(.
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+<value>-</value>2append(Ljava/lang/String;)®•
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java9 9(&
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+
+</field>2append(Ljava/lang/String;)©¶
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java: :('
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+	</survey>2append(Ljava/lang/String;)◊
+‘
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java=% =(7
+%12"Dorg.exist.xmldb.DTMHandleTest#getXQueryService()LEXistXQueryService;*!
+org.exist.xmldb.DTMHandleTestÏÈ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java@ @($
+%13java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*(
+&
+xmlDocumentjava.lang.StringBuilder2
+toString()¥
+±
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java@ @(8
+%14"^org.exist.xmldb.DTMHandleTest#store(Ljava/lang/String;LEXistXQueryService;Ljava/lang/String;)V*!
+org.exist.xmldb.DTMHandleTest*
+
+%13java.lang.String*
+""*
+
+documentjava.lang.Stringó
+î
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaB B(+
+%15"\org.exist.xmldb.DTMHandleTest#load(LEXistXQueryService;Ljava/lang/String;)Lorg/w3c/dom/Node;*!
+org.exist.xmldb.DTMHandleTest*
+""*
+
+documentjava.lang.Stringê
+ç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaB B(,
+rootorg.w3c.dom.Node"__id*
+
+%15π
+∂
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaC C(,
+%16java.lang.String"__concat*
+	Document *
+
+documentjava.lang.String 
+«
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaC C(P
+%17java.lang.String"__concat*
+
+%16java.lang.String*#!
+ was not found in the database!ÈÊ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaG  G(4
+%18org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*
+
+rootorg.w3c.dom.Node2getChildNodes()≤
+Ø
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.javaG G(5$
+rootChildrenorg.w3c.dom.NodeList"__id*
+
+%18org.w3c.dom.NodeList*
+9*Ä
+0 "y
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/DTMHandleTest.java] ](
+implicit returnB!
+org.exist.xmldb.DTMHandleTest

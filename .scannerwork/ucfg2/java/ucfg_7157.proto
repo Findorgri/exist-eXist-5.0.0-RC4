@@ -1,0 +1,27 @@
+
+_org.exist.xmldb.RemoteDatabaseInstanceManager#getProperty(Ljava/lang/String;)Ljava/lang/String;m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteDatabaseInstanceManager.javag g("startingBlock*ã
+startingBlockm
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteDatabaseInstanceManager.javag g(0¸
+µ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteDatabaseInstanceManager.javaf f(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String¢
+Ÿ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteDatabaseInstanceManager.javag+ g(/
+namejava.lang.String"__annotation*
+
+%0*
+1*ë
+1m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteDatabaseInstanceManager.javah h("w
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteDatabaseInstanceManager.javah h(
+"":
+namejava.lang.StringB1/
+-org.exist.xmldb.RemoteDatabaseInstanceManager

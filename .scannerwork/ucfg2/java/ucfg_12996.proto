@@ -1,0 +1,71 @@
+
+Xorg.exist.xquery.XQueryContext#getInScopeNamespace(Ljava/lang/String;)Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∏ ∏(%"startingBlock*á
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ2 π(Cª
+∏
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ2 π(C
+%4java.util.Map"__id*9*7 
+org.exist.xquery.XQueryContext"
+inScopeNamespacesº
+π
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ2 π(O
+%3java.lang.String"__mapGet*
+
+%4java.util.Map*
+
+prefixjava.lang.Stringù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ2 π(O
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*Ñ
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ+ π(/ó
+î
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ+ π(/
+%1java.lang.String"__id*
+
+%2
+<nulltype>*
+1*¿
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∏% ∏(:≠
+™
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∑ ∑(
+%5"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.Stringó
+î
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∏3 ∏(9
+prefixjava.lang.String"__annotation*
+
+%5*
+4*´
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ π( ª
+∏
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ π( 
+%0java.util.Map"__id*9*7 
+org.exist.xquery.XQueryContext"
+inScopeNamespaces*
+2
+3*„
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ π(P"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaπ π(P
+
+%1java.lang.String:
+prefixjava.lang.StringB" 
+org.exist.xquery.XQueryContext

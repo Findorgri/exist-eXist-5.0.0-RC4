@@ -1,0 +1,16 @@
+
+[org.exist.xquery.modules.sql.PreparedStatementWithSQL#getStmt()Ljava/sql/PreparedStatement;ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/PreparedStatementWithSQL.java1 1($"1*¾
+1ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/PreparedStatementWithSQL.java3 3(û
+ø
+ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/PreparedStatementWithSQL.java3 3( 
+%0java.sql.PreparedStatement"__id*C*A7
+5org.exist.xquery.modules.sql.PreparedStatementWithSQL"
+stmt"¯
+ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/PreparedStatementWithSQL.java3 3("
+ 
+%0java.sql.PreparedStatementB97
+5org.exist.xquery.modules.sql.PreparedStatementWithSQL

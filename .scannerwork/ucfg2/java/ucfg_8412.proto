@@ -1,0 +1,15 @@
+
+\org.exist.client.security.GroupDialog#getGroupNameInputVerifier()Ljavax/swing/InputVerifier;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaì ì(3"1*±
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaí' í(4Ï
+Ì
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaí' í(4
+%0java.util.regex.Pattern"__id*<*:'
+%org.exist.client.security.GroupDialog"
+PTN_GROUPNAME"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaí í(6
+""B)'
+%org.exist.client.security.GroupDialog

@@ -1,0 +1,46 @@
+
+Oorg.exist.dom.persistent.DocumentImplTest$LessThan#matches(Ljava/lang/Object;)Zp
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.javaŸ Ÿ("startingBlock*ñ
+2p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.java¡ ¡("z
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.java¡ ¡(
+""*÷
+startingBlockp
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.javaŸ Ÿ(/¿
+¼
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.javaž ž(
+%2"
+__annotate*
+java.lang.Override*
+
+expectedjava.lang.Object©
+¦
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.javaŸ& Ÿ(.
+expectedjava.lang.Object"__annotation*
+
+%2*
+2
+1*Î
+1p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.java¤ ¤("Õ
+Ò
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.java¤. ¤(4
+%0java.lang.Long"__id*B*@4
+2org.exist.dom.persistent.DocumentImplTest$LessThan"
+actual‚ÿ
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.java¤ ¤(5	
+%1int"+java.lang.Long#compareTo(Ljava/lang/Long;)I*
+
+expectedjava.lang.Object*
+
+%0java.lang.Long2compareTo(Ljava/lang/Long;)"z
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/DocumentImplTest.java¤ ¤(:
+"":
+expectedjava.lang.ObjectB64
+2org.exist.dom.persistent.DocumentImplTest$LessThan

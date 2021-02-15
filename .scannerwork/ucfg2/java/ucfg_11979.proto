@@ -1,0 +1,51 @@
+
+/org.exist.xquery.regex.IntRangeSet#contains(I)Zb
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.java_ _("3"4"6"9"11*Õ
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javao o("l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javao o(
+""*§
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javam m(¯
+¬
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javam m(&	
+%1int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""*
+3
+4
+6
+1*§
+6b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javak k(¯
+¬
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javak k(&	
+%0int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""*
+3
+4
+6
+1*Õ
+9b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javad d("l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javad d(
+""*Ö
+11b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaa a("l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaa a(
+""*Õ
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javar r("l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javar r(
+"":
+""B&$
+"org.exist.xquery.regex.IntRangeSet

@@ -1,0 +1,90 @@
+
+_org.exist.xquery.functions.util.NodeXPath#getFullNodeName(Lorg/w3c/dom/Node;)Ljava/lang/String;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java{ {("5*‡
+2k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}ƒ }(„äá
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}ƒ }(“
+%6java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+norg.w3c.dom.Node2getLocalName()¨
+¥
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}ƒ }(“
+%4java.lang.String"__id*
+
+%6java.lang.String*
+1*Þ
+3i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}Z }([ÜÙ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}Z }(g
+%7java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
+
+norg.w3c.dom.Node2getPrefix()±
+®
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}Z }(m
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+:ãà
+j
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}p }(€
+%9java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+norg.w3c.dom.Node2getLocalName()Å
+Â
+j
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}Z }(€
+%5java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String§
+¤
+j
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}Z }(€
+%4java.lang.String"__id*
+
+%5java.lang.String*
+1*ê
+4i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}# }(/”
+‘
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}# }(A
+%1java.lang.String"__id*
+""ÜÙ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}I }(V
+%2java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
+
+norg.w3c.dom.Node2getPrefix()ûø
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}# }(W
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+2
+3*Õ
+5i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}	 }(
+ÜÙ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java}	 }(
+%0java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
+
+norg.w3c.dom.Node2getPrefix()*
+2
+4*ø
+1j
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java} }(”"†
+j
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java} }(”
+
+%4java.lang.String:
+norg.w3c.dom.NodeB-+
+)org.exist.xquery.functions.util.NodeXPath

@@ -1,0 +1,50 @@
+
+Dorg.exist.fluent.Source$XML#toInputSource()Lorg/xml/sax/InputSource;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java@ @(!"3*»
+2i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaB B(ª
+∏
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaB, B(4
+%2java.lang.String"__id*-*+
+org.exist.fluent.Source$XML"
+
+encodingîë
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaB B(5
+
+%3void"8org.xml.sax.InputSource#setEncoding(Ljava/lang/String;)V*#
+!
+sourceorg.xml.sax.InputSource*
+
+%2java.lang.String2setEncoding(Ljava/lang/String;)*
+1*ˇ
+3i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaA A()çä
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaA A(+
+%0org.xml.sax.InputSource"Horg.exist.fluent.Source$XML#createInputSource()Lorg/xml/sax/InputSource;*
+org.exist.fluent.Source$XML2createInputSource()∏
+µ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaA A(,!
+sourceorg.xml.sax.InputSource"__id*
+
+%0org.xml.sax.InputSourceª
+∏
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaB B(
+%1java.lang.String"__id*-*+
+org.exist.fluent.Source$XML"
+
+encoding*
+2
+1*Å
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaC
+ C("ê
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaC C(#
+!
+sourceorg.xml.sax.InputSourceB
+org.exist.fluent.Source$XML

@@ -1,0 +1,25 @@
+
+[org.exist.config.ConfigurationImpl#getRuntimeProperty(Ljava/lang/String;)Ljava/lang/Object;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java‹ ‹($"1*ó
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaŒ Œ( Ã
+À
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaŒ Œ( 
+%0java.util.Map"__id*=*;$
+"org.exist.config.ConfigurationImpl"
+runtimeProperties¾
+»
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaŒ Œ(*
+%1java.lang.Object"__mapGet*
+
+%0java.util.Map*
+
+namejava.lang.String"€
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaŒ Œ(+
+
+%1java.lang.Object:
+namejava.lang.StringB&$
+"org.exist.config.ConfigurationImpl

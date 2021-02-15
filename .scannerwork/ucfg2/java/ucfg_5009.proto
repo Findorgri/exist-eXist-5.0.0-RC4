@@ -1,0 +1,79 @@
+
+Oorg.exist.util.SelectorUtils#tokenizePath(Ljava/lang/String;)Ljava/util/Vector;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÇ! Ç(-"4*»
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÜ Ü(‰·
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÜ Ü()
+%6java.lang.String"7java.util.StringTokenizer#nextToken()Ljava/lang/String;*!
+
+stjava.util.StringTokenizer2nextToken()ˆÛ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÜ Ü(*
+
+%7void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+retjava.util.Vector*
+
+%6java.lang.String2addElement(Ljava/lang/Object;)*
+3*¿
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÖ Ö(“œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÖ Ö(!
+%5boolean"*java.util.StringTokenizer#hasMoreTokens()Z*!
+
+stjava.util.StringTokenizer2hasMoreTokens()*
+2
+1*•
+
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÉ# É(7çä
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÉ' É(5
+%0java.util.Vector"java.util.Vectorü
+ú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÉ# É(7
+%1"java.util.Vector#<init>()V*
+
+%0java.util.Vectorú
+ô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÉ É(8
+retjava.util.Vector"__id*
+
+%0java.util.Vectorâ
+Ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÑ< Ñ(J
+%2java.lang.String"__id*
+""üú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÑ' Ñ(6
+%3java.util.StringTokenizer"java.util.StringTokenizerã
+à
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÑ# Ñ(K
+%4"Gjava.util.StringTokenizer#<init>(Ljava/lang/String;Ljava/lang/String;)V*!
+
+%3java.util.StringTokenizer*
+
+pathjava.lang.String*
+
+%2java.lang.String≠
+™
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÑ Ñ(L
+stjava.util.StringTokenizer"__id*!
+
+%3java.util.StringTokenizer*
+3*‡
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaà à("{
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaà à(
+
+retjava.util.Vector:
+pathjava.lang.StringB "
+org.exist.util.SelectorUtils

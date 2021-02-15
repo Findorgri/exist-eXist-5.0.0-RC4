@@ -1,0 +1,22 @@
+
+<org.exist.xmldb.FullXmldbURI#getRawQuery()Ljava/lang/String;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javañ ñ("1*â
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaò ò(¯
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaò ò(
+%0java.net.URI"__id*0*.
+org.exist.xmldb.FullXmldbURI"
+
+wrappedURIÎË
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaò ò('
+%1java.lang.String",java.net.URI#getRawQuery()Ljava/lang/String;*
+
+%0java.net.URI2getRawQuery()"z
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaò ò((
+
+%1java.lang.StringB 
+org.exist.xmldb.FullXmldbURI

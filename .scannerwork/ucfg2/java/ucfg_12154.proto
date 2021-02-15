@@ -1,0 +1,79 @@
+
+`org.exist.xquery.LocationStep$FollowingSiblingFilter#accept(Ljavax/xml/stream/XMLStreamReader;)Z_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaþ	 þ	("startingBlock*×
+13_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java†
+1 †
+(7ãà
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java†
+1 †
+(F
+%1boolean"0javax.xml.stream.XMLStreamReader#isEndElement()Z*,
+*
+reader javax.xml.stream.XMLStreamReader2isEndElement()*
+
+2
+10
+1*Ï
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java›
+ ›
+("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java›
+ ›
+(
+""*Þ
+startingBlock_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaþ	 þ	(;¼
+¹
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaý	 ý	(
+%3"
+__annotate*
+java.lang.Override*,
+*
+reader javax.xml.stream.XMLStreamReader¦
+£
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaþ	4 þ	(:*
+reader javax.xml.stream.XMLStreamReader"__annotation*
+
+%3*
+16*‰
+16_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaÿ	. ÿ	(4•’
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaÿ	. ÿ	(j
+%0"Rjavax.xml.stream.XMLStreamReader#getProperty(Ljava/lang/String;)Ljava/lang/Object;*,
+*
+reader javax.xml.stream.XMLStreamReader*
+""2getProperty(Ljava/lang/String;)*
+
+13
+2
+1*Ì
+10_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaŠ
+, Š
+(1ßÜ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java‹
+4 ‹
+(I	
+%2int"0javax.xml.stream.XMLStreamReader#getEventType()I*,
+*
+reader javax.xml.stream.XMLStreamReader2getEventType()*
+1*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaž
+ ž
+("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaž
+ ž
+(
+"":*
+reader javax.xml.stream.XMLStreamReaderB86
+4org.exist.xquery.LocationStep$FollowingSiblingFilter

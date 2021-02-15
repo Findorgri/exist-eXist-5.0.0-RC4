@@ -1,0 +1,83 @@
+
+9org.exist.backup.ErrorReport#toString()Ljava/lang/String;\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javac c("3*æ
+2\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javai i(Æ
+´
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javai i(
+%7java.lang.String"__id*-*+
+org.exist.backup.ErrorReport"	
+message§°
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javai i( 
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%7java.lang.String2append(Ljava/lang/String;)*
+1*É
+3\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javae! e(4ôñ
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javae% e(2
+%0java.lang.StringBuilder"java.lang.StringBuilder´
+®
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javae! e(4
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderß
+§
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javae e(5
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderâ
+Ü
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaf f(
+%2java.lang.String[]"__id*
+""©
+¶
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaf f(!
+%3java.lang.String"
+__arrayGet*
+
+%2java.lang.String[]*
+""§°
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaf f(#
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%3java.lang.String2append(Ljava/lang/String;)ìê
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaf f(3
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*
+:\n2append(Ljava/lang/String;)Æ
+´
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javah h(
+%6java.lang.String"__id*-*+
+org.exist.backup.ErrorReport"	
+message*
+2
+1*∫
+1\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javak k(‹Ÿ
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javak k(
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"x
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javak k( 
+
+%9java.lang.StringB 
+org.exist.backup.ErrorReport

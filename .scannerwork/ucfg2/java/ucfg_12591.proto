@@ -1,0 +1,21 @@
+
+Norg.exist.storage.NativeBrokerLockingTest$LockSymmetryListener#isRegistered()Zp
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/NativeBrokerLockingTest.java€ €(#"1*ç
+1p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/NativeBrokerLockingTest.java (€
+ý
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/NativeBrokerLockingTest.java (/
+%0)java.util.concurrent.atomic.AtomicBoolean"__id*R*P@
+>org.exist.storage.NativeBrokerLockingTest$LockSymmetryListener"
+
+registeredðí
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/NativeBrokerLockingTest.java (#
+%1boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*1
+/
+%0)java.util.concurrent.atomic.AtomicBoolean2get()"z
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/NativeBrokerLockingTest.java ($
+""BB@
+>org.exist.storage.NativeBrokerLockingTest$LockSymmetryListener

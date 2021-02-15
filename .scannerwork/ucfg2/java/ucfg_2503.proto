@@ -1,0 +1,63 @@
+
+Torg.exist.xquery.update.Modification#getParent(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÑ Ñ(&"startingBlock*ä
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÕ Õ(îë
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÕ Õ(2
+%0org.w3c.dom.Element"7org.w3c.dom.Attr#getOwnerElement()Lorg/w3c/dom/Element;*
+
+nodeorg.w3c.dom.Node2getOwnerElement()"…
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÕ Õ(3
+
+%0org.w3c.dom.Element*ü
+startingBlockf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÑ& Ñ(A§
+¤
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÑ Ñ(
+%2"
+__annotate*
+
+Nullable*
+
+nodeorg.w3c.dom.Node§
+¤
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÑ' Ñ(0
+%3"
+__annotate*
+
+Nullable*
+
+nodeorg.w3c.dom.Node£
+ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÑ< Ñ(@
+nodeorg.w3c.dom.Node"__annotation*
+
+%2*
+
+%3*	
+2
+4
+1*Ý
+4f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÓ Ó("p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.javaÓ Ó(
+""*×
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.java× ×(äá
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.java× ×('
+%1org.w3c.dom.Node"2org.w3c.dom.Node#getParentNode()Lorg/w3c/dom/Node;*
+
+nodeorg.w3c.dom.Node2getParentNode()"‚
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Modification.java× ×((
+
+%1org.w3c.dom.Node:
+nodeorg.w3c.dom.NodeB(&
+$org.exist.xquery.update.Modification

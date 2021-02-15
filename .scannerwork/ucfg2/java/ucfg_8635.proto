@@ -1,0 +1,132 @@
+
+Dorg.exist.xmlrpc.MoveResourceTest$CheckThread#call()Ljava/lang/Void;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.javaß ß("9*–
+3h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java∑ ∑(ÿ’
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java∑ ∑(
+%13void"java.lang.Object#wait(J)V*1/
+-org.exist.xmlrpc.MoveResourceTest$CheckThread*2˙2wait(J)*
+7
+1*ﬂ
+5h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java≤ ≤(D¨
+©
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java≤ ≤(D
+isjava.io.InputStream"__id*
+
+%11java.io.InputStreamª
+∏
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java≥ ≥($
+%12java.lang.String"corg.exist.xmlrpc.MoveResourceTest$CheckThread#readResponse(Ljava/io/InputStream;)Ljava/lang/String;*1/
+-org.exist.xmlrpc.MoveResourceTest$CheckThread*
+
+isjava.io.InputStream*
+3*˜
+6h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java≤, ≤(3Çˇ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java≤, ≤(D
+%11java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*'
+%
+connectjava.net.HttpURLConnection2getInputStream()*
+5*≤
+7h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java™" ™((èå
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java™ ™(!
+%4java.net.URL"java.net.URL—
+Œ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java™ ™()
+%5"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%4java.net.URL*
+
+reqUrljava.lang.Stringû
+õ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java™ ™(*
+urljava.net.URL"__id*
+
+%4java.net.URLÎË
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java´@ ´(T
+%6java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+urljava.net.URL2openConnection()∫
+∑
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java´ ´(U%
+connectjava.net.HttpURLConnection"__id*
+
+%6java.net.URLConnectionìê
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java¨ ¨(/
+
+%7void"@java.net.HttpURLConnection#setRequestMethod(Ljava/lang/String;)V*'
+%
+connectjava.net.HttpURLConnection*
+GET2$setRequestMethod(Ljava/lang/String;)–Õ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java≠ ≠(!
+
+%8void"!java.net.URLConnection#connect()V*'
+%
+connectjava.net.HttpURLConnection2	connect()„‡
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.javaØ Ø(1	
+%9int"-java.net.HttpURLConnection#getResponseCode()I*'
+%
+connectjava.net.HttpURLConnection2getResponseCode()º
+π
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java∞ ∞(A
+%10java.lang.String"__concat*" 
+Server returned response code *
+""*
+6*´	
+9h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java® ®(&Ó
+Î
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java® ®((
+%0java.lang.String"@org.exist.xmlrpc.MoveResourceTest#getRestUri()Ljava/lang/String;*%"#
+!org.exist.xmlrpc.MoveResourceTest∫
+∑
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java® ®(8
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+/db?_query=ì
+ê
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java®; ®(}
+%2java.lang.String"@java.net.URLEncoder#encode(Ljava/lang/String;)Ljava/lang/String;*"
+java.net.URLEncoder*1/
+-collection('/db')//SPEECH[SPEAKER = 'JULIET']√
+¿
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java® ®(}
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String©
+¶
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java® ®(~
+reqUrljava.lang.String"__id*
+
+%3java.lang.String*
+7
+1*·
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java∫ ∫("r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/MoveResourceTest.java∫ ∫(
+""B1/
+-org.exist.xmlrpc.MoveResourceTest$CheckThread

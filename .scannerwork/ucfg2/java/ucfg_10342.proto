@@ -1,0 +1,42 @@
+
+dorg.exist.dom.persistent.AttrImpl#getFeature(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java® ®("startingBlock*ù
+startingBlockc
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java® ®(H±
+Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaß ß(
+%0"
+__annotate*
+java.lang.Override*
+
+featurejava.lang.Stringõ
+ò
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java®* ®(1
+featurejava.lang.String"__annotation*
+
+%0±
+Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaß ß(
+%1"
+__annotate*
+java.lang.Override*
+
+versionjava.lang.Stringõ
+ò
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java®@ ®(G
+versionjava.lang.String"__annotation*
+
+%1*
+1*◊
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java© ©("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java© ©(
+"":
+featurejava.lang.String:
+versionjava.lang.StringB%#
+!org.exist.dom.persistent.AttrImpl

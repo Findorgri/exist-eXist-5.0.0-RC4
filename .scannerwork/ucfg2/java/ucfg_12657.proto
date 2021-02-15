@@ -1,0 +1,43 @@
+
+;org.exist.fluent.QName#compareTo(Lorg/exist/fluent/QName;)Ih
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java$ $("1*±
+1h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java%	 %(
+óð
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java% %(
+%0java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*
+org.exist.fluent.QName2getNamespaceURI()öó
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java%) %(<
+%1java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*
+
+oorg.exist.fluent.QName2getNamespaceURI()üù
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java% %(=	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%0java.lang.String*
+
+%1java.lang.String2compareTo(Ljava/lang/String;)íê
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java%@ %(N
+%3java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*
+org.exist.fluent.QName2getLocalPart()ðí
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java%Y %(i
+%4java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*
+
+oorg.exist.fluent.QName2getLocalPart()üù
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java%@ %(j	
+%5int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%3java.lang.String*
+
+%4java.lang.String2compareTo(Ljava/lang/String;)"r
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java% %(k
+"":
+oorg.exist.fluent.QNameB
+org.exist.fluent.QName

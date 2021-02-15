@@ -1,0 +1,239 @@
+
+Norg.exist.xmldb.DatabaseImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‚ ‚("startingBlock*ñ
+
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaƒ ƒ(Œ
+‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaƒ ƒ(
+valuejava.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java… …( 
+%0java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‰ ‰(
+%1java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (
+%2java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‘ ‘(
+%3java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java• •(
+%4java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java™ ™(
+%5java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (&
+%6java.lang.String"__id*
+""‰
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¡ ¡($
+%7java.lang.String"__id*
+""*
+3
+4
+5
+6
+7
+8
+9
+10
+11*÷
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¥ ¦(Œ
+‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¦ ¦(
+valuejava.lang.String"__id*
+""*
+1*À
+startingBlock^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‚ ‚(4®
+«
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (
+%20"
+__annotate*
+java.lang.Override*
+
+propertyjava.lang.String˜
+•
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‚+ ‚(3
+propertyjava.lang.String"__annotation*
+
+%20*
+2*¢
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¡ £(¾
+»
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¢ ¢(+
+%18java.lang.Boolean"__id*9*7
+org.exist.xmldb.DatabaseImpl"
+ssl_verify_hostnameÔÑ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¢ ¢(6
+%19java.lang.String".java.lang.Boolean#toString()Ljava/lang/String;*
+
+%18java.lang.Boolean2
+toString()Ÿ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¢ ¢(6
+valuejava.lang.String"__id*
+
+%19java.lang.String*
+1*¤
+5^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java Ÿ(À
+½
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaž ž(-
+%16java.lang.Boolean"__id*;*9
+org.exist.xmldb.DatabaseImpl"
+ssl_allow_self_signedÔÑ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaž ž(8
+%17java.lang.String".java.lang.Boolean#toString()Ljava/lang/String;*
+
+%16java.lang.Boolean2
+toString()Ÿ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaž ž(8
+valuejava.lang.String"__id*
+
+%17java.lang.String*
+1*™
+6^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java™ ›(µ
+²
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaš š("
+%14java.lang.Boolean"__id*0*.
+org.exist.xmldb.DatabaseImpl"
+
+ssl_enableÔÑ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaš š(-
+%15java.lang.String".java.lang.Boolean#toString()Ljava/lang/String;*
+
+%14java.lang.Boolean2
+toString()Ÿ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaš š(-
+valuejava.lang.String"__id*
+
+%15java.lang.String*
+1*Á
+7^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java• —(´
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java– –("
+%13java.lang.String"__id*0*.
+org.exist.xmldb.DatabaseImpl"
+
+journalDirŸ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java– –("
+valuejava.lang.String"__id*
+
+%13java.lang.String*
+1*¾
+8^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‘ “(±
+®
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java’ ’(
+%12java.lang.String"__id*-*+
+org.exist.xmldb.DatabaseImpl"	
+dataDirŸ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java’ ’(
+valuejava.lang.String"__id*
+
+%12java.lang.String*
+1*Ä
+9^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (·
+´
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŽ Ž(%
+%11java.lang.String"__id*3*1
+org.exist.xmldb.DatabaseImpl"
+configurationŸ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŽ Ž(%
+valuejava.lang.String"__id*
+
+%11java.lang.String*
+1*Ë
+10^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‰ ‹(½
+º
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŠ Š(+
+%10java.lang.String"__id*9*7
+org.exist.xmldb.DatabaseImpl"
+currentInstanceNameŸ
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŠ Š(+
+valuejava.lang.String"__id*
+
+%10java.lang.String*
+1*®
+11^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java… ‡(Ì
+É
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java† †(3
+%8java.lang.Boolean"/java.lang.Boolean#valueOf(Z)Ljava/lang/Boolean;*"
+java.lang.Boolean*
+""ÒÏ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java† †(>
+%9java.lang.String".java.lang.Boolean#toString()Ljava/lang/String;*
+
+%8java.lang.Boolean2
+toString()ž
+›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java† †(>
+valuejava.lang.String"__id*
+
+%9java.lang.String*
+1*â
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¨ ¨("}
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java¨ ¨(
+
+valuejava.lang.String:
+propertyjava.lang.StringB 
+org.exist.xmldb.DatabaseImpl

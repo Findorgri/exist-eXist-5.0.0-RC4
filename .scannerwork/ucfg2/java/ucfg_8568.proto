@@ -1,0 +1,43 @@
+
+(org.exist.client.CollectionXConf#Save()Zb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaŒ Œ("5"10*Ö
+5b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¡ ¡(ç
+ä
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¡ ¡(%
+%3java.lang.String"@org.exist.client.CollectionXConf#toXMLString()Ljava/lang/String;*$"
+ org.exist.client.CollectionXConf*
+1*¤
+9b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaš š(µ
+²
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaš' š(+
+%2java.lang.String"__id*.*,"
+ org.exist.client.CollectionXConf"
+path*
+5*×
+10b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java™ ™(µ
+²
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java™ ™(#
+%0java.lang.String"__id*.*,"
+ org.exist.client.CollectionXConf"
+path¯
+¬
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java™ ™(#
+%1java.lang.String"__concat*
+
+mkcol *
+
+%0java.lang.String*
+9*Õ
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java«	 «("l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java« «(
+""B$"
+ org.exist.client.CollectionXConf

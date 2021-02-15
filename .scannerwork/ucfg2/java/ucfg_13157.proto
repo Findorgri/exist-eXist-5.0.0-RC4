@@ -1,0 +1,85 @@
+
+Aorg.exist.xquery.VariableDeclaration#toString()Ljava/lang/String;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java¶ ¶("5*¾
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java½ ½(Ÿœ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java½ ½(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+{2append(Ljava/lang/String;)‡„
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java¾ ¾(0
+%7"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)Ÿœ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java¿ ¿(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+}2append(Ljava/lang/String;)*
+1*ž
+4f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.javaº	 º(¢Ÿ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.javaº	 º(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ as 2append(Ljava/lang/String;)ƒ€
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.javaº	 º(>
+%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+2
+1*Å	
+5f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java·" ·(5£ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java·& ·(3
+%0java.lang.StringBuilder"java.lang.StringBuilderµ
+²
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java·" ·(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderµ
+²
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java· ·(6!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder°­
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java¸ ¸((
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+declare variable $2append(Ljava/lang/String;)ƒ€
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.java¸ ¸(6
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%2java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+2
+4
+1*Ý
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.javaÁ Á(êç
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.javaÁ Á( 
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"‚
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableDeclaration.javaÁ Á(!
+
+%9java.lang.StringB(&
+$org.exist.xquery.VariableDeclaration

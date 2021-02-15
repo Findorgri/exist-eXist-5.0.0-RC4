@@ -1,0 +1,702 @@
+
+Aorg.exist.indexing.lucene.LuceneMatchListenerTest#indexByQName()V“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java£ £("37*µ
+13“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¾ ¾(4Ä
+Á
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¾ ¾(4
+resultjava.lang.String"__id*
+
+%31€
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¿K ¿(V
+%32java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_START€
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¿# ¿(V
+%33java.lang.String"__concat*'%
+#<para>a third paragraph with <term>*
+
+%32java.lang.Stringá
+Þ
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¿# ¿(_
+%34java.lang.String"__concat*
+
+%33java.lang.String*
+termþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¿b ¿(k
+%35java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¿# ¿(k
+%36java.lang.String"__concat*
+
+%34java.lang.String*
+
+%35java.lang.Stringì
+é
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¿# À(%
+%37java.lang.String"__concat*
+
+%36java.lang.String*
+</term>.</para>*
+8*ø
+14“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¾ ¾('Õ
+Ò
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¾ ¾(4
+%31"lorg.exist.indexing.lucene.LuceneMatchListenerTest#queryResult2String(LDBBroker;LSequence;)Ljava/lang/String;*53
+1org.exist.indexing.lucene.LuceneMatchListenerTest*
+""*
+""*
+13*¯
+25“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¯ ¯(<Ã
+À
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¯ ¯(<
+resultjava.lang.String"__id*
+
+%5ÿ
+ü
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java°F °(Q
+%6java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTù
+ö
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java°# °(Q
+%7java.lang.String"__concat*" 
+<para>some paragraph with <hi>*
+
+%6java.lang.Stringà
+Ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java°# °([
+%8java.lang.String"__concat*
+
+%7java.lang.String*	
+mixedý
+ú
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java± ±(
+%9java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDð
+í
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java°# ±(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.Stringò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java°# ±(7
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+</hi> content.</para>*
+20*Å	
+37“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¥ ¥(ù
+ö
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¥ ¥(
+%0java.lang.String"__id*@*>3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+CONF2÷
+ô
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¥! ¥($
+%1java.lang.String"__id*>*<3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+XMLü
+ù
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¥ ¥(%
+
+%2void"jorg.exist.indexing.lucene.LuceneMatchListenerTest#configureAndStore(Ljava/lang/String;Ljava/lang/String;)V*53
+1org.exist.indexing.lucene.LuceneMatchListenerTest*
+
+%0java.lang.String*
+
+%1java.lang.String­
+ª
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java§  §(3
+%3"__id*
+""*
+34*÷
+26“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¯ ¯(.Ô
+Ñ
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¯ ¯(;
+%5"lorg.exist.indexing.lucene.LuceneMatchListenerTest#queryResult2String(LDBBroker;LSequence;)Ljava/lang/String;*53
+1org.exist.indexing.lucene.LuceneMatchListenerTest*
+""*
+""*
+25*¬%
+19“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¶ ¶(4Ä
+Á
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¶ ¶(4
+resultjava.lang.String"__id*
+
+%12€
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·O ·(Z
+%13java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_START„
+
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ·(Z
+%14java.lang.String"__concat*+)
+'<para>another paragraph with <note><hi>*
+
+%13java.lang.Stringã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ·(e
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+
+nestedþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¸ ¸(
+%16java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¸(
+%17java.lang.String"__concat*
+
+%15java.lang.String*
+
+%16java.lang.Stringã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¸((
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+
+</hi> €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¸+ ¸(6
+%19java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¸(6
+%20java.lang.String"__concat*
+
+%18java.lang.String*
+
+%19java.lang.Stringâ
+ß
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹(
+%21java.lang.String"__concat*
+
+%20java.lang.String*	
+innerþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¹ ¹('
+%22java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹('
+%23java.lang.String"__concat*
+
+%21java.lang.String*
+
+%22java.lang.Stringå
+â
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹(4
+%24java.lang.String"__concat*
+
+%23java.lang.String*
+
+</note> €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¹7 ¹(B
+%25java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹(B
+%26java.lang.String"__concat*
+
+%24java.lang.String*
+
+%25java.lang.Stringå
+â
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹(O
+%27java.lang.String"__concat*
+
+%26java.lang.String*
+
+elementsþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¹R ¹([
+%28java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹([
+%29java.lang.String"__concat*
+
+%27java.lang.String*
+
+%28java.lang.Stringå
+â
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java·# ¹(h
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+
+.</para>*
+14*³
+0 "«
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÔ Ô(
+implicit return*¹0
+1“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÏ Ï(4Ä
+Á
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÏ Ï(4
+resultjava.lang.String"__id*
+
+%64€
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ3 Ð(>
+%65java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTè
+å
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ð(>
+%66java.lang.String"__concat*
+<hit><para>*
+
+%65java.lang.Stringã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ð(I
+%67java.lang.String"__concat*
+
+%66java.lang.String*
+
+doubleþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐL Ð(U
+%68java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ð(U
+%69java.lang.String"__concat*
+
+%67java.lang.String*
+
+%68java.lang.StringÞ
+Û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ð([
+%70java.lang.String"__concat*
+
+%69java.lang.String*
+ €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÑ Ñ(
+%71java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(
+%72java.lang.String"__concat*
+
+%70java.lang.String*
+
+%71java.lang.Stringâ
+ß
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ()
+%73java.lang.String"__concat*
+
+%72java.lang.String*	
+matchþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÑ, Ñ(5
+%74java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(5
+%75java.lang.String"__concat*
+
+%73java.lang.String*
+
+%74java.lang.StringÞ
+Û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(;
+%76java.lang.String"__concat*
+
+%75java.lang.String*
+ €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÑ> Ñ(I
+%77java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(I
+%78java.lang.String"__concat*
+
+%76java.lang.String*
+
+%77java.lang.Stringã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(T
+%79java.lang.String"__concat*
+
+%78java.lang.String*
+
+doubleþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÑW Ñ(`
+%80java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(`
+%81java.lang.String"__concat*
+
+%79java.lang.String*
+
+%80java.lang.StringÞ
+Û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ñ(f
+%82java.lang.String"__concat*
+
+%81java.lang.String*
+ €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÒ Ò(
+%83java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ò(
+%84java.lang.String"__concat*
+
+%82java.lang.String*
+
+%83java.lang.Stringâ
+ß
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ò()
+%85java.lang.String"__concat*
+
+%84java.lang.String*	
+matchþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÒ, Ò(5
+%86java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ò(5
+%87java.lang.String"__concat*
+
+%85java.lang.String*
+
+%86java.lang.Stringê
+ç
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÐ# Ò(G
+%88java.lang.String"__concat*
+
+%87java.lang.String*
+</para></hit>*
+0*ö
+2“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÏ Ï('Õ
+Ò
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÏ Ï(4
+%64"lorg.exist.indexing.lucene.LuceneMatchListenerTest#queryResult2String(LDBBroker;LSequence;)Ljava/lang/String;*53
+1org.exist.indexing.lucene.LuceneMatchListenerTest*
+""*
+""*
+1*¹
+6“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÊ Ê(˜
+•
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaË Ì(3
+%63java.lang.String"__concat*?=
+;for $para in //para[ft:query(., '+double +match')] return\n*
+   <hit>{$para}</hit>*
+2*®0
+7“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÅ Å(4Ä
+Á
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÅ Å(4
+resultjava.lang.String"__id*
+
+%38€
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ. Æ(9
+%39java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Æ(9
+%40java.lang.String"__concat*
+
+<para>*
+
+%39java.lang.Stringã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Æ(D
+%41java.lang.String"__concat*
+
+%40java.lang.String*
+
+doubleþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆG Æ(P
+%42java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Æ(P
+%43java.lang.String"__concat*
+
+%41java.lang.String*
+
+%42java.lang.StringÞ
+Û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Æ(V
+%44java.lang.String"__concat*
+
+%43java.lang.String*
+ €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÇ Ç(
+%45java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(
+%46java.lang.String"__concat*
+
+%44java.lang.String*
+
+%45java.lang.Stringâ
+ß
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç()
+%47java.lang.String"__concat*
+
+%46java.lang.String*	
+matchþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÇ, Ç(5
+%48java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(5
+%49java.lang.String"__concat*
+
+%47java.lang.String*
+
+%48java.lang.StringÞ
+Û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(;
+%50java.lang.String"__concat*
+
+%49java.lang.String*
+ €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÇ> Ç(I
+%51java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(I
+%52java.lang.String"__concat*
+
+%50java.lang.String*
+
+%51java.lang.Stringã
+à
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(T
+%53java.lang.String"__concat*
+
+%52java.lang.String*
+
+doubleþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÇW Ç(`
+%54java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(`
+%55java.lang.String"__concat*
+
+%53java.lang.String*
+
+%54java.lang.StringÞ
+Û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# Ç(f
+%56java.lang.String"__concat*
+
+%55java.lang.String*
+ €
+ý
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÈ È(
+%57java.lang.String"__id*F*D3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+MATCH_STARTò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# È(
+%58java.lang.String"__concat*
+
+%56java.lang.String*
+
+%57java.lang.Stringâ
+ß
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# È()
+%59java.lang.String"__concat*
+
+%58java.lang.String*	
+matchþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÈ, È(5
+%60java.lang.String"__id*D*B3
+1org.exist.indexing.lucene.LuceneMatchListenerTest"
+	MATCH_ENDò
+ï
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# È(5
+%61java.lang.String"__concat*
+
+%59java.lang.String*
+
+%60java.lang.Stringä
+á
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÆ# È(A
+%62java.lang.String"__concat*
+
+%61java.lang.String*	
+</para>*
+6*ö
+8“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÅ Å('Õ
+Ò
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.javaÅ Å(4
+%38"lorg.exist.indexing.lucene.LuceneMatchListenerTest#queryResult2String(LDBBroker;LSequence;)Ljava/lang/String;*53
+1org.exist.indexing.lucene.LuceneMatchListenerTest*
+""*
+""*
+7*ø
+20“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¶ ¶('Õ
+Ò
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¶ ¶(4
+%12"lorg.exist.indexing.lucene.LuceneMatchListenerTest#queryResult2String(LDBBroker;LSequence;)Ljava/lang/String;*53
+1org.exist.indexing.lucene.LuceneMatchListenerTest*
+""*
+""*
+19*¡
+34“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¨- ¨(fþ
+û
+“
+†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneMatchListenerTest.java¨- ¨(f
+%4"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+""*
+26B53
+1org.exist.indexing.lucene.LuceneMatchListenerTest

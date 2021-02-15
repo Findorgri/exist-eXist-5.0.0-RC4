@@ -1,0 +1,86 @@
+
+Corg.exist.dom.persistent.NodeProxy#debugContext()Ljava/lang/String;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java√ √("4*è
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java» »(¯ı
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java» »(
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+[2	append(C)Çˇ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java… …(2
+%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)¯ı
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java   (
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+:2	append(C)Çˇ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÀ À(+
+%8"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)õò
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÃ Ã(
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+] 2append(Ljava/lang/String;)*
+2
+1*£
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaƒ" ƒ(5°û
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaƒ& ƒ(3
+%0java.lang.StringBuilder"java.lang.StringBuilder≥
+∞
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaƒ" ƒ(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder∞
+≠
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaƒ ƒ(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder•¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java≈ ≈("
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+Context for 2append(Ljava/lang/String;)Å˛
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java≈ ≈(1
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%2java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)ˆÛ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java≈G ≈(Q
+%4java.lang.String"?org.exist.dom.persistent.NodeProxy#toString()Ljava/lang/String;*&$
+"org.exist.dom.persistent.NodeProxy2
+toString()*
+2
+1*÷
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaœ œ(Ê„
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaœ œ(
+%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"Å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaœ œ(
+
+%10java.lang.StringB&$
+"org.exist.dom.persistent.NodeProxy

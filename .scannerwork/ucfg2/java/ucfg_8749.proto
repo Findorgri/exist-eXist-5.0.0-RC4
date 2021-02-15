@@ -1,0 +1,63 @@
+
+Oorg.exist.dom.persistent.DocumentImpl#getDocumentElement()Lorg/w3c/dom/Element;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaæ æ(%"6*Ø
+3g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaê! ê(#ãà
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaê! ê(+
+%5org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*
+
+clorg.w3c.dom.NodeList*
+""2item(I)"ƒ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaê ê(,
+
+%5org.w3c.dom.Node*ª
+4g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaé é(ãà
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaé é(
+%2org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*
+
+clorg.w3c.dom.NodeList*
+""2item(I)ÃÀ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaé é('
+%3short"org.w3c.dom.Node#getNodeType()S*
+
+%2org.w3c.dom.Node2getNodeType()‡
+„
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaé+ é(<
+%4short"__id*
+""*
+3
+5*¼
+5g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaè è(ÅÂ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaè è()	
+%1int"!org.w3c.dom.NodeList#getLength()I*
+
+clorg.w3c.dom.NodeList2getLength()*
+4
+1*´
+6g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaç ç()‘Ž
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaç ç(+
+%0org.w3c.dom.NodeList"Korg.exist.dom.persistent.DocumentImpl#getChildNodes()Lorg/w3c/dom/NodeList;*)'
+%org.exist.dom.persistent.DocumentImpl2getChildNodes()¬
+©
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaç ç(,
+clorg.w3c.dom.NodeList"__id*
+
+%0org.w3c.dom.NodeList*
+5*ß
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaí í("q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaí í(
+""B)'
+%org.exist.dom.persistent.DocumentImpl

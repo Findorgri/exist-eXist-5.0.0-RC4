@@ -1,0 +1,16 @@
+
+]org.exist.test.ExistXmldbEmbeddedServer#executeOneValue(Ljava/lang/String;)Ljava/lang/String;n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistXmldbEmbeddedServer.javaœ œ(!"1*¬
+1n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistXmldbEmbeddedServer.java$ (0¼¹
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistXmldbEmbeddedServer.java$ (7
+%0"Uorg.exist.test.ExistXmldbEmbeddedServer#executeQuery(Ljava/lang/String;)LResourceSet;*+)
+'org.exist.test.ExistXmldbEmbeddedServer*
+
+queryjava.lang.String2 executeQuery(Ljava/lang/String;)"x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistXmldbEmbeddedServer.javaŸ Ÿ(>
+"":
+queryjava.lang.StringB+)
+'org.exist.test.ExistXmldbEmbeddedServer

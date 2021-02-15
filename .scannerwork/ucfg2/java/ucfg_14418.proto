@@ -1,0 +1,24 @@
+
+Morg.exist.xmldb.XmldbURI#append(Ljava/lang/String;)Lorg/exist/xmldb/XmldbURI;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÒ Ò("1*¦
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÓ Ó(‡
+„
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÓ Ó(*
+%0org.exist.xmldb.XmldbURI"Morg.exist.xmldb.XmldbURI#create(Ljava/lang/String;)Lorg/exist/xmldb/XmldbURI;*"
+org.exist.xmldb.XmldbURI*
+
+urijava.lang.Stringº·
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÓ Ó(+
+%1org.exist.xmldb.XmldbURI"Uorg.exist.xmldb.XmldbURI#append(Lorg/exist/xmldb/XmldbURI;)Lorg/exist/xmldb/XmldbURI;*
+org.exist.xmldb.XmldbURI* 
+
+%0org.exist.xmldb.XmldbURI2"append(Lorg/exist/xmldb/XmldbURI;)"~
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÓ Ó(, 
+
+%1org.exist.xmldb.XmldbURI:
+urijava.lang.StringB
+org.exist.xmldb.XmldbURI

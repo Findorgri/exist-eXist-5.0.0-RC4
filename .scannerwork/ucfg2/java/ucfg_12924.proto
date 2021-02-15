@@ -1,0 +1,134 @@
+
+[org.exist.xslt.TemplatesFactory#uri(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaP P("6*™
+2_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaY Y(∆√
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaY Y(
+%9java.net.URI"(java.nio.file.Path#toUri()Ljava/net/URI;*
+
+fjava.nio.file.Path2toUri()‘—
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaY Y()
+%10java.lang.String".java.net.URI#toASCIIString()Ljava/lang/String;*
+
+%9java.net.URI2toASCIIString()û
+õ
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaY
+ Y()
+urijava.lang.String"__id*
+
+%10java.lang.String*
+1*¸
+3_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaW W(¨
+©
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaW W(*
+%6java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+baseUrijava.lang.String* 
+
+
+stylesheetjava.lang.String€ÿ
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaW W(6
+%7java.nio.file.Path"2java.nio.file.Path#normalize()Ljava/nio/file/Path;*
+
+%6java.nio.file.Path2normalize()ü
+ú
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaW W(6
+fjava.nio.file.Path"__id*
+
+%7java.nio.file.Pathﬁ
+€
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaX X(
+%8boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+fjava.nio.file.Path*
+2
+1*®
+4_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaU U(∆√
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaU U(
+%4java.net.URI"(java.nio.file.Path#toUri()Ljava/net/URI;*
+
+fjava.nio.file.Path2toUri()”–
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaU U('
+%5java.lang.String".java.net.URI#toASCIIString()Ljava/lang/String;*
+
+%4java.net.URI2toASCIIString()ù
+ö
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaU U('
+urijava.lang.String"__id*
+
+%5java.lang.String*
+1*›
+5_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaS S(ç
+ä
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaS S($
+%1java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths* 
+
+
+stylesheetjava.lang.String€ÿ
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaS S(0
+%2java.nio.file.Path"2java.nio.file.Path#normalize()Ljava/nio/file/Path;*
+
+%1java.nio.file.Path2normalize()ü
+ú
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaS S(1
+fjava.nio.file.Path"__id*
+
+%2java.nio.file.Pathﬁ
+€
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaT
+ T(
+%3boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+fjava.nio.file.Path*
+3
+4*Ÿ
+6_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaQ Q(•
+¢
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaQ Q(
+urijava.lang.String"__id* 
+
+
+stylesheetjava.lang.String¬ø
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.javaR R(	
+%0int"java.lang.String#indexOf(I)I* 
+
+
+stylesheetjava.lang.String*
+:2
+indexOf(I)*
+5
+1*‚
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.java] ]("|
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/TemplatesFactory.java] ](
+
+urijava.lang.String:
+
+stylesheetjava.lang.String:
+baseUrijava.lang.StringB#"!
+org.exist.xslt.TemplatesFactory

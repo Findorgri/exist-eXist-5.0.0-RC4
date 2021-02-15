@@ -1,0 +1,27 @@
+
+lorg.exist.util.PropertiesBuilder#set(Ljava/lang/String;Ljava/lang/String;)Lorg/exist/util/PropertiesBuilder;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java' '( "1*“
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java( ((½
+º
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java( ((
+%0java.util.Properties"__id*4*2"
+ org.exist.util.PropertiesBuilder"
+
+propertiesàÝ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java( ((*
+%1java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*
+
+%0java.util.Properties*
+
+keyjava.lang.String*
+
+valuejava.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)"ˆ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java) )($"
+ org.exist.util.PropertiesBuilder:
+keyjava.lang.String:
+valuejava.lang.StringB$"
+ org.exist.util.PropertiesBuilder

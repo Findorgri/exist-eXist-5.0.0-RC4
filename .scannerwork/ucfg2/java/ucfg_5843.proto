@@ -1,0 +1,516 @@
+
+Worg.exist.util.ConfigurationHelper#getExistHome(Ljava/lang/String;)Ljava/util/Optional;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java3! 3(-"37"31*â
+24b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaZ* Z(/î
+ë
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaZ* Z(T
+%29boolean"Sjava.nio.file.Files#isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*-
++
+userDirRelativeConfigjava.nio.file.Path*
+22
+23*¸
+25b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaX X("Ë
+Â
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaX' X(E
+%25java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+user.dirä
+á
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaX X(F
+%26java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%25java.lang.String©
+¶
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaX X(G
+userDirjava.nio.file.Path"__id*
+
+%26java.nio.file.Path¢ü
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaY+ Y(B
+%27java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
+
+userDirjava.nio.file.Path*
+
+configjava.lang.String2resolve(Ljava/lang/String;)∑
+¥
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaY Y(C+
+userDirRelativeConfigjava.nio.file.Path"__id*
+
+%27java.nio.file.PathÑ
+Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaZ Z(&
+%28boolean"Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+userDirjava.nio.file.Path*
+24
+22*≠
+26b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaQ# Q(9Û
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaQ# Q(E
+%18java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*.
+,
+userHomeRelativeConfigjava.nio.file.Path2getParent()´
+®
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaQ Q(F
+	existHomejava.nio.file.Path"__id*
+
+%18java.nio.file.Path{
+y
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaR R(
+%19"__id*
+""Ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaRQ R(k
+%20java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*!
+
+	existHomejava.nio.file.Path2toAbsolutePath()⁄◊
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaRQ R(v
+%21java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%20java.nio.file.Path2
+toString()Ì
+c
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaRx R(ë
+%22java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;* 
+
+userHomejava.nio.file.Path2toAbsolutePath()€ÿ
+c
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaRx R(ú
+%23java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%22java.nio.file.Path2
+toString()¸
+˘
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaS S()
+%24java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*!
+
+	existHomejava.nio.file.Path"Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaS S(*
+
+%24java.util.Optional*ä
+27b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaP+ P(0ï
+í
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaP+ P(V
+%17boolean"Sjava.nio.file.Files#isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*.
+,
+userHomeRelativeConfigjava.nio.file.Path*
+25
+26*Å
+28b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaN N(#È
+Ê
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaN( N(G
+%13java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.homeä
+á
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaN N(H
+%14java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%13java.lang.String™
+ß
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaN N(I
+userHomejava.nio.file.Path"__id*
+
+%14java.nio.file.Path£†
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaO, O(D
+%15java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;* 
+
+userHomejava.nio.file.Path*
+
+configjava.lang.String2resolve(Ljava/lang/String;)∏
+µ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaO O(E,
+userHomeRelativeConfigjava.nio.file.Path"__id*
+
+%15java.nio.file.PathÖ
+Ç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaP P('
+%16boolean"Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files* 
+
+userHomejava.nio.file.Path*
+25
+27*∑
+29b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaH H(z
+x
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaH H(
+%9"__id*
+""Ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaHR H(l
+%10java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*!
+
+	existHomejava.nio.file.Path2toAbsolutePath()⁄◊
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaHR H(w
+%11java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%10java.nio.file.Path2
+toString()¸
+˘
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaI I(-
+%12java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*!
+
+	existHomejava.nio.file.Path"Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaI I(.
+
+%12java.util.Optional*¥
+30b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaF# F(6È
+Ê
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaFF F(f
+%6java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+exist.homeû
+õ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaF# F(g
+%7java.nio.file.Path"Yorg.exist.util.ConfigurationHelper#decodeUserHome(Ljava/lang/String;)Ljava/nio/file/Path;*&"$
+"org.exist.util.ConfigurationHelper*
+
+%6java.lang.String™
+ß
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaF F(h
+	existHomejava.nio.file.Path"__id*
+
+%7java.nio.file.PathÖ
+Ç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaG G(,
+%8boolean"Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*!
+
+	existHomejava.nio.file.Path*
+28
+29*ﬁ
+31b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaE E(È
+Ê
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaE E(,
+%5java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+exist.home*
+28
+30*ﬂ
+10b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai  i(<Ô
+Ï
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai  i(<
+%50java.nio.file.Path";java.nio.file.Paths#get(Ljava/net/URI;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%49java.net.URI*
+9*∑
+11b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai  i(%∆√
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai* i(;
+%49java.net.URI""java.net.URL#toURI()Ljava/net/URI;*
+
+	configUrljava.net.URL2toURI()*
+10*Ú
+34b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java< <($"á
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java< <(%!
+
+	existHomejava.util.Optional*≤
+12b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf f(_´
+®
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf f(_
+	existHomejava.nio.file.Path"__id*
+
+%46java.nio.file.Path{
+y
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javag g(
+%47"__id*
+""ó
+î
+c
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javag g(ê
+%48java.lang.String"__concat*
+
+configjava.lang.String*lj
+h file was found on the classpath, but inside a Jar file! Derived EXIST_HOME from Jar's parent folder: {}*
+5*ª
+35b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java; ;(z
+x
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java; ;(
+%1"__id*
+""Œ
+À
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java; ;(H
+%2java.lang.String"__concat* 
+Got eXist home from broker: *!
+
+	existHomejava.util.Optional*
+34*—
+13b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(_‡›
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(_
+%46java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
+
+%45java.nio.file.Path2getParent()*
+12*—
+14b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(S‡›
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(S
+%45java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
+
+%44java.nio.file.Path2getParent()*
+13*’
+37b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java9 9(Qñ
+ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java9 9(Q
+	existHomejava.util.Optional"__id*
+""«ƒ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java: :((
+%0boolean"java.util.Optional#isPresent()Z*!
+
+	existHomejava.util.Optional2isPresent()*
+35
+31*‡
+15b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(GÔ
+Ï
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(G
+%44java.nio.file.Path";java.nio.file.Paths#get(Ljava/net/URI;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%42java.net.URI*
+14*»
+16b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf* f(Fäá
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf. f(1
+%42java.net.URI"java.net.URI 
+«
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf* f(F
+%43"(java.net.URI#<init>(Ljava/lang/String;)V*
+
+%42java.net.URI*
+
+%41java.lang.String*
+15*√
+17b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf  f(%“œ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaf2 f(E
+%41java.lang.String"(java.net.URL#getPath()Ljava/lang/String;*
+
+	configUrljava.net.URL2	getPath()*
+16*⁄
+19b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javae e(9Â‚
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javae e(9
+%40boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+jar*
+
+%39java.lang.String2equals(Ljava/lang/Object;)*
+17
+11*∏
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javas s( 
+«
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javas s(
+%58java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
+java.util.Optional"Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javas s( 
+
+%58java.util.Optional*Î
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javal l(."Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javal l(.
+
+%55java.util.Optional*Î
+5b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javal l(¸
+˘
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javal l(-
+%55java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*!
+
+	existHomejava.nio.file.Path*
+4*…
+7b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javajC j(h⁄◊
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javajC j(h
+%54java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%53java.nio.file.Path2
+toString()*
+5*ä
+8b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai i(H´
+®
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai i(H
+	existHomejava.nio.file.Path"__id*
+
+%51java.nio.file.Path{
+y
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaj j(
+%52"__id*
+""Ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javajC j(]
+%53java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*!
+
+	existHomejava.nio.file.Path2toAbsolutePath()*
+7*œ
+9b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai  i(H‡›
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javai  i(H
+%51java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
+
+%50java.nio.file.Path2getParent()*
+8*‰
+20b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javad d(%ñ
+ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javad d(%
+	existHomejava.nio.file.Path"__id*
+""⁄◊
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javae! e(8
+%39java.lang.String",java.net.URL#getProtocol()Ljava/lang/String;*
+
+	configUrljava.net.URL2getProtocol()*
+19*ë
+22b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaa a(7ÿ’
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaa a(H
+%37java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+""2getClassLoader()†ù
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaa a(\
+%38java.net.URL"Cjava.lang.ClassLoader#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%37java.lang.ClassLoader*
+
+configjava.lang.String2getResource(Ljava/lang/String;)ü
+ú
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaa a(]
+	configUrljava.net.URL"__id*
+
+%38java.net.URL*
+20
+1*´
+23b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java[# [(8ÚÔ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java[# [(D
+%30java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*-
++
+userDirRelativeConfigjava.nio.file.Path2getParent()´
+®
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java[ [(E
+	existHomejava.nio.file.Path"__id*
+
+%30java.nio.file.Path{
+y
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java\ \(
+%31"__id*
+""Ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java\P \(j
+%32java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*!
+
+	existHomejava.nio.file.Path2toAbsolutePath()⁄◊
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java\P \(u
+%33java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%32java.nio.file.Path2
+toString()ÔÏ
+c
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java\w \(è
+%34java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+userDirjava.nio.file.Path2toAbsolutePath()€ÿ
+c
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java\w \(ö
+%35java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%34java.nio.file.Path2
+toString()¸
+˘
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java] ]()
+%36java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*!
+
+	existHomejava.nio.file.Path"Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.java] ](*
+
+%36java.util.Optional:
+configjava.lang.StringB&"$
+"org.exist.util.ConfigurationHelper

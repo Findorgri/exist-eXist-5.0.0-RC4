@@ -1,0 +1,32 @@
+
+Eorg.exist.util.XMLString#transformToLower()Lorg/exist/util/XMLString;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¢ ¢(+"3"1*€
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java• •(ù
+ö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java• •(
+%0char[]"__id*(*&
+org.exist.util.XMLString"
+value_ù
+ö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java•. •(4
+%1char[]"__id*(*&
+org.exist.util.XMLString"
+value_±
+Æ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java• •(8
+
+%2char"#java.lang.Character#toLowerCase(C)C*"
+java.lang.Character*
+""*
+3
+1*€
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaß ß("z
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaß ß(
+org.exist.util.XMLStringB
+org.exist.util.XMLString

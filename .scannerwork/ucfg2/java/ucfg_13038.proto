@@ -1,0 +1,72 @@
+
+3org.exist.xquery.XQueryContext#checkModulesValid()Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaŒ Œ($"8*∏
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaœ œ( è
+å
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaœ œ( 
+modulejava.lang.Module"__id*
+""≥
+∞
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaœ œ( 
+modulejava.lang.Module"
+__arrayGet*
+
+%1java.util.Collection*
+""*	
+2
+6
+1*—
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java’ ’( "j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java’ ’(!
+""*‰
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java” ”(x
+v
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java” ”(
+%4"__id*
+""*
+3*Á
+5`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java“ “(x
+v
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java“ “(
+%3"__id*
+""*
+3
+4*¬
+6`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java—' —(-“œ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java—= —(H
+%2"4org.exist.xquery.XQueryContext#getBroker()LDBBroker;*" 
+org.exist.xquery.XQueryContext2getBroker()*
+2
+5*Ù
+8`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaœ# œ(-¥
+±
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaœ# œ(-
+%0java.util.Map"__id*2*0 
+org.exist.xquery.XQueryContext"
+
+allModules–Õ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaœ# œ(6
+%1java.util.Collection",java.util.Map#values()Ljava/util/Collection;*
+
+%0java.util.Map2values()*
+2*—
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaŸ Ÿ("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaŸ Ÿ(
+""B" 
+org.exist.xquery.XQueryContext

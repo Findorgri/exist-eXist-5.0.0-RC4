@@ -1,0 +1,43 @@
+
+=org.exist.Indexer#hasNormAttribute(Lorg/xml/sax/Attributes;)ZS
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.java˜ ˜(""5*·
+3S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.java› ›("]
+S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.java› ›(
+""*¦
+4S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.javaš š(ëè
+S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.javaš š()
+%1java.lang.String"8org.xml.sax.Attributes#getLocalName(I)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+""2getLocalName(I)ÕÒ
+S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.javaš š(8
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+norm2equals(Ljava/lang/Object;)*
+3
+5* 
+5S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.java™ ™(½º
+S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.java™ ™(2	
+%0int"#org.xml.sax.Attributes#getLength()I*&
+$
+
+attributesorg.xml.sax.Attributes2getLength()*
+4
+1*·
+1S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.javaž ž("]
+S
+GC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/Indexer.javaž ž(
+"":$
+
+attributesorg.xml.sax.AttributesB
+org.exist.Indexer

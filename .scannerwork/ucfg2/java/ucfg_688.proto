@@ -1,0 +1,33 @@
+
+8org.exist.xquery.PerformanceStats$IndexStats#hashCode()Ia
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaJ J("1*Ð
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaK K(Å
+Â
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaK K(
+%0java.lang.String"__id*?*=.
+,org.exist.xquery.PerformanceStats$IndexStats"
+	indexTypeµ²
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaK K('	
+%1int"java.lang.String#hashCode()I*
+
+%0java.lang.String2
+hashCode()Â
+¿
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaK* K(0
+%2java.lang.String"__id*<*:.
+,org.exist.xquery.PerformanceStats$IndexStats"
+sourceµ²
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaK* K(;	
+%3int"java.lang.String#hashCode()I*
+
+%2java.lang.String2
+hashCode()"k
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaK K(S
+""B0.
+,org.exist.xquery.PerformanceStats$IndexStats

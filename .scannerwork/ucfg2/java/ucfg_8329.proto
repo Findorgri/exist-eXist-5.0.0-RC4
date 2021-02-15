@@ -1,0 +1,16 @@
+
+yorg.exist.util.serializer.json.JSONNode#getSerializationType()Lorg/exist/util/serializer/json/JSONNode$SerializationType;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.javaB B(1"1*•
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.javaC C( ÷
+ô
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.javaC C( ?
+%09org.exist.util.serializer.json.JSONNode$SerializationType"__id*B*@)
+'org.exist.util.serializer.json.JSONNode"
+serializationType"¬
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.javaC C(!A
+?
+%09org.exist.util.serializer.json.JSONNode$SerializationTypeB+)
+'org.exist.util.serializer.json.JSONNode

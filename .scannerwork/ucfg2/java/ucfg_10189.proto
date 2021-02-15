@@ -1,0 +1,32 @@
+
+Eorg.exist.util.io.MemoryMappedFileFilterInputStreamCache#getLength()Iz
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.javaŠ Š("1*š	
+1z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java‹ ‹(í
+ê
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java‹ ‹(
+%0java.nio.MappedByteBuffer"__id*E*C:
+8org.exist.util.io.MemoryMappedFileFilterInputStreamCache"
+bufÖÓ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java‹ ‹(	
+%1int"java.nio.Buffer#capacity()I*!
+
+%0java.nio.MappedByteBuffer2
+capacity()í
+ê
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java‹  ‹(#
+%2java.nio.MappedByteBuffer"__id*E*C:
+8org.exist.util.io.MemoryMappedFileFilterInputStreamCache"
+bufØÕ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java‹  ‹(/	
+%3int"java.nio.Buffer#remaining()I*!
+
+%2java.nio.MappedByteBuffer2remaining()"„
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java‹ ‹(0
+""B<:
+8org.exist.util.io.MemoryMappedFileFilterInputStreamCache

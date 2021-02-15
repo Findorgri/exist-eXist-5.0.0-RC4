@@ -1,0 +1,29 @@
+
+Dorg.exist.backup.ErrorReport$IndexError#toString()Ljava/lang/String;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.java◊ ◊("1*Å
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaŸ Ÿ(æ
+ª
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaŸ Ÿ($
+%0java.lang.String"9org.exist.backup.ErrorReport#toString()Ljava/lang/String;*
+""¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaŸ Ÿ(8
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+\nDocument ID: ß
+§
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaŸ Ÿ(E
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+"""z
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ErrorReport.javaŸ Ÿ(H
+
+%2java.lang.StringB+)
+'org.exist.backup.ErrorReport$IndexError

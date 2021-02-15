@@ -1,0 +1,28 @@
+
+Jorg.exist.storage.index.BFile$OverflowPage#getPageInfo()Ljava/lang/String;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÖ Ö(!"1*ü
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java× ×(!Ù
+Ö
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java×$ ×(-.
+%0(org.exist.storage.index.BFile$SinglePage"__id*=*;,
+*org.exist.storage.index.BFile$OverflowPage"
+	firstPage‡„
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java×$ ×(;
+%1java.lang.String"Horg.exist.storage.index.BFile$SinglePage#getPageInfo()Ljava/lang/String;*0
+.
+%0(org.exist.storage.index.BFile$SinglePage2getPageInfo()²
+¯
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java× ×(;
+%2java.lang.String"__concat*
+MULTI_PAGE: *
+
+%1java.lang.String"{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java× ×(<
+
+%2java.lang.StringB.,
+*org.exist.storage.index.BFile$OverflowPage

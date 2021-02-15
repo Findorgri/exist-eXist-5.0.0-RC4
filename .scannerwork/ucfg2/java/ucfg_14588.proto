@@ -1,0 +1,15 @@
+
+?org.exist.dom.memtree.AttrImpl#getNodeValue()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javal l("1*Ê
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javam m(èå
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javam m(
+%0java.lang.String";org.exist.dom.memtree.AttrImpl#getValue()Ljava/lang/String;*" 
+org.exist.dom.memtree.AttrImpl2
+getValue()"z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javam m(
+
+%0java.lang.StringB" 
+org.exist.dom.memtree.AttrImpl

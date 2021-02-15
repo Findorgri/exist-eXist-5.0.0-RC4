@@ -1,0 +1,61 @@
+
+Dorg.exist.util.XMLReaderObjectFactory#makeObject()Ljava/lang/Object;e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.java` `("1*ì
+1e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javaa' a(4ê
+ç
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javaaA a(Y
+%0java.lang.String"__id*
+""î
+ë
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javaa a([
+optionjava.lang.String"__id*
+""ˇ
+¸
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javab. b(K>
+%18org.exist.util.XMLReaderObjectFactory$VALIDATION_SETTING"âorg.exist.util.XMLReaderObjectFactory#convertValidationMode(Ljava/lang/String;)Lorg/exist/util/XMLReaderObjectFactory$VALIDATION_SETTING;*)"'
+%org.exist.util.XMLReaderObjectFactory*
+
+optionjava.lang.String˙
+˜
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javab b(LF
+
+validation8org.exist.util.XMLReaderObjectFactory$VALIDATION_SETTING"__id*@
+>
+%18org.exist.util.XMLReaderObjectFactory$VALIDATION_SETTING¶
+£
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javac$ c(V
+%2"Æorg.exist.util.XMLReaderObjectFactory#createXmlReader(Lorg/exist/util/XMLReaderObjectFactory$VALIDATION_SETTING;LGrammarPool;LeXistXMLCatalogResolver;)Lorg/xml/sax/XMLReader;*)"'
+%org.exist.util.XMLReaderObjectFactory*H
+F
+
+validation8org.exist.util.XMLReaderObjectFactory$VALIDATION_SETTING*
+""*
+""ú
+ô
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javac c(W"
+	xmlReaderorg.xml.sax.XMLReader"__id*
+
+%2•
+¢
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javad d(6
+
+%3void"ëorg.exist.util.XMLReaderObjectFactory#setReaderValidationMode(Lorg/exist/util/XMLReaderObjectFactory$VALIDATION_SETTING;Lorg/xml/sax/XMLReader;)V*)"'
+%org.exist.util.XMLReaderObjectFactory*H
+F
+
+validation8org.exist.util.XMLReaderObjectFactory$VALIDATION_SETTING*$
+"
+	xmlReaderorg.xml.sax.XMLReader"ç
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderObjectFactory.javae e($
+"
+	xmlReaderorg.xml.sax.XMLReaderB)'
+%org.exist.util.XMLReaderObjectFactory

@@ -1,0 +1,64 @@
+
+Lorg.exist.xmlrpc.RpcConnection#parse(Ljava/lang/String;Ljava/lang/String;I)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaê ê("startingBlock*Ü
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaê ê(U™
+ß
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè è(
+%3"
+__annotate*
+java.lang.Override*
+
+xmljava.lang.Stringî
+ë
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaê& ê()
+xmljava.lang.String"__annotation*
+
+%3Æ
+´
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè è(
+%4"
+__annotate*
+java.lang.Override*
+
+docNamejava.lang.Stringò
+ï
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaê8 ê(?
+docNamejava.lang.String"__annotation*
+
+%4*
+1*ß
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaë ë(ì
+ê
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaë" ë(2
+%0java.nio.charset.Charset"__id*
+""èå
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaë ë(3
+%1byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+xmljava.lang.String* 
+
+%0java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)´®
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaë ë(H
+%2boolean"<org.exist.xmlrpc.RpcConnection#parse([BLjava/lang/String;I)Z*" 
+org.exist.xmlrpc.RpcConnection*
+
+%1byte[]*
+
+docNamejava.lang.String*
+""2parse([BLjava/lang/String;I)"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaë ë(I
+"":
+xmljava.lang.String:
+docNamejava.lang.String:
+""B" 
+org.exist.xmlrpc.RpcConnection

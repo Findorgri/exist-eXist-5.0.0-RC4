@@ -1,0 +1,126 @@
+
+qorg.exist.xquery.functions.fn.FunUnparsedText#readContent(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javat t("20*»
+13m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javaw w(J¿
+¼
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javaw w(J#
+charsetjava.nio.charset.Charset"__id* 
+
+%0java.nio.charset.Charset*
+11*ï
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java€ €(="y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java€ €(=
+
+%8*Ä
+4o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java€3 €(;È
+Å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java€ €(<
+%8"qorg.exist.xquery.functions.fn.FunUnparsedText#readContent(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*1/
+-org.exist.xquery.functions.fn.FunUnparsedText*
+
+%7*
+
+encodingjava.lang.String*
+3*™
+5o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java€ €("
+š
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java€# €(1
+%7"Sorg.exist.xquery.functions.fn.FunUnparsedText#getSource(Ljava/lang/String;)LSource;*1/
+-org.exist.xquery.functions.fn.FunUnparsedText*
+
+urijava.lang.String*
+4*Ù
+17m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javawE w(J 
+
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javawE w(J
+%2java.nio.charset.Charset"__id*
+""º
+·
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javawE w(J
+%0java.nio.charset.Charset"__id* 
+
+%2java.nio.charset.Charset*
+13*þ
+6m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java~ ~(4"‰
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java~ ~(4
+
+%6java.lang.String*Ù
+18m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javaw) w(0 
+
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javaw) w(B
+%1java.nio.charset.Charset"Njava.nio.charset.Charset#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*"
+java.nio.charset.Charset*
+
+encodingjava.lang.Stringº
+·
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javaw) w(B
+%0java.nio.charset.Charset"__id* 
+
+%1java.nio.charset.Charset*
+13*»
+7m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java~ ~(Á
+¾
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java~ ~(3
+%6java.lang.String"Yorg.exist.xquery.functions.fn.FunUnparsedText#readAll(Ljava/io/Reader;)Ljava/lang/String;*1/
+-org.exist.xquery.functions.fn.FunUnparsedText*'
+%
+dynamicTextResourcejava.io.Reader*
+6*¤
+8m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java| |({§
+¤
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java| |({%
+dynamicTextResourcejava.io.Reader"__id*
+""*
+5
+7*¥
+20m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javau u(¥
+¢
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.javau u(#
+charsetjava.nio.charset.Charset"__id*
+""*
+17
+18*Ò
+10m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java|\ |(q×Ô
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java|\ |(q
+%5java.lang.String")java.net.URI#toString()Ljava/lang/String;*
+
+%4java.net.URI2
+toString()*
+8*§
+11m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java|0 |(7«
+¨
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunUnparsedText.java|\ |(f
+%4java.net.URI"Uorg.exist.xquery.functions.fn.FunUnparsedText#toUri(Ljava/lang/String;)Ljava/net/URI;*1/
+-org.exist.xquery.functions.fn.FunUnparsedText*
+
+urijava.lang.String*
+10:
+urijava.lang.String:
+encodingjava.lang.StringB1/
+-org.exist.xquery.functions.fn.FunUnparsedText

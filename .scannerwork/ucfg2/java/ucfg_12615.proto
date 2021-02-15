@@ -1,0 +1,50 @@
+
+aorg.exist.xquery.functions.fn.FunDeepEqual#compareElements(Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)Zl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaü ü(*"5*¾
+2l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaþ þ(Å
+Â
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaþ þ(!
+%2boolean"aorg.exist.xquery.functions.fn.FunDeepEqual#compareContents(Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+aorg.w3c.dom.Node*
+
+borg.w3c.dom.Node*
+1*Ã
+4l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaý% ý(6Ç
+Ä
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaý% ý(<
+%1boolean"corg.exist.xquery.functions.fn.FunDeepEqual#compareAttributes(Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+aorg.w3c.dom.Node*
+
+borg.w3c.dom.Node*
+2
+1*Á
+5l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaý ý(Â
+¿
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaý ý(!
+%0boolean"^org.exist.xquery.functions.fn.FunDeepEqual#compareNames(Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+aorg.w3c.dom.Node*
+
+borg.w3c.dom.Node*	
+2
+4
+1*é
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaý þ(""v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaý þ("
+"":
+aorg.w3c.dom.Node:
+borg.w3c.dom.NodeB.",
+*org.exist.xquery.functions.fn.FunDeepEqual

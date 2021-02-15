@@ -1,0 +1,27 @@
+
+Gorg.exist.backup.ZipArchiveBackupDescriptor#getName()Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÐ Ð("1*Á
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÑ Ñ(Ó
+Ð
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÑ, Ñ(3
+%0java.util.zip.ZipFile"__id*<*:-
++org.exist.backup.ZipArchiveBackupDescriptor"	
+archiveçä
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÑ, Ñ(=
+%1java.lang.String"1java.util.zip.ZipFile#getName()Ljava/lang/String;*
+
+%0java.util.zip.ZipFile2	getName()“
+
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÑ" Ñ(>
+%2java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%1java.lang.String"w
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÑ Ñ(@
+""B/-
++org.exist.backup.ZipArchiveBackupDescriptor

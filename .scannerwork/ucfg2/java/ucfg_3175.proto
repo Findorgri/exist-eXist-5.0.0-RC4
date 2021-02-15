@@ -1,0 +1,41 @@
+
+Borg.exist.xmldb.IndexingTest#addChildren(Lorg/w3c/dom/Document;I)Ic
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javañ ñ("1*‡
+
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaò ò(œ™
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaò ò(4
+%0org.w3c.dom.Element"Korg.w3c.dom.Document#createElement(Ljava/lang/String;)Lorg/w3c/dom/Element;*
+
+docorg.w3c.dom.Document*
+root2!createElement(Ljava/lang/String;)¬
+©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaò ò(5
+rootElemorg.w3c.dom.Element"__id*
+
+%0org.w3c.dom.Element§¤
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaó ó(!
+%1org.w3c.dom.Node"Borg.w3c.dom.Node#appendChild(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;*
+
+docorg.w3c.dom.Document*!
+
+rootElemorg.w3c.dom.Element2appendChild(Lorg/w3c/dom/Node;)µ
+²
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaô ô(1	
+%2int"Torg.exist.xmldb.IndexingTest#addChildren(Lorg/w3c/dom/Node;ILorg/w3c/dom/Document;)I* 
+org.exist.xmldb.IndexingTest*!
+
+rootElemorg.w3c.dom.Element*
+""*
+
+docorg.w3c.dom.Document"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaô ô(2
+"":
+docorg.w3c.dom.Document:
+""B 
+org.exist.xmldb.IndexingTest

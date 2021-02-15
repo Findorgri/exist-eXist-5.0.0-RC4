@@ -1,0 +1,68 @@
+
+6org.exist.fluent.ItemList#toString()Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaæ æ("8*‹
+3m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaì ì(‹ˆ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaì ì(
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+3
+4
+1*ž
+4m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaë" ë(%¤¡
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaë" ë(2
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+3*Ë
+8m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaç ç()ª§
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaç ç('
+%0java.lang.StringBuilder"java.lang.StringBuilder¼
+¹
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaç ç()
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder¹
+¶
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaç ç(*
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder£ 
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaè è(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+(2append(Ljava/lang/String;)*	
+3
+4
+1*•
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaî î(£ 
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaî î(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)îë
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaï	 ï(
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"‰
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.javaï ï(
+
+%6java.lang.StringB
+org.exist.fluent.ItemList

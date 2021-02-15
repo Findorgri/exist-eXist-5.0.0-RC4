@@ -1,0 +1,32 @@
+
+<org.exist.debuggee.dbgp.packets.ContextGet#responseBytes()[B~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.javaX X("1*¬	
+1~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.javaY Y(#à
+Ý
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.java] ](
+%0java.lang.String"__id*=*;,
+*org.exist.debuggee.dbgp.packets.ContextGet"
+	contextIDŸ
+œ
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.java_ _(
+%1java.lang.String"Rorg.exist.debuggee.dbgp.packets.ContextGet#getPropertiesString()Ljava/lang/String;*.,
+*org.exist.debuggee.dbgp.packets.ContextGet¯
+¬
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.javaY `(
+responsejava.lang.String"__id*
+""ÜÙ
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.javab	 b(
+%2byte[]"java.lang.String#getBytes()[B*
+
+responsejava.lang.String2
+getBytes()"
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/ContextGet.javab b(
+
+%2byte[]B.,
+*org.exist.debuggee.dbgp.packets.ContextGet

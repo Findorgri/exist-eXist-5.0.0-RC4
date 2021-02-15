@@ -1,0 +1,16 @@
+
+Aorg.exist.indexing.AbstractIndex#getDataDir()Ljava/nio/file/Path;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/AbstractIndex.javaJ J("1* 
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/AbstractIndex.javaK K(¸
+µ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/AbstractIndex.javaK K(
+%0java.nio.file.Path"__id*1*/"
+ org.exist.indexing.AbstractIndex"	
+dataDir"~
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/AbstractIndex.javaK K(
+
+%0java.nio.file.PathB$"
+ org.exist.indexing.AbstractIndex

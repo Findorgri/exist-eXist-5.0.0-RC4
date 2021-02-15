@@ -1,0 +1,46 @@
+
+Forg.exist.dom.memtree.NodeImpl#unsupported()Lorg/w3c/dom/DOMException;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÕ Õ(&"1*ñ
+
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ  Ö(,
+}
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ  Ö(>
+%0short"__id*
+""Ú×
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ_ Ö(i
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*" 
+org.exist.dom.memtree.NodeImpl2
+getClass()ÎË
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ_ Ö(s
+%2java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%1java.lang.Class2	getName()Á
+¾
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ@ Ö(s
+%3java.lang.String"__concat*
+not implemented on class: *
+
+%2java.lang.StringŸœ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ Ö(
+%4org.w3c.dom.DOMException"org.w3c.dom.DOMExceptioní
+ê
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ Ö(t
+%5"5org.w3c.dom.DOMException#<init>(SLjava/lang/String;)V* 
+
+%4org.w3c.dom.DOMException*
+
+%0short*
+
+%3java.lang.String"„
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ Ö(u 
+
+%4org.w3c.dom.DOMExceptionB" 
+org.exist.dom.memtree.NodeImpl

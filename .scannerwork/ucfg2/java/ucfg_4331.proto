@@ -1,0 +1,26 @@
+
+?org.exist.xmlrpc.RpcConnection#useCompression(Ljava/util/Map;)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java› ›(""1*Æ
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaœ œ(œ
+™
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaœ# œ(R
+%0"__mapGet*
+
+
+parametersjava.util.Map*
+""Ò
+Ï
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaœ œ(S
+%1"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+%0"k
+a
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaœ œ(‘
+"":
+
+parametersjava.util.MapB" 
+org.exist.xmlrpc.RpcConnection

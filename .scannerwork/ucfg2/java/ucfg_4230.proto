@@ -1,0 +1,22 @@
+
+[org.exist.xmlrpc.RpcConnection#query(Ljava/lang/String;IILjava/util/Map;)Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java˛ ˛("1*∂
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÅ/ Å(4‚
+ﬂ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉ ï(
+
+%0"Iorg.exist.xmlrpc.RpcConnection#withDb(LXmlRpcFunction;)Ljava/lang/Object;*" 
+org.exist.xmlrpc.RpcConnection*
+"""j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉ ï(
+
+%0:
+xpathjava.lang.String:
+"":
+"":
+
+parametersjava.util.MapB" 
+org.exist.xmlrpc.RpcConnection

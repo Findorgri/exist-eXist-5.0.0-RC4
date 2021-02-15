@@ -1,0 +1,16 @@
+
+Norg.exist.security.realm.ldap.LdapContextFactory#getDomain()Ljava/lang/String;‹
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java¢ ¢("1*°
+1‹
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java£ £(ñ
+î
+‹
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java£ £(
+%0java.lang.String"__id*@*>2
+0org.exist.security.realm.ldap.LdapContextFactory"
+domain"¨
+‹
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java£ £(
+
+%0java.lang.StringB42
+0org.exist.security.realm.ldap.LdapContextFactory

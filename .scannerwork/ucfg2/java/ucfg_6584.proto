@@ -1,0 +1,49 @@
+
+^org.exist.dom.persistent.StoredNode#getParentStoredNode()Lorg/exist/dom/persistent/StoredNode;e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÇ Ç()"4*°
+2e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑD Ñ(HØ
+¨
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑD Ñ(H)
+%1#org.exist.dom.persistent.StoredNode"__id*
+
+%2
+<nulltype>*
+1*Á
+3e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑ; Ñ(Aπ
+∂
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑ; Ñ(A)
+%1#org.exist.dom.persistent.StoredNode"__id*
+
+parentorg.w3c.dom.Nodeπ
+∂
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑ. Ñ(A)
+%1#org.exist.dom.persistent.StoredNode"__id*
+
+parentorg.w3c.dom.Node*
+1*°
+4e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÉ É()ÉÄ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÉ É(+
+%0org.w3c.dom.Node"Eorg.exist.dom.persistent.StoredNode#getParentNode()Lorg/w3c/dom/Node;*'%
+#org.exist.dom.persistent.StoredNode2getParentNode()¶
+£
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÉ É(,
+parentorg.w3c.dom.Node"__id*
+
+%0org.w3c.dom.Node*
+2
+3*Å
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑ Ñ(I"î
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaÑ Ñ(I+
+)
+%1#org.exist.dom.persistent.StoredNodeB'%
+#org.exist.dom.persistent.StoredNode

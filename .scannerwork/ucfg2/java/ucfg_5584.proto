@@ -1,0 +1,76 @@
+
+Lorg.exist.fluent.DataUtils#toXMLObject(Ljava/lang/Object;)Ljava/lang/Object;l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javah h(!"2"4"6"1*±
+2l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javan n(.Å
+Â
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javap
+ p(0
+%5".java.lang.String#valueOf([C)Ljava/lang/String;*"
+java.lang.String*
+"""v
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javap p(1
+
+%5*‚
+4l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javal
+ l(ÐÍ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javal l(5
+
+%2long"%java.util.Calendar#getTimeInMillis()J*
+
+ojava.lang.Object2getTimeInMillis()¡
+ž
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javal
+ l(6-
+%3'javax.xml.datatype.XMLGregorianCalendar"Qorg.exist.fluent.DataUtils#toDateTime(J)Ljavax/xml/datatype/XMLGregorianCalendar;*"
+org.exist.fluent.DataUtils*
+
+
+%2longŒ‰
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javal
+ l(A
+%4java.lang.String"Djavax.xml.datatype.XMLGregorianCalendar#toString()Ljava/lang/String;*/
+-
+%3'javax.xml.datatype.XMLGregorianCalendar2
+toString()"ˆ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javal l(B
+
+%4java.lang.String*É
+6l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaj
+ j(»
+¸
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaj
+ j(-
+%0'javax.xml.datatype.XMLGregorianCalendar"`org.exist.fluent.DataUtils#toDateTime(Ljava/util/Date;)Ljavax/xml/datatype/XMLGregorianCalendar;*"
+org.exist.fluent.DataUtils*
+
+ojava.lang.ObjectŒ‰
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaj
+ j()
+%1java.lang.String"Djavax.xml.datatype.XMLGregorianCalendar#toString()Ljava/lang/String;*/
+-
+%0'javax.xml.datatype.XMLGregorianCalendar2
+toString()"ˆ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaj j(*
+
+%1java.lang.String*û
+1l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javar
+ r("‡
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javar r(
+
+ojava.lang.Object:
+ojava.lang.ObjectB"
+org.exist.fluent.DataUtils

@@ -1,0 +1,27 @@
+
+;org.exist.stax.EmbeddedXMLStreamReader#getNamespaceCount()Ih
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaØ Ø( "1*Â
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÙ Ù(ã
+à
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÙ Ù(
+
+%0void"<org.exist.stax.EmbeddedXMLStreamReader#readNamespaceDecls()V**(
+&org.exist.stax.EmbeddedXMLStreamReaderÅ
+Â
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÚ Ú(
+%1java.util.List"__id*:*8(
+&org.exist.stax.EmbeddedXMLStreamReader"
+
+namespaces°­
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÚ Ú( 	
+%2int"java.util.List#size()I*
+
+%1java.util.List2size()"r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÚ Ú(!
+""B*(
+&org.exist.stax.EmbeddedXMLStreamReader

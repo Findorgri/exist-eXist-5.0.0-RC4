@@ -1,0 +1,26 @@
+
+Xorg.exist.xquery.AbstractInternalModule#getParameter(Ljava/lang/String;)Ljava/util/List;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AbstractInternalModule.javaM% M(1"1*˛
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AbstractInternalModule.javaN N(ƒ
+¡
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AbstractInternalModule.javaN N(
+%0java.util.Map"__id*;*9)
+'org.exist.xquery.AbstractInternalModule"
+
+parametersƒ
+¡
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AbstractInternalModule.javaN N((
+%1java.util.List"__mapGet*
+
+%0java.util.Map*
+
+	paramNamejava.lang.String"Å
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AbstractInternalModule.javaN N()
+
+%1java.util.List:
+	paramNamejava.lang.StringB+)
+'org.exist.xquery.AbstractInternalModule

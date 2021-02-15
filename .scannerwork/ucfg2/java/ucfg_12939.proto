@@ -1,0 +1,93 @@
+
+korg.exist.util.hashtable.NamePool$WrappedQName#compareTo(Lorg/exist/util/hashtable/NamePool$WrappedQName;)Ia
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaC C("startingBlock*‘
+13a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaE E(q"k
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaE E(q
+""*Î
+2a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaOg O(h~
+|
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaOg O(h
+%6"__id*
+	
+%8int*
+1*Ë
+14a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaE^ E(gy
+w
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaE^ E(p
+%0"__id*
+
+%2*
+13*Ê
+3a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaO* O(/y
+w
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaO* O(d
+%6"__id*
+
+%7*
+1*è
+startingBlocka
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaC C(6À
+»
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaB B(
+%9"
+__annotate*
+java.lang.Override*9
+7
+other.org.exist.util.hashtable.NamePool$WrappedQNameµ
+≤
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaC0 C(57
+other.org.exist.util.hashtable.NamePool$WrappedQName"__annotation*
+
+%9*
+2
+14
+3
+15
+9
+10*Ë
+15a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaEI E(Ry
+w
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaEI E([
+%0"__id*
+
+%1*
+13*È
+9a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaIN I(Wy
+w
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaIN I(`
+%3"__id*
+
+%5*
+2
+3*Í
+10a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaI< I(Ey
+w
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaI< I(K
+%3"__id*
+
+%4*
+2
+3*”
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaO O(i"k
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/NamePool.javaO O(i
+"":7
+other.org.exist.util.hashtable.NamePool$WrappedQNameB20
+.org.exist.util.hashtable.NamePool$WrappedQName

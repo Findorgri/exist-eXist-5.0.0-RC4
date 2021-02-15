@@ -1,0 +1,33 @@
+
+<org.exist.xquery.value.AbstractDateTimeValue#getDayOfWeek()In
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÙ Ù("1*û
+1n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÚ Ú(è
+å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÚ Ú(-
+%0'javax.xml.datatype.XMLGregorianCalendar"__id*>*<.
+,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarº·
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÚ Ú(-!
+%1java.util.GregorianCalendar"Zjavax.xml.datatype.XMLGregorianCalendar#toGregorianCalendar()Ljava/util/GregorianCalendar;*/
+-
+%0'javax.xml.datatype.XMLGregorianCalendar2toGregorianCalendar()Œ
+‰
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÚ2 Ú(F	
+%2int"__id*
+""ÔÑ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÚ Ú(G	
+%3int"java.util.Calendar#get(I)I*#
+!
+%1java.util.GregorianCalendar*
+	
+%2int2get(I)"x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÚ Ú(H
+""B0.
+,org.exist.xquery.value.AbstractDateTimeValue

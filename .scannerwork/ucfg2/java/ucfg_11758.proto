@@ -1,0 +1,68 @@
+
+4org.expath.exist.HttpClientTest#hasInternetAccess()Zv
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaL L(%"9*—
+5v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaUI U(Z”
+‘
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaUI U(b	
+%4int"__id*
+""*
+1*Î
+6v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaTM T(PÐ
+Í
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaT T(Q,
+httpConnectionjava.net.HttpURLConnection"__id*
+
+conjava.net.URLConnectionøõ
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaU% U(E	
+%3int"-java.net.HttpURLConnection#getResponseCode()I*.
+,
+httpConnectionjava.net.HttpURLConnection2getResponseCode()*
+5*Æ
+7v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaR R(;À
+½
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaR R(;
+conjava.net.URLConnection"__id*
+
+%2java.net.URLConnection*
+6
+1*«
+8v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaQ Q(?¬
+©
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaQ Q(?
+urljava.net.URL"__id*
+
+%0java.net.URLùö
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaR& R(:
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+urljava.net.URL2openConnection()*
+7*
+9v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaQ$ Q(=š
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaQ  Q(#
+%0java.net.URL"java.net.URLÞ
+Û
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.javaQ Q(>
+%1"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%0java.net.URL*
+http://www.exist-db.org*
+8*þ
+1v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.java] ]( "€
+v
+lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/test/src/org/expath/exist/HttpClientTest.java] ](!
+""B#!
+org.expath.exist.HttpClientTest

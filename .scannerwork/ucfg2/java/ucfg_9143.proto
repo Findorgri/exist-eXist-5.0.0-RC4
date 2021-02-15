@@ -1,0 +1,67 @@
+
+Norg.exist.xupdate.Modification#getParent(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java◊ ◊(#"startingBlock*—
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java€ €(ËÂ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java€
+ €()
+%0org.w3c.dom.Element"7org.w3c.dom.Attr#getOwnerElement()Lorg/w3c/dom/Element;*
+
+nodeorg.w3c.dom.Node2getOwnerElement()"
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java€ €(*
+
+%0org.w3c.dom.Element*‰
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java◊# ◊(>°
+û
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java◊ ◊(
+%2"
+__annotate*
+
+Nullable*
+
+nodeorg.w3c.dom.Node°
+û
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java◊$ ◊(-
+%3"
+__annotate*
+
+Nullable*
+
+nodeorg.w3c.dom.Nodeù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java◊9 ◊(=
+nodeorg.w3c.dom.Node"__annotation*
+
+%2*
+
+%3*	
+2
+4
+1*—
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaŸ
+ Ÿ("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaŸ Ÿ(
+""*ƒ
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java›
+ ›(ﬁ€
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java›
+ ›(
+%1org.w3c.dom.Node"2org.w3c.dom.Node#getParentNode()Lorg/w3c/dom/Node;*
+
+nodeorg.w3c.dom.Node2getParentNode()"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.java› ›(
+
+%1org.w3c.dom.Node:
+nodeorg.w3c.dom.NodeB" 
+org.exist.xupdate.Modification

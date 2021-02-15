@@ -1,0 +1,98 @@
+
+:org.exist.http.Descriptor#allowSource(Ljava/lang/String;)Z[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java– –("8*Ç
+3[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java   ( "e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java   ("
+""*º
+4[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaž: ž(>´
+±
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javažG ž(V
+%6java.lang.String[]"__id*2*0
+org.exist.http.Descriptor"
+allowSourceList¨
+¥
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javažG ž(Y
+%7java.lang.String"
+__arrayGet*
+
+%6java.lang.String[]*
+""íê
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaž: ž(Z	
+%8int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+pathjava.lang.String*
+
+%7java.lang.String2indexOf(Ljava/lang/String;)*
+3
+6*¼
+5[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java› ›(àÝ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java› ›(.
+%2java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+pathjava.lang.String*
+\\*
+/2replace(CC)š
+—
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java› ›(.
+pathjava.lang.String"__id*
+
+%2java.lang.String´
+±
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaž ž($
+%3java.lang.String[]"__id*2*0
+org.exist.http.Descriptor"
+allowSourceList¨
+¥
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaž ž('
+%4java.lang.String"
+__arrayGet*
+
+%3java.lang.String[]*
+""ïì
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaž ž(4
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%4java.lang.String*
+
+pathjava.lang.String2equals(Ljava/lang/Object;)*
+3
+4*Ÿ
+6[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java™ ™(´
+±
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java™  ™(/
+%1java.lang.String[]"__id*2*0
+org.exist.http.Descriptor"
+allowSourceList*
+5
+1*Ÿ
+8[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java— —(´
+±
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java— —(
+%0java.lang.String[]"__id*2*0
+org.exist.http.Descriptor"
+allowSourceList*
+6
+1*Ç
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java¤ ¤("e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java¤ ¤(
+"":
+pathjava.lang.StringB
+org.exist.http.Descriptor

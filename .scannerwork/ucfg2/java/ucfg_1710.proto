@@ -1,0 +1,42 @@
+
+Snull#namespace(Ljava/lang/String;Ljava/lang/String;)Lorg/exist/fluent/QueryService;o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaW  W()"startingBlock*É
+startingBlocko
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaW) W(A¹
+¶
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaW W(
+%0"
+__annotate*
+java.lang.Override*
+
+keyjava.lang.String£
+ 
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaW1 W(4
+keyjava.lang.String"__annotation*
+
+%0¹
+¶
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaW W(
+%1"
+__annotate*
+java.lang.Override*
+
+urijava.lang.String£
+ 
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaW= W(@
+urijava.lang.String"__annotation*
+
+%1*
+1*’
+1o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaWJ W(N"›
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaWC W(O(&
+$Lorg/exist/fluent/QueryService$2527;:
+keyjava.lang.String:
+urijava.lang.StringB(&
+$Lorg/exist/fluent/QueryService$2527;

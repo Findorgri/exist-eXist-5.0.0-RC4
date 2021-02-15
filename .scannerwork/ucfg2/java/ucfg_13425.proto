@@ -1,0 +1,29 @@
+
+@org.exist.webstart.JnlpHelper#isInWarFile(Ljava/nio/file/Path;)Z]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.java/ /("1*ï
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.java0 0(ˆ
+…
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.java04 0(<
+%0java.lang.String"__id*
+""š—
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.java0" 0(=
+%1java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*!
+
+	existHomejava.nio.file.Path*
+
+%0java.lang.String2resolve(Ljava/lang/String;)ù
+ö
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.java0 0(>
+%2boolean"Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+%1java.nio.file.Path"g
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.java0 0(?
+"":
+	existHomejava.nio.file.PathB!
+org.exist.webstart.JnlpHelper

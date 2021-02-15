@@ -1,0 +1,60 @@
+
+2org.exist.webstart.JnlpJarFiles#getLastModified()Ja
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java® ®("4*Ê
+2a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯( ¯(-¸
+µ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯B ¯(I
+%4java.nio.file.Path"__id*0*.!
+org.exist.webstart.JnlpJarFiles"	
+mainJar¿
+¼
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯( ¯(J&
+%5 java.nio.file.attribute.FileTime"zjava.nio.file.Files#getLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileTime;*"
+java.nio.file.Files*
+
+%4java.nio.file.PathÖÓ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯( ¯(U
+
+%3long",java.nio.file.attribute.FileTime#toMillis()J*(
+&
+%5 java.nio.file.attribute.FileTime2
+toMillis()†
+ƒ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯( ¯(U
+
+%1long"__id*
+
+
+%3long*
+1*ó
+3a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯$ ¯(%…
+‚
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯# ¯(%
+
+%1long"__id*
+	
+%2int*
+1*©
+4a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯ ¯(¸
+µ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯ ¯(
+%0java.nio.file.Path"__id*0*.!
+org.exist.webstart.JnlpJarFiles"	
+mainJar*
+2
+3*Ó
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯ ¯(V"k
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpJarFiles.java¯ ¯(V
+""B#!
+org.exist.webstart.JnlpJarFiles

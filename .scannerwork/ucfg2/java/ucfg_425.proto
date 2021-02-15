@@ -1,0 +1,124 @@
+
+“org.exist.client.security.MemberOfGroupsListCellRenderer#getListCellRendererComponent(Ljavax/swing/JList;Ljava/lang/Object;IZZ)Ljava/awt/Component;x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java+ +(1"startingBlock*‰
+2x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java0 0(éæ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java0 0()
+%5java.awt.Font"+java.awt.Component#getFont()Ljava/awt/Font;*
+
+labeljavax.swing.JLabel2	getFont()–
+“
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java05 0(>	
+%6int"__id*
+""ñî
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java0 0(?
+%7java.awt.Font"*java.awt.Font#deriveFont(I)Ljava/awt/Font;*
+
+%5java.awt.Font*
+	
+%6int2deriveFont(I)‹ˆ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java0 0(@
+
+%8void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+labeljavax.swing.JLabel*
+
+%7java.awt.Font2setFont(Ljava/awt/Font;)*
+1*ô
+3x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java/% /(*ïì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java/% /(4
+%2java.lang.String".javax.swing.JLabel#getText()Ljava/lang/String;*
+
+labeljavax.swing.JLabel2	getText()í
+ê
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java/< /(J
+%3java.lang.String"__id*P*N:
+8org.exist.client.security.MemberOfGroupsListCellRenderer"
+cellOfInterestŠ‡
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java/% /(K
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*
+startingBlocky
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java+1 +(€Ä
+Á
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java* *(
+%9"
+__annotate*
+java.lang.Override*
+
+listjavax.swing.JList®
+«
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java+8 +(<
+listjavax.swing.JList"__annotation*
+
+%9Å
+Â
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java* *(
+%10"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.Object¯
+¬
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java+E +(J
+valuejava.lang.Object"__annotation*
+
+%10*
+4*¨
+4x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java,& ,(+ñ
+î
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java,& ,(v
+%0java.awt.Component"~javax.swing.DefaultListCellRenderer#getListCellRendererComponent(Ljavax/swing/JList;Ljava/lang/Object;IZZ)Ljava/awt/Component;*
+""*
+
+listjavax.swing.JList*
+
+valuejava.lang.Object*
+""*
+""*
+""¼
+¹
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java, ,(w
+labeljavax.swing.JLabel"__id*
+
+%0java.awt.Componentí
+ê
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java/ /(
+%1java.lang.String"__id*P*N:
+8org.exist.client.security.MemberOfGroupsListCellRenderer"
+cellOfInterest*
+3
+1*™
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java3 3("™
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/MemberOfGroupsListCellRenderer.java3 3(
+
+labeljavax.swing.JLabel:
+listjavax.swing.JList:
+valuejava.lang.Object:
+"":
+"":
+""B<:
+8org.exist.client.security.MemberOfGroupsListCellRenderer

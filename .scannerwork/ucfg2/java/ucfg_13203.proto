@@ -1,0 +1,60 @@
+
+Gorg.exist.validation.ValidationReport#getStackTrace()Ljava/lang/String;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java× ×("3*ß
+2g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÚ Ú("q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÚ Ú(
+""*¼
+3g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÙ Ù(Å
+Â
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÙ Ù(
+%0java.lang.Throwable"__id*6*4'
+%org.exist.validation.ValidationReport"	
+throwed*
+2
+1*ù
+
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÝ/ Ý(Nœ™
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÞ# Þ(.
+%1java.io.PrintStream"java.io.PrintStreamÌ
+É
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÞ Þ(4
+%2"3java.io.PrintStream#<init>(Ljava/io/OutputStream;)V*
+
+%1java.io.PrintStream*
+""ª
+§
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaÞ Þ(5
+psjava.io.PrintStream"__id*
+
+%1java.io.PrintStreamÅ
+Â
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaß ß(
+%3java.lang.Throwable"__id*6*4'
+%org.exist.validation.ValidationReport"	
+throwed—”
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaß ß(#
+
+%4void";java.lang.Throwable#printStackTrace(Ljava/io/PrintStream;)V*
+
+%3java.lang.Throwable*
+
+psjava.io.PrintStream2&printStackTrace(Ljava/io/PrintStream;)š
+—
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaà à("
+%5java.nio.charset.Charset"__id*
+"""q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaà à($
+""B)'
+%org.exist.validation.ValidationReport

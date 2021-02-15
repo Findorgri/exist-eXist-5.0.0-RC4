@@ -1,0 +1,204 @@
+
+4org.exist.xmldb.TreeLevelOrderTest#treeLevelOrder()Vg
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javai i($"6*›
+3i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaâ â(&Ì
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaâ â(.
+%21org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*&
+$
+rootChildrenorg.w3c.dom.NodeList*
+""2item(I)ß
+§
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaâ â(/
+toorg.w3c.dom.Node"__id*
+
+%21org.w3c.dom.Nodeù
+ö
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaå å(%
+%22java.lang.String"Rorg.exist.xmldb.TreeLevelOrderTest#nodeValue(Lorg/w3c/dom/Node;)Ljava/lang/String;*&"$
+"org.exist.xmldb.TreeLevelOrderTest*
+
+toorg.w3c.dom.Node™
+ß
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaå å(%
+strTojava.lang.String"__id*
+
+%22java.lang.String*
+5*ø
+4i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaà à(Ì
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaà à($
+%18org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*&
+$
+rootChildrenorg.w3c.dom.NodeList*
+""2item(I)Â‚
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaà à(3
+%19java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+%18org.w3c.dom.Node2getLocalName()ÎË
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaà à(@
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%19java.lang.String*
+to2equals(Ljava/lang/Object;)*
+3
+5*À
+5i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaá á(“œ
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaá á(4
+
+%17int"!org.w3c.dom.NodeList#getLength()I*&
+$
+rootChildrenorg.w3c.dom.NodeList2getLength()*
+4
+0*Á-
+6g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaj j(&†
+ù
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaj j('
+documentjava.lang.String"__id*
+
+survey.xmlÂ
+‚
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javan n($
+%0"Iorg.exist.xmldb.TreeLevelOrderTest#getXQueryService()LEXistXQueryService;*&$
+"org.exist.xmldb.TreeLevelOrderTest§°
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaq( q(5
+%1java.lang.StringBuilder"java.lang.StringBuilder∂
+≥
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaq$ q(7
+%2"!java.lang.StringBuilder#<init>()V*
+
+%1java.lang.StringBuilderª
+∏
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaq q(8&
+xmlDocumentjava.lang.StringBuilder"__id*
+
+%1java.lang.StringBuilder¨©
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javar r(&
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+
+<survey>2append(Ljava/lang/String;)»≈
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javas s(B
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*(&
+$<date>2004/11/24 17:42:31 GMT</date>2append(Ljava/lang/String;)“œ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javat t(L
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*20
+.<from><![CDATA[tobias.wunden@o2it.ch]]></from>2append(Ljava/lang/String;)ŒÀ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javau u(H
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*.,
+*<to><![CDATA[tobias.wunden@o2it.ch]]></to>2append(Ljava/lang/String;)«ƒ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javav v(A
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*'%
+#<subject><![CDATA[Test]]></subject>2append(Ljava/lang/String;)´®
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaw w(%
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*	
+<field>2append(Ljava/lang/String;)≈¬
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javax x(?
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*%#
+!<name><![CDATA[homepage]]></name>2append(Ljava/lang/String;)¡æ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javay y(:
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder* 
+<value><![CDATA[-]]></value>2append(Ljava/lang/String;)≠™
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaz z(&
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+
+</field>2append(Ljava/lang/String;)Æ´
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.java{ {('
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
+&
+xmlDocumentjava.lang.StringBuilder*
+	</survey>2append(Ljava/lang/String;)ÒÓ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.java} }($
+%13java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*(
+&
+xmlDocumentjava.lang.StringBuilder2
+toString()√
+¿
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.java} }(8
+%14"corg.exist.xmldb.TreeLevelOrderTest#store(Ljava/lang/String;LEXistXQueryService;Ljava/lang/String;)V*&$
+"org.exist.xmldb.TreeLevelOrderTest*
+
+%13java.lang.String*
+""*
+
+documentjava.lang.String®
+•
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaÄ Ä(+
+%15"aorg.exist.xmldb.TreeLevelOrderTest#load(LEXistXQueryService;Ljava/lang/String;)Lorg/w3c/dom/Node;*&$
+"org.exist.xmldb.TreeLevelOrderTest*
+""*
+
+documentjava.lang.Stringó
+î
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaÄ Ä(,
+elemorg.w3c.dom.Node"__id*
+
+%15ó
+î
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaÑ Ñ(
+strTojava.lang.String"__id*
+""Ì
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaÜ  Ü(4
+%16org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*
+
+elemorg.w3c.dom.Node2getChildNodes()π
+∂
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaÜ Ü(5$
+rootChildrenorg.w3c.dom.NodeList"__id*
+
+%16org.w3c.dom.NodeList*
+5*à
+0 "Ä
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/TreeLevelOrderTest.javaë ë(
+implicit returnB&$
+"org.exist.xmldb.TreeLevelOrderTest

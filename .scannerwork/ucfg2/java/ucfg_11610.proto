@@ -1,0 +1,67 @@
+
+Dorg.exist.fluent.Folder$DocumentsFacet#contains(Ljava/lang/String;)Zk
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaž ž("13*¤
+13k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaŸ Ÿ( 
+
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaŸ Ÿ('
+
+%0void"Rorg.exist.fluent.Folder$DocumentsFacet#checkIsRelativeDocPath(Ljava/lang/String;)V**(
+&org.exist.fluent.Folder$DocumentsFacet*"
+ 
+documentPathjava.lang.String„
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java   (!
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*"
+ 
+documentPathjava.lang.String*
+/2"contains(Ljava/lang/CharSequence;)*
+9
+12*ç
+6k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java¥k ¥(o"u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java¥ ¥(p
+""*ð
+9k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java¤ ¤(8ø
+õ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java¥# ¥(3
+%6java.util.Collection">org.exist.fluent.Folder#getQuickHandle()Ljava/util/Collection;**(
+&org.exist.fluent.Folder$DocumentsFacet*
+6*–
+12k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java *  (2¼
+¹
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java >  (I
+%2org.exist.fluent.Folder"__id*%*#
+org.exist.fluent.Folder"
+thisãà
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java >  (P
+%3java.lang.String"0org.exist.fluent.Folder#path()Ljava/lang/String;*
+
+%2org.exist.fluent.Folder2path()³
+°
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java >  (V
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+/Ð
+Í
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java >  (e
+%5java.lang.String"__concat*
+
+%4java.lang.String*"
+ 
+documentPathjava.lang.String"u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java #  (g
+"": 
+documentPathjava.lang.StringB*(
+&org.exist.fluent.Folder$DocumentsFacet

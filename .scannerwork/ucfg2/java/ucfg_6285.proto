@@ -1,0 +1,55 @@
+
+Morg.exist.util.io.TemporaryFileManager#getTemporaryFile()Ljava/nio/file/Path;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javap p(&"1*É
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaq q(#Æ
+Ã
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaq3 q(<
+%0java.nio.file.Path"__id*9*7(
+&org.exist.util.io.TemporaryFileManager"
+	tmpFolder‘
+Ž
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaq> q(I
+%1java.lang.String"__id*
+""®
+«
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaq> q(O
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+-ù
+ö
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaq q(X
+%3java.nio.file.Path"˜java.nio.file.Files#createTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+
+%0java.nio.file.Path*
+
+%2java.lang.String*
+.tmp­
+ª
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaq q(Y
+tempFilejava.nio.file.Path"__id*
+
+%3java.nio.file.PathÖÓ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaw w(
+%4java.io.File")java.nio.file.Path#toFile()Ljava/io/File;* 
+
+tempFilejava.nio.file.Path2toFile()»¸
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javaw w((
+
+%5void"java.io.File#deleteOnExit()V*
+
+%4java.io.File2deleteOnExit()"Š
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/TemporaryFileManager.javay y( 
+
+tempFilejava.nio.file.PathB*(
+&org.exist.util.io.TemporaryFileManager

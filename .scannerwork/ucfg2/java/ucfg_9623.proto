@@ -1,0 +1,33 @@
+
+forg.exist.storage.XIncludeSerializerTest#getConnection(Ljava/lang/String;)Ljava/net/HttpURLConnection;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÈ  È(-"1*’
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÉ É(!–“
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÉ É(
+%0java.net.URL"java.net.URLÕ
+Ò
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÉ É("
+%1"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%0java.net.URL*
+
+urljava.lang.String£
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÉ É(#
+ujava.net.URL"__id*
+
+%0java.net.URLðí
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÊ# Ê(5
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+ujava.net.URL2openConnection()"‘
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/XIncludeSerializerTest.javaÊ Ê(6
+
+%2java.net.URLConnection:
+urljava.lang.StringB,*
+(org.exist.storage.XIncludeSerializerTest

@@ -1,0 +1,49 @@
+
+Porg.exist.client.security.UmaskSpinnerModel#getPreviousValue()Ljava/lang/Object;k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaB B(""4*”
+2k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaG G(œ
+™
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaG G(
+resultjava.lang.String"__id*
+0000*
+1*±
+3k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaE E($ï
+ì
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaE% E(5	
+%0int"9org.exist.client.security.UmaskSpinnerModel#prevUmask(I)I*/-
++org.exist.client.security.UmaskSpinnerModel*
+""˜
+•
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaE E(6
+%1java.lang.String"Porg.exist.client.security.UmaskSpinnerModel#intToOctalUmask(I)Ljava/lang/String;*/"-
++org.exist.client.security.UmaskSpinnerModel*
+	
+%0int¬
+©
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaE E(6
+resultjava.lang.String"__id*
+
+%1java.lang.String*
+1*•
+4k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaC C(š
+—
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaC C(
+resultjava.lang.String"__id*
+""*
+2
+3*þ
+1k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaI I("‹
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskSpinnerModel.javaI I(
+
+resultjava.lang.StringB/-
++org.exist.client.security.UmaskSpinnerModel

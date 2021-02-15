@@ -1,0 +1,39 @@
+
+Aorg.exist.fluent.XMLDocument#contentsAsString()Ljava/lang/String;n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.java_ _("1*°
+
+1n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.java` `(*•¢
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.java` `((
+%0java.io.StringWriter"java.io.StringWriter∑
+¥
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.java` `(*
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriter∑
+¥
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.java` `(+
+writerjava.io.StringWriter"__id*
+
+%0java.io.StringWriterìê
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.javaa a(
+
+%2void"5org.exist.fluent.XMLDocument#write(Ljava/io/Writer;)V* 
+org.exist.fluent.XMLDocument* 
+
+writerjava.io.StringWriter2write(Ljava/io/Writer;)ÏÈ
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.javab	 b(
+%3java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()"ä
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/XMLDocument.javab b(
+
+%3java.lang.StringB 
+org.exist.fluent.XMLDocument

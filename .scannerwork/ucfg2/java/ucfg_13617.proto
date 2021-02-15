@@ -1,0 +1,50 @@
+
+Oorg.exist.dom.persistent.SymbolTable$SymbolCollection#add(ILjava/lang/String;)If
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÒ Ò("3*Ô
+3f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÓ Ó((×
+Ô
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÓ) Ó(4
+%0java.lang.String[]"__id*J*H7
+5org.exist.dom.persistent.SymbolTable$SymbolCollection"
+symbolsByIdùö
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÓ Ó(9
+%1java.lang.String[]"morg.exist.dom.persistent.SymbolTable$SymbolCollection#ensureCapacity([Ljava/lang/String;I)[Ljava/lang/String;*97
+5org.exist.dom.persistent.SymbolTable$SymbolCollection*
+
+%0java.lang.String[]*
+""2$ensureCapacity([Ljava/lang/String;I)×
+Ô
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÓ Ó(9H7
+5org.exist.dom.persistent.SymbolTable$SymbolCollection"
+symbolsById"__id*
+
+%1java.lang.String[]ÕÒ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÔ Ô(#
+
+%2void"Yorg.exist.dom.persistent.SymbolTable$SymbolCollection#addSymbolById(ILjava/lang/String;)V*97
+5org.exist.dom.persistent.SymbolTable$SymbolCollection*
+""*
+
+namejava.lang.String2"addSymbolById(ILjava/lang/String;)ÙÖ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÕ Õ(%
+
+%3void"[org.exist.dom.persistent.SymbolTable$SymbolCollection#addSymbolByName(Ljava/lang/String;I)V*97
+5org.exist.dom.persistent.SymbolTable$SymbolCollection*
+
+namejava.lang.String*
+""2$addSymbolByName(Ljava/lang/String;I)*
+1*Ý
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÙ Ù("p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.javaÙ Ù(
+"":
+"":
+namejava.lang.StringB97
+5org.exist.dom.persistent.SymbolTable$SymbolCollection

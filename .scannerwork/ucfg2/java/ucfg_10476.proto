@@ -1,0 +1,48 @@
+
+|org.exist.http.servlets.RedirectorServlet$ModifiableRequestWrapper#getParameterValues(Ljava/lang/String;)[Ljava/lang/String;k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java⁄ ⁄(*"startingBlock*◊
+startingBlockk
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java⁄* ⁄(:≥
+∞
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaŸ Ÿ(
+%2"
+__annotate*
+java.lang.Override*
+
+sjava.lang.Stringù
+ö
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java⁄8 ⁄(9
+sjava.lang.String"__annotation*
+
+%2*
+1*ﬂ
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java€# €(.‰
+·
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java€# €(.
+%0java.util.Map"__id*W*UD
+Borg.exist.http.servlets.RedirectorServlet$ModifiableRequestWrapper"
+addedParamsƒ
+¡
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java€# €(5
+%1java.lang.String[]"__mapGet*
+
+%0java.util.Map*
+
+sjava.lang.StringØ
+¨
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java€ €(6
+valuejava.lang.String[]"__id*
+
+%1java.lang.String[]"å
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.java‹ ‹(
+
+valuejava.lang.String[]:
+sjava.lang.StringBFD
+Borg.exist.http.servlets.RedirectorServlet$ModifiableRequestWrapper

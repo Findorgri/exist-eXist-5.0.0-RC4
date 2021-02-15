@@ -1,0 +1,85 @@
+
+[org.exist.util.serializer.AdaptiveWriter#escapeQuotes(Ljava/lang/String;)Ljava/lang/String;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java‘ ‘("7*Â
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java” ”(!ÈÅ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java” ”(+
+
+%7char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)*
+4
+5*õ
+4j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.javaš œ(þû
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java› ›(!
+%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2	append(C)*
+6*ö
+5j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java– ™(þû
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java— —(!
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2	append(C)þû
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java˜ ˜(!
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2	append(C)*
+6*·
+6j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java“ “(½º
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java“ “(*	
+%3int"java.lang.String#length()I*
+
+valuejava.lang.String2length()*
+3
+1*Û
+7j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java’3 ’(8½º
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java’3 ’(A	
+%0int"java.lang.String#length()I*
+
+valuejava.lang.String2length()§¤
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java’% ’(2
+%1java.lang.StringBuilder"java.lang.StringBuilderÂ
+¿
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java’! ’(F
+%2""java.lang.StringBuilder#<init>(I)V*
+
+%1java.lang.StringBuilder*
+""µ
+²
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.java’ ’(G
+sbjava.lang.StringBuilder"__id*
+
+%1java.lang.StringBuilder*
+6*å
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.javaŸ Ÿ(êç
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.javaŸ Ÿ(
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"†
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/AdaptiveWriter.javaŸ Ÿ(
+
+%8java.lang.String:
+valuejava.lang.StringB,*
+(org.exist.util.serializer.AdaptiveWriter

@@ -1,0 +1,16 @@
+
+=org.exist.management.TaskStatus#getReason()Ljava/lang/Object;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.java! !("1*˜
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.java" "(´
+±
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.java" "(
+%0java.lang.Object"__id*0*.!
+org.exist.management.TaskStatus"	
+_reason"{
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.java" "(
+
+%0java.lang.ObjectB#!
+org.exist.management.TaskStatus

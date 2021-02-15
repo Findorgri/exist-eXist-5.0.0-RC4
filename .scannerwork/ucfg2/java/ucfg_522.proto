@@ -1,0 +1,55 @@
+
+5org.exist.numbering.DLNBase#debug()Ljava/lang/String;]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaž ž("1*Š
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(áÞ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(
+%0java.lang.String"8org.exist.numbering.DLNBase#toString()Ljava/lang/String;*
+org.exist.numbering.DLNBase2
+toString()§
+¤
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(!
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ = çä
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ$ Ÿ(1
+%2java.lang.String";org.exist.numbering.DLNBase#toBitString()Ljava/lang/String;*
+org.exist.numbering.DLNBase2toBitString()¸
+µ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(1
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String¦
+£
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(8
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+ [¦
+£
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(J
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+""¥
+¢
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(P
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+]"y
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaŸ Ÿ(Q
+
+%6java.lang.StringB
+org.exist.numbering.DLNBase

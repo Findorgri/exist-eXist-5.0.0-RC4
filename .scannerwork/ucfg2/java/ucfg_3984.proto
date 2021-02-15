@@ -1,0 +1,24 @@
+
+uorg.exist.xquery.value.TimeUtils#newXMLGregorianCalendar(Ljava/lang/String;)Ljavax/xml/datatype/XMLGregorianCalendar;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java“  “(7"1*ä
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java” ”(Ê
+Ç
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java” ”((
+%0"javax.xml.datatype.DatatypeFactory"__id*1*/"
+ org.exist.xquery.value.TimeUtils"	
+factory•’
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java” ”(E-
+%1'javax.xml.datatype.XMLGregorianCalendar"wjavax.xml.datatype.DatatypeFactory#newXMLGregorianCalendar(Ljava/lang/String;)Ljavax/xml/datatype/XMLGregorianCalendar;**
+(
+%0"javax.xml.datatype.DatatypeFactory*+
+)
+lexicalRepresentationjava.lang.String2+newXMLGregorianCalendar(Ljava/lang/String;)"•
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java” ”(F/
+-
+%1'javax.xml.datatype.XMLGregorianCalendar:)
+lexicalRepresentationjava.lang.StringB$"
+ org.exist.xquery.value.TimeUtils

@@ -1,0 +1,16 @@
+
+Eorg.exist.management.TaskStatus#getStatusChangeTime()Ljava/util/Date;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javaE E(#"1*ž
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javaF F( ¼
+¹
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javaF F( 
+%0java.util.Date"__id*:*8!
+org.exist.management.TaskStatus"
+_statusChangeTime"y
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javaF F(!
+
+%0java.util.DateB#!
+org.exist.management.TaskStatus

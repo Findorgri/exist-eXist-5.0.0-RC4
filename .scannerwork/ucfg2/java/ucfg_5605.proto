@@ -1,0 +1,110 @@
+
+torg.exist.xquery.value.AtomicValue#promote(Lorg/exist/xquery/value/AtomicValue;)Lorg/exist/xquery/value/AtomicValue;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaî î("12*Ù
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaý ý( "n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaý ý(.
+""*Ö
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaü ü(âß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaü# ü(7	
+%9int"-org.exist.xquery.value.AtomicValue#getType()I*2
+0
+
+otherValue"org.exist.xquery.value.AtomicValue2	getType()*
+2
+1*Ê
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaû û(ÖÓ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaû û((	
+%8int"-org.exist.xquery.value.AtomicValue#getType()I*&$
+"org.exist.xquery.value.AtomicValue2	getType()*
+3
+1*Ù
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaø ø( "n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaø ø(.
+""*Ö
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.java÷ ÷(âß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.java÷# ÷(7	
+%7int"-org.exist.xquery.value.AtomicValue#getType()I*2
+0
+
+otherValue"org.exist.xquery.value.AtomicValue2	getType()*
+4
+5*Ê
+7d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaö ö(ÖÓ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaö ö((	
+%6int"-org.exist.xquery.value.AtomicValue#getType()I*&$
+"org.exist.xquery.value.AtomicValue2	getType()*
+4
+6*¾
+8d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaó ó( âß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaó! ó(5	
+%5int"-org.exist.xquery.value.AtomicValue#getType()I*2
+0
+
+otherValue"org.exist.xquery.value.AtomicValue2	getType()"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaó ó(7
+""*Ö
+9d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaò ò(#âß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaò. ò(B	
+%4int"-org.exist.xquery.value.AtomicValue#getType()I*2
+0
+
+otherValue"org.exist.xquery.value.AtomicValue2	getType()*
+7
+8*×
+10d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javañ ñ(âß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javañ$ ñ(8	
+%3int"-org.exist.xquery.value.AtomicValue#getType()I*2
+0
+
+otherValue"org.exist.xquery.value.AtomicValue2	getType()*
+8
+9*Ì
+11d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javað ð(ÖÓ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javað ð((	
+%2int"-org.exist.xquery.value.AtomicValue#getType()I*&$
+"org.exist.xquery.value.AtomicValue2	getType()*
+7
+10*±
+12d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaï ï(ÖÓ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaï ï(	
+%0int"-org.exist.xquery.value.AtomicValue#getType()I*&$
+"org.exist.xquery.value.AtomicValue2	getType()âß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.javaï ï(-	
+%1int"-org.exist.xquery.value.AtomicValue#getType()I*2
+0
+
+otherValue"org.exist.xquery.value.AtomicValue2	getType()*
+11
+1*ú
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.java€ €("Ž
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AtomicValue.java€ €(&$
+"org.exist.xquery.value.AtomicValue:0
+
+otherValue"org.exist.xquery.value.AtomicValueB&$
+"org.exist.xquery.value.AtomicValue

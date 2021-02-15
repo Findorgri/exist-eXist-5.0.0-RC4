@@ -1,0 +1,28 @@
+
+Jorg.exist.client.LabelledBoolean#copy(Z)Lorg/exist/client/LabelledBoolean;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBoolean.java. .("1*ê
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBoolean.java/# /(+ÓÎ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBoolean.java/# /(-
+%0java.lang.String"=org.exist.client.LabelledBoolean#getLabel()Ljava/lang/String;*$"
+ org.exist.client.LabelledBoolean2
+getLabel()Ø¨
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBoolean.java/ /("&
+%1 org.exist.client.LabelledBoolean" org.exist.client.LabelledBooleanˆ
+Û
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBoolean.java/ /(3
+%2"=org.exist.client.LabelledBoolean#<init>(Ljava/lang/String;Z)V*(
+&
+%1 org.exist.client.LabelledBoolean*
+
+%0java.lang.String*
+"""å
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBoolean.java/ /(4(
+&
+%1 org.exist.client.LabelledBoolean:
+""B$"
+ org.exist.client.LabelledBoolean

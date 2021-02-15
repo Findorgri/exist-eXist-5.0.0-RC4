@@ -1,0 +1,46 @@
+
+dorg.exist.storage.serializers.Serializer#getStylesheetProperty(Ljava/lang/String;)Ljava/lang/String;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaþ þ($"3*ì
+2j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java€ €(å
+â
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java€ €(0
+%1*javax.xml.transform.sax.TransformerHandler"__id*<*:*
+(org.exist.storage.serializers.Serializer"
+
+xslHandlerº·
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java€ €(&%
+%2javax.xml.transform.Transformer"\javax.xml.transform.sax.TransformerHandler#getTransformer()Ljavax/xml/transform/Transformer;*2
+0
+%1*javax.xml.transform.sax.TransformerHandler2getTransformer()ÌÉ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java€ €(>
+%3java.lang.String"Wjavax.xml.transform.Transformer#getOutputProperty(Ljava/lang/String;)Ljava/lang/String;*'
+%
+%2javax.xml.transform.Transformer*
+
+namejava.lang.String2%getOutputProperty(Ljava/lang/String;)"†
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java€ €(?
+
+%3java.lang.String*ß
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÿ ÿ(å
+â
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÿ ÿ(0
+%0*javax.xml.transform.sax.TransformerHandler"__id*<*:*
+(org.exist.storage.serializers.Serializer"
+
+xslHandler*
+2
+1*å
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java	 ("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java (
+"":
+namejava.lang.StringB,*
+(org.exist.storage.serializers.Serializer

@@ -1,0 +1,20 @@
+
+porg.exist.storage.lock.LockManager#createBtreeLock(Ljava/lang/String;)Ljava/util/concurrent/locks/ReentrantLock;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaç! ç(0"1*¢
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaé é("√¿
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaé é( .
+%0(java.util.concurrent.locks.ReentrantLock"(java.util.concurrent.locks.ReentrantLock’
+“
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaé é("
+%1"2java.util.concurrent.locks.ReentrantLock#<init>()V*0
+.
+%0(java.util.concurrent.locks.ReentrantLock"ò
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaé é(#0
+.
+%0(java.util.concurrent.locks.ReentrantLock:!
+btreeFileNamejava.lang.StringB&"$
+"org.exist.storage.lock.LockManager

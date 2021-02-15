@@ -1,0 +1,27 @@
+
+\org.exist.xmldb.LocalUserManagementService#getProperty(Ljava/lang/String;)Ljava/lang/String;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.java´ ´("startingBlock*è
+startingBlockl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.java´ ´(4»
+¸
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.java³ ³(
+%0"
+__annotate*
+java.lang.Override*
+
+propertyjava.lang.String¥
+¢
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.java´+ ´(3
+propertyjava.lang.String"__annotation*
+
+%0*
+1*é
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaµ µ("v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaµ µ(
+"":
+propertyjava.lang.StringB.,
+*org.exist.xmldb.LocalUserManagementService

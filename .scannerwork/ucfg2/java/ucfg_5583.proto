@@ -1,0 +1,49 @@
+
+Lorg.exist.fluent.DataUtils#toXMLString(Ljava/lang/Object;)Ljava/lang/String;l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaY Y(!"3*Å
+2l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java[( [()›⁄
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java[( [(4
+%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+rjava.lang.Object2
+toString()®
+•
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java[$ [(4
+rjava.lang.Object"__id*
+
+%2java.lang.String*
+1*ï
+3l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaZ Z(ê
+ç
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaZ Z(
+%0java.lang.Object"Lorg.exist.fluent.DataUtils#toXMLObject(Ljava/lang/Object;)Ljava/lang/Object;*"
+org.exist.fluent.DataUtils*
+
+ojava.lang.Object®
+•
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.javaZ Z(
+rjava.lang.Object"__id*
+
+%0java.lang.Object€ÿ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java[ [(
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+rjava.lang.Object2
+getClass()*
+2
+1*˚
+1l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java\ \("á
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java\ \(
+
+rjava.lang.Object:
+ojava.lang.ObjectB"
+org.exist.fluent.DataUtils

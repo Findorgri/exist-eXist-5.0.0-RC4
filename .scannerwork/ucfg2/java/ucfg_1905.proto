@@ -1,0 +1,85 @@
+
+Uorg.exist.test.runner.XMLTestRunner#parse(Ljava/nio/file/Path;)Lorg/w3c/dom/Document;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¥ ¥("1*Œ
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¦0 ¦(4ÔÑ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¦0 ¦(<
+%0java.net.URI"(java.nio.file.Path#toUri()Ljava/net/URI;*
+
+pathjava.nio.file.Path2toUri()ÞÛ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¦0 ¦(L
+%1java.lang.String".java.net.URI#toASCIIString()Ljava/lang/String;*
+
+%0java.net.URI2toASCIIString()§¤
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¦$ ¦(/
+%2org.xml.sax.InputSource"org.xml.sax.InputSourceå
+â
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¦  ¦(M
+%3"3org.xml.sax.InputSource#<init>(Ljava/lang/String;)V*
+
+%2org.xml.sax.InputSource*
+
+%1java.lang.String¶
+³
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¦ ¦(N
+srcorg.xml.sax.InputSource"__id*
+
+%2org.xml.sax.InputSource§
+¤
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java§! §(3(
+%4"javax.xml.parsers.SAXParserFactory"__id*
+""ž›
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java§! §(B!
+%5javax.xml.parsers.SAXParser"Njavax.xml.parsers.SAXParserFactory#newSAXParser()Ljavax/xml/parsers/SAXParser;**
+(
+%4"javax.xml.parsers.SAXParserFactory2newSAXParser()Á
+¾
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java§ §(C%
+parserjavax.xml.parsers.SAXParser"__id*#
+!
+%5javax.xml.parsers.SAXParserˆ…
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¨ ¨(2
+%6org.xml.sax.XMLReader"Ajavax.xml.parsers.SAXParser#getXMLReader()Lorg/xml/sax/XMLReader;*'
+%
+parserjavax.xml.parsers.SAXParser2getXMLReader()±
+®
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¨ ¨(3
+xrorg.xml.sax.XMLReader"__id*
+
+%6org.xml.sax.XMLReader•’
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java¬ ¬(%
+%7"Forg.xml.sax.XMLReader#setContentHandler(Lorg/xml/sax/ContentHandler;)V*
+
+xrorg.xml.sax.XMLReader*
+""2/setContentHandler(Lorg/xml/sax/ContentHandler;)¡ž
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java­ ­(?
+%8"Horg.xml.sax.XMLReader#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+xrorg.xml.sax.XMLReader*
+""*
+""21setProperty(Ljava/lang/String;Ljava/lang/Object;)—”
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java® ®(
+
+%9void"7org.xml.sax.XMLReader#parse(Lorg/xml/sax/InputSource;)V*
+
+xrorg.xml.sax.XMLReader* 
+
+srcorg.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)"t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/runner/XMLTestRunner.java° °(%
+"":
+pathjava.nio.file.PathB'%
+#org.exist.test.runner.XMLTestRunner

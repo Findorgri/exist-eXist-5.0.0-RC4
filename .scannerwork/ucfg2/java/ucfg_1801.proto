@@ -1,0 +1,106 @@
+
+9org.exist.source.URLSource#getContent()Ljava/lang/String;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java» »("11*°
+4\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ(=û
+õ
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ(=
+contentjava.lang.String"__id*
+
+%8java.lang.Stringù
+ö
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java– –(,
+org.exist.source.URLSource"
+
+connection"__id*
+"""}
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java— —(
+
+contentjava.lang.String*∑
+5\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ(<ŒÀ
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ(<
+%8java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+%7java.lang.Object2
+toString()*
+4*ˇ
+6\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ($µ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ($
+%6java.net.URLConnection"__id*.*,
+org.exist.source.URLSource"
+
+connectionﬁ€
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaœ œ(1
+%7java.lang.Object"5java.net.URLConnection#getContent()Ljava/lang/Object;*
+
+%6java.net.URLConnection2getContent()*
+5*Ô
+8\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÕ9 Õ(Cµ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÕ9 Õ(C
+%4java.net.URLConnection"__id*.*,
+org.exist.source.URLSource"
+
+connectionŒÀ
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÕ$ Õ(V	
+%5int"-java.net.HttpURLConnection#getResponseCode()I*
+
+%4java.net.URLConnection2getResponseCode()*
+6*Ÿ
+9\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÀ À(%µ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÀ À(%,
+org.exist.source.URLSource"
+
+connection"__id*
+
+%2java.net.URLConnectionµ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÃ Ã(
+%3java.net.URLConnection"__id*.*,
+org.exist.source.URLSource"
+
+connection*
+6
+8*Ô
+10\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÀ À(§
+°
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÀ À(
+%1java.net.URL"__id*'*%
+org.exist.source.URLSource"
+urlﬁ€
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÀ À(%
+%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+%1java.net.URL2openConnection()*
+9*£
+11\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java   (µ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java   (
+%0java.net.URLConnection"__id*.*,
+org.exist.source.URLSource"
+
+connection*
+6
+10B
+org.exist.source.URLSource

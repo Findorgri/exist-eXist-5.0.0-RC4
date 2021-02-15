@@ -1,0 +1,43 @@
+
+Horg.exist.xquery.value.AbstractDateTimeValue#equals(Ljava/lang/Object;)Zn
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÄ Ä("2"1*Ú	
+2n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÆE Æ(HÈ
+Å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÆ Æ(I2
+dt,org.exist.xquery.value.AbstractDateTimeValue"__id*
+
+objjava.lang.Objectè
+å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÇ Ç(-
+%0'javax.xml.datatype.XMLGregorianCalendar"__id*>*<.
+,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarì
+é
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÇ# Ç(.-
+%1'javax.xml.datatype.XMLGregorianCalendar"__id*B*@
+2
+dt,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarÅÂ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÇ Ç(/
+%2boolean"Cjavax.xml.datatype.XMLGregorianCalendar#equals(Ljava/lang/Object;)Z*/
+-
+%0'javax.xml.datatype.XMLGregorianCalendar*/
+-
+%1'javax.xml.datatype.XMLGregorianCalendar2equals(Ljava/lang/Object;)"x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÇ Ç(0
+""*í
+1n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÊ Ê("x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÊ Ê(
+"":
+objjava.lang.ObjectB0.
+,org.exist.xquery.value.AbstractDateTimeValue

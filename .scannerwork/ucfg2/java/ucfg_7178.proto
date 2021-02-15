@@ -1,0 +1,252 @@
+
+1org.exist.client.InteractiveClient#displayHelp()Vd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¬ ¬("3*•
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‚ ‚(õ
+ò
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‚ ‚(M
+%34void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*86
+4svn                  subversion command-line client.ñ
+ì
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java„ „(H
+%35void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*31
+/threads              threads debug information.*
+1*çI
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java√ √(˛
+˚
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java√ √(-
+
+%0void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*
+--- general commands ---ì
+ê
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaƒ ƒ(B
+
+%1void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*1/
+-ls                   list collection contentsî
+ë
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java≈ ≈(C
+
+%2void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*20
+.cd [collection|..]   change current collection£
+†
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java∆ ∆(R
+
+%3void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*A?
+=put [file pattern]   upload file or directory to the databaseº
+π
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java« «(k
+
+%4void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*ZX
+Vputgz [file pattern] upload possibly gzip compressed file or directory to the database∞
+≠
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java» »(_
+
+%5void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*NL
+Jputzip [file pattern] upload the contents of a ZIP archive to the databaseì
+ê
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java… …(B
+
+%6void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*1/
+-edit [resource] open the resource for editing™
+ß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java   (Y
+
+%7void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*HF
+Dmkcol collection     create new sub-collection in current collection¢
+ü
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ À(Q
+
+%8void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*@>
+<rm document          remove document from current collectionå
+â
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÃ Ã(;
+
+%9void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient**(
+&rmcol collection     remove collectionû
+õ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÕ Õ(L
+%10void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*;9
+7set [key=value]      set property. Calling set without ú
+ô
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaŒ Œ(J
+%11void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*97
+5                     argument shows current settings.ê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaœ œ(
+%12java.lang.String"__id*
+""ƒ
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaœ œ(1
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+--- search commands ---¸
+˘
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaœ œ(2
+%14void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*
+
+%13java.lang.Stringü
+ú
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java– –(M
+%15void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*<:
+8find xpath-expr      execute the given XPath expression.£
+†
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java— —(Q
+%16void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*@>
+<show [position]      display query result value at position.ê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java“ “(
+%17java.lang.String"__id*
+""›
+⁄
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java“ “(J
+%18java.lang.String"__concat*
+
+%17java.lang.String*42
+0--- user management (may require dba rights) ---¸
+˘
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java“ “(K
+%19void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*
+
+%18java.lang.Stringê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java” ”(>
+%20void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*-+
+)users                list existing users.é
+ã
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‘ ‘(<
+%21void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*+)
+'adduser username     create a new user.ñ
+ì
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java’ ’(D
+%22void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*31
+/passwd username      change password for user. Ç
+ˇ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java÷ ÷(0
+%23void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*
+chown user group [resource]§
+°
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java◊ ◊(R
+%24void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*A?
+=                     change resource ownership. chown without•
+¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÿ ÿ(S
+%25void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*B@
+>                     resource changes ownership of the currentá
+Ñ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaŸ Ÿ(5
+%26void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*$"
+                      collection.É
+Ä
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java⁄ ⁄(1
+%27void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient* 
+chmod [resource] permissions†
+ù
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java€ €(N
+%28void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*=;
+9                     change resource permissions. Format:©
+¶
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‹ ‹(W
+%29void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*FD
+B                     [user|group|other]=[+|-][read|write|execute].™
+ß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java› ›(X
+%30void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*GE
+C                     chmod without resource changes permissions forì
+ê
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaﬁ ﬁ(A
+%31void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*0.
+,                     the current collection.ß
+§
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaﬂ ﬂ(U
+%32void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*DB
+@lock resource        put a write lock on the specified resource.¨
+©
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‡ ‡(Z
+%33void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*IG
+Eunlock resource      remove a write lock from the specified resource.*
+2
+1*Ç
+0 "{
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÊ Ê(
+implicit return*˝
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â(å
+â
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â(:
+%36void"Aorg.exist.client.InteractiveClient#messageln(Ljava/lang/String;)V*&$
+"org.exist.client.InteractiveClient*)'
+%quit                 quit the program*
+0B&$
+"org.exist.client.InteractiveClient

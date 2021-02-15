@@ -1,0 +1,60 @@
+
+Horg.exist.dom.persistent.DefaultDocumentSet#toString()Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java¢ ¢("5*¤
+2m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java§ §(§¤
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java§ §(#
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+3
+1*Ž
+3m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java¥ ¥(Ž‹
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java¥ ¥(#
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+2
+3
+1*¿
+5m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java£% £(8ª§
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java£) £(6
+%0java.lang.StringBuilder"java.lang.StringBuilder¼
+¹
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java£% £(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder¼
+¹
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java£ £(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder—”
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java¤. ¤(C
+%2"Uorg.exist.dom.persistent.DefaultDocumentSet#getDocumentIterator()Ljava/util/Iterator;*/-
++org.exist.dom.persistent.DefaultDocumentSet2getDocumentIterator()*
+3
+1*ò
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaª ª(ñî
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaª ª( 
+%5java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"‰
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaª ª(!
+
+%5java.lang.StringB/-
++org.exist.dom.persistent.DefaultDocumentSet

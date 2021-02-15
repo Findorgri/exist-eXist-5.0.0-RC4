@@ -1,0 +1,24 @@
+
+Yorg.exist.util.Leasable#fromCloseable(Ljava/lang/AutoCloseable;)Lorg/exist/util/Leasable;W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaP8 P(E"1*Þ
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaQ Q($”‘
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaQ Q(
+%0org.exist.util.Leasable"org.exist.util.Leasableì
+é
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaQ W(
+
+%1"Porg.exist.util.Leasable#<init>(Ljava/lang/Object;Ljava/util/function/Consumer;)V*
+
+%0org.exist.util.Leasable*
+
+objectU*
+"""z
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaQ W(
+
+%0org.exist.util.Leasable:
+objectUB"
+org.exist.util.Leasable

@@ -1,0 +1,39 @@
+
+Sorg.exist.storage.btree.Paged$Page#compareTo(Lorg/exist/storage/btree/Paged$Page;)I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÂ Â("startingBlock*Ï
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÆ Æ( "i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÆ Æ(*
+""*å
+startingBlock_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÂ Â(.½
+º
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÁ Á(
+%0"
+__annotate*
+java.lang.Override*-
++
+other"org.exist.storage.btree.Paged$Page§
+¤
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÂ( Â(-+
+other"org.exist.storage.btree.Paged$Page"__annotation*
+
+%0*	
+2
+4
+1*Ï
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÄ Ä( "i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÄ Ä('
+""*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÈ È( "i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÈ È(*
+"":+
+other"org.exist.storage.btree.Paged$PageB&$
+"org.exist.storage.btree.Paged$Page

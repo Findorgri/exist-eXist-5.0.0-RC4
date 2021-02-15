@@ -1,0 +1,9 @@
+
+Horg.exist.fluent.ListenerManager#getTriggerConfigXml()Ljava/lang/String;r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java (""1*Î
+1r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java	 (e"Ô
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java (f^\
+Z<triggers><trigger class='org.exist.fluent.ListenerManager$TriggerDispatcher'/></triggers>B$""
+ org.exist.fluent.ListenerManager

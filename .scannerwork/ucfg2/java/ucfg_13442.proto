@@ -1,0 +1,64 @@
+
+gorg.exist.protocolhandler.protocols.xmldb.EmbeddedURLConnection#getOutputStream()Ljava/io/OutputStream;
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javaZ Z('"6*Ä
+2
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javae3 e(;¸
+µ
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javae e(=$
+outputstreamjava.io.OutputStream"__id*
+""*
+1*Ä
+3
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javac5 c(=¸
+µ
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javac c(?$
+outputstreamjava.io.OutputStream"__id*
+""*
+1*¶
+4
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java_/ _(2ì
+é
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java_/ _(2
+%3java.net.URL"__id*L*JA
+?org.exist.protocolhandler.protocols.xmldb.EmbeddedURLConnection"
+url¸
+µ
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javaa a(($
+outputstreamjava.io.OutputStream"__id*
+""*
+2
+3*“
+5
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java\ \(˜
+•
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java\ \(
+%1"__id*
+""ì
+é
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java\ \(
+%2java.net.URL"__id*L*JA
+?org.exist.protocolhandler.protocols.xmldb.EmbeddedURLConnection"
+url*
+4*§
+6
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java[ [(˜
+•
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.java[ [(
+%0"__id*
+""*
+4
+5*°
+1
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javah h("©
+
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/protocols/xmldb/EmbeddedURLConnection.javah h(&
+$
+outputstreamjava.io.OutputStreamBCA
+?org.exist.protocolhandler.protocols.xmldb.EmbeddedURLConnection

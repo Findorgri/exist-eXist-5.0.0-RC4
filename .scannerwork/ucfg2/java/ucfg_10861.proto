@@ -1,0 +1,36 @@
+
+Yorg.exist.xquery.functions.util.NodeXPath#getParent(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaV V("2"4"1*ê
+2i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaZ Z(îë
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaZ
+ Z(&
+%0org.w3c.dom.Element"7org.w3c.dom.Attr#getOwnerElement()Lorg/w3c/dom/Element;*
+
+norg.w3c.dom.Node2getOwnerElement()"ˆ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaZ Z('
+
+%0org.w3c.dom.Element*ã
+4i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaX
+ X("s
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaX X(
+""*Ý
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java\
+ \(äá
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java\
+ \(
+%1org.w3c.dom.Node"2org.w3c.dom.Node#getParentNode()Lorg/w3c/dom/Node;*
+
+norg.w3c.dom.Node2getParentNode()"…
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.java\ \(
+
+%1org.w3c.dom.Node:
+norg.w3c.dom.NodeB-+
+)org.exist.xquery.functions.util.NodeXPath

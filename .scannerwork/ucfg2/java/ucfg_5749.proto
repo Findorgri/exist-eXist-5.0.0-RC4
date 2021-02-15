@@ -1,0 +1,37 @@
+
+Oorg.exist.storage.cache.GClockCache#createArray(Ljava/lang/Class;I)[LCacheable;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaK K("startingBlock*Í
+startingBlockc
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaK K(A¶
+³
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaJ J("
+%1"
+__annotate*
+java.lang.SuppressWarnings*
+
+clazzjava.lang.Class˜
+•
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaK+ K(0
+clazzjava.lang.Class"__annotation*
+
+%1*
+1*ø
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaL L(Œ
+‰
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaL L(2
+%0java.lang.Object"Ijava.lang.reflect.Array#newInstance(Ljava/lang/Class;I)Ljava/lang/Object;*"
+java.lang.reflect.Array*
+
+clazzjava.lang.Class*
+"""
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaL L(3
+
+%0java.lang.Object:
+clazzjava.lang.Class:
+""B'%
+#org.exist.storage.cache.GClockCache

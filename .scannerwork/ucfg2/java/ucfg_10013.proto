@@ -1,0 +1,17 @@
+
+Corg.exist.scheduler.JobConfig#getParameters()Ljava/util/Properties;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/JobConfig.javaw w(#"1*›
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/JobConfig.javax x(·
+´
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/JobConfig.javax x(
+%0java.util.Properties"__id*1*/
+org.exist.scheduler.JobConfig"
+
+parameters"}
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/JobConfig.javax x(
+
+%0java.util.PropertiesB!
+org.exist.scheduler.JobConfig

@@ -1,0 +1,78 @@
+
+6org.exist.dom.memtree.MemTreeBuilder#characters([CII)If
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java— —("6"1*¢
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java­> ­(A£ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java­0 ­(=
+%2java.lang.StringBuilder"java.lang.StringBuilderÏ
+Ì
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java­, ­(a
+%3"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
+
+%2java.lang.StringBuilder*
+""°
+­
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java­ ­(b
+sjava.lang.StringBuilder"__id*
+
+%2java.lang.StringBuilder—”
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java® ®(,
+%4java.lang.StringBuilder"=java.lang.StringBuilder#append([CII)Ljava/lang/StringBuilder;*
+
+sjava.lang.StringBuilder*
+
+chchar[]*
+""*
+""2append([CII)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java° °($
+""*ü
+3f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java§ §(!†
+ƒ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java©6 ©(D
+%1short"__id*
+""*
+2
+1*Ý
+5f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java   ("p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java¡ ¡( 
+""*ÿ
+6f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaœ œ(†
+ƒ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaœ, œ(:
+%0short"__id*
+""*	
+3
+5
+1*Å
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaµ µ(†
+ƒ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaµ' µ(5
+%5short"__id*
+""Ü
+Ù
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java· ·(
+
+%6void"1org.exist.dom.memtree.MemTreeBuilder#linkNode(I)V*(&
+$org.exist.dom.memtree.MemTreeBuilder*
+"""p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java¸ ¸(
+"":
+chchar[]:
+"":
+""B(&
+$org.exist.dom.memtree.MemTreeBuilder

@@ -1,0 +1,21 @@
+
+corg.exist.xmlrpc.RpcConnection#updateAccount(Ljava/lang/String;Ljava/util/List;Ljava/lang/String;)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaô ô( "6*Ñ
+5`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java÷ ƒ("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java÷ ƒ(
+""*Ï
+6`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java÷ ÷(â
+ß
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java÷ ƒ(
+%0"Iorg.exist.xmlrpc.RpcConnection#withDb(LXmlRpcFunction;)Ljava/lang/Object;*" 
+org.exist.xmlrpc.RpcConnection*
+""*
+5:
+namejava.lang.String:
+groupsjava.util.List:
+rgroupjava.lang.StringB" 
+org.exist.xmlrpc.RpcConnection

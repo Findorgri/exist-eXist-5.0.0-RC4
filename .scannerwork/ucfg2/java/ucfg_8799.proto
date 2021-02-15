@@ -1,0 +1,35 @@
+
+?org.exist.dom.persistent.TextImpl#toString(Z)Ljava/lang/String;a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javam m("2"1*é
+2a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javao o(!®
+«
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javao o(4
+%0java.lang.String"__concat*
+<exist:text *
+xmlns:exist=\"øõ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javap9 p(K
+%1org.w3c.dom.Document"9org.w3c.dom.Node#getOwnerDocument()Lorg/w3c/dom/Document;*%#
+!org.exist.dom.persistent.TextImpl2getOwnerDocument()çä
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaq q(
+%2java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*%#
+!org.exist.dom.persistent.TextImpl2	getData()"k
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javao q(0
+""*È
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javas s(àÝ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javas s(
+%3java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*%#
+!org.exist.dom.persistent.TextImpl2
+toString()"}
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javas s(
+
+%3java.lang.String:
+""B%#
+!org.exist.dom.persistent.TextImpl

@@ -1,0 +1,41 @@
+
+<org.exist.util.Configuration#getInteger(Ljava/lang/String;)I^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaï ï("1*¡
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað ð(ª§
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað# ð(4
+%0java.lang.Object"Norg.exist.util.Configuration#getProperty(Ljava/lang/String;)Ljava/lang/Object;* 
+org.exist.util.Configuration*
+
+namejava.lang.String2getProperty(Ljava/lang/String;)ö
+ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað ð(5
+%1java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+%0java.lang.Object˜•
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað ñ(2
+%2java.util.Optional"Mjava.util.Optional#filter(Ljava/util/function/Predicate;)Ljava/util/Optional;*
+
+%1java.util.Optional*
+""2&filter(Ljava/util/function/Predicate;)
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað ò(!
+%3java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
+
+%2java.util.Optional*
+""2"map(Ljava/util/function/Function;)ýú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað ó(
+%4java.lang.Integer"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%3java.util.Optional*
+""2orElse(Ljava/lang/Object;)"h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javað ó(
+"":
+namejava.lang.StringB 
+org.exist.util.Configuration

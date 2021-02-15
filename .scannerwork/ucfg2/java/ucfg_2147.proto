@@ -1,0 +1,150 @@
+
+†org.exist.client.LabelledBooleanRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java4 4(2"startingBlock*É
+2h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaJ J(
+š
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaJ J(# 
+%12javax.swing.border.Border"__id*
+""´±
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaJ J($
+%13void">javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V*,*
+(org.exist.client.LabelledBooleanRenderer*"
+ 
+%12javax.swing.border.Border2&setBorder(Ljavax/swing/border/Border;)*
+1*Ê
+3h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaH H(ž
+›
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaH H(K 
+%10javax.swing.border.Border"Njavax.swing.UIManager#getBorder(Ljava/lang/Object;)Ljavax/swing/border/Border;*"
+javax.swing.UIManager*" 
+Table.focusCellHighlightBorder´±
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaH H(L
+%11void">javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V*,*
+(org.exist.client.LabelledBooleanRenderer*"
+ 
+%10javax.swing.border.Border2&setBorder(Ljavax/swing/border/Border;)*
+1*º
+startingBlockh
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java42 5(^·
+´
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java3 3(
+%14"
+__annotate*
+java.lang.Override*
+
+tablejavax.swing.JTable¡
+ž
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java4@ 4(E
+tablejavax.swing.JTable"__annotation*
+
+%14µ
+²
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java3 3(
+%15"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.ObjectŸ
+œ
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java4T 4(Y
+valuejava.lang.Object"__annotation*
+
+%15*
+9
+10*÷
+5h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaD D(ÿü
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaD D(8
+%9"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*,*
+(org.exist.client.LabelledBooleanRenderer*
+""2setText(Ljava/lang/String;)*
+2
+3*à
+6h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java@ @(Fåâ
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java@ @(F
+%8"*javax.swing.AbstractButton#setSelected(Z)V*,*
+(org.exist.client.LabelledBooleanRenderer*
+""2setSelected(Z)*	
+2
+3
+5*þ
+9h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java; ;(çä
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java; ;(/
+%4java.awt.Color"2java.awt.Component#getForeground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getForeground()™–
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java; ;(0
+
+%5void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*,*
+(org.exist.client.LabelledBooleanRenderer*
+
+%4java.awt.Color2setForeground(Ljava/awt/Color;)çä
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java< <(/
+%6java.awt.Color"2java.awt.Component#getBackground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getBackground()™–
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java< <(0
+
+%7void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*,*
+(org.exist.client.LabelledBooleanRenderer*
+
+%6java.awt.Color2setBackground(Ljava/awt/Color;)*
+6*Ü
+10h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java8 8(ùö
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java8 8(8
+%0java.awt.Color";javax.swing.JTable#getSelectionForeground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getSelectionForeground()™–
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java8 8(9
+
+%1void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*,*
+(org.exist.client.LabelledBooleanRenderer*
+
+%0java.awt.Color2setForeground(Ljava/awt/Color;)ùö
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java9  9(>
+%2java.awt.Color";javax.swing.JTable#getSelectionBackground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getSelectionBackground()Ò
+Ï
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.java9 9(?
+
+%3void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+""*
+
+%2java.awt.Color*
+6*ˆ
+1h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaM M("˜
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanRenderer.javaM M(,*
+(org.exist.client.LabelledBooleanRenderer:
+tablejavax.swing.JTable:
+valuejava.lang.Object:
+"":
+"":
+"":
+""B,*
+(org.exist.client.LabelledBooleanRenderer

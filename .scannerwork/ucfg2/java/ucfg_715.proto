@@ -1,0 +1,60 @@
+
+`org.exist.util.serializer.json.JSONWriterTest#parseXml(Ljava/lang/String;)Lorg/w3c/dom/Document;t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java¶ ¶("5*Ñ
+2t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java® ®(W¢
+ü
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java® ®(W
+isjava.io.InputStream"__id*
+""ﬁ€
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java© ©(,
+%4org.w3c.dom.Document"Tjavax.xml.parsers.DocumentBuilder#parse(Ljava/io/InputStream;)Lorg/w3c/dom/Document;*6
+4
+documentBuilder!javax.xml.parsers.DocumentBuilder*
+
+isjava.io.InputStream2parse(Ljava/io/InputStream;)*
+1*—
+4t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java®@ ®(Fß
+§
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java®P ®(U
+%2java.nio.charset.Charset"__id*
+""¶£
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java®@ ®(V
+%3byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+xmlStrjava.lang.String* 
+
+%2java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)*
+2*Í
+5t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaß0 ß(F∑
+¥
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaß0 ß(F.
+%0(javax.xml.parsers.DocumentBuilderFactory"__id*
+""Ã…
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaß0 ß(['
+%1!javax.xml.parsers.DocumentBuilder"`javax.xml.parsers.DocumentBuilderFactory#newDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;*0
+.
+%0(javax.xml.parsers.DocumentBuilderFactory2newDocumentBuilder()‡
+›
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaß ß(\4
+documentBuilder!javax.xml.parsers.DocumentBuilder"__id*)
+'
+%1!javax.xml.parsers.DocumentBuilder*
+4*ê
+1t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java© ©(-"î
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java© ©(-
+
+%4org.w3c.dom.Document:
+xmlStrjava.lang.StringB1/
+-org.exist.util.serializer.json.JSONWriterTest

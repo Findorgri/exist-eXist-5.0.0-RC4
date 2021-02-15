@@ -1,0 +1,29 @@
+
+=org.exist.dom.memtree.AttrImpl#getBaseURI()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaJ J("3*Õ
+2^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaM M("h
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaM M(
+""*˚
+3^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaK K($ç
+ä
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaK K(N
+parentorg.w3c.dom.Node"__id*
+""*
+2
+1*∫
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaO O(ÿ’
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaO O("
+%0java.lang.String"/org.w3c.dom.Node#getBaseURI()Ljava/lang/String;*
+
+parentorg.w3c.dom.Node2getBaseURI()"z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/AttrImpl.javaO O(#
+
+%0java.lang.StringB" 
+org.exist.dom.memtree.AttrImpl

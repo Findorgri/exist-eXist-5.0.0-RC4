@@ -1,0 +1,111 @@
+
+xorg.exist.dom.persistent.DocumentImpl#getElementsByTagNameNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/NodeList;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaþ þ(*"startingBlock*—
+2g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java‡ ‡('µ²
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java‡ ‡(W
+%4"dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*)'
+%org.exist.dom.persistent.DocumentImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java‡ ‡(X
+
+%4*Ï
+startingBlockg
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaþ* þ(]º
+·
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaý ý(
+%6"
+__annotate*
+java.lang.Override*"
+ 
+namespaceURIjava.lang.String¤
+¡
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaþ8 þ(D 
+namespaceURIjava.lang.String"__annotation*
+
+%6·
+´
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaý ý(
+%7"
+__annotate*
+java.lang.Override*
+
+	localNamejava.lang.String¡
+ž
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaþS þ(\
+	localNamejava.lang.String"__annotation*
+
+%7*
+2
+4
+6
+9
+11
+1*—
+4g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java… …('µ²
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java… …(W
+%3"dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*)'
+%org.exist.dom.persistent.DocumentImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java… …(X
+
+%3*—
+6g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaƒ ƒ('µ²
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaƒ ƒ(J
+%2"dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*)'
+%org.exist.dom.persistent.DocumentImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaƒ ƒ(K
+
+%2*â
+9g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java€? €(Håâ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java€? €(_
+%1",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+""2equals(Ljava/lang/Object;)*
+2
+4
+6
+1*é
+11g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÿ; ÿ(Gèå
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÿ; ÿ(^
+%0",java.lang.String#equals(Ljava/lang/Object;)Z*"
+ 
+namespaceURIjava.lang.String*
+""2equals(Ljava/lang/Object;)*
+2
+4
+6
+9
+1*—
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java‰ ‰('µ²
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java‰ ‰(K
+%5"dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*)'
+%org.exist.dom.persistent.DocumentImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java‰ ‰(L
+
+%5: 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB)'
+%org.exist.dom.persistent.DocumentImpl

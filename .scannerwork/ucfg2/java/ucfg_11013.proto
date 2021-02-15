@@ -1,0 +1,77 @@
+
+èorg.exist.client.IndexDialog$ComboBoxCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaË Ë(6"2"3*ﬁ
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÒ Ò(›⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÒ Ò(3
+%4java.awt.Color"2java.awt.Component#getForeground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getForeground()òï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÒ Ò(4
+
+%5void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*53
+1org.exist.client.IndexDialog$ComboBoxCellRenderer*
+
+%4java.awt.Color2setForeground(Ljava/awt/Color;)›⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÚ Ú(3
+%6java.awt.Color"2java.awt.Component#getBackground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getBackground()òï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÚ Ú(4
+
+%7void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*53
+1org.exist.client.IndexDialog$ComboBoxCellRenderer*
+
+%6java.awt.Color2setBackground(Ljava/awt/Color;)*
+1*≤
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÏ Ï(ÔÏ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÏ Ï(<
+%0java.awt.Color";javax.swing.JTable#getSelectionForeground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getSelectionForeground()òï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÏ Ï(=
+
+%1void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*53
+1org.exist.client.IndexDialog$ComboBoxCellRenderer*
+
+%0java.awt.Color2setForeground(Ljava/awt/Color;)ÔÏ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÌ$ Ì(B
+%2java.awt.Color";javax.swing.JTable#getSelectionBackground()Ljava/awt/Color;*
+
+tablejavax.swing.JTable2getSelectionBackground()»
+≈
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÌ Ì(C
+
+%3void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+""*
+
+%2java.awt.Color*
+1*§
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaˆ ˆ(§°
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaˆ ˆ("
+
+%8void":javax.swing.JComboBox#setSelectedItem(Ljava/lang/Object;)V*53
+1org.exist.client.IndexDialog$ComboBoxCellRenderer*
+
+valuejava.lang.Object2#setSelectedItem(Ljava/lang/Object;)"ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.java˜ ˜(53
+1org.exist.client.IndexDialog$ComboBoxCellRenderer:
+tablejavax.swing.JTable:
+valuejava.lang.Object:
+"":
+"":
+"":
+""B53
+1org.exist.client.IndexDialog$ComboBoxCellRenderer

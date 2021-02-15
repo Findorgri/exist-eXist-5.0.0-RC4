@@ -1,0 +1,16 @@
+
+korg.exist.xquery.MemtreeDescendantOrSelfNodeKindTest#getInMemoryQuery(Ljava/lang/String;)Ljava/lang/String;y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/MemtreeDescendantOrSelfNodeKindTest.java (#"1*í
+1y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/MemtreeDescendantOrSelfNodeKindTest.java (3æ
+ã
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/MemtreeDescendantOrSelfNodeKindTest.java (,
+%0java.lang.String"__concat*&$
+"declare boundary-space preserve;\n*
+let $doc := document {\n"ƒ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/MemtreeDescendantOrSelfNodeKindTest.java (
+"": 
+queryPostfixjava.lang.StringB86
+4org.exist.xquery.MemtreeDescendantOrSelfNodeKindTest

@@ -1,0 +1,105 @@
+
+Åorg.exist.IndexerTest3#store_and_retrieve_suppress_type(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.java‚ ‚(3"21*©
+13]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaË Ë(Mîë
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÈ) È(3
+%5java.util.Properties"java.util.Properties¶
+£
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÈ% È(5
+%6"java.util.Properties#<init>()V*
+
+%5java.util.Properties*
+12*¬
+2]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÚ Ú(ÿ’
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÚ Ú(!
+%9java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;*
+
+outjava.io.StringWriter2
+toString()*
+1*è
+15]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÊ Ê(;£
+†
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÊ Ê(;
+outjava.io.StringWriter"__id*
+
+%3java.io.StringWriter*
+13*©
+16]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÂ Â(hîë
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÊ- Ê(9
+%3java.io.StringWriter"java.io.StringWriter¶
+£
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÊ) Ê(;
+%4"java.io.StringWriter#<init>()V*
+
+%3java.io.StringWriter*
+15*≥
+18]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÂ. Â(g«
+ƒ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÂ. Â(g
+%2"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+""*
+16*˚
+21]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.java„ „(ò
+ï
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.java„ „(*
+
+%0void"Qorg.exist.IndexerTest3#store_suppress_type(Ljava/lang/String;Ljava/lang/String;)V*
+org.exist.IndexerTest3*
+
+typejava.lang.String*
+
+typeXmljava.lang.Stringu
+s
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.java‰  ‰(3
+%1"__id*
+""*
+18*Ë
+12]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÈ È(6•
+¢
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÈ È(6
+propsjava.util.Properties"__id*
+
+%5java.util.Propertiesà
+Ö
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÍ Í(/
+%7java.lang.String"__id*
+"" «
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÍ Í(6
+%8java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*
+
+propsjava.util.Properties*
+
+%7java.lang.String*
+no21setProperty(Ljava/lang/String;Ljava/lang/String;)*
+2*›
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÚ Ú(""y
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest3.javaÚ Ú("
+
+%9java.lang.String:
+typejava.lang.String:
+typeXmljava.lang.String:
+
+typeXqueryjava.lang.StringB
+org.exist.IndexerTest3

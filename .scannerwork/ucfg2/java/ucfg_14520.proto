@@ -1,0 +1,102 @@
+
+Qorg.exist.xquery.util.URIUtils#encodeForURI(Ljava/lang/String;)Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java' '(""1*ú
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java( ((í
+è
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java( (((
+%0java.lang.String"Rorg.exist.xquery.util.URIUtils#urlEncodeUtf8(Ljava/lang/String;)Ljava/lang/String;*"" 
+org.exist.xquery.util.URIUtils*
+
+uriPartjava.lang.Stringü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java( (()
+resultjava.lang.String"__id*
+
+%0java.lang.String≤Ø
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java) )(*
+%1java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+\\+*
+%2020replaceAll(Ljava/lang/String;Ljava/lang/String;)ü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java) )(*
+resultjava.lang.String"__id*
+
+%1java.lang.String∞≠
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java+ +((
+%2java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+%2D*
+-20replaceAll(Ljava/lang/String;Ljava/lang/String;)ü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java+ +((
+resultjava.lang.String"__id*
+
+%2java.lang.String∞≠
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java, ,((
+%3java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+%5F*
+_20replaceAll(Ljava/lang/String;Ljava/lang/String;)ü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java, ,((
+resultjava.lang.String"__id*
+
+%3java.lang.String∞≠
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java- -((
+%4java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+%2E*
+.20replaceAll(Ljava/lang/String;Ljava/lang/String;)ü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java- -((
+resultjava.lang.String"__id*
+
+%4java.lang.String∞≠
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java/ /((
+%5java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+%7E*
+~20replaceAll(Ljava/lang/String;Ljava/lang/String;)ü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java/ /((
+resultjava.lang.String"__id*
+
+%5java.lang.String≤Ø
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java0 0(*
+%6java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+\\**
+%2A20replaceAll(Ljava/lang/String;Ljava/lang/String;)ü
+ú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java0 0(*
+resultjava.lang.String"__id*
+
+%6java.lang.String"~
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/URIUtils.java4 4(
+
+resultjava.lang.String:
+uriPartjava.lang.StringB"" 
+org.exist.xquery.util.URIUtils

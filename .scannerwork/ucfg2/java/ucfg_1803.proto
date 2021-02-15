@@ -1,0 +1,37 @@
+
+7org.exist.source.URLSource#toString()Ljava/lang/String;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java‹ ‹("3*–
+2\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaﬁ ﬁ("m
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaﬁ ﬁ(
+	[not set]*ê
+3\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java› ›(	§
+°
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java› ›(	
+%0java.net.URL"__id*'*%
+org.exist.source.URLSource"
+url*
+2
+1*À
+1\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaﬂ	 ﬂ(§
+°
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaﬂ	 ﬂ(
+%1java.net.URL"__id*'*%
+org.exist.source.URLSource"
+url∆√
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaﬂ	 ﬂ(
+%2java.lang.String")java.net.URL#toString()Ljava/lang/String;*
+
+%1java.net.URL2
+toString()"x
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaﬂ ﬂ(
+
+%2java.lang.StringB
+org.exist.source.URLSource

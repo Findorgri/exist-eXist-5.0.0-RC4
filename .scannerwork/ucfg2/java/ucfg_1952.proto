@@ -1,0 +1,111 @@
+
+worg.exist.dom.persistent.ElementImpl#getElementsByTagNameNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/NodeList;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ ñ(*"startingBlock*’
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaú ú('²¯
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaú ú(W
+%4"corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*(&
+$org.exist.dom.persistent.ElementImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaú ú(X
+
+%4*Ê
+startingBlockf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ* ñ(]¹
+¶
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javağ ğ(
+%6"
+__annotate*
+java.lang.Override*"
+ 
+namespaceURIjava.lang.String£
+ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ8 ñ(D 
+namespaceURIjava.lang.String"__annotation*
+
+%6¶
+³
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javağ ğ(
+%7"
+__annotate*
+java.lang.Override*
+
+	localNamejava.lang.String 
+
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañS ñ(\
+	localNamejava.lang.String"__annotation*
+
+%7*
+2
+4
+6
+9
+11
+1*’
+4f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaø ø('²¯
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaø ø(W
+%3"corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*(&
+$org.exist.dom.persistent.ElementImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaø ø(X
+
+%3*’
+6f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaö ö('²¯
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaö ö(J
+%2"corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*(&
+$org.exist.dom.persistent.ElementImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaö ö(K
+
+%2*à
+9f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaó? ó(Häá
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaó? ó(_
+%1",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+""2equals(Ljava/lang/Object;)*
+2
+4
+6
+1*ç
+11f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaò; ò(Gçä
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaò; ò(^
+%0",java.lang.String#equals(Ljava/lang/Object;)Z*"
+ 
+namespaceURIjava.lang.String*
+""2equals(Ljava/lang/Object;)*
+2
+4
+6
+9
+1*’
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaü ü('²¯
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaü ü(K
+%5"corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*(&
+$org.exist.dom.persistent.ElementImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaü ü(L
+
+%5: 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB(&
+$org.exist.dom.persistent.ElementImpl

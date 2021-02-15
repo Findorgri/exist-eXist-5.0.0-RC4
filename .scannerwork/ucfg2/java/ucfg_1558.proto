@@ -1,0 +1,26 @@
+
+korg.exist.http.realm.XmldbRealm#authenticate(Ljava/lang/String;Ljava/lang/String;)Ljava/security/Principal;w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaF F("11*Ä
+4w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaV V("Å
+w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaV V(
+""*Â
+11w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaG2 G(>›⁄
+w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaG2 G(H
+%0java.security.Principal"Yorg.exist.http.realm.XmldbRealm#getPrincipal(Ljava/lang/String;)Ljava/security/Principal;*#!
+org.exist.http.realm.XmldbRealm*
+
+usernamejava.lang.String2 getPrincipal(Ljava/lang/String;)*
+4
+1*Ä
+1w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaZ Z("Å
+w
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.javaZ Z(
+"":
+usernamejava.lang.String:
+credentialsjava.lang.StringB#!
+org.exist.http.realm.XmldbRealm

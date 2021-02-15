@@ -1,0 +1,71 @@
+
+Zorg.exist.xquery.XQueryContext#getInheritedNamespace(Ljava/lang/String;)Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∆ ∆('"startingBlock*ê
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«; «(Uƒ
+¡
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«; «(U
+%4java.util.Map"__id*B*@ 
+org.exist.xquery.XQueryContext"
+inheritedInScopeNamespacesº
+π
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«; «(a
+%3java.lang.String"__mapGet*
+
+%4java.util.Map*
+
+prefixjava.lang.Stringù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«; «(a
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*Ñ
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«4 «(8ó
+î
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«4 «(8
+%1java.lang.String"__id*
+
+%2
+<nulltype>*
+1*¿
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∆' ∆(<≠
+™
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java≈ ≈(
+%5"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.Stringó
+î
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java∆5 ∆(;
+prefixjava.lang.String"__annotation*
+
+%5*
+4*¥
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «()ƒ
+¡
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «()
+%0java.util.Map"__id*B*@ 
+org.exist.xquery.XQueryContext"
+inheritedInScopeNamespaces*
+2
+3*„
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(b"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(b
+
+%1java.lang.String:
+prefixjava.lang.StringB" 
+org.exist.xquery.XQueryContext

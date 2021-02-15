@@ -1,0 +1,47 @@
+
+Iorg.exist.util.hashtable.SequencedLongHashMap#remove(J)Ljava/lang/Object;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÌ Ì("3*¬
+2o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÏ Ï(æ
+ã
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÏ Ï(
+
+%1void"qorg.exist.util.hashtable.SequencedLongHashMap#removeEntry(Lorg/exist/util/hashtable/SequencedLongHashMap$Entry;)V*1/
+-org.exist.util.hashtable.SequencedLongHashMap*>
+<
+entry3org.exist.util.hashtable.SequencedLongHashMap$EntryÎ
+Ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÐ Ð(
+%2V"__id*I*G
+<
+entry3org.exist.util.hashtable.SequencedLongHashMap$Entry"
+value"|
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÐ Ð(	
+
+%2V*Ü
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÍ Í(2å
+â
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÍ Í(79
+%03org.exist.util.hashtable.SequencedLongHashMap$Entry"yorg.exist.util.hashtable.SequencedLongHashMap#removeFromHashtable(J)Lorg/exist/util/hashtable/SequencedLongHashMap$Entry;*1/
+-org.exist.util.hashtable.SequencedLongHashMap*
+""õ
+ò
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÍ Í(8<
+entry3org.exist.util.hashtable.SequencedLongHashMap$Entry"__id*;
+9
+%03org.exist.util.hashtable.SequencedLongHashMap$Entry*
+2
+1*ï
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÒ Ò("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÒ Ò(
+"":
+""B1/
+-org.exist.util.hashtable.SequencedLongHashMap

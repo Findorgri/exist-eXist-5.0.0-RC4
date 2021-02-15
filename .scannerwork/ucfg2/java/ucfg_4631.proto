@@ -1,0 +1,27 @@
+
+Torg.exist.management.impl.BinaryValues#getName(Ljava/lang/String;)Ljava/lang/String;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java0 0(!"1*ÿ
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java1 1(&Ê
+Ç
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java1 1(3
+%0java.lang.String"__concat*
+org.exist.management.* 
+
+
+instanceIdjava.lang.String¿
+¼
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java1 1(J
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+:type=BinaryValues"‚
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java1 1(K
+
+%1java.lang.String:
+
+instanceIdjava.lang.StringB*"(
+&org.exist.management.impl.BinaryValues

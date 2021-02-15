@@ -1,0 +1,28 @@
+
+>org.exist.dom.memtree.CommentImpl#toString()Ljava/lang/String;a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CommentImpl.javaB B("1*º
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CommentImpl.javaC C($çä
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CommentImpl.javaC' C(0
+%0java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*%#
+!org.exist.dom.memtree.CommentImpl2	getData()»
+¸
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CommentImpl.javaC C(0
+%1java.lang.String"__concat*
+in-memory#comment {*
+
+%0java.lang.Stringª
+§
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CommentImpl.javaC C(7
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+} "}
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CommentImpl.javaC C(8
+
+%2java.lang.StringB%#
+!org.exist.dom.memtree.CommentImpl

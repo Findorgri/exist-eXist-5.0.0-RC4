@@ -1,0 +1,68 @@
+
+\org.exist.xquery.functions.validation.Jaxp#getStrings([Ljava/lang/String;)Ljava/lang/String;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaö ö($"5*×
+2l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaø ø(š
+—
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaø ø(
+fieldjava.lang.String"__id*
+""¾
+»
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaø ø(
+fieldjava.lang.String"
+__arrayGet*
+
+datajava.lang.String[]*
+""*
+3
+1*Ô
+3l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaù ù(·´
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaù ù(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+fieldjava.lang.String2append(Ljava/lang/String;)¡ž
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaú ú(
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+2*š
+5l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.java÷! ÷(4©¦
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.java÷% ÷(2
+%0java.lang.StringBuilder"java.lang.StringBuilder»
+¸
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.java÷! ÷(4
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder·
+´
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.java÷ ÷(5
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+2*ë
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaü ü(ìé
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaü ü(
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"ˆ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaü ü(
+
+%4java.lang.String:
+datajava.lang.String[]B.",
+*org.exist.xquery.functions.validation.Jaxp

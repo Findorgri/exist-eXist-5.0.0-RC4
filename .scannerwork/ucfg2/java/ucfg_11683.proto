@@ -1,0 +1,64 @@
+
+Korg.exist.util.MimeTable#getExtension(Ljava/lang/String;)Ljava/lang/String;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java… …("4*≈
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaŒ Œ("d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaŒ Œ(
+""*ö
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÕ Õ(∞≠
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÕ Õ(.	
+%2int"java.lang.String#length()I*
+
+fileNamejava.lang.String2length()*
+2
+1*‰
+4Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java   (Ü
+É
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java   (-
+%0java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+fileNamejava.lang.Stringù
+ö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java   (.
+pathjava.nio.file.Path"__id*
+
+%0java.nio.file.Pathã
+à
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÀ À(+
+fileNamejava.lang.String"__id*
+""√¿
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÃ Ã(/	
+%1int" java.lang.String#lastIndexOf(I)I*
+
+fileNamejava.lang.String*
+.2lastIndexOf(I)*
+2
+3*ç
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java– –(ﬁ€
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java– –($
+%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+fileNamejava.lang.String*
+""2substring(I)“œ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java– –(2
+%4java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%3java.lang.String2toLowerCase()"v
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java– –(3
+
+%4java.lang.String:
+fileNamejava.lang.StringB
+org.exist.util.MimeTable

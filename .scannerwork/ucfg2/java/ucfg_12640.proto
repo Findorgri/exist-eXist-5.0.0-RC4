@@ -1,0 +1,515 @@
+
+5org.exist.start.Main#detectHome()Ljava/nio/file/Path;V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‘ ‘("47*ˆ
+46V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaﬁ  ﬁ(%Ô
+Ï
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaﬁ  ﬁ(4
+%2java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*	
+WEB-INFõ
+ò
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaﬁ ﬁ(5
+webinfjava.nio.file.Path"__id*
+
+%2java.nio.file.Path*
+44
+45*Ï
+47V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java⁄ ⁄(%›
+⁄
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java⁄& ⁄(F
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+exist.homeÙ
+Ò
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java⁄ ⁄(G
+%1java.nio.file.Path"Iorg.exist.start.Main#getDirectory(Ljava/lang/String;)Ljava/nio/file/Path;*"
+org.exist.start.Main*
+
+%0java.lang.Stringû
+õ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java⁄ ⁄(H
+	_home_dirjava.nio.file.Path"__id*
+
+%1java.nio.file.Path*
+46
+37
+27
+18
+9
+1*ﬁ
+25V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÖ Ö(Ô
+Ï
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÖ Ö(!
+%28boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+jarjava.nio.file.Path*
+18
+9
+23
+1*È
+26V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÉ É(Ö
+Ç
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÉ É(
+%24java.io.PrintStream"__id*
+""ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÉ/ É(C
+%25java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+jarjava.nio.file.Path2toAbsolutePath()®
+•
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÉ# É(C
+%26java.lang.String"__concat*	
+trying *
+
+%25java.nio.file.PathÌ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÉ É(D
+%27void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%24java.io.PrintStream*
+
+%26java.lang.String2println(Ljava/lang/String;)*
+25*Õ
+27V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÅ Å("Î
+Ë
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÅ Å(,
+%21java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+..ÉÄ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÅ Å(A
+%22java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
+
+%21java.nio.file.Path*
+	exist.jar2resolve(Ljava/lang/String;)‘—
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÅ Å(M
+%23java.nio.file.Path"2java.nio.file.Path#normalize()Ljava/nio/file/Path;*
+
+%22java.nio.file.Path2normalize()ô
+ñ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÅ Å(N
+jarjava.nio.file.Path"__id*
+
+%23java.nio.file.Path*
+25
+26*é
+29V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯ ¯(Kü
+ú
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯ ¯(K
+	_home_dirjava.nio.file.Path"__id*
+
+%20java.nio.file.Path*
+27
+18
+9
+1*√
+31V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯  ¯(Kﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯  ¯(K
+%20java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%19java.nio.file.Path2toAbsolutePath()*
+29*π
+32V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯  ¯(:‘—
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯  ¯(:
+%19java.nio.file.Path"2java.nio.file.Path#normalize()Ljava/nio/file/Path;*
+
+%18java.nio.file.Path2normalize()*
+31*œ
+33V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯  ¯(%Í
+Á
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¯  ¯(.
+%18java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+.*
+32*Ü
+11V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaò ò(?ü
+ú
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaò ò(?
+	_home_dirjava.nio.file.Path"__id*
+
+%38java.nio.file.Path*
+9
+1*À
+35V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaˆ ˆ(ÿ
+’
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaˆ ˆ(%
+%17boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+jarjava.nio.file.Path*
+27
+18
+9
+33
+1*√
+13V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaò  ò(?ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaò  ò(?
+%38java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%37java.nio.file.Path2toAbsolutePath()*
+11*È
+36V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÛ Û(Ö
+Ç
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÛ Û(
+%13java.io.PrintStream"__id*
+""ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÛ/ Û(C
+%14java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+jarjava.nio.file.Path2toAbsolutePath()®
+•
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÛ# Û(C
+%15java.lang.String"__concat*	
+trying *
+
+%14java.nio.file.PathÌ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÛ Û(D
+%16void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%13java.io.PrintStream*
+
+%15java.lang.String2println(Ljava/lang/String;)*
+35*œ
+14V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaò  ò(%Í
+Á
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaò  ò(.
+%37java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+.*
+13*˜
+37V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÒ Ò("Ú
+Ô
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÒ Ò(3
+%12java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+	exist.jarô
+ñ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÒ Ò(4
+jarjava.nio.file.Path"__id*
+
+%12java.nio.file.Path*
+35
+36*√
+16V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javañ ñ(ÿ
+’
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javañ ñ(%
+%36boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+jarjava.nio.file.Path*
+
+14
+9
+1*È
+17V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaì ì(Ö
+Ç
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaì ì(
+%32java.io.PrintStream"__id*
+""ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaì/ ì(C
+%33java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+jarjava.nio.file.Path2toAbsolutePath()®
+•
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaì# ì(C
+%34java.lang.String"__concat*	
+trying *
+
+%33java.nio.file.PathÌ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaì ì(D
+%35void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%32java.io.PrintStream*
+
+%34java.lang.String2println(Ljava/lang/String;)*
+16*í
+39V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÁ Á(;ü
+ú
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÁ Á(;
+	_home_dirjava.nio.file.Path"__id*
+
+%11java.nio.file.Path*
+37
+27
+18
+9
+1*ˆ
+18V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaë ë("Ò
+Ó
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaë ë(2
+%31java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+conf.xmlô
+ñ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaë ë(3
+jarjava.nio.file.Path"__id*
+
+%31java.nio.file.Path*
+16
+17*ÿ
+1V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÆ Æ("{
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÆ Æ(!
+
+	_home_dirjava.nio.file.Path*Ç
+2V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java® ®(@ü
+ú
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java® ®(@
+	_home_dirjava.nio.file.Path"__id*
+
+%48java.nio.file.Path*
+1*¡
+4V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java®  ®(@ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java®  ®(@
+%48java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%47java.nio.file.Path2toAbsolutePath()*
+2*∑
+5V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java®  ®(#‘—
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java®  ®(/
+%47java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
+
+jarjava.nio.file.Path2getParent()*
+4*’
+7V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¶ ¶(Ô
+Ï
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¶ ¶(!
+%46boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+jarjava.nio.file.Path*
+5
+1*Á
+8V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java£ £(Ö
+Ç
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java£ £(
+%42java.io.PrintStream"__id*
+""ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java£/ £(C
+%43java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+jarjava.nio.file.Path2toAbsolutePath()®
+•
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java£# £(C
+%44java.lang.String"__concat*	
+trying *
+
+%43java.nio.file.PathÌ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java£ £(D
+%45void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%42java.io.PrintStream*
+
+%44java.lang.String2println(Ljava/lang/String;)*
+7*…
+9V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java° °("Î
+Ë
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java° °(,
+%39java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+..Çˇ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java° °(@
+%40java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
+
+%39java.nio.file.Path*
+
+conf.xml2resolve(Ljava/lang/String;)‘—
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java° °(L
+%41java.nio.file.Path"2java.nio.file.Path#normalize()Ljava/nio/file/Path;*
+
+%40java.nio.file.Path2normalize()ô
+ñ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java° °(M
+jarjava.nio.file.Path"__id*
+
+%41java.nio.file.Path*
+7
+8*∆
+41V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÁ$ Á(*·ﬁ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÁ$ Á(;
+%11java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+webinfjava.nio.file.Path2toAbsolutePath()*
+39*ä
+20V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaá á(@ü
+ú
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaá á(@
+	_home_dirjava.nio.file.Path"__id*
+
+%30java.nio.file.Path*
+
+18
+9
+1*á
+43V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‰! ‰('ˇ¸
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‰! ‰(6
+%8java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
+
+webinfjava.nio.file.Path*
+lib2resolve(Ljava/lang/String;)Å˛
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‰! ‰(K
+%9java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
+
+%8java.nio.file.Path*
+	exist.jar2resolve(Ljava/lang/String;)ò
+ï
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‰ ‰(L
+jarjava.nio.file.Path"__id*
+
+%9java.nio.file.PathÔ
+Ï
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaÂ Â(%
+%10boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+jarjava.nio.file.Path*
+37
+27
+18
+9
+41
+1*Ë
+44V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java„ „(Ò
+Ó
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java„ „($
+%7boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+webinfjava.nio.file.Path*
+37
+27
+18
+9
+43
+1*√
+22V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaá  á(@ﬁ€
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaá  á(@
+%30java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%29java.nio.file.Path2toAbsolutePath()*
+20*Â
+45V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‡ ‡(Ñ
+Å
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‡ ‡(
+%3java.io.PrintStream"__id*
+""‡›
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‡/ ‡(F
+%4java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+webinfjava.nio.file.Path2toAbsolutePath()¶
+£
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‡# ‡(F
+%5java.lang.String"__concat*	
+trying *
+
+%4java.nio.file.PathÌÍ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java‡ ‡(G
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*
+
+%5java.lang.String2println(Ljava/lang/String;)*
+44*π
+23V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaá  á(#‘—
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.javaá  á(/
+%29java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
+
+jarjava.nio.file.Path2getParent()*
+22B
+org.exist.start.Main

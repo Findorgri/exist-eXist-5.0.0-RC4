@@ -1,0 +1,63 @@
+
+corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaä ä(("startingBlock*Ý
+3f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(="p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(=
+
+%3*Ñ
+startingBlockf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaä( ä(;±
+®
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaã ã(
+%7"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String›
+˜
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaä6 ä(:
+namejava.lang.String"__annotation*
+
+%7*
+4
+8*¥
+4f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(<²¯
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(<
+%3"corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*(&
+$org.exist.dom.persistent.ElementImpl*
+""2(getElementsByTagName(Ljava/lang/String;)*
+3*¦
+7f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaæ æ('‘
+Ž
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaæI æ(g
+%1java.lang.String"__id*
+""²¯
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaæ æ(i
+%2"corg.exist.dom.persistent.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*(&
+$org.exist.dom.persistent.ElementImpl*
+""2(getElementsByTagName(Ljava/lang/String;)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaæ æ(j
+
+%2*Õ
+8f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå å(ßÜ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå å(6
+%0",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+""2equals(Ljava/lang/Object;)*
+4
+7:
+namejava.lang.StringB(&
+$org.exist.dom.persistent.ElementImpl

@@ -1,0 +1,20 @@
+
++org.exist.xmldb.LocalResourceSet#getSize()Jb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalResourceSet.javaÝ Ý("1*½
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalResourceSet.javaÞ Þ(¸
+µ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalResourceSet.javaÞ Þ(
+%0java.util.List"__id*3*1"
+ org.exist.xmldb.LocalResourceSet"
+	resourcesª§
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalResourceSet.javaÞ Þ(	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()"l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalResourceSet.javaÞ Þ( 
+""B$"
+ org.exist.xmldb.LocalResourceSet

@@ -1,0 +1,98 @@
+
+Xorg.exist.management.impl.Database#printStackTrace(Ljava/lang/Thread;)Ljava/lang/String;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javaw w(!"8*Í
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java| |(Ð
+Í
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java| |(*!
+%6java.lang.StackTraceElement"
+__arrayGet*0
+.
+stackElementsjava.lang.StackTraceElement[]*
+""êç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java| |(5
+%7java.lang.String"8java.lang.StackTraceElement#toString()Ljava/lang/String;*#
+!
+%6java.lang.StackTraceElement2
+toString()®«
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java| |(6
+%8java.io.StringWriter"Kjava.io.StringWriter#append(Ljava/lang/CharSequence;)Ljava/io/StringWriter;* 
+
+writerjava.io.StringWriter*
+
+%7java.lang.String2 append(Ljava/lang/CharSequence;)êç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java| |(C
+%9java.io.StringWriter"4java.io.StringWriter#append(C)Ljava/io/StringWriter;*
+
+%8java.io.StringWriter*
+\n2	append(C)*
+3
+1*÷
+6b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javaz? z(L…
+‚
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javaz? z(S	
+%3int"__id*
+	
+%5int*
+3
+1*÷
+7b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javaz: z(<…
+‚
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javaz: z(<	
+%3int"__id*
+	
+%4int*
+3
+1*¬
+8b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javax2 x(8ûø
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javax2 x(H#
+%0java.lang.StackTraceElement[]">java.lang.Thread#getStackTrace()[Ljava/lang/StackTraceElement;*
+
+threadjava.lang.Thread2getStackTrace()Ä
+Á
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javax x(I.
+stackElementsjava.lang.StackTraceElement[]"__id*%
+#
+%0java.lang.StackTraceElement[]™–
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javay( y(4
+%1java.io.StringWriter"java.io.StringWriter«
+¨
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javay$ y(6
+%2"java.io.StringWriter#<init>()V*
+
+%1java.io.StringWriter«
+¨
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.javay y(7
+writerjava.io.StringWriter"__id*
+
+%1java.io.StringWriter*
+6
+7*Ì
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java~ ~(áÞ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java~ ~( 
+%10java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()"
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java~ ~(!
+
+%10java.lang.String:
+threadjava.lang.ThreadB&$
+"org.exist.management.impl.Database

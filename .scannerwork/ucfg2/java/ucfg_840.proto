@@ -1,0 +1,23 @@
+
+Korg.exist.client.security.FindUserForm#isValidUsername(Ljava/lang/String;)Zh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindUserForm.java¦ ¦(#"1*«
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindUserForm.java§ §(Æ
+Ã
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindUserForm.java§ §(
+%0java.util.Set"__id*<*:(
+&org.exist.client.security.FindUserForm"
+allUsernamesþû
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindUserForm.java§ §(.
+%1boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Set*
+
+usernamejava.lang.String2contains(Ljava/lang/Object;)"r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindUserForm.java§ §(/
+"":
+usernamejava.lang.StringB*(
+&org.exist.client.security.FindUserForm

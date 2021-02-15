@@ -1,0 +1,35 @@
+
+Worg.exist.dom.persistent.XMLUtil#dump(Lorg/w3c/dom/DocumentFragment;)Ljava/lang/String;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java5 5(#"4*Ü
+4`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java6$ 6(6—”
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java6( 6(4
+%0java.io.StringWriter"java.io.StringWriter©
+¦
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java6$ 6(6
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriter©
+¦
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java6 6(7
+writerjava.io.StringWriter"__id*
+
+%0java.io.StringWriter*
+1*Ä
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java= =(ÞÛ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java= =( 
+%2java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()"|
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java= =(!
+
+%2java.lang.String:(
+fragmentorg.w3c.dom.DocumentFragmentB$""
+ org.exist.dom.persistent.XMLUtil

@@ -1,0 +1,84 @@
+
+Gorg.exist.util.Collations#toICUCollatorReorderCode(Ljava/lang/String;)I[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaå å(/"1*Ÿ
+2[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.java‚ „(s
+q
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaƒ ƒ(
+%1"__id*
+""à
+Ý
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaƒ ƒ(a
+%2java.lang.String"__concat*97
+5eXist-db does not support the collation reorderCode: *!
+
+reorderCodejava.lang.String"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.java„ „(
+""*Ç
+3[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaÿ €(3"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.java€ €(3
+""*Ç
+4[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaü ý(6"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaý ý(6
+""*Ç
+5[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaù ú(4"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaú ú(4
+""*Ç
+6[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaö ÷(9"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.java÷ ÷(9
+""*Ç
+7[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaó ô(3"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaô ô(3
+""*Ç
+8[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javað ñ(3"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javañ ñ(3
+""*Ç
+9[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaí î(4"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaî î(4
+""*È
+10[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaê ë(2"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaë ë(2
+""*È
+11[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaç è(5"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaè è(5
+""*á
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaæ æ(ÜÙ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Collations.javaæ æ((
+%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*!
+
+reorderCodejava.lang.String2toLowerCase()* 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11:
+reorderCodejava.lang.StringB"
+org.exist.util.Collations

@@ -1,0 +1,319 @@
+
+Üorg.exist.xquery.functions.util.GetFragmentBetween#getFragmentBetween(Lorg/w3c/dom/Node;Ljava/util/Optional;)Ljava/lang/StringBuilder;t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java° °(,"60*ª
+13t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‚; ‚(H∏
+µ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‚; ‚(P
+%18"vorg.exist.xquery.functions.util.GetFragmentBetween#getCommentTag(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+""*
+12*â
+24t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÕ$ Õ(Z´
+®
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÕ$ Õ(Z!
+endElementTagjava.lang.String"__id*
+
+%12‘—
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaŒ$ Œ(H
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+resultFragmentjava.lang.StringBuilder*#
+!
+endElementTagjava.lang.String2append(Ljava/lang/String;)*
+54
+44*æ
+25t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÕA Õ(Qª
+∏
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÕA Õ(Y
+%12"yorg.exist.xquery.functions.util.GetFragmentBetween#getEndElementTag(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+""*
+24*È
+38t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaæ/ æ(Xﬁ
+€
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaæ/ æ(X
+%9"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+""*
+29
+54
+44*˘
+16t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java€$ €(M£
+†
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java€$ €(M
+cdatajava.lang.String"__id*
+
+%16Ã…
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‹$ ‹(@
+%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+resultFragmentjava.lang.StringBuilder*
+
+cdatajava.lang.String2append(Ljava/lang/String;)*
+54
+44*π
+17t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java€9 €(D∂
+≥
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java€9 €(L
+%16"torg.exist.xquery.functions.util.GetFragmentBetween#getCDataTag(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+""*
+16*ç
+28t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∆$ ∆(^≠
+™
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∆$ ∆(^#
+startElementTagjava.lang.String"__id*
+
+%10÷”
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java«$ «(J
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+resultFragmentjava.lang.StringBuilder*%
+#
+startElementTagjava.lang.String2append(Ljava/lang/String;)*
+54
+44*¿
+29t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∆C ∆(UΩ
+∫
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∆C ∆(]
+%10"{org.exist.xquery.functions.util.GetFragmentBetween#getStartElementTag(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+""*
+28*ü
+1t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÙ Ù("£
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÙ Ù(+
+)
+resultFragmentjava.lang.StringBuilder* 
+
+6t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∑ ∑(9ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaπ! π(?
+
+%22int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∫! ∫(=
+
+%23int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaΩ! Ω(>
+
+%24int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÀ! À(<
+
+%25int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java“! “(;
+
+%26int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaŸ! Ÿ(6
+
+%27int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‡! ‡(8
+
+%28int"__id*
+""ì
+ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÁ! Á(G
+
+%29int"__id*
+""*
+13
+25
+38
+17
+9
+21
+54
+44*¯
+8t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÈ$ È(J£
+†
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÈ$ È(J
+piTagjava.lang.String"__id*
+
+%20Ã…
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÍ$ Í(@
+%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+resultFragmentjava.lang.StringBuilder*
+
+piTagjava.lang.String2append(Ljava/lang/String;)*
+54
+44*¥
+9t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÈ9 È(A≥
+∞
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaÈ9 È(I
+%20"qorg.exist.xquery.functions.util.GetFragmentBetween#getPITag(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+""*
+8*Æ
+60t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¢4 ¢(9ïí
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java£1 £(N
+%0"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
+
+node2java.util.Optional*
+""2"map(Ljava/util/function/Function;)Å˛
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java®4 ®(L
+%1org.w3c.dom.Document"9org.w3c.dom.Node#getOwnerDocument()Lorg/w3c/dom/Document;*
+
+node1org.w3c.dom.Node2getOwnerDocument()±Æ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java™1 ™(>
+%2java.lang.StringBuilder"java.lang.StringBuilder√
+¿
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java™- ™(@
+%3"!java.lang.StringBuilder#<init>()V*
+
+%2java.lang.StringBuilderÀ
+»
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java™ ™(A)
+resultFragmentjava.lang.StringBuilder"__id*
+
+%2java.lang.StringBuilder«
+ƒ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java´( ´(8
+%4".java.util.Optional#empty()Ljava/util/Optional;*"
+java.util.Optional*
+55*˝
+52t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≥G ≥(OˆÛ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≥G ≥(W
+%6org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*"
+ 
+childrenorg.w3c.dom.NodeList*
+""2item(I)*
+54
+44*É
+20t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‘$ ‘(T®
+•
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‘$ ‘(T
+
+charactersjava.lang.String"__id*
+
+%14—Œ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java’$ ’(E
+%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+resultFragmentjava.lang.StringBuilder* 
+
+
+charactersjava.lang.String2append(Ljava/lang/String;)*
+54
+44*û
+43v
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∂í ∂(®ñ
+ì
+v
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∂¨ ∂(Ω
+%8short"__id*
+""*
+6
+54*ﬁ
+54t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≤  ≤(!ÿ’
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≤$ ≤(8	
+%5int"!org.w3c.dom.NodeList#getLength()I*"
+ 
+childrenorg.w3c.dom.NodeList2getLength()*
+52
+1*ª
+21t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‘> ‘(K∏
+µ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‘> ‘(S
+%14"vorg.exist.xquery.functions.util.GetFragmentBetween#getCharacters(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+""*
+20*ú
+44t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∂T ∂(jï
+í
+u
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java∂n ∂(é
+%7short"__id*
+""*
+43
+54*¨
+55t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java± ±(B©
+¶
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java± ±(B 
+childrenorg.w3c.dom.NodeList"__id*
+""*
+54*˝
+12t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‚$ ‚(Q•
+¢
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java‚$ ‚(Q
+commentjava.lang.String"__id*
+
+%18ŒÀ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java„$ „(B
+%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+resultFragmentjava.lang.StringBuilder*
+
+commentjava.lang.String2append(Ljava/lang/String;)*
+54
+44:
+node1org.w3c.dom.Node:
+node2java.util.OptionalB64
+2org.exist.xquery.functions.util.GetFragmentBetween

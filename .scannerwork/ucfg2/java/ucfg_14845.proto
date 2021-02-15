@@ -1,0 +1,81 @@
+
+Borg.exist.xquery.NamespaceConstructor#toString()Ljava/lang/String;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaó ó("3*¸
+2g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.java† †(àÖ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.java† †(-
+%7"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+1*Æ
+3g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaò% ò(8§°
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaò) ò(6
+%0java.lang.StringBuilder"java.lang.StringBuilder∂
+≥
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaò% ò(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder∂
+≥
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaò ò(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder©¶
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaô ô(#
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+
+namespace 2append(Ljava/lang/String;)†ù
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaõ õ(
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+{2append(Ljava/lang/String;)àÖ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaú ú(+
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)°û
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaù ù(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+} 2append(Ljava/lang/String;)†ù
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.javaû û(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+{2append(Ljava/lang/String;)*
+2
+1*Ñ
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.java¢ ¢(°û
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.java¢ ¢(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+} 2append(Ljava/lang/String;)ÎË
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.java£ £( 
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"É
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NamespaceConstructor.java£ £(!
+
+%9java.lang.StringB)'
+%org.exist.xquery.NamespaceConstructor

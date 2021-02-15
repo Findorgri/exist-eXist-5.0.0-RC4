@@ -1,0 +1,35 @@
+
+Dorg.exist.xmldb.LocalXUpdateQueryService#update(Ljava/lang/String;)Jj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java… …("startingBlock*â
+startingBlockj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java… …(-¹
+¶
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java„ „(
+%1"
+__annotate*
+java.lang.Override*
+
+commandsjava.lang.String£
+ 
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java…$ …(,
+commandsjava.lang.String"__annotation*
+
+%1*
+1*Ï
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java† †(çä
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java† †(-
+
+%0long"^org.exist.xmldb.LocalXUpdateQueryService#updateResource(Ljava/lang/String;Ljava/lang/String;)J*,*
+(org.exist.xmldb.LocalXUpdateQueryService*
+""*
+
+commandsjava.lang.String24updateResource(Ljava/lang/String;Ljava/lang/String;)"t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java† †(.
+"":
+commandsjava.lang.StringB,*
+(org.exist.xmldb.LocalXUpdateQueryService

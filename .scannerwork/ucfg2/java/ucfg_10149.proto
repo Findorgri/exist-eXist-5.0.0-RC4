@@ -1,0 +1,54 @@
+
+Horg.exist.util.SingleInstanceConfiguration#getPath()Ljava/util/Optional;j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaC! C(("3*„
+2j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaE E(.–
+“
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaE E(B
+fjava.nio.file.Path"__id*
+""ïì
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaF F(1
+%2java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+fjava.nio.file.Path2toAbsolutePath()ü
+ù
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaF F(2
+%3java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+%2java.nio.file.Path"ˆ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaF F(3
+
+%3java.util.Optional*•
+3j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaD D(Ð
+Í
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaD D(
+%0java.util.Optional"__id*?*=,
+*org.exist.util.SingleInstanceConfiguration"
+_configFileÈÅ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaD D($
+%1boolean"java.util.Optional#isPresent()Z*
+
+%0java.util.Optional2isPresent()*
+2
+1*Í
+1j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaH H(Ð
+Í
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaH H(
+%4java.util.Optional"__id*?*=,
+*org.exist.util.SingleInstanceConfiguration"
+_configFile"ˆ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaH H(
+
+%4java.util.OptionalB.",
+*org.exist.util.SingleInstanceConfiguration

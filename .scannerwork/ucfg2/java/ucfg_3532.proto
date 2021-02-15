@@ -1,0 +1,101 @@
+
+oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaä ä(*"6*∏
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(¨©
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(4
+%6java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element*#
+!
+attributeNamejava.lang.String2 getAttribute(Ljava/lang/String;)û
+õ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(4
+valuejava.lang.String"__id*
+
+%6java.lang.String*
+1*µ
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ ñ(
+v
+t
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ ñ(
+
+%2"__id*
+""›
+⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ ñ(P
+%3java.lang.String"__concat*64
+2Configuration value overriden by system property: *
+
+propertyjava.lang.String≥
+∞
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ ñ(c
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, with value: º
+π
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ ñ(k
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+valuejava.lang.String*
+1*á
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaè è(<‹
+Ÿ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaè è(V
+%0java.lang.String"vorg.exist.util.Configuration#getAttributeSystemPropertyName(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration* 
+
+elementorg.w3c.dom.Element*#
+!
+attributeNamejava.lang.String°
+û
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaè è(W
+propertyjava.lang.String"__id*
+
+%0java.lang.Stringı
+Ú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaë ë(,
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+propertyjava.lang.Stringû
+õ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaë ë(,
+valuejava.lang.String"__id*
+
+%1java.lang.String*
+2
+3*˙
+6^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaå å(å
+â
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaå å(
+valuejava.lang.String"__id*
+""*
+4
+1*‚
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaú ú("}
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaú ú(
+
+valuejava.lang.String:
+elementorg.w3c.dom.Element:!
+attributeNamejava.lang.StringB 
+org.exist.util.Configuration

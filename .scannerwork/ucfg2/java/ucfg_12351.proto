@@ -1,0 +1,275 @@
+
+Zorg.exist.util.hashtable.Object2ObjectHashMap#remove(Ljava/lang/Object;)Ljava/lang/Object;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaâ â("startingBlock*Ö
+14o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaä ä(á
+Ñ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaä ä(	
+%0int"Gorg.exist.util.hashtable.Object2ObjectHashMap#hash(Ljava/lang/Object;)I*1"/
+-org.exist.util.hashtable.Object2ObjectHashMap*
+
+
+keyK*
+12*÷
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaù ù(√
+¿
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaù ù(
+
+%18K[]"__id*;*9/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+keys•
+¢
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaù ù('
+%19"
+__arraySet*
+
+
+%18K[]*
+""*
+""≈
+¬
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaü! ü('
+
+%20V[]"__id*=*;/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+values†
+ù
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaü! ü(,
+%21V"
+__arrayGet*
+
+
+%20V[]*
+""ì
+ê
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaü ü(-
+oldValV"__id*
+
+
+%21V≈
+¬
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.java† †(
+
+%22V[]"__id*=*;/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+values•
+¢
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.java† †("
+%23"
+__arraySet*
+
+
+%22V[]*
+""*
+"""Ä
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.java° °(
+
+oldValV*‘
+startingBlocko
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaâ â( ≥
+∞
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaà à("
+%24"
+__annotate*
+java.lang.SuppressWarnings*
+
+
+keyKï
+í
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaâ â(
+keyK"__annotation*
+
+%24*
+14*—
+4o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaú ú(√
+¿
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaú ú(
+
+%15K[]"__id*;*9/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+keys†
+ù
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaú ú( 
+%16K"
+__arrayGet*
+
+
+%15K[]*
+""Ê„
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaú ú(,
+%17boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+
+%16K*
+
+
+keyK2equals(Ljava/lang/Object;)*	
+3
+6
+1*Ô
+5o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaõ õ("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaõ õ(
+""*Â
+6o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaô ô(√
+¿
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaö ö(
+
+%13K[]"__id*;*9/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+keys†
+ù
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaö ö(
+%14K"
+__arrayGet*
+
+
+%13K[]*
+""*
+4
+5*Ù
+8o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaó ó($ı
+Ú
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaó ó()
+
+%12int"8org.exist.util.hashtable.Object2ObjectHashMap#rehash(I)I*1/
+-org.exist.util.hashtable.Object2ObjectHashMap*
+""*
+6
+1*œ
+9o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaë ë(¬
+ø
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaë ë(	
+%6K[]"__id*;*9/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+keys£
+†
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaë ë(#
+%7"
+__arraySet*
+	
+%6K[]*
+""*
+""ƒ
+¡
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaì ì(#	
+%8V[]"__id*=*;/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+valuesû
+õ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaì ì((
+%9V"
+__arrayGet*
+	
+%8V[]*
+""í
+è
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaì ì()
+oldValV"__id*	
+
+%9V≈
+¬
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaî î(
+
+%10V[]"__id*=*;/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+values•
+¢
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaî î(
+%11"
+__arraySet*
+
+
+%10V[]*
+""*
+"""Ä
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaï ï(
+
+oldValV* 
+10o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaê ê(¬
+ø
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaê ê(	
+%3K[]"__id*;*9/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+keysû
+õ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaê ê(
+%4K"
+__arrayGet*
+	
+%3K[]*
+""‰·
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaê ê((
+%5boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*	
+
+%4K*
+
+
+keyK2equals(Ljava/lang/Object;)*
+8
+9*
+11o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaè è("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaè è(
+""*Â
+12o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaé é(¬
+ø
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaé é(	
+%1K[]"__id*;*9/
+-org.exist.util.hashtable.Object2ObjectHashMap"
+keysû
+õ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.javaé é(
+%2K"
+__arrayGet*
+	
+%1K[]*
+""*
+10
+11*Ô
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.java§ §("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/Object2ObjectHashMap.java§ §(
+"":
+keyKB1/
+-org.exist.util.hashtable.Object2ObjectHashMap

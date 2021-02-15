@@ -1,0 +1,250 @@
+
+-org.exist.launcher.Launcher#initSystemTray()Z]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¥ ¥(""15*Î
+13]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏8 ∏(Dˇ¸
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏! ∏(E
+%3java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+
+%2java.lang.Class*
+
+icon32.png2getResource(Ljava/lang/String;)*
+12*¿
+14]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏ ∏(‘—
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏! ∏(+
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+org.exist.launcher.Launcher2
+getClass()*
+13*¬
+3]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java⁄ ⁄(Ø
+¨
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java⁄ ⁄(
+%26java.awt.SystemTray"__id*)*'
+org.exist.launcher.Launcher"
+tray±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java⁄ ⁄(
+%27java.awt.TrayIcon"__id*-*+
+org.exist.launcher.Launcher"
+
+trayIconÚÔ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java⁄ ⁄(
+%28void"-java.awt.SystemTray#add(Ljava/awt/TrayIcon;)V*
+
+%26java.awt.SystemTray*
+
+%27java.awt.TrayIcon2add(Ljava/awt/TrayIcon;)*
+1*ƒ
+15]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ" µ(&Æ
+´
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ" µ(&
+%0java.awt.SystemTray"__id*)*'
+org.exist.launcher.Launcher"
+trayÁ‰
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ" µ(8
+%1java.awt.Dimension"9java.awt.SystemTray#getTrayIconSize()Ljava/awt/Dimension;*
+
+%0java.awt.SystemTray2getTrayIconSize()£
+†
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ µ(9
+iconDimjava.awt.Dimension"__id*
+
+%1java.awt.Dimensionó
+î
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂(#%
+imagejava.awt.image.BufferedImage"__id*
+""*
+14*∂
+4]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŸ Ÿ(Ã…
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŸ Ÿ((
+%25void"java.awt.Dialog#setVisible(Z)V*$
+"
+hiddenFramejavax.swing.JDialog*
+""2setVisible(Z)*
+3*†
+5]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÿ ÿ(∂≥
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÿ ÿ(
+%24void"java.awt.Window#pack()V*$
+"
+hiddenFramejavax.swing.JDialog2pack()*
+4*∫
+6]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java◊ ◊(–Õ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java◊ ◊(+
+%23void" java.awt.Dialog#setResizable(Z)V*$
+"
+hiddenFramejavax.swing.JDialog*
+""2setResizable(Z)*
+5*¡
+8]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ À(±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ À(
+%19java.awt.TrayIcon"__id*-*+
+org.exist.launcher.Launcher"
+
+trayIcon±Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ* À(6)
+%20"Lorg/exist/launcher/Launcher$7492;""Lorg/exist/launcher/Launcher$7492;Ω
+∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ& ”(
+%21"%java.awt.event.MouseAdapter#<init>()V*+
+)
+%20"Lorg/exist/launcher/Launcher$7492;Ø¨
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ ”(
+%22void"Cjava.awt.TrayIcon#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+%19java.awt.TrayIcon*+
+)
+%20"Lorg/exist/launcher/Launcher$7492;20addMouseListener(Ljava/awt/event/MouseListener;)*
+6*ä
+9]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaº  º(%z
+x
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaºW º(i	
+%6int"__id*
+""çä
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaº  º(j
+%7java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*'
+%
+imagejava.awt.image.BufferedImage*
+""*
+""*
+	
+%6int2getScaledInstance(III)éã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaº º(
+%8java.awt.TrayIcon"java.awt.TrayIconÚ
+Ô
+^
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaº º(Ä
+%9"=java.awt.TrayIcon#<init>(Ljava/awt/Image;Ljava/lang/String;)V*
+
+%8java.awt.TrayIcon*
+
+%7java.awt.Image*
+eXist-db Launcher±
+Æ
+^
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaº º(Ä+
+org.exist.launcher.Launcher"
+
+trayIcon"__id*
+
+%8java.awt.TrayIconìê
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaæ( æ(/
+%10javax.swing.JDialog"javax.swing.JDialog¶
+£
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaæ$ æ(1
+%11"javax.swing.JDialog#<init>()V*
+
+%10javax.swing.JDialog™
+ß
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaæ æ(2"
+hiddenFramejavax.swing.JDialog"__id*
+
+%10javax.swing.JDialog‘—
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaø ø((
+%12void""java.awt.Dialog#setUndecorated(Z)V*$
+"
+hiddenFramejavax.swing.JDialog*
+""2setUndecorated(Z)èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¿ ¿('
+%13void"/java.awt.Window#setIconImage(Ljava/awt/Image;)V*$
+"
+hiddenFramejavax.swing.JDialog*'
+%
+imagejava.awt.image.BufferedImage2setIconImage(Ljava/awt/Image;)‹
+Ÿ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¬  ¬(,
+%14java.awt.PopupMenu"<org.exist.launcher.Launcher#createMenu()Ljava/awt/PopupMenu;*
+org.exist.launcher.Launcher¢
+ü
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¬ ¬(-
+popupjava.awt.PopupMenu"__id*
+
+%14java.awt.PopupMenu±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java√ √(
+%15java.awt.TrayIcon"__id*-*+
+org.exist.launcher.Launcher"
+
+trayIconÖÇ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java√ √($
+%16void"5java.awt.TrayIcon#setPopupMenu(Ljava/awt/PopupMenu;)V*
+
+%15java.awt.TrayIcon*
+
+popupjava.awt.PopupMenu2"setPopupMenu(Ljava/awt/PopupMenu;)±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaƒ ƒ(
+%17java.awt.TrayIcon"__id*-*+
+org.exist.launcher.Launcher"
+
+trayIconéã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaƒ «(	
+%18void"Ejava.awt.TrayIcon#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%17java.awt.TrayIcon*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+6
+8*†
+10]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏ ∏(Fµ
+≤
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏ ∏(F%
+imagejava.awt.image.BufferedImage"__id*$
+"
+%4java.awt.image.BufferedImage*
+9*Ì
+12]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏ ∏(FÅ
+˛
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∏ ∏(F"
+%4java.awt.image.BufferedImage"Hjavax.imageio.ImageIO#read(Ljava/net/URL;)Ljava/awt/image/BufferedImage;*"
+javax.imageio.ImageIO*
+
+%3java.net.URL*
+10*À
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaﬂ ﬂ("g
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaﬂ ﬂ(
+""B
+org.exist.launcher.Launcher

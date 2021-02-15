@@ -1,0 +1,374 @@
+
+)org.exist.storage.BrokerPool#shutdown(Z)V^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaˆ ˆ("86*Ó
+47^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java∫ ∫(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java∫ ∫(
+%27"__id*
+""*
+35
+18
+8
+43*„
+69^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaô ô(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaô ô(
+%17"__id*
+""*
+65*„
+49^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaµ  µ(#w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaµ  µ(#
+%26"__id*
+""*
+47*Ω
+70^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javañ ñ(–Õ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javañ ñ(!
+%16void")java.util.concurrent.locks.Lock#unlock()V*)
+'
+lockjava.util.concurrent.locks.Lock2unlock()*
+69*–
+71_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë ë(Ñß
+§
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë ë(Ñ 
+statusThreadjava.lang.Thread"__id*
+
+%13java.lang.Thread∏µ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaí í((
+%15void"java.lang.Thread#start()V*"
+ 
+statusThreadjava.lang.Thread2start()*
+70*ê
+72^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaëL ë(e¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaëL ë(e
+%11java.lang.String"__concat*
+exist-broker-*
+
+%10java.lang.String¿
+Ω
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaëL ë(Ç
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+-shutdown-statusReporteréã
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë4 ë(:
+%13java.lang.Thread"java.lang.Threadò
+ï
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë0 ë(É
+%14"@java.lang.Thread#<init>(Ljava/lang/Runnable;Ljava/lang/String;)V*
+
+%13java.lang.Thread*3
+1
+%9+org.exist.storage.BrokerPool$StatusReporter*
+
+%12java.lang.String*
+71*¢
+51^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¥8 ¥(>≠
+™
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¥8 ¥(R
+%25long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+47
+49
+54*°
+73^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë; ë(I“
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë; ë(I1
+%9+org.exist.storage.BrokerPool$StatusReporter"__id*4*2
+org.exist.storage.BrokerPool"
+statusReporterﬂ‹
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaë^ ë(e
+%10java.lang.String"6org.exist.storage.BrokerPool#getId()Ljava/lang/String;* 
+org.exist.storage.BrokerPool2getId()*
+72*¶
+75^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaç ç(D“
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaç ç(D2
+org.exist.storage.BrokerPool"
+statusReporter"__id*3
+1
+%5+org.exist.storage.BrokerPool$StatusReporter“
+œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaé é(0
+%7*java.util.concurrent.ConcurrentSkipListSet"__id*5*3
+org.exist.storage.BrokerPool"
+statusObserversèå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaé é(D
+
+%8void":java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V*2
+0
+%7*java.util.concurrent.ConcurrentSkipListSet*
+""2&forEach(Ljava/util/function/Consumer;)*
+73*≤
+54^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÆ  Æ($Ω∫
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÆ  Æ(/
+%24void"java.lang.Object#wait(J)V* 
+org.exist.storage.BrokerPool*2Ë2wait(J)*
+47
+51
+54*¢
+76^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaç4 ç(C√¿
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaç% ç(31
+%5+org.exist.storage.BrokerPool$StatusReporter"+org.exist.storage.BrokerPool$StatusReporterÔ
+Ï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaç! ç(D
+%6"Gorg.exist.storage.BrokerPool$StatusReporter#<init>(Ljava/lang/String;)V*3
+1
+%5+org.exist.storage.BrokerPool$StatusReporter*
+""*
+75*¢
+11^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaˇ ˇ((∂
+≥
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaˇ2 ˇ(>
+%37java.lang.String"__id*2*0
+org.exist.storage.BrokerPool"
+instanceName*
+8*∏
+77^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaã ã(À»
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaã ã(
+
+%4void"'java.util.concurrent.locks.Lock#lock()V*)
+'
+lockjava.util.concurrent.locks.Lock2lock()*
+76*á
+78^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaá á(Vö
+ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaá á(V'
+lockjava.util.concurrent.locks.Lock"__id*
+""*
+77*≤
+35^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java— —("¬
+ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java—/ —(> 
+%30java.lang.SecurityManager"__id*5*3
+org.exist.storage.BrokerPool"
+securityManager*
+18
+8*Ê
+13^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¸ ¸(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¸ ¸(
+%36"__id*
+""*
+8
+11*ÿ
+58^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java™ ™(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java™ ™(
+%21"__id*
+""ú
+ô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java™! ™(=
+%22java.lang.String"__concat*
+
+Waiting *
+""œ
+Ã
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java™! ™(j
+%23java.lang.String"__concat*
+
+%22java.lang.String*,*
+(ms for remaining threads to shut down...*
+47
+54*≤
+14^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java˙ ˙(%≈
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java˙ ˙('
+%35void"1org.exist.storage.BrokerPool#clearThreadLocals()V* 
+org.exist.storage.BrokerPool*
+13*√
+59^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java© ©('÷”
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java© ©()
+%20void"/org.exist.storage.BrokerPool#printSystemInfo()V* 
+org.exist.storage.BrokerPool2printSystemInfo()*
+58*†
+16^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÛ Û(%≥
+∞
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÛ Û(%
+%34java.lang.Boolean"__id*.*,
+org.exist.storage.BrokerPool"
+
+readOnly*
+14*†
+17^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÚ" Ú(*≥
+∞
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÚ" Ú(*
+%33java.lang.Boolean"__id*.*,
+org.exist.storage.BrokerPool"
+
+readOnly*
+16*£
+18^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java ("∂
+≥
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java# (/
+%32java.lang.String"__id*2*0
+org.exist.storage.BrokerPool"
+instanceName*
+17*|
+0 "u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaü ü(
+implicit return*¶
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaù ù(ú
+ô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaù ù( )
+%42"org.exist.storage.BrokerPool$Event"__id*
+""ú
+ô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaù ù(2)
+%43"org.exist.storage.BrokerPool$Event"__id*
+""*
+0*ê
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaö! ö(%•
+¢
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaö ö(%2
+org.exist.storage.BrokerPool"
+statusReporter"__id*
+""*
+1*Æ
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaô ô(”
+–
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaô ô(2
+%40+org.exist.storage.BrokerPool$StatusReporter"__id*4*2
+org.exist.storage.BrokerPool"
+statusReporterÌÍ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaô ô(*
+%41void"8org.exist.storage.BrokerPool$StatusReporter#terminate()V*4
+2
+%40+org.exist.storage.BrokerPool$StatusReporter2terminate()*
+2*Ù
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javañ& ñ(*”
+–
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaó ó(1
+%38*java.util.concurrent.ConcurrentSkipListSet"__id*5*3
+org.exist.storage.BrokerPool"
+statusObservers≥
+∞
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaó ó('
+%39void"__arrayClear*3
+1
+%38*java.util.concurrent.ConcurrentSkipListSet*
+3*ë
+8^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÜ% Ü()¶
+£
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaè è(&3
+org.exist.storage.BrokerPool"
+securityManager"__id*
+""*
+4*‚
+82^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÄ Ä(v
+t
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaÄ Ä(
+%3"__id*
+""*
+78*û
+62^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¶+ ¶(1≠
+™
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¶+ ¶(E
+%19long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+47
+59*¶
+86^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¯ ¯(õ
+ò
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¯ ¯( (
+%0"org.exist.storage.BrokerPool$Event"__id*
+""õ
+ò
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¯ ¯(/(
+%1"org.exist.storage.BrokerPool$Event"__id*
+""*
+82*«
+43^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¡% ¡(1”–
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¡% ¡(3
+%28"5org.exist.storage.BrokerPool#createBroker()LDBBroker;* 
+org.exist.storage.BrokerPool2createBroker()*
+35
+18
+8* 
+65^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¢ ¢()›⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¢ ¢(+
+%18boolean"1org.exist.storage.BrokerPool#isRecoveryEnabled()Z* 
+org.exist.storage.BrokerPool2isRecoveryEnabled()*
+62:
+""B 
+org.exist.storage.BrokerPool

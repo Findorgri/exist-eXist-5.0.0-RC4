@@ -1,0 +1,42 @@
+
+dorg.exist.dom.persistent.TextImpl#getFeature(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaØ Ø("startingBlock*ù
+startingBlockc
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaØ Ø(H±
+Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÆ Æ(
+%0"
+__annotate*
+java.lang.Override*
+
+featurejava.lang.Stringõ
+ò
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaØ* Ø(1
+featurejava.lang.String"__annotation*
+
+%0±
+Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÆ Æ(
+%1"
+__annotate*
+java.lang.Override*
+
+versionjava.lang.Stringõ
+ò
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaØ@ Ø(G
+versionjava.lang.String"__annotation*
+
+%1*
+1*◊
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java∞ ∞("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java∞ ∞(
+"":
+featurejava.lang.String:
+versionjava.lang.StringB%#
+!org.exist.dom.persistent.TextImpl

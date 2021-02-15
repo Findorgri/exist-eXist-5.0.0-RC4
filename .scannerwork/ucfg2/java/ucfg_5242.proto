@@ -1,0 +1,27 @@
+
+Xorg.exist.xquery.ModuleContext#getXQueryContextVar(Ljava/lang/String;)Ljava/lang/Object;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¤ ¤(%"startingBlock*¼
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¤% ¤(8«
+¨
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java£ £(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String•
+’
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¤3 ¤(7
+namejava.lang.String"__annotation*
+
+%0*
+1*Ñ
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¥ ¥("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¥ ¥(9
+"":
+namejava.lang.StringB" 
+org.exist.xquery.ModuleContext

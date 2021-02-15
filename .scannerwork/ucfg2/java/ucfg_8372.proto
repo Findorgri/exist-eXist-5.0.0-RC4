@@ -1,0 +1,88 @@
+
+Iorg.exist.util.io.FastByteArrayOutputStream#write(Ljava/io/InputStream;)Im
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÌ  Ì(%"6*þ
+2m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaØ Ø(Ê
+Ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaØ Ø(%
+%6byte[]"__id*B*@-
++org.exist.util.io.FastByteArrayOutputStream"
+currentBufferÊ
+Ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaØ4 Ø(A
+%7byte[]"__id*B*@-
++org.exist.util.io.FastByteArrayOutputStream"
+currentBufferçä
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaØ Ø(W	
+%8int"java.io.InputStream#read([BII)I*
+
+injava.io.InputStream*
+
+%6byte[]*
+""*
+""2
+read([BII)*
+4
+1*½
+3m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÕ Õ(Ê
+Ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÕ Õ(+
+%4byte[]"__id*B*@-
++org.exist.util.io.FastByteArrayOutputStream"
+currentBufferö
+ó
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÕ Õ(3
+
+%5void"=org.exist.util.io.FastByteArrayOutputStream#needNewBuffer(I)V*/-
++org.exist.util.io.FastByteArrayOutputStream*
+""*
+2*Ç
+4m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÑ Ñ(Ê
+Ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÔ Ô(,
+%3byte[]"__id*B*@-
++org.exist.util.io.FastByteArrayOutputStream"
+currentBuffer*
+2
+3*þ
+6m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÍ Í(Ê
+Ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÏ Ï(%
+%0byte[]"__id*B*@-
++org.exist.util.io.FastByteArrayOutputStream"
+currentBufferÊ
+Ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÏ4 Ï(A
+%1byte[]"__id*B*@-
++org.exist.util.io.FastByteArrayOutputStream"
+currentBufferçä
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÏ Ï(W	
+%2int"java.io.InputStream#read([BII)I*
+
+injava.io.InputStream*
+
+%0byte[]*
+""*
+""2
+read([BII)*
+4
+1*ë
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÚ Ú("w
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÚ Ú(
+"":
+injava.io.InputStreamB/-
++org.exist.util.io.FastByteArrayOutputStream

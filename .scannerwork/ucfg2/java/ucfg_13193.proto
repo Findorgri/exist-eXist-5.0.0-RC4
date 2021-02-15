@@ -1,0 +1,41 @@
+
+Sorg.exist.validation.ValidationReport#getValidationReportArray()[Ljava/lang/String;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.javaŸ Ÿ(,"1*Ð
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¡  ¡(7™–
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¡  ¡(9
+%0java.util.List"Oorg.exist.validation.ValidationReport#getTextValidationReport()Ljava/util/List;*)'
+%org.exist.validation.ValidationReport2getTextValidationReport() 
+
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¡ ¡(:
+vrjava.util.List"__id*
+
+%0java.util.List¯¬
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¢, ¢(5	
+%1int"java.util.List#size()I*
+
+vrjava.util.List2size()š—
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¢  ¢(7
+%2java.lang.String[]"java.lang.String[]¬
+©
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¢ ¢(8
+reportjava.lang.String[]"__id*
+
+%2java.lang.String[]œ™
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¤ ¤(!
+%3java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+vrjava.util.List*
+
+reportjava.lang.String[]2toArray([Ljava/lang/Object;)"…
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReport.java¤ ¤("
+
+%3java.lang.String[]B)'
+%org.exist.validation.ValidationReport

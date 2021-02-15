@@ -1,0 +1,30 @@
+
+,org.exist.xquery.value.DoubleValue#getInt()Id
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java” ”("1*ç
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java‘ ‘(´
+®
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java‘ ‘(-
+
+%0long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""Ã
+…
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java‘ ‘(.
+%1java.lang.Long")java.lang.Long#valueOf(J)Ljava/lang/Long;*"
+java.lang.Long*
+
+
+%0long¥±
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java‘ ‘(9	
+%2int"java.lang.Long#intValue()I*
+
+%1java.lang.Long2
+intValue()"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java‘ ‘(:
+""B&$
+"org.exist.xquery.value.DoubleValue

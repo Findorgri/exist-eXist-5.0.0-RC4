@@ -1,0 +1,26 @@
+
+Gorg.exist.repo.ExistPkgInfo#getXQuery(Ljava/net/URI;)Ljava/lang/String;[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java3 3("1*¿
+1[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java4 4(ª
+§
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java4 4(
+%0java.util.Map"__id*-*+
+org.exist.repo.ExistPkgInfo"
+
+myXquery¶
+³
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java4 4(&
+%1java.lang.String"__mapGet*
+
+%0java.util.Map*
+
+	namespacejava.net.URI"w
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java4 4('
+
+%1java.lang.String:
+	namespacejava.net.URIB
+org.exist.repo.ExistPkgInfo

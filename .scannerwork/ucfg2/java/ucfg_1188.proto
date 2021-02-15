@@ -1,0 +1,93 @@
+
+Xorg.exist.xquery.XMLNodeAsXQueryParameterTest#load(Ljava/lang/String;)Lorg/w3c/dom/Node;t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaï ï("4*˘
+2t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.java† †("~
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.java† †(P
+""*÷
+4t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javañ ñ(1±Æ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javañ" ñ(/
+%0java.lang.StringBuilder"java.lang.StringBuilder√
+¿
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javañ ñ(1
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder¬
+ø
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javañ ñ(2 
+queryjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¬ø
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaó ó()
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
+ 
+queryjava.lang.StringBuilder*
+xquery version \"1.0\";2append(Ljava/lang/String;)’“
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaò ò(<
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
+ 
+queryjava.lang.StringBuilder*.,
+*declare variable $local:document external;2append(Ljava/lang/String;)îë
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaô ô(x
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*"
+ 
+queryjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)π∂
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaö ö( 
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
+ 
+queryjava.lang.StringBuilder*
+return $survey2append(Ljava/lang/String;)•¢
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaú4 ú(=
+%6java.util.HashMap"java.util.HashMap∑
+¥
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaú0 ú(?
+%7"java.util.HashMap#<init>()V*
+
+%6java.util.HashMapæ
+ª
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaú ú(@"
+externalVariablesjava.util.Map"__id*
+
+%6java.util.HashMapı
+Ú
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaù ù(3
+%8java.lang.Object"__mapSet*$
+"
+externalVariablesjava.util.Map*
+local:document*
+
+documentjava.lang.Stringç
+ä
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaû û(1
+%9"__id*
+""¯ı
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.javaû? û(O
+%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*"
+ 
+queryjava.lang.StringBuilder2
+toString()*
+2
+1*˘
+1t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.java¢	 ¢("~
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XMLNodeAsXQueryParameterTest.java¢ ¢(
+"":
+documentjava.lang.StringB1/
+-org.exist.xquery.XMLNodeAsXQueryParameterTest

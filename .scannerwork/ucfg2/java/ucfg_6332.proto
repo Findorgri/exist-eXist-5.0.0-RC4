@@ -1,0 +1,27 @@
+
+dorg.exist.http.servlets.HttpServletRequestWrapper#getAttribute(Ljava/lang/String;)Ljava/lang/Object;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaî î("startingBlock*õ
+startingBlocks
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaî î(1¾
+»
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaí í(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String¨
+¥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaî, î(0
+namejava.lang.String"__annotation*
+
+%0*
+1*÷
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaï ï("}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaï ï(*
+"":
+namejava.lang.StringB53
+1org.exist.http.servlets.HttpServletRequestWrapper

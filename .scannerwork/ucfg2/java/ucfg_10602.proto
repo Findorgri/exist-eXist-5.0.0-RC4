@@ -1,0 +1,49 @@
+
+Morg.exist.xqdoc.xquery.Scan#extractName(Ljava/lang/String;)Ljava/lang/String;n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java° °("3*¯
+2n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java§ §(ıÚ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java§ §(#
+%3java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*$
+"
+matcherjava.util.regex.Matcher*22group(I)"ä
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java§ §($
+
+%3java.lang.String*˚
+3n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java¢ ¢(&†
+ù
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java¢ ¢(&
+%0java.util.regex.Pattern"__id*
+""≈¬
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java¢ ¢(3
+%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%0java.util.regex.Pattern*
+
+urijava.lang.String2!matcher(Ljava/lang/CharSequence;)æ
+ª
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java¢ ¢(4"
+matcherjava.util.regex.Matcher"__id*
+
+%1java.util.regex.Matcher—Œ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java£ £(
+%2boolean"java.util.regex.Matcher#find()Z*$
+"
+matcherjava.util.regex.Matcher2find()*
+2
+1*Å
+1n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java¶ ¶("ã
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/xquery/Scan.java¶ ¶(
+
+urijava.lang.String:
+urijava.lang.StringB
+org.exist.xqdoc.xquery.Scan

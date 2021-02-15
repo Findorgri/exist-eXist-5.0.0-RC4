@@ -1,0 +1,25 @@
+
+Jorg.exist.client.security.AclTableModel#getColumnClass(I)Ljava/lang/Class;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AclTableModel.javaD D("1*ì
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AclTableModel.javaE E(Ã
+À
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AclTableModel.javaE E(
+%0java.lang.Class[]"__id*6*4)
+'org.exist.client.security.AclTableModel"
+types²
+¯
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AclTableModel.javaE E("
+%1java.lang.Class"
+__arrayGet*
+
+%0java.lang.Class[]*
+"""‚
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AclTableModel.javaE E(#
+
+%1java.lang.Class:
+""B+)
+'org.exist.client.security.AclTableModel

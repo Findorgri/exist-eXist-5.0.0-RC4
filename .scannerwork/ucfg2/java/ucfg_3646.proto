@@ -1,0 +1,130 @@
+
+Zorg.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper#getParameterMap()Ljava/util/Map;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java°	% °	(4"7*÷
+2l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java£	 £	(8ù
+ö
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java£	 £	(8
+paramjava.util.Map$Entry"__id*
+""∫
+∑
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java£	 £	(8
+paramjava.util.Map$Entry"
+__arrayGet*
+
+%3java.util.Set*
+""*
+5
+1*Ú
+3l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java®	 ®	( ‰·
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java®	% ®	(3
+%10java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+paramjava.util.Map$Entry2getKey()†ù
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java®	5 ®	(B
+%11java.lang.String[]"java.lang.String[]Ô
+Ï
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java®	 ®	(C
+%12java.lang.String[]"__mapSet*
+
+parameterMapjava.util.Map*
+
+%10java.lang.String*
+
+%11java.lang.String[]*
+2*Ã	
+4l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¶	 ¶	( „‡
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¶	% ¶	(3
+%5java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+paramjava.util.Map$Entry2getKey()∏µ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¶	O ¶	(\	
+%6int"java.util.List#size()I*
+
+valuesjava.util.List2size()üú
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¶	D ¶	(]
+%7java.lang.String[]"java.lang.String[]°û
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¶	5 ¶	(^
+%8java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+valuesjava.util.List*
+
+%7java.lang.String[]2toArray([Ljava/lang/Object;)Ï
+È
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¶	 ¶	(_
+%9java.lang.String[]"__mapSet*
+
+parameterMapjava.util.Map*
+
+%5java.lang.String*
+
+%8java.lang.String[]*
+2*ç
+5l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java§	, §	(1Â‚
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java§	, §	(<
+%4java.util.List"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
+
+paramjava.util.Map$Entry2
+getValue()©
+¶
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java§	 §	(=
+valuesjava.util.List"__id*
+
+%4java.util.List*
+3
+4*™
+6l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java£	; £	(F‹
+Ÿ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java£	; £	(F
+%2java.util.Map"__id*N*L;
+9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper"
+addedParams“œ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java£	; £	(Q
+%3java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
+
+%2java.util.Map2
+entrySet()*
+2*¸
+7l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¢	7 ¢	(Fùö
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¢	; ¢	(D
+%0java.util.HashMap"java.util.HashMapØ
+¨
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¢	7 ¢	(F
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMap±
+Æ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¢	 ¢	(G
+parameterMapjava.util.Map"__id*
+
+%0java.util.HashMap*
+6*É
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java´	 ´	("è
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java´	 ´	( 
+
+parameterMapjava.util.MapB=;
+9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper

@@ -1,0 +1,19 @@
+
+?org.exist.client.UploadDialog#getObserver()Ljava/util/Observer;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/UploadDialog.javaÌ Ì("1*é
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/UploadDialog.javaÍ	 Í(%ÖÓ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/UploadDialog.javaÍ Í(#:
+%04org.exist.client.UploadDialog$UploadProgressObserver"4org.exist.client.UploadDialog$UploadProgressObserver‡
+„
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/UploadDialog.javaÍ	 Í(%
+%1"]org.exist.client.UploadDialog$UploadProgressObserver#<init>(Lorg/exist/client/UploadDialog;)V*<
+:
+%04org.exist.client.UploadDialog$UploadProgressObserver"Ÿ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/UploadDialog.javaÍ Í(&<
+:
+%04org.exist.client.UploadDialog$UploadProgressObserverB!
+org.exist.client.UploadDialog

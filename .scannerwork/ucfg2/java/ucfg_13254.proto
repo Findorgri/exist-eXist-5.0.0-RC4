@@ -1,0 +1,32 @@
+
+Lorg.exist.security.Session#getProperty(Ljava/lang/String;)Ljava/lang/Object;Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaE E("1*í
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaF F(¯
+¬
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaF F(
+
+%0void""org.exist.security.Session#used()V*
+org.exist.security.Sessionª
+§
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaG	 G(
+%1java.util.Map"__id*.*,
+org.exist.security.Session"
+
+properties´
+±
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaG	 G(
+%2java.lang.Object"__mapGet*
+
+%1java.util.Map*
+
+namejava.lang.String"v
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaG G(
+
+%2java.lang.Object:
+namejava.lang.StringB
+org.exist.security.Session

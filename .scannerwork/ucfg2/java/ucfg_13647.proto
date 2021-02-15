@@ -1,0 +1,277 @@
+
+Dorg.exist.xquery.XPathException#getMessageAsHTML()Ljava/lang/String;a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java¯ ¯(""11*ç
+2a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaê ê(üú
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaê ê("
+%31java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+</table>2append(Ljava/lang/String;)*
+1*Ò
+3a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaã ã(-Ø
+¨
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaã ã(-9
+e4org.exist.xquery.XPathException$FunctionStackElement"__id*
+""Œ
+À
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaã ã(-9
+e4org.exist.xquery.XPathException$FunctionStackElement"
+__arrayGet*
+
+%20java.util.List*
+""*
+2
+4*ô
+4a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaå å(Æ´
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaå å(5
+%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+<tr><td class=\"func\">2append(Ljava/lang/String;)–
+Õ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaå= å(G
+%22java.lang.String"__id*I*G
+9
+e4org.exist.xquery.XPathException$FunctionStackElement"
+
+function¨©
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaå å(H
+%23java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%21java.lang.StringBuilder*
+
+%22java.lang.String2append(Ljava/lang/String;)úô
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaå å(X
+%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%23java.lang.StringBuilder*	
+</td>2append(Ljava/lang/String;)Æ´
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaç ç(5
+%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+<td class=\"lineinfo\">2append(Ljava/lang/String;)˜Ù
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaç ç(D
+%26java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
+
+%25java.lang.StringBuilder*
+""2	append(I)ˆÛ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaç ç(P
+%27java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+%26java.lang.StringBuilder*
+:2	append(C)˜Ù
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaç ç(a
+%28java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
+
+%27java.lang.StringBuilder*
+""2	append(I)úô
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaç ç(q
+%29java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%28java.lang.StringBuilder*	
+</td>2append(Ljava/lang/String;)úô
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaé é(#
+%30java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*	
+</tr>2append(Ljava/lang/String;)*
+3*•
+5a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaã0 ã(9∑
+¥
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaã0 ã(9
+%20java.util.List"__id*2*0!
+org.exist.xquery.XPathException"
+	callStack*
+3*ﬁ
+6a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaà à(±Æ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaà à(4
+%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+<table id=\"xquerytrace\">2append(Ljava/lang/String;)ºπ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaâ â(?
+%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*)'
+%<caption>XQuery Stack Trace</caption>2append(Ljava/lang/String;)*
+5*«
+7a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÜ Ü(úô
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÜ Ü(
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*	
+</h2>2append(Ljava/lang/String;)∑
+¥
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaá á(
+%17java.util.List"__id*2*0!
+org.exist.xquery.XPathException"
+	callStack*
+6
+1*Ú
+8a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÄ Ä(†ù
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÄ Ä($
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+ [at line 2append(Ljava/lang/String;)ŒÀ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÅ Å( 
+
+%10int"*org.exist.xquery.XPathException#getLine()I*#!
+org.exist.xquery.XPathException2	getLine()˝˙
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÅ Å(!
+%11java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+
+%10int2	append(I)†ù
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÇ Ç(#
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+	, column 2append(Ljava/lang/String;)“œ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÉ É("
+
+%13int",org.exist.xquery.XPathException#getColumn()I*#!
+org.exist.xquery.XPathException2getColumn()˝˙
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÉ É(#
+%14java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+
+%13int2	append(I)òï
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaÑ Ñ(
+%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+]2append(Ljava/lang/String;)*
+7*Í
+9a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˝ ˝(∂
+≥
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˝ ˝(
+%3java.lang.String"__id*0*.!
+org.exist.xquery.XPathException"	
+messageµ≤
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˝ ˝(6
+%4java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%3java.lang.String*	
+\r?\n*	
+<br/>20replaceAll(Ljava/lang/String;Ljava/lang/String;)∂
+≥
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˝ ˝(6.!
+org.exist.xquery.XPathException"	
+message"__id*
+
+%4java.lang.Stringöó
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˛ ˛(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+<h2>2append(Ljava/lang/String;)∂
+≥
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˛" ˛()
+%6java.lang.String"__id*0*.!
+org.exist.xquery.XPathException"	
+message©¶
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˛ ˛(*
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%5java.lang.StringBuilder*
+
+%6java.lang.String2append(Ljava/lang/String;)Õ 
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaˇ ˇ(	
+%8int"*org.exist.xquery.XPathException#getLine()I*#!
+org.exist.xquery.XPathException2	getLine()*
+7
+8*è
+10a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˚ ˚(†
+ù
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˚ ˚(.!
+org.exist.xquery.XPathException"	
+message"__id* *
+9*≠
+11a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˘" ˘(5ûõ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˘& ˘(3
+%0java.lang.StringBuilder"java.lang.StringBuilder∞
+≠
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˘" ˘(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder≠
+™
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˘ ˘(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder∂
+≥
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java˙ ˙(
+%2java.lang.String"__id*0*.!
+org.exist.xquery.XPathException"	
+message*
+9
+10*Ã
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaí í(„‡
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaí í(
+%32java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"~
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaí í(
+
+%32java.lang.StringB#!
+org.exist.xquery.XPathException

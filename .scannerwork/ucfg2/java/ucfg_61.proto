@@ -1,0 +1,69 @@
+
+Jorg.exist.collections.MutableCollection#compareTo(Ljava/util/Collection;)Ii
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÄ Ä("startingBlock*ã
+2i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÊ Ê("s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÊ Ê(&
+""*æ
+startingBlocki
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÄ Ä(N¹
+¶
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÂ Â(
+%1"
+__annotate*
+java.lang.Override*
+
+otherjava.util.Collection¼
+¹
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÃ Ã(*
+%2"
+__annotate*
+EnsureContainerLocked*
+
+otherjava.util.Collection³
+°
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÄ Ä(6
+%3"
+__annotate*
+EnsureLocked*
+
+otherjava.util.Collection³
+°
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÄH Ä(M
+otherjava.util.Collection"__annotation*
+
+%1*
+
+%2*
+
+%3*
+5*ã
+4i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÈ È("s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÈ È(#
+""*†
+5i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÅ Å(Š
+‡
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÅ Å(%
+%0java.util.Collection"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*"
+java.util.Objects*
+
+otherjava.util.Collection*	
+2
+4
+1*ã
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÌ Ì("s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÌ Ì(&
+"":
+otherjava.util.CollectionB+)
+'org.exist.collections.MutableCollection

@@ -1,0 +1,21 @@
+
+Qorg.exist.storage.lock.LockManagerTest$LockEventRecordingListener#isRegistered()Zm
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/LockManagerTest.java” ”(#"1*Þ
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/LockManagerTest.java• •(€
+ý
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/LockManagerTest.java• •(/
+%0)java.util.concurrent.atomic.AtomicBoolean"__id*U*SC
+Aorg.exist.storage.lock.LockManagerTest$LockEventRecordingListener"
+
+registeredíê
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/LockManagerTest.java• •(#
+%1boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*1
+/
+%0)java.util.concurrent.atomic.AtomicBoolean2get()"w
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/LockManagerTest.java• •($
+""BEC
+Aorg.exist.storage.lock.LockManagerTest$LockEventRecordingListener

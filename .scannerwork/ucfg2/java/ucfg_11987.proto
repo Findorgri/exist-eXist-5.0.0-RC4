@@ -1,0 +1,54 @@
+
+Uorg.exist.xquery.regex.IntRangeSet#containsAll(Lorg/exist/xquery/regex/IntRangeSet;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.java› ›("5*Ù
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaŸ Ÿ("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaŸ Ÿ(
+""*Þ
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaž ž(üù
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaž ž(#	
+%2int">org.exist.xquery.regex.IntRangeSet$IntRangeSetIterator#next()I*>
+<
+it6org.exist.xquery.regex.IntRangeSet$IntRangeSetIterator2next()ëè
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaž ž($
+%3boolean"/org.exist.xquery.regex.IntRangeSet#contains(I)Z*&$
+"org.exist.xquery.regex.IntRangeSet*
+	
+%2int2contains(I)*
+2
+4*ú
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.java (†ƒ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.java (
+%1boolean"Aorg.exist.xquery.regex.IntRangeSet$IntRangeSetIterator#hasNext()Z*>
+<
+it6org.exist.xquery.regex.IntRangeSet$IntRangeSetIterator2	hasNext()*
+3
+1*ª
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaœ$ œ()ÉÆ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaœ$ œ(4<
+%06org.exist.xquery.regex.IntRangeSet$IntRangeSetIterator"eorg.exist.xquery.regex.IntRangeSet#iterator()Lorg/exist/xquery/regex/IntRangeSet$IntRangeSetIterator;*-
++
+other"org.exist.xquery.regex.IntRangeSet2
+iterator()í
+ê
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.javaœ œ(5<
+it6org.exist.xquery.regex.IntRangeSet$IntRangeSetIterator"__id*>
+<
+%06org.exist.xquery.regex.IntRangeSet$IntRangeSetIterator*
+4*Ù
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.java¢ ¢("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/IntRangeSet.java¢ ¢(
+"":+
+other"org.exist.xquery.regex.IntRangeSetB&$
+"org.exist.xquery.regex.IntRangeSet

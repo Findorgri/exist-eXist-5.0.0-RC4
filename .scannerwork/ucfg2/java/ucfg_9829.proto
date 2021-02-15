@@ -1,0 +1,23 @@
+
+)org.exist.storage.journal.Lsn#create(II)J]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java% %("1*Å
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java& &({
+y
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java& &( 
+
+%0long"__id*
+""{
+y
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java&2 &(:
+
+%1long"__id*
+"""g
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java& &(C
+"":
+"":
+""B!"
+org.exist.storage.journal.Lsn

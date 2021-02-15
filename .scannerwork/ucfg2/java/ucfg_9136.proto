@@ -1,0 +1,24 @@
+
+7org.exist.protocolhandler.xmldb.XmldbURL#hasUserInfo()Zj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÒ Ò("3*…
+2j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÓ' Ó(2Ž‹
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÓ' Ó(4
+%1java.lang.String"Horg.exist.protocolhandler.xmldb.XmldbURL#getUsername()Ljava/lang/String;*,*
+(org.exist.protocolhandler.xmldb.XmldbURL2getUsername()*
+1*ˆ
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÓ Ó(Ž‹
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÓ Ó(
+%0java.lang.String"Horg.exist.protocolhandler.xmldb.XmldbURL#getUserInfo()Ljava/lang/String;*,*
+(org.exist.protocolhandler.xmldb.XmldbURL2getUserInfo()*
+2
+1*å
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÓ Ó(<"t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÓ Ó(<
+""B,*
+(org.exist.protocolhandler.xmldb.XmldbURL

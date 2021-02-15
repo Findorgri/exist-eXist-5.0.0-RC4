@@ -1,0 +1,36 @@
+
+Oorg.exist.client.security.UmaskDocumentFilter#isValidUmask(Ljava/lang/String;)Zm
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javal l( "1*¸	
+1m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javam m(Ø
+Õ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javam m(
+%0java.util.regex.Matcher"__id*?*=/
+-org.exist.client.security.UmaskDocumentFilter"
+
+mtcUmaskÀ½
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javam m(
+%1java.util.regex.Matcher"Pjava.util.regex.Matcher#reset(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%0java.util.regex.Matcher*
+
+strjava.lang.String2reset(Ljava/lang/CharSequence;)Ø
+Õ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javan n(
+%2java.util.regex.Matcher"__id*?*=/
+-org.exist.client.security.UmaskDocumentFilter"
+
+mtcUmaskÑÎ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javan n(!
+%3boolean""java.util.regex.Matcher#matches()Z*
+
+%2java.util.regex.Matcher2	matches()"w
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskDocumentFilter.javan n("
+"":
+strjava.lang.StringB1/
+-org.exist.client.security.UmaskDocumentFilter

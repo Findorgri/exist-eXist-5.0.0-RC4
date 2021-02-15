@@ -1,0 +1,66 @@
+
+3org.exist.storage.btree.Paged$FileHeader#write([B)I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java¸ ¸("1*º
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java¹ ¹(|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java¹7 ¹(H	
+%0int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaº8 º(J	
+%1int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java»4 »(D	
+%2int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java¼6 ¼(G	
+%3int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java½7 ½(I	
+%4int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java¾: ¾(P	
+%5int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java¿9 ¿(N	
+%6int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÀ À('	
+%7int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÁ8 Á(K	
+%8int"__id*
+""|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÂ8 Â(K	
+%9int"__id*
+""}
+{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÃ Ã(#
+
+%10int"__id*
+"""i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÃ Ã($
+"":
+bufbyte[]B,*
+(org.exist.storage.btree.Paged$FileHeader

@@ -1,0 +1,29 @@
+
+7org.exist.xquery.Predicate#toString()Ljava/lang/String;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Predicate.java® ®("1*Ü
+1\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Predicate.java¯ ¯(°
+­
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Predicate.java¯ ¯(%
+%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+""¤
+¡
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Predicate.java¯ ¯(%
+%1java.lang.String"__concat*
+[*
+
+%0java.lang.String¤
+¡
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Predicate.java¯ ¯(+
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+]"x
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Predicate.java¯ ¯(,
+
+%2java.lang.StringB
+org.exist.xquery.Predicate

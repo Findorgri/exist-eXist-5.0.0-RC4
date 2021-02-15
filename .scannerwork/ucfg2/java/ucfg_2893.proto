@@ -1,0 +1,39 @@
+
+/org.exist.storage.index.BFile$DataPage#sync(Z)Z_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaâ â("17*Æ
+15_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaå å(ÖÓ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaå å(
+
+%1void"/org.exist.storage.index.BFile$DataPage#write()V**(
+&org.exist.storage.index.BFile$DataPage2write()*
+4
+9*Ï
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaé é("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaé é( 
+""*Î
+17_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaã ã(ÝÚ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaã ã(
+%0boolean"1org.exist.storage.index.BFile$DataPage#isDirty()Z**(
+&org.exist.storage.index.BFile$DataPage2	isDirty()*
+15
+1*©
+9_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaæb æ(o½º
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaæb æ(q3
+%2-org.exist.storage.index.BFile$BFilePageHeader"eorg.exist.storage.index.BFile$DataPage#getPageHeader()Lorg/exist/storage/index/BFile$BFilePageHeader;**(
+&org.exist.storage.index.BFile$DataPage2getPageHeader()*
+4*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaï ï("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaï ï(
+"":
+""B*(
+&org.exist.storage.index.BFile$DataPage

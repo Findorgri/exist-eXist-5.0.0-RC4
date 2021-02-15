@@ -1,0 +1,14 @@
+
+Borg.exist.util.XMLReaderPool#borrowObject()Lorg/xml/sax/XMLReader;\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javaD" D(."1*Ý
+1\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javaE E(ú÷
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javaE E( 
+%0org.xml.sax.XMLReader"Eorg.exist.util.XMLReaderPool#borrowXMLReader()Lorg/xml/sax/XMLReader;* 
+org.exist.util.XMLReaderPool2borrowXMLReader()"}
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javaE E(!
+
+%0org.xml.sax.XMLReaderB 
+org.exist.util.XMLReaderPool

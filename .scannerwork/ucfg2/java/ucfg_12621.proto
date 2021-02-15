@@ -1,0 +1,98 @@
+
+^org.exist.xquery.functions.fn.FunDeepEqual#compareNames(Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)Zl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaá á('"6*é
+2l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaã ä(?"v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaã ä(?
+""*‹
+3l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaä ä(åâ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaä ä(+
+%5java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+aorg.w3c.dom.Node2getLocalName()åâ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaä- ä(=
+%6java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+borg.w3c.dom.Node2getLocalName()Â
+¿
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaä ä(>
+%7boolean"\org.exist.xquery.functions.fn.FunDeepEqual#safeEquals(Ljava/lang/Object;Ljava/lang/Object;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+%5java.lang.String*
+
+%6java.lang.String*
+2*š
+4l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaã ã(ëè
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaã ã(1
+%2java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+aorg.w3c.dom.Node2getNamespaceURI()ëè
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaã3 ã(F
+%3java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+borg.w3c.dom.Node2getNamespaceURI()Â
+¿
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaã ã(G
+%4boolean"\org.exist.xquery.functions.fn.FunDeepEqual#safeEquals(Ljava/lang/Object;Ljava/lang/Object;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+%2java.lang.String*
+
+%3java.lang.String*
+2
+3*á
+5l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaâ( â()åâ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaâ( â(8
+%1java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+borg.w3c.dom.Node2getLocalName()*
+4
+1*á
+6l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaâ â(åâ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaâ â(
+%0java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+aorg.w3c.dom.Node2getLocalName()*
+4
+5*û
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaæ æ(ãà
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaæ æ()
+%8java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+aorg.w3c.dom.Node2getNodeName()ãà
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaæ+ æ(:
+%9java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+borg.w3c.dom.Node2getNodeName()Ã
+À
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaæ æ(;
+%10boolean"\org.exist.xquery.functions.fn.FunDeepEqual#safeEquals(Ljava/lang/Object;Ljava/lang/Object;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+%8java.lang.String*
+
+%9java.lang.String"v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaæ æ(<
+"":
+aorg.w3c.dom.Node:
+borg.w3c.dom.NodeB.",
+*org.exist.xquery.functions.fn.FunDeepEqual

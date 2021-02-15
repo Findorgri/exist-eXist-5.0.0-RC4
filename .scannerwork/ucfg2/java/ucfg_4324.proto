@@ -1,0 +1,55 @@
+
+Xorg.exist.xmlrpc.RpcConnection#setTriggersEnabled(Ljava/lang/String;Ljava/lang/String;)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ Ü(%"startingBlock*„
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ% Ü(L«
+¨
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÛ Û(
+%2"
+__annotate*
+java.lang.Override*
+
+pathjava.lang.String•
+’
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ3 Ü(7
+pathjava.lang.String"__annotation*
+
+%2¬
+©
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÛ Û(
+%3"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.String–
+“
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜF Ü(K
+valuejava.lang.String"__annotation*
+
+%3*
+1*“
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÝ( Ý(/Ý
+Ú
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÝ( Ý(C
+%0boolean"3java.lang.Boolean#parseBoolean(Ljava/lang/String;)Z*"
+java.lang.Boolean*
+
+valuejava.lang.Stringß
+Ü
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÞ Þ(C
+%1"Forg.exist.xmlrpc.RpcConnection#writeCollection(LXmldbURI;)LFunction2E;*" 
+org.exist.xmlrpc.RpcConnection*
+"""j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÞ ä(
+"":
+pathjava.lang.String:
+valuejava.lang.StringB" 
+org.exist.xmlrpc.RpcConnection

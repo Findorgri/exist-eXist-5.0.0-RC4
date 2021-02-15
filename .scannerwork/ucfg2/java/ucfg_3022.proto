@@ -1,0 +1,22 @@
+
+Worg.exist.dom.persistent.DefaultDocumentSet#getCollectionIterator()Ljava/util/Iterator;k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java{  {(5"1*ª
+1k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java| |(Í
+Ê
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java| |(
+%0java.util.Set"__id*@*>-
++org.exist.dom.persistent.DefaultDocumentSet"
+collectionsÛØ
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java| |(%
+%1java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*
+
+%0java.util.Set2
+iterator()"‰
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.java| |(&
+
+%1java.util.IteratorB/-
++org.exist.dom.persistent.DefaultDocumentSet

@@ -1,0 +1,57 @@
+
+Uorg.exist.client.ConnectionDialog#getConnectionTypeModel()Ljavax/swing/ComboBoxModel;a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaS S(0"3*ÿ	
+2a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaU; U(I¬
+©
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaU; U(I6
+%10org.exist.client.ConnectionDialog$ConnectionType"__id*
+""Ä
+Á
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaU; U(R8
+%22org.exist.client.ConnectionDialog$ConnectionType[]"lorg.exist.client.ConnectionDialog$ConnectionType#values()[Lorg/exist/client/ConnectionDialog$ConnectionType;*4"2
+0org.exist.client.ConnectionDialog$ConnectionType°­
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaU& U(:&
+%3 javax.swing.DefaultComboBoxModel" javax.swing.DefaultComboBoxModel‘
+Ž
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaU" U(S
+%4"=javax.swing.DefaultComboBoxModel#<init>([Ljava/lang/Object;)V*(
+&
+%3 javax.swing.DefaultComboBoxModel*:
+8
+%22org.exist.client.ConnectionDialog$ConnectionType[]Ô
+Ñ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaU U(S<#
+!org.exist.client.ConnectionDialog"
+connectionTypeModel"__id*(
+&
+%3 javax.swing.DefaultComboBoxModel*
+1*¾
+3a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaT T(Í
+Ê
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaT T(
+%0javax.swing.ComboBoxModel"__id*>*<#
+!org.exist.client.ConnectionDialog"
+connectionTypeModel*
+2
+1*¿
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaW W("Í
+Ê
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaW W("
+%5javax.swing.ComboBoxModel"__id*>*<#
+!org.exist.client.ConnectionDialog"
+connectionTypeModel"†
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaW W(#!
+
+%5javax.swing.ComboBoxModelB%#
+!org.exist.client.ConnectionDialog

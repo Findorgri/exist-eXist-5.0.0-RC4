@@ -1,0 +1,28 @@
+
+_org.exist.xquery.value.Base64BinaryValueType#formatString(Ljava/lang/String;)Ljava/lang/String;l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java$ $(!"startingBlock*ﬁ
+startingBlockl
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java$! $(-∂
+≥
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java# #(
+%0"
+__annotate*
+java.lang.Override*
+
+strjava.lang.String†
+ù
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java$) $(,
+strjava.lang.String"__annotation*
+
+%0*
+1*˝
+1l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java% %("â
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java% %(
+
+strjava.lang.String:
+strjava.lang.StringB0.
+,org.exist.xquery.value.Base64BinaryValueType

@@ -1,0 +1,50 @@
+
+;org.exist.xquery.XQueryTest#makeString(I)Ljava/lang/String;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java×
+ ×
+("1*ü
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaØ
+$ Ø
+(%„
+
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaØ
+ Ø
+('
+bufchar[]"__id*
+""¾
+»
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÙ
+ Ù
+(
+
+%0void"java.util.Arrays#fill([CC)V*"
+java.util.Arrays*
+
+bufchar[]*
+a‘
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÚ
+ Ú
+(
+%1java.lang.String"java.lang.String¶
+³
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÚ
+ Ú
+(
+%2"java.lang.String#<init>([C)V*
+
+%1java.lang.String*
+
+bufchar[]"~
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÚ
+ Ú
+(
+
+%1java.lang.String:
+""B
+org.exist.xquery.XQueryTest

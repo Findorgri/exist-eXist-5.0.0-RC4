@@ -1,0 +1,187 @@
+
+yorg.exist.fluent.QueryService#analyze(Ljava/lang/String;[Ljava/lang/Object;)Lorg/exist/fluent/QueryService$QueryAnalysis;q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaî î("46"47*Û
+35q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java£) £(/Ê„
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java£ £((9
+%43org.exist.fluent.QueryService$AnalysisXQueryContext"3org.exist.fluent.QueryService$AnalysisXQueryContextä
+á
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java£ £(0
+%5"Gorg.exist.fluent.QueryService$AnalysisXQueryContext#<init>(LDBBroker;)V*;
+9
+%43org.exist.fluent.QueryService$AnalysisXQueryContext*
+""*
+34*ø
+46q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaó ó(ø
+º
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaó ó(&
+
+%1long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+44*Á
+24q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØ Ø(Á
+‰
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØ Ø(K
+%11"Ejava.util.Collections#unmodifiableSet(Ljava/util/Set;)Ljava/util/Set;*"
+java.util.Collections*
+""*
+23*»
+36q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java° °("ƒ
+¡
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java° °(">
+context3org.exist.fluent.QueryService$AnalysisXQueryContext"__id*
+""*
+35
+27*Å
+47q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaï ï(Õ
+ 
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaï ï(+
+%0java.lang.String"]org.exist.fluent.QueryService#presub(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*!
+org.exist.fluent.QueryService*
+
+queryjava.lang.String*
+
+paramsjava.lang.Object[]±
+Æ
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaï ï(+
+queryjava.lang.String"__id*
+
+%0java.lang.String*
+46*¿
+26q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨
+ ¨(¿
+Ω
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨
+ ¨($
+%10long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+24*ƒ
+27q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java™ ™(Aƒ
+¡
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java™ ™(A>
+context3org.exist.fluent.QueryService$AnalysisXQueryContext"__id*
+""*
+26*ø
+30q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaß ß(<ø
+º
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java®
+ ®($
+
+%9long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+24*Ï
+43q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaú* ú(:Ï
+È
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaú* ú(T
+%3"Äorg.exist.fluent.QueryService#buildQuerySource(Ljava/lang/String;[Ljava/lang/Object;Ljava/lang/String;)Lorg/exist/source/Source;*!
+org.exist.fluent.QueryService*
+
+queryjava.lang.String*
+
+paramsjava.lang.Object[]*	
+analyze*
+36*•
+21r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ Ø(Ö"™
+r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ Ø(Ö4
+2
+%13+org.exist.fluent.QueryService$QueryAnalysis*ø
+32q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¶
+ ¶(ø
+º
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¶
+ ¶($
+
+%8long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+30*˛
+44q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaö ö(˛˚
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaõ õ(
+%2"9org.exist.fluent.QueryService#prepareContext(LDBBroker;)V*!
+org.exist.fluent.QueryService*
+""2prepareContext(LDBBroker;)*
+43*é
+22r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ Ø(Ñ◊‘
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ Æ(2
+%13+org.exist.fluent.QueryService$QueryAnalysis"+org.exist.fluent.QueryService$QueryAnalysis≥
+∞
+r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ Ø(Ñ
+%14"corg.exist.fluent.QueryService$QueryAnalysis#<init>(LCompiledXQuery;Ljava/util/Set;Ljava/util/Set;)V*4
+2
+%13+org.exist.fluent.QueryService$QueryAnalysis*
+""*
+
+%11*
+
+%12*
+21*Ñ
+33q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java• •(Ñ
+Å
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java• •(<
+%7"qorg.exist.fluent.QueryService#buildXQueryDynamicContext(LXQueryContext;[Ljava/lang/Object;LMutableDocumentSet;Z)V*!
+org.exist.fluent.QueryService*@
+>
+context3org.exist.fluent.QueryService$AnalysisXQueryContext*
+
+paramsjava.lang.Object[]*
+""*
+""*
+32*∞
+34q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java£ £(0˘
+ˆ
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java£ £(0>
+context3org.exist.fluent.QueryService$AnalysisXQueryContext"__id*;
+9
+%43org.exist.fluent.QueryService$AnalysisXQueryContext¥
+±
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java§ §(-
+%6"Iorg.exist.fluent.QueryService#buildXQueryStaticContext(LXQueryContext;Z)V*!
+org.exist.fluent.QueryService*@
+>
+context3org.exist.fluent.QueryService$AnalysisXQueryContext*
+""*
+33*Ë
+23q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØM Ø(XË
+Â
+r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØM Ø(É
+%12"Ejava.util.Collections#unmodifiableSet(Ljava/util/Set;)Ljava/util/Set;*"
+java.util.Collections*
+""*
+22:
+queryjava.lang.String:
+paramsjava.lang.Object[]B!
+org.exist.fluent.QueryService

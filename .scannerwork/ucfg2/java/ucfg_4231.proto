@@ -1,0 +1,47 @@
+
+{org.exist.xmlrpc.RpcConnection#queryP(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)Ljava/util/Map;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaõ õ(%"2"3*‰
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû0 û(8x
+v
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû0 û(R
+%0"__id*
+
+%2*
+1*Ú
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû) û(-Ö
+Ç
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû) û(-
+%0"__id*
+
+%1
+<nulltype>*
+1*è
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaü ü(ª∏
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù ü(!
+%3"{org.exist.xmlrpc.RpcConnection#queryP(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)Ljava/util/Map;*" 
+org.exist.xmlrpc.RpcConnection*
+
+xpathjava.lang.String*
+
+%0*
+
+s_idjava.lang.String*
+
+
+parametersjava.util.Map2MqueryP(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù ü("
+
+%3:
+xpathjava.lang.String: 
+documentPathjava.lang.String:
+s_idjava.lang.String:
+
+parametersjava.util.MapB" 
+org.exist.xmlrpc.RpcConnection

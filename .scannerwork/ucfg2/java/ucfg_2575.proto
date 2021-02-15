@@ -1,0 +1,27 @@
+
+#org.exist.dom.QName#hasNamespace()ZS
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javav v("1*Â
+1S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaw w(¡
+ž
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaw w(
+%0java.lang.String"__id*)*'
+org.exist.dom.QName"
+namespaceURI}
+{
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaw$ w(<
+%1java.lang.String"__id*
+""åâ
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaw w(=
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)"]
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaw w(>
+""B
+org.exist.dom.QName

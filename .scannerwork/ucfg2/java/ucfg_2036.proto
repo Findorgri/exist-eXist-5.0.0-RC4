@@ -1,0 +1,283 @@
+
+Iorg.exist.xqj.Marshaller#streamToNode(Ljava/io/Reader;)Lorg/w3c/dom/Node;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java÷ ÷(#"17*˚
+13Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‰= ‰(Cùö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‰= ‰(W 
+%13javax.xml.namespace.QName"Ojavax.xml.stream.XMLStreamReader#getAttributeName(I)Ljavax/xml/namespace/QName;*,
+*
+parser javax.xml.stream.XMLStreamReader*
+""2getAttributeName(I)™
+ß
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‰ ‰(X
+qnjavax.xml.namespace.QName"__id*"
+ 
+%13javax.xml.namespace.QNameÌÍ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂ- Â(A
+%14java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*!
+
+qnjavax.xml.namespace.QName2getNamespaceURI()Á‰
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂC Â(T
+%15java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*!
+
+qnjavax.xml.namespace.QName2getLocalPart()·ﬁ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂV Â(d
+%16java.lang.String"7javax.xml.namespace.QName#getPrefix()Ljava/lang/String;*!
+
+qnjavax.xml.namespace.QName2getPrefix()§
+°
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂV Â(j
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+:Á‰
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂm Â(~
+%18java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*!
+
+qnjavax.xml.namespace.QName2getLocalPart()∏
+µ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂV Â(~
+%19java.lang.String"__concat*
+
+%17java.lang.String*
+
+%18java.lang.Stringãà
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÊ  Ê(:
+%20java.lang.String"Fjavax.xml.stream.XMLStreamReader#getAttributeType(I)Ljava/lang/String;*,
+*
+parser javax.xml.stream.XMLStreamReader*
+""2getAttributeType(I)çä
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÊ< Ê(W
+%21java.lang.String"Gjavax.xml.stream.XMLStreamReader#getAttributeValue(I)Ljava/lang/String;*,
+*
+parser javax.xml.stream.XMLStreamReader*
+""2getAttributeValue(I)ùö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÂ Ê(X
+%22void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*/
+-
+attribs"org.xml.sax.helpers.AttributesImpl*
+
+%14java.lang.String*
+
+%15java.lang.String*
+
+%19java.lang.String*
+
+%20java.lang.String*
+
+%21java.lang.String2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)*
+14*“
+14Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java„$ „(%Â‚
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java„( „(B
+
+%12int"5javax.xml.stream.XMLStreamReader#getAttributeCount()I*,
+*
+parser javax.xml.stream.XMLStreamReader2getAttributeCount()*
+13
+11*ü
+15Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java· Ï(Æ´
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‚7 ‚(E)
+%10"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImpl¡
+æ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‚3 ‚(G
+%11",org.xml.sax.helpers.AttributesImpl#<init>()V*+
+)
+%10"org.xml.sax.helpers.AttributesImpl¡
+æ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‚ ‚(H-
+attribs"org.xml.sax.helpers.AttributesImpl"__id*+
+)
+%10"org.xml.sax.helpers.AttributesImpl*
+14*·
+4Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java‡ ‡(x
+v
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java· ·(5
+
+%31int"__id*
+""x
+v
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÌ Ì(3
+
+%32int"__id*
+""x
+v
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÛ Û(2
+
+%33int"__id*
+""*
+15
+5
+16
+10
+1*Æ
+16Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaﬂ ﬂ( «
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaﬂ ﬂ(%	
+%8int"(javax.xml.stream.XMLStreamReader#next()I*,
+*
+parser javax.xml.stream.XMLStreamReader2next()w
+u
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaﬂ* ﬂ(I	
+%9int"__id*
+""*
+4
+1*⁄
+5Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÛ ı(ÔÏ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÙ' Ù(7
+%30java.lang.String"<javax.xml.stream.XMLStreamReader#getText()Ljava/lang/String;*,
+*
+parser javax.xml.stream.XMLStreamReader2	getText()*
+16
+1*•
+17Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java◊% ◊(4ˇ
+¸
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java◊% ◊(B&
+%0 javax.xml.stream.XMLInputFactory"Pjavax.xml.stream.XMLInputFactory#newInstance()Ljavax/xml/stream/XMLInputFactory;*$""
+ javax.xml.stream.XMLInputFactoryº
+π
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java◊ ◊(C+
+factory javax.xml.stream.XMLInputFactory"__id*(
+&
+%0 javax.xml.stream.XMLInputFactoryÖ
+Ç
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÿ ÿ(>
+%1java.lang.String"__id*
+""Ü
+É
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÿ@ ÿ(L
+%2java.lang.Boolean"__id*
+""◊‘
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÿ ÿ(M
+
+%3void"Sjavax.xml.stream.XMLInputFactory#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*-
++
+factory javax.xml.stream.XMLInputFactory*
+
+%1java.lang.String*
+
+%2java.lang.Boolean21setProperty(Ljava/lang/String;Ljava/lang/Object;)Ö
+Ç
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaŸ Ÿ(9
+%4java.lang.String"__id*
+""Ü
+É
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaŸ; Ÿ(H
+%5java.lang.Boolean"__id*
+""◊‘
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaŸ Ÿ(I
+
+%6void"Sjavax.xml.stream.XMLInputFactory#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*-
++
+factory javax.xml.stream.XMLInputFactory*
+
+%4java.lang.String*
+
+%5java.lang.Boolean21setProperty(Ljava/lang/String;Ljava/lang/Object;)Á‰
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java⁄' ⁄(L&
+%7 javax.xml.stream.XMLStreamReader"jjavax.xml.stream.XMLInputFactory#createXMLStreamReader(Ljava/io/Reader;)Ljavax/xml/stream/XMLStreamReader;*-
++
+factory javax.xml.stream.XMLInputFactory*
+
+readerjava.io.Reader2'createXMLStreamReader(Ljava/io/Reader;)ª
+∏
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java⁄ ⁄(M*
+parser javax.xml.stream.XMLStreamReader"__id*(
+&
+%7 javax.xml.stream.XMLStreamReader*
+16*ﬂ
+9Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓF Ó(SÜ
+É
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓF Ó(S
+%27java.lang.String"__id*
+""˘ˆ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓ[ Ó(p
+%28java.lang.String"Ajavax.xml.stream.XMLStreamReader#getLocalName()Ljava/lang/String;*,
+*
+parser javax.xml.stream.XMLStreamReader2getLocalName()ÔÏ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓF Ó(q
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%27java.lang.String*
+
+%28java.lang.String2equals(Ljava/lang/Object;)*
+16
+1*È
+10Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÌ Ú(Ü
+É
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓ Ó(!
+%24java.lang.String"__id*
+""ˇ¸
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓ) Ó(A
+%25java.lang.String"Djavax.xml.stream.XMLStreamReader#getNamespaceURI()Ljava/lang/String;*,
+*
+parser javax.xml.stream.XMLStreamReader2getNamespaceURI()ÔÏ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÓ Ó(B
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%24java.lang.String*
+
+%25java.lang.String2equals(Ljava/lang/Object;)*
+
+16
+9
+1*Ì
+11Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaË Ë(Å˛
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaË< Ë(L 
+%23javax.xml.namespace.QName"Ejavax.xml.stream.XMLStreamReader#getName()Ljavax/xml/namespace/QName;*,
+*
+parser javax.xml.stream.XMLStreamReader2	getName()*
+16
+1*≈
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java˘ ˘("d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.java˙ ˙(:
+"":
+readerjava.io.ReaderB"
+org.exist.xqj.Marshaller

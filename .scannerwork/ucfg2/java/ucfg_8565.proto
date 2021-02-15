@@ -1,0 +1,198 @@
+
+norg.exist.client.CollectionXConf#getTriggers(Lorg/w3c/dom/Element;)[Lorg/exist/client/CollectionXConf$Trigger;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaž ž("12*ˆ
+2b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¸
+ ¸("ž
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¸ ¸(8
+6
+triggers*org.exist.client.CollectionXConf$Trigger[]*ÿ
+4b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaµ µ(—”
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaµ µ(;
+%15java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+triggerorg.w3c.dom.Element*	
+class2 getAttribute(Ljava/lang/String;)Â¿
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaµ µ(/
+%16(org.exist.client.CollectionXConf$Trigger"(org.exist.client.CollectionXConf$Trigger¾
+»
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaµ µ(H
+%17"Zorg.exist.client.CollectionXConf$Trigger#<init>(Ljava/lang/String;Ljava/util/Properties;)V*1
+/
+%16(org.exist.client.CollectionXConf$Trigger*
+
+%15java.lang.String*$
+"
+
+parametersjava.util.Propertiesï
+ì
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaµ µ(H
+%18"
+__arraySet*8
+6
+triggers*org.exist.client.CollectionXConf$Trigger[]*
+""*1
+/
+%16(org.exist.client.CollectionXConf$Trigger*
+10*¯
+6b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯) ¯(<ðí
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯) ¯(D
+%11org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*-
++
+nlTriggerParametersorg.w3c.dom.NodeList*
+""2item(I)ª
+§
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯ ¯(E 
+	parameterorg.w3c.dom.Element"__id*
+
+%11org.w3c.dom.Node˜•
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java° °(;
+%12java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+	parameterorg.w3c.dom.Element*
+name2 getAttribute(Ljava/lang/String;)™–
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java°= °(\
+%13java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*"
+ 
+	parameterorg.w3c.dom.Element*	
+value2 getAttribute(Ljava/lang/String;)éæ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java° °(]
+%14java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
+"
+
+parametersjava.util.Properties*
+
+%12java.lang.String*
+
+%13java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
+7*Ä
+7b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java­ ­(ÒÏ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java­ ­(7
+
+%10int"!org.w3c.dom.NodeList#getLength()I*-
++
+nlTriggerParametersorg.w3c.dom.NodeList2getLength()*
+4
+6*Â
+9b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java§% §(/æã
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java§% §(7
+%5org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*$
+"
+
+nlTriggersorg.w3c.dom.NodeList*
+""2item(I)§
+¤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java§ §(8
+triggerorg.w3c.dom.Element"__id*
+
+%5org.w3c.dom.Node™–
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java©& ©(0
+%6java.util.Properties"java.util.Properties«
+¨
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java©" ©(2
+%7"java.util.Properties#<init>()V*
+
+%6java.util.Properties¯
+¬
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java© ©(3"
+
+parametersjava.util.Properties"__id*
+
+%6java.util.Properties²¯
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaª) ª(R
+%8org.w3c.dom.NodeList"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;* 
+
+triggerorg.w3c.dom.Element*
+	parameter2(getElementsByTagName(Ljava/lang/String;)¸
+µ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaª ª(S+
+nlTriggerParametersorg.w3c.dom.NodeList"__id*
+
+%8org.w3c.dom.NodeListÑÎ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java« «(&	
+%9int"!org.w3c.dom.NodeList#getLength()I*-
++
+nlTriggerParametersorg.w3c.dom.NodeList2getLength()*
+4
+7*»
+10b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¥ ¥(ÈÅ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¥ ¥(,	
+%4int"!org.w3c.dom.NodeList#getLength()I*$
+"
+
+nlTriggersorg.w3c.dom.NodeList2getLength()*
+2
+9*Ý
+11b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java£* £(4ÈÅ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java£* £(@	
+%2int"!org.w3c.dom.NodeList#getLength()I*$
+"
+
+nlTriggersorg.w3c.dom.NodeList2getLength()ÅÂ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java£ £(A0
+%3*org.exist.client.CollectionXConf$Trigger[]"*org.exist.client.CollectionXConf$Trigger[]Ù
+Ö
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java£ £(B6
+triggers*org.exist.client.CollectionXConf$Trigger[]"__id*2
+0
+%3*org.exist.client.CollectionXConf$Trigger[]*
+10*Ÿ
+12b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java   (#®«
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java   (C
+%0org.w3c.dom.NodeList"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+xconforg.w3c.dom.Element*	
+trigger2(getElementsByTagName(Ljava/lang/String;)¯
+¬
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java   (D"
+
+nlTriggersorg.w3c.dom.NodeList"__id*
+
+%0org.w3c.dom.NodeListÈÅ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¡ ¡(	
+%1int"!org.w3c.dom.NodeList#getLength()I*$
+"
+
+nlTriggersorg.w3c.dom.NodeList2getLength()*
+11
+1*Õ
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaº	 º("l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaº º(
+"":
+xconforg.w3c.dom.ElementB$"
+ org.exist.client.CollectionXConf

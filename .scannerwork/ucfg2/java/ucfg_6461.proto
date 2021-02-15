@@ -1,0 +1,183 @@
+
+Eorg.exist.debugger.client.DebugClient#parseInput(Ljava/lang/String;)Zy
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaF F("12*õ
+2y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaV V(®
+•
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaV V(
+%17java.io.PrintStream"__id*
+""‘
+—
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaV V(9
+%18java.lang.String"__concat*
+Unknown command: *
+
+linejava.lang.Stringìê
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaV V(:
+%19void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%17java.io.PrintStream*
+
+%18java.lang.String2println(Ljava/lang/String;)*
+1*û
+3y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaT T(®
+•
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaT T(
+%14java.io.PrintStream"__id*
+""◊
+‘
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaT# T(@
+%15java.lang.String"__concat*
+Unknown command: *
+
+commandjava.lang.Stringìê
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaT T(A
+%16void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%14java.io.PrintStream*
+
+%15java.lang.String2println(Ljava/lang/String;)*
+1*Ñ
+4y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaR R("É
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaR R(
+""*√
+5y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaQ Q(!•
+¢
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaQ Q(!
+%12java.lang.String"__id*
+""íè
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaQ Q(1
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%12java.lang.String*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+3
+4*√
+7y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaO O(!•
+¢
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaO O(!
+%10java.lang.String"__id*
+""íè
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaO O(1
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%10java.lang.String*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+5
+1*¿
+9y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaM M(!§
+°
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaM M(!
+%8java.lang.String"__id*
+""êç
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaM M(1
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%8java.lang.String*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+7
+1*ù
+10y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaL L(ñ
+ì
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaL L(
+
+%7void">org.exist.debugger.client.DebugClient#run(Ljava/lang/String;)V*)'
+%org.exist.debugger.client.DebugClient*
+
+	argumentsjava.lang.String*
+1*‘
+11y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaI I(+áÑ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaI I(4
+%3java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*+
+)
+commandMatcherjava.util.regex.Matcher*22group(I)ª
+∏
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaI I(5
+commandjava.lang.String"__id*
+
+%3java.lang.StringáÑ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaJ J(6
+%4java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*+
+)
+commandMatcherjava.util.regex.Matcher*22group(I)Ω
+∫
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaJ J(7
+	argumentsjava.lang.String"__id*
+
+%4java.lang.String§
+°
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaK K(
+%5java.lang.String"__id*
+""êç
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaK K(+
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+commandjava.lang.String2equals(Ljava/lang/Object;)*
+9
+10*…
+12y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaG! G(.´
+®
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaG! G(.
+%0java.util.regex.Pattern"__id*
+""—Œ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaG! G(<
+%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%0java.util.regex.Pattern*
+
+linejava.lang.String2!matcher(Ljava/lang/CharSequence;)–
+Õ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaG G(=)
+commandMatcherjava.util.regex.Matcher"__id*
+
+%1java.util.regex.MatcherÈÊ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaH H($
+%2boolean""java.util.regex.Matcher#matches()Z*+
+)
+commandMatcherjava.util.regex.Matcher2	matches()*
+2
+11*Ñ
+1y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaW W("É
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/client/DebugClient.javaW W(
+"":
+linejava.lang.StringB)'
+%org.exist.debugger.client.DebugClient

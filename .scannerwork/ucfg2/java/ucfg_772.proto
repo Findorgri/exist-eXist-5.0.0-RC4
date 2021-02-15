@@ -1,0 +1,21 @@
+
+.org.exist.xquery.value.IntegerValue#getLong()Je
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java· ·("1*å
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¸ ¸(À
+½
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¸ ¸(
+%0java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueÄÁ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¸ ¸( 
+
+%1long"!java.math.BigInteger#longValue()J*
+
+%0java.math.BigInteger2longValue()"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¸ ¸(!
+""B'%
+#org.exist.xquery.value.IntegerValue

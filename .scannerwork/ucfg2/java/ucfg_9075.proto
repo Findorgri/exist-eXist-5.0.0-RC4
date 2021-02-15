@@ -1,0 +1,37 @@
+
+8org.exist.storage.btree.BTree$BTreeNode#getKeyDataLen()I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java¡	 ¡	(!"9"1*ë
+6_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java¨	& ¨	(,}
+{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java¨	/ ¨	(=
+
+%2byte"__id*
+""*
+9
+1*Í
+9_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java¤	 ¤	(Ü
+Ù
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java¤	 ¤	(3
+%0-org.exist.storage.btree.BTree$BTreePageHeader"__id*;*9)
+'org.exist.storage.btree.BTree$BTreeNode"
+
+pageHeader}
+{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java¤	. ¤	(2
+
+%1byte"__id*
+""*	
+6
+9
+1*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java°	 °	("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java°	 °	(
+""B+)
+'org.exist.storage.btree.BTree$BTreeNode

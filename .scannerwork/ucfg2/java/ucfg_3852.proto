@@ -1,0 +1,88 @@
+
+@org.exist.debuggee.dbgp.packets.BreakpointList#responseBytes()[BÇ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java5 5("6"1*’
+2Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaA A(»≈
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaA A(!
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responcejava.lang.StringBuilder*
+</response>2append(Ljava/lang/String;)âÜ
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaC
+ C(
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+responcejava.lang.StringBuilder2
+toString()€ÿ
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaC
+ C((
+%9byte[]"java.lang.String#getBytes()[B*
+
+%8java.lang.String2
+getBytes()"ï
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaC C()
+
+%9byte[]*π
+4Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java? ?(¶£
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java? ?(-
+%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+responcejava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+2
+4*Ω
+6Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java7 7(/¿Ω
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java7  7(-
+%0java.lang.StringBuilder"java.lang.StringBuilder“
+œ
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java7 7(/
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder‘
+—
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java7 7(0#
+responcejava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¶£
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java8 8(#
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+responcejava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)¶£
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java9 ;(5
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+responcejava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)¶£
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java< <(!
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+responcejava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)¿Ω
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.java= =(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responcejava.lang.StringBuilder*
+\">2append(Ljava/lang/String;)*
+2
+4*ò
+1Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaE	 E("ç
+Ç
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaE E('
+""B20
+.org.exist.debuggee.dbgp.packets.BreakpointList

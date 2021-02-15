@@ -1,0 +1,33 @@
+
+;org.exist.debuggee.dbgp.packets.FeatureSet#commandBytes()[B~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaK K("1*‚
+1~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaL L($€
+ÿ
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaL: L(>
+%0java.lang.String"__id*8*6,
+*org.exist.debuggee.dbgp.packets.FeatureSet"
+name‹
+Ÿ
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaLF L(K
+%1java.lang.String"__id*9*7,
+*org.exist.debuggee.dbgp.packets.FeatureSet"
+valueÆ
+´
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaL L(L
+commandjava.lang.String"__id*
+""€ÿ
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaN	 N(
+%2byte[]"java.lang.String#getBytes()[B*
+
+commandjava.lang.String2
+getBytes()"ê
+~
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureSet.javaN N(
+
+%2byte[]B.,
+*org.exist.debuggee.dbgp.packets.FeatureSet

@@ -1,0 +1,494 @@
+
+éorg.exist.xquery.modules.compression.AbstractCompressFunction#compressElement(Ljava/io/OutputStream;Lorg/w3c/dom/Element;ZLjava/lang/String;)Vì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaê ê("62*†
+46ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java≥ ≥("’
+“
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java≥ ≥("
+entryjava.lang.Object"__id*
+
+%19java.lang.Objectüú
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaµ µ()
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+collection*
+
+typejava.lang.String2equals(Ljava/lang/Object;)*
+
+4
+44
+0*¯
+24ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaÕ Õ(3’
+“
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaÕ Õ(?
+%29"horg.exist.xquery.modules.compression.AbstractCompressFunction#getDynamicSerializerOptions(LSerializer;)V*A?
+=org.exist.xquery.modules.compression.AbstractCompressFunction*
+""*
+21*¿
+47ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java≥ ≥(ùö
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java≥ ≥("
+%19java.lang.Object"lorg.exist.xquery.modules.compression.AbstractCompressFunction#newEntry(Ljava/lang/String;)Ljava/lang/Object;*A?
+=org.exist.xquery.modules.compression.AbstractCompressFunction*
+
+namejava.lang.String2newEntry(Ljava/lang/String;)*
+46*Â
+48ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java± ±(¬
+ø
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java± ±(
+entryjava.lang.Object"__id*
+""*
+47*Ÿ
+49ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaÆ Æ(ﬂ
+‹
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaÆ Æ(
+%18java.lang.String"__concat*
+
+namejava.lang.String*
+/‘
+—
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaÆ Æ(
+namejava.lang.String"__id*
+
+%18java.lang.String*
+48*∆
+50ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java≠ ≠(üú
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java≠ ≠($
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+collection*
+
+typejava.lang.String2equals(Ljava/lang/Object;)*
+48
+49*Æ
+51ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java™ ™(úô
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java™" ™(7
+
+%15int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+namejava.lang.String*
+/2lastIndexOf(Ljava/lang/String;)ïí
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java™ ™(<
+%16java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+namejava.lang.String*
+""2substring(I)‘
+—
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java™ ™(<
+namejava.lang.String"__id*
+
+%16java.lang.String*
+50*∫
+52ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java® ®(&¿
+Ω
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java® ®(9
+%14java.lang.String"âorg.exist.xquery.modules.compression.AbstractCompressFunction#removeLeadingOffset(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*A?
+=org.exist.xquery.modules.compression.AbstractCompressFunction*
+
+namejava.lang.String*!
+
+stripOffsetjava.lang.String‘
+—
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java® ®(9
+namejava.lang.String"__id*
+
+%14java.lang.String*
+50*Ë
+30ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∆ ∆(3¡
+æ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∆ ∆(3
+valuebyte[]"__id*
+
+%28byte[]*
+19
+11*í
+31ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∆$ ∆((ÔÏ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∆$ ∆(3
+%28byte[]"java.lang.String#getBytes()[B*
+
+textjava.lang.String2
+getBytes()*
+30*˝
+54ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java£ £(òï
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java£+ £(B
+%9org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;* 
+
+elementorg.w3c.dom.Element2getFirstChild()èå
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java£+ £(Q
+%10java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%9org.w3c.dom.Node2getNodeValue()í
+è
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java£  £(R
+%11java.net.URI"5java.net.URI#create(Ljava/lang/String;)Ljava/net/URI;*"
+java.net.URI*
+
+%10java.lang.StringÀ»
+î
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java£o £(ç
+%12java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element*
+
+method2 getAttribute(Ljava/lang/String;)Ø
+¨
+î
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java£ £(î
+%13void"´org.exist.xquery.modules.compression.AbstractCompressFunction#compressFromUri(Ljava/io/OutputStream;Ljava/net/URI;ZLjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*A?
+=org.exist.xquery.modules.compression.AbstractCompressFunction*
+
+osjava.io.OutputStream*
+
+%11java.net.URI*
+""*!
+
+stripOffsetjava.lang.String*
+
+%12java.lang.String*
+
+namejava.lang.String"û
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java§ §(
+""*®
+10ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java€ €(ÉÄ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java€ €(
+%39void"java.io.OutputStream#write([B)V*
+
+osjava.io.OutputStream*
+
+valuebyte[]2	write([B)*
+4
+0*ﬂ
+32ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java√ √(6∏
+µ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java√ √(6
+valuebyte[]"__id*
+""*
+19
+11*Ç
+55ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaú ú(«ƒ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaú ú(2
+%6java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element*
+name2 getAttribute(Ljava/lang/String;)”
+–
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaú ú(3
+namejava.lang.String"__id*
+
+%6java.lang.String«ƒ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java† †(8
+%7java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element*
+type2 getAttribute(Ljava/lang/String;)”
+–
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java† †(9
+typejava.lang.String"__id*
+
+%7java.lang.Stringóî
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java¢ ¢(
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+uri*
+
+typejava.lang.String2equals(Ljava/lang/Object;)*
+51
+52
+54*Ê
+11ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaŸ Ÿ(√¿
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaŸ Ÿ(#
+%38void"morg.exist.xquery.modules.compression.AbstractCompressFunction#putEntry(Ljava/lang/Object;Ljava/lang/Object;)V*A?
+=org.exist.xquery.modules.compression.AbstractCompressFunction*
+
+osjava.io.OutputStream*
+
+entryjava.lang.Object2.putEntry(Ljava/lang/Object;Ljava/lang/Object;)*
+10*û
+12ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java◊  ◊(%˚¯
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java◊ ◊(<
+%37void""java.util.zip.ZipEntry#setSize(J)V*
+
+entryjava.lang.Object*
+""2
+setSize(J)*
+11*ª
+57ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaò ò(†ù
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaò ò("
+%4org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;* 
+
+elementorg.w3c.dom.Element2getChildNodes()ÚÔ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaò ò(.	
+%5int"!org.w3c.dom.NodeList#getLength()I*
+
+%4org.w3c.dom.NodeList2getLength()*
+55
+0*£
+13ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java÷ ÷(@Ä˝
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java÷ ÷(@
+%36void"!java.util.zip.ZipEntry#setCrc(J)V*
+
+entryjava.lang.Object*
+
+%35long2	setCrc(J)*
+12*¬
+36ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaø ø(@õò
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java¿ ¿(0
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+binary*
+
+typejava.lang.String2equals(Ljava/lang/Object;)*
+31
+32*ó
+14ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java÷  ÷(%ÙÒ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java÷. ÷(?
+%35long"java.util.zip.CRC32#getValue()J*
+
+chksumjava.util.zip.CRC322
+getValue()*
+13*˜
+37ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaæ æ(=‘
+—
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaæ æ(=
+textjava.lang.String"__id*
+
+%26java.lang.String*
+36*≠
+15ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java’ ’(äá
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java’ ’((
+%34void""java.util.zip.Checksum#update([B)V*
+
+chksumjava.util.zip.CRC32*
+
+valuebyte[]2
+update([B)*
+14*∑
+38ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaæ& æ(-îë
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaæ& æ(<
+%26java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+contentorg.w3c.dom.Node2getNodeValue()*
+37*ﬁ
+16ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java‘  ‘(%≥
+∞
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java‘1 ‘(G
+
+%32int"__id*
+""ÖÇ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java‘ ‘(H
+%33void"$java.util.zip.ZipEntry#setMethod(I)V*
+
+entryjava.lang.Object*
+
+
+%32int2setMethod(I)*
+15*‹
+39ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaΩ0 Ω(4µ
+≤
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaΩ0 Ω(>
+%25short"__id*
+""*
+24
+38*¿
+18ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java” ”(Bôñ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java” ”(B
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*	
+store*
+
+%30java.lang.String2equals(Ljava/lang/Object;)*
+16
+11*Ì
+19ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java” ”( «
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java”# ”(A
+%30java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element*
+
+method2 getAttribute(Ljava/lang/String;)*
+18*≥
+0 "´
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaË Ë(
+implicit return*ß
+4ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java‚ ‚(ÜÉ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java‚ ‚("
+%41void"]org.exist.xquery.modules.compression.AbstractCompressFunction#closeEntry(Ljava/lang/Object;)V*A?
+=org.exist.xquery.modules.compression.AbstractCompressFunction*
+
+osjava.io.OutputStream2closeEntry(Ljava/lang/Object;)*
+0*ä
+60ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaîE î(G‰·
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaîE î(P	
+%3int"java.lang.String#length()I*
+
+nsjava.lang.String2length()*
+57
+0*ô
+40ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaΩ Ω(ˆÛ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaΩ Ω(,
+%24short"org.w3c.dom.Node#getNodeType()S*
+
+contentorg.w3c.dom.Node2getNodeType()*
+39*À	
+62ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaì ì(!úô
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaì ì(3
+%0java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element2getNamespaceURI()—
+Œ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaì ì(4
+nsjava.lang.String"__id*
+
+%0java.lang.Stringîë
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaî î("
+%1java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element2getNodeName()óî
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaî î(2
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*	
+entry2equals(Ljava/lang/Object;)*
+57
+60
+0*ﬂ
+41ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaª% ª(&∏
+µ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaª ª('
+valuebyte[]"__id*
+""*
+19
+11*˛
+42ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∏ ∏(=◊
+‘
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∏ ∏(=
+contentorg.w3c.dom.Node"__id*
+
+%23org.w3c.dom.Node*
+40
+41*õ
+43ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∑ ∑(1‹
+Ÿ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∑ ∑(1
+chksumjava.util.zip.CRC32"__id*
+
+%21java.util.zip.CRC32ôñ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∏% ∏(<
+%23org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;* 
+
+elementorg.w3c.dom.Element2getFirstChild()*
+42*ﬂ
+21ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaŒ Œ(T∏
+µ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaŒ Œ(T
+valuebyte[]"__id*
+""*
+19
+11*à
+44ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∂ ∂(∏
+µ
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∂ ∂(
+valuebyte[]"__id*
+"" «
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∑) ∑(.
+%21java.util.zip.CRC32"java.util.zip.CRC32›
+⁄
+ì
+ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java∑% ∑(0
+%22"java.util.zip.CRC32#<init>()V*
+
+%21java.util.zip.CRC32*
+43:
+osjava.io.OutputStream:
+elementorg.w3c.dom.Element:
+"":
+stripOffsetjava.lang.StringBA?
+=org.exist.xquery.modules.compression.AbstractCompressFunction

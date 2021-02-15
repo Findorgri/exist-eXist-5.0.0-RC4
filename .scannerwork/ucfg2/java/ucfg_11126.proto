@@ -1,0 +1,881 @@
+
+<org.exist.launcher.Launcher#createMenu()Ljava/awt/PopupMenu;]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‚ ‚( "64*Í
+24]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÃ Ã(B∂
+≥
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÃ Ã(B0
+org.exist.launcher.Launcher"
+dashboardItem"__id*
+
+%56java.awt.MenuItem∂
+≥
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÕ Õ(+
+%58java.awt.MenuItem"__id*2*0
+org.exist.launcher.Launcher"
+dashboardItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÕ Õ(,
+%59java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%58java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+23*∆
+25]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÃ1 Ã(Aèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÃ( Ã(0
+%56java.awt.MenuItem"java.awt.MenuItem»
+≈
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÃ$ Ã(B
+%57"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%56java.awt.MenuItem*
+Open Dashboard*
+24*Œ
+27]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java   (=†
+ù
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java   (=
+desktopjava.awt.Desktop"__id*
+
+%52java.awt.Desktopê
+ç
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ( À(6
+%53java.awt.Desktop$Action"__id*
+""ê
+ç
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ( À(=
+%54java.awt.Desktop$Action"__id*
+""ïí
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÀ À(>
+%55boolean"8java.awt.Desktop#isSupported(Ljava/awt/Desktop$Action;)Z*
+
+desktopjava.awt.Desktop* 
+
+%54java.awt.Desktop$Action2&isSupported(Ljava/awt/Desktop$Action;)*
+13
+25*Æ
+28]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java (  (/¬
+ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java (  (<
+%52java.awt.Desktop"/java.awt.Desktop#getDesktop()Ljava/awt/Desktop;*"
+java.awt.Desktop*
+27*©
+29]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java… …(Ω∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java… …($
+%51void"java.awt.Menu#addSeparator()V*
+
+popupjava.awt.PopupMenu2addSeparator()*
+28*≠
+31]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∆ ∆(ã
+à
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∆ ∆(
+itemjava.awt.MenuItem"__id*
+""∞
+≠
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java» »(,
+%50boolean"&java.awt.Desktop#isDesktopSupported()Z*"
+java.awt.Desktop*
+2
+29*˛
+32]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¡ ¡(íè
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¡ ƒ(
+%49void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+toolbarjava.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+31*°
+33]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaø ø(F¢
+ü
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaø ø(F
+toolbarjava.awt.MenuItem"__id*
+
+%46java.awt.MenuItemêç
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¿ ¿(
+%48java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+toolbarjava.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+32*»
+34]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaø2 ø(Dèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaø) ø(1
+%46java.awt.MenuItem"java.awt.MenuItem 
+«
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaø% ø(E
+%47"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%46java.awt.MenuItem*
+Show tool window*
+33*©
+35]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaΩ Ω(Ω∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaΩ Ω( 
+%45void"java.awt.Menu#addSeparator()V*
+
+popupjava.awt.PopupMenu2addSeparator()*
+34*≤
+36]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaª ª(µ
+≤
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaª ª(
+%43java.awt.MenuItem"__id*1*/
+org.exist.launcher.Launcher"
+showServiceséã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaª ª(t
+%44void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%43java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+35*Ë
+37]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaπ π(Dµ
+≤
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaπ π(D/
+org.exist.launcher.Launcher"
+showServices"__id*
+
+%39java.awt.MenuItemµ
+≤
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∫ ∫(&
+%41java.awt.MenuItem"__id*1*/
+org.exist.launcher.Launcher"
+showServicesåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∫ ∫('
+%42java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%41java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+36*Õ
+38]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaπ, π(Cèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaπ# π(+
+%39java.awt.MenuItem"java.awt.MenuItemœ
+Ã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaπ π(D
+%40"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%39java.awt.MenuItem*
+Show services console*
+37*æ
+40]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂( Ω
+∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂( 
+%37java.awt.MenuItem"__id*9*7
+org.exist.launcher.Launcher"
+uninstallServiceIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂(n
+%38void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%37java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+35
+38*™
+41]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ µ(Læª
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ µ(L
+%36" java.awt.MenuItem#setEnabled(Z)V*
+
+%35java.awt.MenuItem*
+""2setEnabled(Z)*
+40*©
+42]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ µ( Ω
+∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaµ µ( 
+%35java.awt.MenuItem"__id*9*7
+org.exist.launcher.Launcher"
+uninstallServiceItem*
+41*¯
+43]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≥ ≥(VΩ
+∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≥ ≥(V7
+org.exist.launcher.Launcher"
+uninstallServiceItem"__id*
+
+%31java.awt.MenuItemΩ
+∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¥ ¥(*
+%33java.awt.MenuItem"__id*9*7
+org.exist.launcher.Launcher"
+uninstallServiceItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¥ ¥(+
+%34java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%33java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+42*ì
+44]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≥0 ≥(C√
+¿
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≥0 ≥(U
+%30java.lang.String"__concat*
+Uninstall service*%
+#
+requiresRootMsgjava.lang.Stringèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≥' ≥(/
+%31java.awt.MenuItem"java.awt.MenuItemœ
+Ã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≥# ≥(V
+%32"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%31java.awt.MenuItem*
+
+%30java.lang.String*
+43*∏
+45]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java± ±(ª
+∏
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java± ±(
+%28java.awt.MenuItem"__id*7*5
+org.exist.launcher.Launcher"
+installServiceIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java± ±(i
+%29void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%28java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+44*™
+46]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∞ ∞(Jæª
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∞ ∞(J
+%27" java.awt.MenuItem#setEnabled(Z)V*
+
+%26java.awt.MenuItem*
+""2setEnabled(Z)*
+45*ß
+47]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∞ ∞(ª
+∏
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∞ ∞(
+%26java.awt.MenuItem"__id*7*5
+org.exist.launcher.Launcher"
+installServiceItem*
+46*Ù
+48]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≠ ≠(Uª
+∏
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≠ ≠(U5
+org.exist.launcher.Launcher"
+installServiceItem"__id*
+
+%22java.awt.MenuItemª
+∏
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaØ Ø((
+%24java.awt.MenuItem"__id*7*5
+org.exist.launcher.Launcher"
+installServiceItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaØ Ø()
+%25java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%24java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+47*î
+49]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≠. ≠(Bƒ
+¡
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≠. ≠(T
+%21java.lang.String"__concat*
+Install as service*%
+#
+requiresRootMsgjava.lang.Stringèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≠% ≠(-
+%22java.awt.MenuItem"java.awt.MenuItemœ
+Ã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java≠! ≠(U
+%23"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%22java.awt.MenuItem*
+
+%21java.lang.String*
+48*è
+50]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java™" ™(4£
+†
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java™ ™(4#
+requiresRootMsgjava.lang.String"__id*
+ (requires root)*
+49*˝
+51]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java®" ®($ë
+é
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java® ®($#
+requiresRootMsgjava.lang.String"__id* *
+49*Ö
+53]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¶ ¶()ï
+í
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java¶ ¶()#
+requiresRootMsgjava.lang.String"__id*
+""*
+50
+51*Å
+54]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaü ü(ïí
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaü §(
+%20void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*!
+
+
+configItemjava.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+53*≈
+10]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java€( €(8èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java€ €('
+%82java.awt.MenuItem"java.awt.MenuItem»
+≈
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java€ €(9
+%83"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%82java.awt.MenuItem*
+Open exist.log*
+9*ß
+55]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù ù(M•
+¢
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù ù(M
+
+configItemjava.awt.MenuItem"__id*
+
+%17java.awt.MenuItemìê
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaû û(!
+%19java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*!
+
+
+configItemjava.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+54*©
+11]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java⁄ ⁄(Ω∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java⁄ ⁄((
+%81void"java.awt.Menu#addSeparator()V*
+
+popupjava.awt.PopupMenu2addSeparator()*
+10*Ã
+56]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù5 ù(Kèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù, ù(4
+%17java.awt.MenuItem"java.awt.MenuItemŒ
+À
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù( ù(L
+%18"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%17java.awt.MenuItem*
+System Configuration*
+55*©
+57]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaú ú(Ω∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaú ú( 
+%16void"java.awt.Menu#addSeparator()V*
+
+popupjava.awt.PopupMenu2addSeparator()*
+56*™
+13]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŸ Ÿ(ê
+ç
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŸ( Ÿ(6
+%78java.awt.Desktop$Action"__id*
+""ê
+ç
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŸ( Ÿ(;
+%79java.awt.Desktop$Action"__id*
+""ïí
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŸ Ÿ(<
+%80boolean"8java.awt.Desktop#isSupported(Ljava/awt/Desktop$Action;)Z*
+
+desktopjava.awt.Desktop* 
+
+%79java.awt.Desktop$Action2&isSupported(Ljava/awt/Desktop$Action;)*
+6
+11*Æ
+58]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaâ â(±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaâ â(
+%14java.awt.MenuItem"__id*-*+
+org.exist.launcher.Launcher"
+
+stopIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaâ ö(
+%15void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%14java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+57*Ø
+14]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java◊ ◊(≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java◊ ◊(
+%76java.awt.MenuItem"__id*.*,
+org.exist.launcher.Launcher"
+	monexIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java◊ ◊(N
+%77void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%76java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+13*‡
+59]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaá á(2±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaá á(2+
+org.exist.launcher.Launcher"
+
+stopItem"__id*
+
+%10java.awt.MenuItem±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaà à(
+%12java.awt.MenuItem"__id*-*+
+org.exist.launcher.Launcher"
+
+stopItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaà à(
+%13java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%12java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+58*‚
+15]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java’ ’(M≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java’ ’(M,
+org.exist.launcher.Launcher"
+	monexItem"__id*
+
+%72java.awt.MenuItem≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java÷ ÷('
+%74java.awt.MenuItem"__id*.*,
+org.exist.launcher.Launcher"
+	monexItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java÷ ÷((
+%75java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%74java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+14*’
+16]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java’- ’(Lèå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java’$ ’(,
+%72java.awt.MenuItem"java.awt.MenuItem◊
+‘
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java’  ’(M
+%73"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%72java.awt.MenuItem*!
+Open Monitoring and Profiling*
+15*˚
+17]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‘ ‘(èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‘ ‘(C
+%71void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+itemjava.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+16*õ
+18]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java“ “(Aü
+ú
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java“ “(A
+itemjava.awt.MenuItem"__id*
+
+%68java.awt.MenuItemçä
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java” ”(#
+%70java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+itemjava.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+17*Œ
+19]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java“( “(@èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java“ “('
+%68java.awt.MenuItem"java.awt.MenuItem–
+Õ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java“ “(A
+%69"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%68java.awt.MenuItem*
+Open Java Admin Client*
+18*{
+0 "t
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÚ Ú(
+implicit return*‚
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÒ Ò("~
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÒ Ò(
+
+popupjava.awt.PopupMenu*õ
+2]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÔ Ô(À
+»
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÔ Ô(/
+%95(java.util.concurrent.locks.ReentrantLock"__id*0*.
+org.exist.launcher.Launcher"
+serviceLock‡›
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÔ Ô( 
+%96void"2java.util.concurrent.locks.ReentrantLock#unlock()V*1
+/
+%95(java.util.concurrent.locks.ReentrantLock2unlock()*
+0
+1*¨
+3]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„ „(±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„ „(
+%93java.awt.MenuItem"__id*-*+
+org.exist.launcher.Launcher"
+
+quitIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„ Ï(
+%94void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%93java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+2*ﬁ
+4]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java· ·(/±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java· ·(/+
+org.exist.launcher.Launcher"
+
+quitItem"__id*
+
+%89java.awt.MenuItem±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‚ ‚("
+%91java.awt.MenuItem"__id*-*+
+org.exist.launcher.Launcher"
+
+quitItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‚ ‚(#
+%92java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%91java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+3*∫
+5]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java·( ·(.èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java· ·('
+%89java.awt.MenuItem"java.awt.MenuItemæ
+ª
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java· ·(/
+%90"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%89java.awt.MenuItem*
+Quit*
+4*ß
+6]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‡ ‡(Ω∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‡ ‡($
+%88void"java.awt.Menu#addSeparator()V*
+
+popupjava.awt.PopupMenu2addSeparator()*
+5*©
+7]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java› ›(Cøº
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java› ›(C
+%87void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+itemjava.awt.MenuItem*6
+4
+%85-org.exist.launcher.Launcher$LogActionListener22addActionListener(Ljava/awt/event/ActionListener;)*
+6*´
+8]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java› ›(«ƒ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java›/ ›(@4
+%85-org.exist.launcher.Launcher$LogActionListener"-org.exist.launcher.Launcher$LogActionListener˜
+Ù
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java›+ ›(B
+%86"Torg.exist.launcher.Launcher$LogActionListener#<init>(Lorg/exist/launcher/Launcher;)V*6
+4
+%85-org.exist.launcher.Launcher$LogActionListener*
+7*ô
+9]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java€ €(9ü
+ú
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java€ €(9
+itemjava.awt.MenuItem"__id*
+
+%82java.awt.MenuItemçä
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‹ ‹(#
+%84java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+itemjava.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+8*√
+60]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaá$ á(1èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaá á(#
+%10java.awt.MenuItem"java.awt.MenuItem≈
+¬
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaá á(2
+%11"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%10java.awt.MenuItem*
+Stop server*
+59*¨
+61]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaË Ë(±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaË Ë(
+%8java.awt.MenuItem"__id*.*,
+org.exist.launcher.Launcher"
+	startItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaË Ö(
+
+%9void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%8java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+60*ﬁ
+62]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÊ Ê(4±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÊ Ê(4,
+org.exist.launcher.Launcher"
+	startItem"__id*
+
+%4java.awt.MenuItem±
+Æ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÁ Á(
+%6java.awt.MenuItem"__id*.*,
+org.exist.launcher.Launcher"
+	startItemäá
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÁ Á( 
+%7java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%6java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+61*¡
+63]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÊ% Ê(3éã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÊ Ê($
+%4java.awt.MenuItem"java.awt.MenuItemƒ
+¡
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaÊ Ê(4
+%5"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%4java.awt.MenuItem*
+Start server*
+62*Ô
+64]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„  „(/êç
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„$ „(-
+%0java.awt.PopupMenu"java.awt.PopupMenu¢
+ü
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„  „(/
+%1"java.awt.PopupMenu#<init>()V*
+
+%0java.awt.PopupMenu°
+û
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java„ „(0
+popupjava.awt.PopupMenu"__id*
+
+%0java.awt.PopupMenu 
+«
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‰ ‰(.
+%2(java.util.concurrent.locks.ReentrantLock"__id*0*.
+org.exist.launcher.Launcher"
+serviceLock⁄◊
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java‰ ‰(
+
+%3void"0java.util.concurrent.locks.ReentrantLock#lock()V*0
+.
+%2(java.util.concurrent.locks.ReentrantLock2lock()*
+63*Ø
+20]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java— —(≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java— —(
+%66java.awt.MenuItem"__id*.*,
+org.exist.launcher.Launcher"
+	eXideIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java— —(N
+%67void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%66java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+19*‚
+21]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaœ œ(:≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaœ œ(:,
+org.exist.launcher.Launcher"
+	eXideItem"__id*
+
+%62java.awt.MenuItem≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java– –('
+%64java.awt.MenuItem"__id*.*,
+org.exist.launcher.Launcher"
+	eXideItemåâ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java– –((
+%65java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+popupjava.awt.PopupMenu*
+
+%64java.awt.MenuItem2add(Ljava/awt/MenuItem;)*
+20*¬
+22]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaœ- œ(9èå
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaœ$ œ(,
+%62java.awt.MenuItem"java.awt.MenuItemƒ
+¡
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaœ  œ(:
+%63"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%62java.awt.MenuItem*
+
+Open eXide*
+21*≥
+23]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŒ Œ(!∂
+≥
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŒ Œ(!
+%60java.awt.MenuItem"__id*2*0
+org.exist.launcher.Launcher"
+dashboardIteméã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaŒ Œ(V
+%61void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%60java.awt.MenuItem*
+""22addActionListener(Ljava/awt/event/ActionListener;)*
+22B
+org.exist.launcher.Launcher

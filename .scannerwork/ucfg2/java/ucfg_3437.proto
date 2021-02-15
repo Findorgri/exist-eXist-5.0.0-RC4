@@ -1,0 +1,150 @@
+
+Horg.exist.debuggee.dbgp.packets.PropertyGet#toString()Ljava/lang/String;Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÍ Í("1*Ñ-
+1Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÏ Ï(.øº
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÏ Ï(,
+%0java.lang.StringBuilder"java.lang.StringBuilder—
+Œ
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÏ Ï(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder”
+–
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÏ Ï(/#
+responsejava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder…∆
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÌ Ì("
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+property_get 2append(Ljava/lang/String;)¸
+˘
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÔ Ô(1
+
+%3void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+
+stackDepth*
+""˚
+¯
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.java (/
+
+%4void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+	contextID*
+""‰
+·
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÒ$ Ò(,
+%5java.lang.String"__id*=*;-
++org.exist.debuggee.dbgp.packets.PropertyGet"
+
+nameLongå
+â
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÒ Ò(-
+
+%6void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+
+nameLong*
+
+%5java.lang.StringË
+Â
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÚ' Ú(2
+%7java.lang.Integer"__id*@*>-
++org.exist.debuggee.dbgp.packets.PropertyGet"
+maxDataSizeê
+ç
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÚ Ú(3
+
+%8void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+maxDataSize*
+
+%7java.lang.Integer‰
+·
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÛ$ Û(,
+%9java.lang.String"__id*=*;-
++org.exist.debuggee.dbgp.packets.PropertyGet"
+
+dataPageç
+ä
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÛ Û(-
+%10void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+
+dataPage*
+
+%9java.lang.StringË
+Â
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÙ' Ù(2
+%11java.lang.String"__id*@*>-
++org.exist.debuggee.dbgp.packets.PropertyGet"
+propertyKeyë
+é
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaÙ Ù(3
+%12void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+propertyKey*
+
+%11java.lang.StringÏ
+È
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaı+ ı(:
+%13java.lang.String"__id*D*B-
++org.exist.debuggee.dbgp.packets.PropertyGet"
+propertyAddressï
+í
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.javaı ı(;
+%14void"worg.exist.debuggee.dbgp.packets.PropertyGet#addAsString(Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/Object;)V*/-
++org.exist.debuggee.dbgp.packets.PropertyGet*%
+#
+responsejava.lang.StringBuilder*
+propertyAddress*
+
+%13java.lang.String¶£
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.java˜ ˜((
+%15"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)âÜ
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.java˘	 ˘(
+%16java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+responsejava.lang.StringBuilder2
+toString()"ü
+Å
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/PropertyGet.java˘ ˘(
+
+%16java.lang.StringB/-
++org.exist.debuggee.dbgp.packets.PropertyGet

@@ -1,0 +1,23 @@
+
+Worg.exist.client.security.AccessControlEntryDialog#isValidUsername(Ljava/lang/String;)Zr
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.java| |(#"1*ß
+1r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.java} }(Ü
+Ù
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.java} }(
+%0java.util.Set"__id*H*F4
+2org.exist.client.security.AccessControlEntryDialog"
+allUsernamesˆ…
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.java} }(.
+%1boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Set*
+
+usernamejava.lang.String2contains(Ljava/lang/Object;)"|
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.java} }(/
+"":
+usernamejava.lang.StringB64
+2org.exist.client.security.AccessControlEntryDialog

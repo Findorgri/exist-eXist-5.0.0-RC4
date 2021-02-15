@@ -1,0 +1,16 @@
+
+>org.exist.management.impl.Error#getErrcode()Ljava/lang/String;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java% %("1*˜
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java& &(´
+±
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java& &(
+%0java.lang.String"__id*0*.!
+org.exist.management.impl.Error"	
+errcode"{
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java& &(
+
+%0java.lang.StringB#!
+org.exist.management.impl.Error

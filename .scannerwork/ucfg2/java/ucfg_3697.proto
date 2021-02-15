@@ -1,0 +1,43 @@
+
+Horg.exist.fluent.Source#xml(Ljava/io/File;)Lorg/exist/fluent/Source$XML;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javal l("1*Ã
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javam m(ÇÄ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javam m(!
+%0java.net.URI""java.io.File#toURI()Ljava/net/URI;*
+
+filejava.io.File2toURI()ÝÚ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javam m(1
+%1java.lang.String".java.net.URI#toASCIIString()Ljava/lang/String;*
+
+%0java.net.URI2toASCIIString()§
+¤
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javam m(2
+urijava.lang.String"__id*
+
+%1java.lang.StringÓÐ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javan n(
+%2java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()ª§
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javan n(
+%3org.exist.fluent.Source$1"org.exist.fluent.Source$1ê
+ç
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javan	 w(
+%4"7org.exist.fluent.Source$XML#<init>(Ljava/lang/String;)V*!
+
+%3org.exist.fluent.Source$1*
+
+%2java.lang.String"Ž
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javan w(!
+
+%3org.exist.fluent.Source$1:
+filejava.io.FileB"
+org.exist.fluent.Source

@@ -1,0 +1,27 @@
+
+Yorg.exist.xmldb.RemoteIndexQueryService#getProperty(Ljava/lang/String;)Ljava/lang/String;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteIndexQueryService.javay y("startingBlock*Ñ
+startingBlockg
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteIndexQueryService.javay y(0²
+¯
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteIndexQueryService.javax x(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.Stringœ
+™
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteIndexQueryService.javay+ y(/
+namejava.lang.String"__annotation*
+
+%0*
+1*ß
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteIndexQueryService.javaz z("q
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteIndexQueryService.javaz z(
+"":
+namejava.lang.StringB+)
+'org.exist.xmldb.RemoteIndexQueryService

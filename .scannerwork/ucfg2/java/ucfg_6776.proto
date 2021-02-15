@@ -1,0 +1,92 @@
+
+dorg.exist.xquery.value.DecimalValue#stripTrailingZeros(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.javaU U(0"7"9*ï
+3c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java_ _(]§
+°
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java_ _(]
+resultjava.lang.Object"__id*
+
+%6java.lang.Object"É
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java` `('
+
+resultjava.lang.Object*√
+4c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java_" _(:’
+“
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java_" _(:
+%4java.lang.reflect.Method"__id*E*C%
+#org.exist.xquery.value.DecimalValue"
+stripTrailingZerosMethodê
+ç
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java_I _([
+%5java.lang.Object[]"__id*
+""ËÂ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java_" _(\
+%6java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;* 
+
+%4java.lang.reflect.Method*
+
+valuejava.math.BigDecimal*
+
+%5java.lang.Object[]2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+3*≈
+5c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java] ](e’
+“
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java] ](eC%
+#org.exist.xquery.value.DecimalValue"
+stripTrailingZerosMethod"__id* 
+
+%3java.lang.reflect.Method*
+4*á
+6c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java\, \(.îë
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java\, \(.
+%2java.lang.Class[]"java.lang.Class[]®
+•
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java\ \(/
+argTypesjava.lang.Class[]"__id*
+
+%2java.lang.Class[]’“
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java]+ ](e
+%3java.lang.reflect.Method"Yjava.lang.Class#getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+""*
+stripTrailingZeros*
+
+argTypesjava.lang.Class[]2/getMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+5*»
+7c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java[ [((’
+“
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java[ [((
+%1java.lang.reflect.Method"__id*E*C%
+#org.exist.xquery.value.DecimalValue"
+stripTrailingZerosMethod*
+4
+6*≠
+9c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.javaW W(-º
+π
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.javaW W(4
+%0java.math.BigDecimal"lorg.exist.xquery.value.DecimalValue#stripTrailingZerosFallback(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;*'"%
+#org.exist.xquery.value.DecimalValue*
+
+valuejava.math.BigDecimal"É
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.javaW W(5
+
+%0java.math.BigDecimal:
+valuejava.math.BigDecimalB'"%
+#org.exist.xquery.value.DecimalValue

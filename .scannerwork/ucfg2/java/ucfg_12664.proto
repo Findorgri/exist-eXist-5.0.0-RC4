@@ -1,0 +1,65 @@
+
+Eorg.exist.fluent.QName#of(Lorg/w3c/dom/Node;)Lorg/exist/fluent/QName;h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaw w("3*†
+2h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javay% y()âß
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javay% y(7
+%1java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNodeName()¬
+©
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javay y(7
+	localNamejava.lang.String"__id*
+
+%1java.lang.String*
+1*‹
+3h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javax x(äá
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javax x((
+%0java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getLocalName()¬
+©
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javax x()
+	localNamejava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*±	
+1h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaz z(êç
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaz z()
+%2java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNamespaceURI()ÞÛ
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaz6 z(F
+%3java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getPrefix()£ 
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaz z(
+%4org.exist.fluent.QName"org.exist.fluent.QNameÀ
+½
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaz	 z(G
+%5"Vorg.exist.fluent.QName#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+
+%4org.exist.fluent.QName*
+
+%2java.lang.String*
+
+	localNamejava.lang.String*
+
+%3java.lang.String"Š
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaz z(H
+
+%4org.exist.fluent.QName:
+nodeorg.w3c.dom.NodeB"
+org.exist.fluent.QName

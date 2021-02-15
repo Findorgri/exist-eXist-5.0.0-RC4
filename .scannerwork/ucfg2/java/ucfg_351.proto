@@ -1,0 +1,27 @@
+
+aorg.exist.collections.triggers.CSVExtractingTrigger$EmptyAttributes#getIndex(Ljava/lang/String;)Iu
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaô ô("startingBlock*ý
+startingBlocku
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaô ô(/Á
+¾
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaó ó(
+%0"
+__annotate*
+java.lang.Override*
+
+qNamejava.lang.String«
+¨
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaô) ô(.
+qNamejava.lang.String"__annotation*
+
+%0*
+1*û
+1u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaõ õ("
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaõ õ(
+"":
+qNamejava.lang.StringBGE
+Corg.exist.collections.triggers.CSVExtractingTrigger$EmptyAttributes

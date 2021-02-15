@@ -1,0 +1,28 @@
+
+Torg.exist.client.IndexDialog$RangeIndexTableModel#getColumnName(I)Ljava/lang/String;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÈ È("1*Û
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÊ
+ Ê(Ë
+È
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÊ
+ Ê(
+%0java.lang.String[]"__id*F*D3
+1org.exist.client.IndexDialog$RangeIndexTableModel"
+columnNames«
+¨
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÊ
+ Ê(
+%1java.lang.String"
+__arrayGet*
+
+%0java.lang.String[]*
+"""z
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/IndexDialog.javaÊ Ê(
+
+%1java.lang.String:
+""B53
+1org.exist.client.IndexDialog$RangeIndexTableModel

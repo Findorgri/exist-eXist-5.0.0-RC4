@@ -1,0 +1,46 @@
+
+†org.exist.validation.resolver.eXistXMLCatalogResolver#getExternalSubset(Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÙ Ù(("1*Ä	
+1w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÚ Ú(
+
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÚ Ú(
+%0"__id*
+""Æ
+Ã
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÚ Ú(!
+%1java.lang.String"__concat*
+
+name='*
+
+namejava.lang.StringÉ
+Æ
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÚ Ú(1
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+' baseURI='×
+Ô
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÚ Ú(;
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+baseURIjava.lang.String¿
+¼
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÚ Ú(A
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+'"
+w
+kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaÛ Û(6
+"":
+namejava.lang.String:
+baseURIjava.lang.StringB97
+5org.exist.validation.resolver.eXistXMLCatalogResolver

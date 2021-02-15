@@ -1,0 +1,9 @@
+
+Qorg.exist.xquery.modules.counter.CounterModule#getDescription()Ljava/lang/String;Å
+wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/CounterModule.javaP P("1*µ
+1Å
+wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/CounterModule.javaQ	 Q(,"´
+Å
+wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/CounterModule.javaQ Q(-%#
+!A module for persistent counters.B20
+.org.exist.xquery.modules.counter.CounterModule

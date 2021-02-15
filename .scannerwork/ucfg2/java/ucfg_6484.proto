@@ -1,0 +1,56 @@
+
+\org.exist.config.ConfigurationImpl#getPropertyInteger(Ljava/lang/String;)Ljava/lang/Integer;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java≥ ≥(%"startingBlock*Ÿ
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java∂ ∂("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java∂ ∂(
+""*◊
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¥ ¥((ºπ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¥ ¥(.
+%0java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
+"org.exist.config.ConfigurationImpl*
+
+namejava.lang.String2getProperty(Ljava/lang/String;)§
+°
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¥ ¥(/
+valuejava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*»
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java≥% ≥(8Ø
+¨
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java≤ ≤(
+%2"
+__annotate*
+java.lang.Override*
+
+namejava.lang.Stringô
+ñ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java≥3 ≥(7
+namejava.lang.String"__annotation*
+
+%2*
+3*Ë
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java∏ ∏(¯
+ı
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java∏ ∏(%
+%1java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+valuejava.lang.String"Å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java∏ ∏(&
+
+%1java.lang.Integer:
+namejava.lang.StringB&$
+"org.exist.config.ConfigurationImpl

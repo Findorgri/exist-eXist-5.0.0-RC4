@@ -1,0 +1,28 @@
+
+dorg.exist.client.security.AutoCompletion#startsWithIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Zj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaÃ Ã(("1*∫
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaÕ Õ(‰·
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaÕ Õ(!
+%0java.lang.String"0java.lang.String#toUpperCase()Ljava/lang/String;*
+
+str1java.lang.String2toUpperCase()‰·
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaÕ- Õ(?
+%1java.lang.String"0java.lang.String#toUpperCase()Ljava/lang/String;*
+
+str2java.lang.String2toUpperCase()ÑÅ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaÕ Õ(@
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2startsWith(Ljava/lang/String;)"t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaÕ Õ(A
+"":
+str1java.lang.String:
+str2java.lang.StringB,*
+(org.exist.client.security.AutoCompletion

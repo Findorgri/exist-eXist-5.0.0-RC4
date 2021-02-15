@@ -1,0 +1,25 @@
+
+8org.exist.validation.XmlLibraryChecker#hasValidParser()Zh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaù ù(("1*â
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaú ú(¥¢
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaú" ú(/
+%0java.lang.StringBuilder"java.lang.StringBuilder·
+´
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaú ú(1
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderœ
+™
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaú ú(2
+%2boolean"Qorg.exist.validation.XmlLibraryChecker#hasValidParser(Ljava/lang/StringBuilder;)Z**"(
+&org.exist.validation.XmlLibraryChecker*
+
+%0java.lang.StringBuilder"r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaú ú(3
+""B*"(
+&org.exist.validation.XmlLibraryChecker

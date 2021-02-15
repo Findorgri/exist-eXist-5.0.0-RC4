@@ -1,0 +1,35 @@
+
+null#call()Ljava/lang/Void;q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaØ Ø("5*ž
+2q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaÝ Ý(# 
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaÝ Ý(-
+
+%2void"Djava.util.concurrent.atomic.AtomicReference#set(Ljava/lang/Object;)V*
+""*53
+1Lorg/exist/storage/lock/CollectionLocksTest$8821;2set(Ljava/lang/Object;)*
+1*â
+3r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaÚ Ú(ƒãà
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaÛ Û(>
+%1boolean"`java.util.concurrent.atomic.AtomicReference#compareAndSet(Ljava/lang/Object;Ljava/lang/Object;)Z*
+""*
+""*53
+1Lorg/exist/storage/lock/CollectionLocksTest$8821;23compareAndSet(Ljava/lang/Object;Ljava/lang/Object;)*
+2*¿
+5q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaÙ Ù(!Á¾
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaÙ Ù()
+
+%0void",java.util.concurrent.CountDownLatch#await()V*
+""2await()*
+3*ó
+1q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaß ß("{
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/lock/CollectionLocksTest.javaß ß(
+""B53
+1Lorg/exist/storage/lock/CollectionLocksTest$8821;

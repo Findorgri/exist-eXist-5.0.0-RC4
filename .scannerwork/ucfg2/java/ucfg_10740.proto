@@ -1,0 +1,35 @@
+
+Xorg.exist.http.servlets.HttpResponseWrapper#encode(Ljava/lang/String;)Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÇ Ç("1*ä
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÉ É(»≈
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÉ É(*
+%0byte[]"java.lang.String#getBytes()[B*
+
+valuejava.lang.String2
+getBytes()†
+ù
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÉ, É(6
+%1java.nio.charset.Charset"__id*
+""úô
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÉ É(
+%2java.lang.String"java.lang.String¸
+˘
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÉ É(7
+%3"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%2java.lang.String*
+
+%0byte[]* 
+
+%1java.nio.charset.Charset"â
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpResponseWrapper.javaÉ É(8
+
+%2java.lang.String:
+valuejava.lang.StringB/-
++org.exist.http.servlets.HttpResponseWrapper

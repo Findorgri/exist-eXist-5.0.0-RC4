@@ -1,0 +1,46 @@
+
+>org.exist.xmldb.XmldbURI#endsWith(Lorg/exist/xmldb/XmldbURI;)ZZ
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaË Ë("2"3*Ÿ
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ* Ì(2ØÕ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ* Ì(4
+%3java.lang.String"5org.exist.xmldb.XmldbURI#toString()Ljava/lang/String;*
+org.exist.xmldb.XmldbURI2
+toString()âß
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ> Ì(Q
+%4java.lang.String"5org.exist.xmldb.XmldbURI#toString()Ljava/lang/String;*&
+$
+xmldbUriorg.exist.xmldb.XmldbURI2
+toString()ðí
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ* Ì(R
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+%3java.lang.String*
+
+%4java.lang.String2endsWith(Ljava/lang/String;)…
+‚
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ* Ì(R
+%0boolean"__id*
+
+%2boolean*
+1*ì
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ" Ì('…
+‚
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ" Ì('
+%0boolean"__id*
+
+%1boolean*
+1*Å
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ Ì(S"d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÌ Ì(S
+"":$
+xmldbUriorg.exist.xmldb.XmldbURIB
+org.exist.xmldb.XmldbURI

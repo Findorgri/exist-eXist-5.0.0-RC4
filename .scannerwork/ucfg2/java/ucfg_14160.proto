@@ -1,0 +1,28 @@
+
+Sorg.exist.xquery.value.DurationValue#negate()Lorg/exist/xquery/value/DurationValue;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaî î("1*Ë
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaï ï(Ã
+…
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaï ï(&!
+%0javax.xml.datatype.Duration"__id*6*4&
+$org.exist.xquery.value.DurationValue"
+
+durationÄ˝
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaï ï(/!
+%1javax.xml.datatype.Duration"Ajavax.xml.datatype.Duration#negate()Ljavax/xml/datatype/Duration;*#
+!
+%0javax.xml.datatype.Duration2negate()èå
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaï ï(0*
+%2$org.exist.xquery.value.DurationValue"xorg.exist.xquery.value.DurationValue#createSameKind(Ljavax/xml/datatype/Duration;)Lorg/exist/xquery/value/DurationValue;*(&
+$org.exist.xquery.value.DurationValue*#
+!
+%1javax.xml.datatype.Duration2-createSameKind(Ljavax/xml/datatype/Duration;)"ñ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaï ï(1,
+*
+%2$org.exist.xquery.value.DurationValueB(&
+$org.exist.xquery.value.DurationValue

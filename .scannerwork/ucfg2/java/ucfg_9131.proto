@@ -1,0 +1,20 @@
+
+3org.exist.protocolhandler.xmldb.XmldbURL#getPort()Ij
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.java§ §("1*á
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.java¨ ¨(Â
+¿
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.java¨ ¨(
+%0java.net.URL"__id*7*5*
+(org.exist.protocolhandler.xmldb.XmldbURL"
+myUrl´±
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.java¨ ¨(	
+%1int"java.net.URL#getPort()I*
+
+%0java.net.URL2	getPort()"t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.java¨ ¨(
+""B,*
+(org.exist.protocolhandler.xmldb.XmldbURL

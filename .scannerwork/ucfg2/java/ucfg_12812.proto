@@ -1,0 +1,25 @@
+
+morg.exist.config.ConfigurationDocumentTrigger$PrincipalType#migrateId(Ljava/lang/Integer;)Ljava/lang/Integer;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java× ×( "1*¶
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaØ Ø(á
+Þ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaØ Ø(
+%0java.util.Map"__id*P*N=
+;org.exist.config.ConfigurationDocumentTrigger$PrincipalType"
+idMigrationÌ
+É
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaØ Ø()
+%1java.lang.Integer"__mapGet*
+
+%0java.util.Map*
+
+oldIdjava.lang.Integer"Œ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaØ Ø(*
+
+%1java.lang.Integer:
+oldIdjava.lang.IntegerB?=
+;org.exist.config.ConfigurationDocumentTrigger$PrincipalType

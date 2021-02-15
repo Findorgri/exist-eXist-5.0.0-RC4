@@ -1,0 +1,16 @@
+
+Gorg.exist.security.realm.oauth.Service#getApiSecret()Ljava/lang/String;Ä
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javas s("1*à
+1Ä
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javat t(ﬂ
+‹
+Ä
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javat t(
+%0java.lang.String"__id*9*7(
+&org.exist.security.realm.oauth.Service"
+	apiSecret"ù
+Ä
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javat t(
+
+%0java.lang.StringB*(
+&org.exist.security.realm.oauth.Service

@@ -1,0 +1,165 @@
+
+Korg.exist.fluent.ElementBuilder#adopt(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java∫ ∫("12*é
+3s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¬ ¬(%"ì
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¬ ¬(&
+
+resultorg.w3c.dom.Node*∑
+4s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¡ ¡(&¥
+±
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¡ ¡(&
+resultorg.w3c.dom.Node"__id*
+
+%7org.w3c.dom.Node*
+3
+1*≥
+5s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¡ ¡(»
+≈
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¡ ¡(
+%6org.w3c.dom.Document"__id*,**!
+org.exist.fluent.ElementBuilder"
+doc∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¡  ¡($
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.NodeØ¨
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¡ ¡(%
+%7org.w3c.dom.Node"Dorg.w3c.dom.Document#adoptNode(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;*
+
+%6org.w3c.dom.Document*
+
+nodeorg.w3c.dom.Node2adoptNode(Lorg/w3c/dom/Node;)*
+4*≠
+7s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaø ø(
+∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaø ø(
+
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.NodeÒÓ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaø ø(
+%5org.w3c.dom.Node"2org.w3c.dom.Node#getParentNode()Lorg/w3c/dom/Node;*
+
+nodeorg.w3c.dom.Node2getParentNode()*
+5
+1*≈
+8s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaΩ
+ Ω(∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaΩ
+ Ω(
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.Node"ë
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaΩ Ω(
+
+nodeorg.w3c.dom.Node*é
+9t
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaª ª(àø
+º
+t
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaª ª(à 
+ownerDocorg.w3c.dom.Document"__id*
+
+%2org.w3c.dom.Document»
+≈
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaº º(
+%4org.w3c.dom.Document"__id*,**!
+org.exist.fluent.ElementBuilder"
+doc*
+7
+8*ˆ
+10s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªp ª(t∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªp ª(t
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.NodeÄ˝
+t
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªp ª(á
+%3org.w3c.dom.Document"9org.w3c.dom.Node#getOwnerDocument()Lorg/w3c/dom/Document;*
+
+nodeorg.w3c.dom.Node2getOwnerDocument()π
+∂
+t
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªp ª(á
+%2org.w3c.dom.Document"__id*
+
+%3org.w3c.dom.Document*
+9*
+11s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªi ª(m∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªi ª(m
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.Node∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaªS ª(m
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.Node*
+9*Ì
+12s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaª( ª(,—Œ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaª( ª(:
+%0short"org.w3c.dom.Node#getNodeType()S*
+
+nodeorg.w3c.dom.Node2getNodeType()ì
+ê
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.javaª> ª(P
+%1short"__id*
+""*
+10
+11*Ã
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java∆	 ∆(»
+≈
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java∆	 ∆(
+%8org.w3c.dom.Document"__id*,**!
+org.exist.fluent.ElementBuilder"
+doc∂
+≥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java∆ ∆(
+%2org.w3c.dom.Document"__id*
+
+nodeorg.w3c.dom.Nodeª∏
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java∆	 ∆(#
+%9org.w3c.dom.Node"Forg.w3c.dom.Document#importNode(Lorg/w3c/dom/Node;Z)Lorg/w3c/dom/Node;*
+
+%8org.w3c.dom.Document*
+
+nodeorg.w3c.dom.Node*
+""2importNode(Lorg/w3c/dom/Node;Z)"è
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java∆ ∆($
+
+%9org.w3c.dom.Node:
+nodeorg.w3c.dom.NodeB#!
+org.exist.fluent.ElementBuilder

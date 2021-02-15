@@ -1,0 +1,27 @@
+
+Torg.exist.http.servlets.HttpServletRequestWrapper#getDateHeader(Ljava/lang/String;)Js
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java× ×("startingBlock*õ
+startingBlocks
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java× ×(0¾
+»
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaÖ Ö(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String¨
+¥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.java×+ ×(/
+namejava.lang.String"__annotation*
+
+%0*
+1*÷
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaØ Ø("}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaØ Ø(+
+"":
+namejava.lang.StringB53
+1org.exist.http.servlets.HttpServletRequestWrapper

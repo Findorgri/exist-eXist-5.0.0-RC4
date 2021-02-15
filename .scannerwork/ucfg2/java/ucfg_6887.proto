@@ -1,0 +1,50 @@
+
+Rorg.exist.storage.NativeValueIndex$ExactMatcher#matches(Ljava/lang/CharSequence;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÄ Ä("startingBlock*—
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ# Å('äá
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ# Å(2
+%0java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;* 
+
+termjava.lang.CharSequence2
+toString()Æ
+Ã
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ: Å(>
+%1java.lang.String"__id*=*;1
+/org.exist.storage.NativeValueIndex$ExactMatcher"
+expröó
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ# Å(?
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)*
+1*×
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÄ Ä(7µ
+²
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÃ Ã(
+%3"
+__annotate*
+java.lang.Override* 
+
+termjava.lang.CharSequenceŸ
+œ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÄ2 Ä(6
+termjava.lang.CharSequence"__annotation*
+
+%3*
+2
+1*Ù
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ Å(@"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ Å(@
+"":
+termjava.lang.CharSequenceB31
+/org.exist.storage.NativeValueIndex$ExactMatcher

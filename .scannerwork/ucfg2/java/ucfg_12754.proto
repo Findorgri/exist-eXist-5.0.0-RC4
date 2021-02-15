@@ -1,0 +1,154 @@
+
+0org.exist.http.RESTServiceTest#uploadDataPlus()Ie
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaü ü("13* 
+13e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java†* †(7Ì
+Í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java†8 †(L
+%0java.lang.String"Eorg.exist.http.RESTServiceTest#getResourceUriPlus()Ljava/lang/String;*"" 
+org.exist.http.RESTServiceTest®
+•
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java†* †(M 
+%1java.net.HttpURLConnection"\org.exist.http.RESTServiceTest#getConnection(Ljava/lang/String;)Ljava/net/HttpURLConnection;*" 
+org.exist.http.RESTServiceTest*
+
+%0java.lang.Stringª
+∏
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java† †(N%
+connectjava.net.HttpURLConnection"__id*"
+ 
+%1java.net.HttpURLConnection*
+12*€
+2e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java´ ´(-"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java´ ´(-
+""*”
+3e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java´ ´(·ﬁ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java´ ´(,
+
+%15int"-java.net.HttpURLConnection#getResponseCode()I*'
+%
+connectjava.net.HttpURLConnection2getResponseCode()*
+2*¿
+4e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java™ ™(ŒÀ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java™ ™(
+%14void"!java.net.URLConnection#connect()V*'
+%
+connectjava.net.HttpURLConnection2	connect()*
+3*¨
+5e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶ ¶(_Ø
+¨
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶ ¶(_
+writerjava.io.Writer"__id*#
+!
+%10java.io.OutputStreamWriterë
+é
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaß ß(%
+%12java.lang.String"__id*
+""ÙÒ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaß ß(&
+%13void")java.io.Writer#write(Ljava/lang/String;)V*
+
+writerjava.io.Writer*
+
+%12java.lang.String2write(Ljava/lang/String;)*
+4*Â
+6e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶Y ¶(^ò
+ï
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶Y ¶(^
+%9java.nio.charset.Charset"__id*
+""©¶
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶+ ¶(=!
+%10java.io.OutputStreamWriter"java.io.OutputStreamWriter¨
+©
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶' ¶(_
+%11"Tjava.io.OutputStreamWriter#<init>(Ljava/io/OutputStream;Ljava/nio/charset/Charset;)V*#
+!
+%10java.io.OutputStreamWriter*
+
+%8java.io.OutputStream* 
+
+%9java.nio.charset.Charset*
+5*Ù
+7e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶> ¶(EÇˇ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¶> ¶(W
+%8java.io.OutputStream">java.net.URLConnection#getOutputStream()Ljava/io/OutputStream;*'
+%
+connectjava.net.HttpURLConnection2getOutputStream()*
+6*√
+9e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java• •(—Œ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java• •(H
+
+%7void"Pjava.net.URLConnection#setRequestProperty(Ljava/lang/String;Ljava/lang/String;)V*'
+%
+connectjava.net.HttpURLConnection*
+ContentType*
+application/xml28setRequestProperty(Ljava/lang/String;Ljava/lang/String;)*
+7*“
+10e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java§ §(ﬂ‹
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java§ §(%
+
+%6void"&java.net.URLConnection#setDoOutput(Z)V*'
+%
+connectjava.net.HttpURLConnection*
+""2setDoOutput(Z)*
+9*Ñ
+11e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java£ £(êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java£ £(+
+
+%5void"@java.net.HttpURLConnection#setRequestMethod(Ljava/lang/String;)V*'
+%
+connectjava.net.HttpURLConnection*
+PUT2$setRequestMethod(Ljava/lang/String;)*
+10*¡
+12e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¢ ¢(Ω
+∫
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¢C ¢(N
+%2java.lang.String"__id*3*1 
+org.exist.http.RESTServiceTest"
+credentials≤
+Ø
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¢8 ¢(N
+%3java.lang.String"__concat*
+
+Basic *
+
+%2java.lang.Stringÿ’
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java¢ ¢(O
+
+%4void"Pjava.net.URLConnection#setRequestProperty(Ljava/lang/String;Ljava/lang/String;)V*'
+%
+connectjava.net.HttpURLConnection*
+Authorization*
+
+%3java.lang.String28setRequestProperty(Ljava/lang/String;Ljava/lang/String;)*
+11B" 
+org.exist.http.RESTServiceTest

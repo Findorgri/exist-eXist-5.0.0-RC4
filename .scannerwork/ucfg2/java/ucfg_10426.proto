@@ -1,0 +1,10 @@
+
+Korg.exist.xquery.modules.jndi.JNDIModule#getDescription()Ljava/lang/String;{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/jndi/JNDIModule.javae e("1*í
+1{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/jndi/JNDIModule.javag
+ g(s"ê
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/jndi/JNDIModule.javag g(vki
+gA module for performing JNDI queries against Directories, returning XML representations of the results.B,*
+(org.exist.xquery.modules.jndi.JNDIModule

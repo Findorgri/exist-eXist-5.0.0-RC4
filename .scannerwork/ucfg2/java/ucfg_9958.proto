@@ -1,0 +1,9 @@
+
+=org.expath.exist.ZipModule#getDescription()Ljava/lang/String;l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipModule.javaC C( "1*”
+1l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipModule.javaD D(=" 
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipModule.javaD D(>0.
+,EXPath ZIP Module http://expath.org/spec/zipB
+org.expath.exist.ZipModule

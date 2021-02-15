@@ -1,0 +1,75 @@
+
+Oorg.exist.dom.persistent.ProcessingInstructionImpl#toString()Ljava/lang/String;r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.java~ ~("1*˝
+1r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.java" (5Ø¨
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.java& (3
+%0java.lang.StringBuilder"java.lang.StringBuilder¡
+æ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.java" (5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderæ
+ª
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.java (6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder´®
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÄ Ä(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+<?2append(Ljava/lang/String;)€
+ÿ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÅ Å(
+%3java.lang.String"__id*B*@4
+2org.exist.dom.persistent.ProcessingInstructionImpl"
+targetΩ∫
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÅ Å(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+%3java.lang.String2append(Ljava/lang/String;)™ß
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÇ Ç(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ 2append(Ljava/lang/String;)Ÿ
+÷
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÉ É(
+%6java.lang.String"__id*@*>4
+2org.exist.dom.persistent.ProcessingInstructionImpl"
+dataΩ∫
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÉ É(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+%6java.lang.String2append(Ljava/lang/String;)¨©
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÑ Ñ(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ ?>2append(Ljava/lang/String;)ıÚ
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÖ Ö(
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"ê
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaÖ Ö(
+
+%9java.lang.StringB64
+2org.exist.dom.persistent.ProcessingInstructionImpl

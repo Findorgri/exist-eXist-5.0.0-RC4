@@ -1,0 +1,95 @@
+
+5org.exist.xquery.LetExpr#toString()Ljava/lang/String;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java∫ ∫("4*Ä
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java≈ ≈(ôñ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java≈ ≈(%
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*	
+return 2append(Ljava/lang/String;)*
+1*˚
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java√ √(îë
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java√ √( 
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+1*Ø
+4Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaª% ª(8óî
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaª) ª(6
+%0java.lang.StringBuilder"java.lang.StringBuilder©
+¶
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaª% ª(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder©
+¶
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaª ª(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderñì
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaº º(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+let 2append(Ljava/lang/String;)ìê
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaΩ Ω(
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+$2append(Ljava/lang/String;)˜Ù
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaΩ Ω(*
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%3java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)ñì
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaæ æ(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ := 2append(Ljava/lang/String;)˚¯
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.javaø ø(/
+%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)ìê
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java¿ ¿(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+2
+3*π
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java∆ ∆(¸˘
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java∆ ∆(,
+%10"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)ﬂ‹
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java« «( 
+%11java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"w
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LetExpr.java« «(!
+
+%11java.lang.StringB
+org.exist.xquery.LetExpr

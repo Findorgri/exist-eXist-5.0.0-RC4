@@ -1,0 +1,65 @@
+
+zorg.exist.xquery.regex.JDK15RegexTranslator#getCategoryCharClass(I)Lorg/exist/xquery/regex/JDK15RegexTranslator$CharClass;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÇ* Ç(>"3*≈
+2m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÑ Ñ( ø
+º
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÑ Ñ( =
+%27org.exist.xquery.regex.JDK15RegexTranslator$CharClass[]"__id*
+""±
+Æ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÑ' Ñ(`
+%3"~org.exist.xquery.regex.JDK15RegexTranslator#computeCategoryCharClass(C)Lorg/exist/xquery/regex/JDK15RegexTranslator$CharClass;*/"-
++org.exist.xquery.regex.JDK15RegexTranslator*
+""’
+“
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÑ Ñ(`
+%4"
+__arraySet*?
+=
+%27org.exist.xquery.regex.JDK15RegexTranslator$CharClass[]*
+""*
+
+%3*
+1*√
+3m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÉ É(ø
+º
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÉ É(=
+%07org.exist.xquery.regex.JDK15RegexTranslator$CharClass[]"__id*
+""Ñ
+Å
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÉ É(#;
+%15org.exist.xquery.regex.JDK15RegexTranslator$CharClass"
+__arrayGet*?
+=
+%07org.exist.xquery.regex.JDK15RegexTranslator$CharClass[]*
+""*
+2
+1*Ï
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÖ Ö("ø
+º
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÖ Ö("=
+%57org.exist.xquery.regex.JDK15RegexTranslator$CharClass[]"__id*
+""Ñ
+Å
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÖ Ö(&;
+%65org.exist.xquery.regex.JDK15RegexTranslator$CharClass"
+__arrayGet*?
+=
+%57org.exist.xquery.regex.JDK15RegexTranslator$CharClass[]*
+"""Æ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/JDK15RegexTranslator.javaÖ Ö('=
+;
+%65org.exist.xquery.regex.JDK15RegexTranslator$CharClass:
+""B/"-
++org.exist.xquery.regex.JDK15RegexTranslator

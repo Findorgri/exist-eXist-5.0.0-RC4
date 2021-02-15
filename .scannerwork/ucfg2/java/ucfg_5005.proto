@@ -1,0 +1,21 @@
+
+Morg.exist.util.SelectorUtils#matchPath(Ljava/lang/String;Ljava/lang/String;)Z^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaº º(#"1*ö
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java» »(¦
+£
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java» »(,
+%0boolean"Norg.exist.util.SelectorUtils#matchPath(Ljava/lang/String;Ljava/lang/String;Z)Z* "
+org.exist.util.SelectorUtils*
+
+patternjava.lang.String*
+
+strjava.lang.String*
+"""h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java» »(-
+"":
+patternjava.lang.String:
+strjava.lang.StringB "
+org.exist.util.SelectorUtils

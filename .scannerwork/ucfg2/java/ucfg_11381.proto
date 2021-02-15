@@ -1,0 +1,78 @@
+
+>org.exist.xquery.FunctionSignature#equals(Ljava/lang/Object;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java„ „("startingBlock*¶
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java’ ’(#èå
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java’ ’(%	
+%2int"6org.exist.xquery.FunctionSignature#getArgumentCount()I*&$
+"org.exist.xquery.FunctionSignature2getArgumentCount()ïì
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java’) ’(A	
+%3int"6org.exist.xquery.FunctionSignature#getArgumentCount()I*-
++
+other"org.exist.xquery.FunctionSignature2getArgumentCount()"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java’ ’(B
+""*É
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java„ „(+®
+«
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaƒ ƒ(
+%4"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object˜
+•
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java„' „(*
+objjava.lang.Object"__annotation*
+
+%4*
+7
+8*¶
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaŽ Ž(#èå
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaŽ Ž(%	
+%0int"6org.exist.xquery.FunctionSignature#getArgumentCount()I*&$
+"org.exist.xquery.FunctionSignature2getArgumentCount()ïì
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaŽ) Ž(A	
+%1int"6org.exist.xquery.FunctionSignature#getArgumentCount()I*-
++
+other"org.exist.xquery.FunctionSignature2getArgumentCount()"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaŽ Ž(B
+""*Ù
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaŒ Œ("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaŒ Œ(
+""*±
+7d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java‰; ‰(>·
+´
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java‰ ‰(?+
+other"org.exist.xquery.FunctionSignature"__id*
+
+objjava.lang.Object*
+2
+4
+5
+1*Ù
+8d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java† †("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java† †(
+""*Ù
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java• •("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java• •(
+"":
+objjava.lang.ObjectB&$
+"org.exist.xquery.FunctionSignature

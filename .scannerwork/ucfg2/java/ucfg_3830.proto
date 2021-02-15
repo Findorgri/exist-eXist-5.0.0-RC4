@@ -1,0 +1,30 @@
+
+Borg.exist.backup.BackupFile#before(Lorg/exist/backup/BackupFile;)Z[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.java? ?("1*ˆ
+1[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaA A(§
+¤
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaA A(
+%0java.util.Date"__id*)*'
+org.exist.backup.BackupFile"
+date®
+«
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaA A('
+%1java.util.Date"__id*0*.
+$
+otherorg.exist.backup.BackupFile"
+dateãà
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaA A()
+%2boolean"(java.util.Date#before(Ljava/util/Date;)Z*
+
+%0java.util.Date*
+
+%1java.util.Date2before(Ljava/util/Date;)"e
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaA A(,
+"":$
+otherorg.exist.backup.BackupFileB
+org.exist.backup.BackupFile

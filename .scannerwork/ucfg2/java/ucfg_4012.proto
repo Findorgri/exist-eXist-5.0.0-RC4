@@ -1,0 +1,75 @@
+
+Eorg.exist.dom.persistent.AbstractNodeSet#toString()Ljava/lang/String;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.javaõ õ("7*™
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java¢  ¢(#£†
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java£ £(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+[2append(Ljava/lang/String;)áÑ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java£ £(F
+%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+3
+4
+1*õ
+4j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java† †(§°
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java† †(#
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+3*…
+7j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.javaú% ú(8ß§
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.javaú) ú(6
+%0java.lang.StringBuilder"java.lang.StringBuilderπ
+∂
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.javaú% ú(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderπ
+∂
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.javaú ú(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder™ß
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.javaù ù(!
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+
+NodeSet(2append(Ljava/lang/String;)*	
+3
+4
+1*è
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java• •(£†
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java• •(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)ÓÎ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java¶ ¶( 
+%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"Ü
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractNodeSet.java¶ ¶(!
+
+%7java.lang.StringB,*
+(org.exist.dom.persistent.AbstractNodeSet

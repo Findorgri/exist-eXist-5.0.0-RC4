@@ -1,0 +1,42 @@
+
+.org.exist.storage.dom.DOMFile$DOMPage#sync(Z)Z_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javað ð("7*Ï
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaö ö("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaö ö(
+""*È
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaó: ó(DÜ
+Ù
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaó^ ó(h5
+%2/org.exist.storage.dom.DOMFile$DOMFilePageHeader"__id*9*7'
+%org.exist.storage.dom.DOMFile$DOMPage"
+
+pageHeader*
+2*Ã
+6_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaò ò(ÔÑ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaò ò(
+
+%1void".org.exist.storage.dom.DOMFile$DOMPage#write()V*)'
+%org.exist.storage.dom.DOMFile$DOMPage2write()*
+2
+4*Ê
+7_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javañ ñ(ÛØ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javañ ñ(
+%0boolean"0org.exist.storage.dom.DOMFile$DOMPage#isDirty()Z*)'
+%org.exist.storage.dom.DOMFile$DOMPage2	isDirty()*
+6
+1*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø ø("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø ø(
+"":
+""B)'
+%org.exist.storage.dom.DOMFile$DOMPage

@@ -1,0 +1,9 @@
+
+Rorg.exist.security.realm.ldap.xquery.LDAPModule#getDescription()Ljava/lang/String;ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/xquery/LDAPModule.java8 8( "1*É
+1ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/xquery/LDAPModule.java9 9(8"¸
+ˆ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/xquery/LDAPModule.java9 9(9+)
+'A module for maniuplating LDAP securityB31
+/org.exist.security.realm.ldap.xquery.LDAPModule

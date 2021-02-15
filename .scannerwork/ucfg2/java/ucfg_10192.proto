@@ -1,0 +1,17 @@
+
+Zorg.exist.util.io.MemoryMappedFileFilterInputStreamCache#getFilePath()Ljava/nio/file/Path;z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.java¹ ¹("1*ˆ
+1z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.javaº º(ë
+è
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.javaº º(
+%0java.nio.file.Path"__id*J*H:
+8org.exist.util.io.MemoryMappedFileFilterInputStreamCache"
+
+tempFile"˜
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/MemoryMappedFileFilterInputStreamCache.javaº º(
+
+%0java.nio.file.PathB<:
+8org.exist.util.io.MemoryMappedFileFilterInputStreamCache

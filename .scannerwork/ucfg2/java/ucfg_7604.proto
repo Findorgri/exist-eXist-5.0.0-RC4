@@ -1,0 +1,58 @@
+
+^org.exist.xquery.modules.ngram.query.WildcardedExpressionSequence#toString()Ljava/lang/String;ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java† †("5* 
+3ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java£ £(¿Ω
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java£ £(1
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)Ÿ÷
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java§ §( 
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+3
+1*ü
+5ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java°2 °(Q€ÿ
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java°$ °(1
+%0java.lang.StringBuilder"java.lang.StringBuilder¢
+ü
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java°  °(R
+%1"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
+
+%0java.lang.StringBuilder*!
+WildcardedExpressionSequence(Ó
+Î
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java° °(S"
+builderjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+3
+1*·
+1ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java¶ ¶(ÿ’
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.java¶ ¶(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)£†
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.javaß ß(!
+%5java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
+"
+builderjava.lang.StringBuilder2
+toString()"∫
+ù
+êC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/WildcardedExpressionSequence.javaß ß("
+
+%5java.lang.StringBEC
+Aorg.exist.xquery.modules.ngram.query.WildcardedExpressionSequence

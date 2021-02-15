@@ -1,0 +1,26 @@
+
+Norg.exist.protocolhandler.xmldb.XmldbURL#getCollectionPath()Ljava/lang/String;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÁ Á(#"1*û
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÂ Â(Â
+¿
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÂ Â(
+%0java.net.URL"__id*7*5*
+(org.exist.protocolhandler.xmldb.XmldbURL"
+myUrlÒÏ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÂ Â(
+%1java.lang.String"(java.net.URL#getPath()Ljava/lang/String;*
+
+%0java.net.URL2	getPath()æã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÂ Â(,
+%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+%1java.lang.String*22substring(I)"†
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaÂ Â(-
+
+%2java.lang.StringB,*
+(org.exist.protocolhandler.xmldb.XmldbURL

@@ -1,0 +1,122 @@
+
+Borg.exist.webdav.MiltonDocument#getContentLength()Ljava/lang/Long;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÀ À( "18*ö
+2s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaí í(ö
+ó
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaí í(K
+%7"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+Size=%s (%s)*
+
+sizejava.lang.Long*
+""*
+1*Ω
+14s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÙ Ù(º
+π
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÙ ı(:
+%3"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*DB
+@Serializing XML to /dev/null to determine size (%s) MacFinder=%s*
+""*
+""*
+8*°
+4s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaé é( û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaé é(3
+sizejava.lang.Long"__id*
+""*
+2
+1*Ó
+16s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÓ Ó(*π
+∂
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÓ Ó(*1
+%0+org.exist.webdav.MiltonDocument$SIZE_METHOD"__id*
+""π
+∂
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÓ Ó(01
+%1+org.exist.webdav.MiltonDocument$SIZE_METHOD"__id*
+""Ó
+Î
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÓ4 Ó(F1
+%2+org.exist.webdav.MiltonDocument$SIZE_METHOD"__id*;*9!
+org.exist.webdav.MiltonDocument"
+propfindSizeMethod*
+
+14
+7
+8*°
+5s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaä ä($û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaä ä(7
+sizejava.lang.Long"__id*
+""*
+2
+1*°
+6s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÖ Ö(û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÖ Ö(
+sizejava.lang.Long"__id*
+""*
+2
+1*™
+18s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÁ Á(û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÁ Á(
+sizejava.lang.Long"__id*
+""*
+14
+4
+16
+8*È
+7s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÄ Ä("π
+∂
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÄ Ä("1
+%4+org.exist.webdav.MiltonDocument$SIZE_METHOD"__id*
+""π
+∂
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÄ Ä('1
+%5+org.exist.webdav.MiltonDocument$SIZE_METHOD"__id*
+""Ó
+Î
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÄ+ Ä(=1
+%6+org.exist.webdav.MiltonDocument$SIZE_METHOD"__id*;*9!
+org.exist.webdav.MiltonDocument"
+propfindSizeMethod*
+5
+6*°
+8s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.java˚ ˚(1û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.java˚ ˚(1
+sizejava.lang.Long"__id*
+""*
+2
+1*ä
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaî î("è
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaî î(
+
+sizejava.lang.LongB#!
+org.exist.webdav.MiltonDocument

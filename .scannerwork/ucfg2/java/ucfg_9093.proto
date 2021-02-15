@@ -1,0 +1,27 @@
+
+7org.exist.storage.btree.BTree$BTreeFileHeader#read([B)I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÆ Æ("startingBlock*£
+startingBlock_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÆ Æ()Ÿ
+œ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÅ Å(
+%0"
+__annotate*
+java.lang.Override*
+
+bufbyte[]‰
+†
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÆ% Æ((
+bufbyte[]"__annotation*
+
+%0*
+1*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÇ Ç("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÌ Ì(
+"":
+bufbyte[]B1/
+-org.exist.storage.btree.BTree$BTreeFileHeader

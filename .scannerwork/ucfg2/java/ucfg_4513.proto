@@ -1,0 +1,121 @@
+
+Forg.exist.xquery.NameTest#matches(Ljavax/xml/stream/XMLStreamReader;)ZY
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaw w("startingBlock*ã
+2[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java (x
+v
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java‚ ‚(.	
+%5int"__id*
+""x
+v
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java’ ’(7	
+%6int"__id*
+""*
+4
+7
+1
+12*Ä
+14Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java~ ~("c
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java~ ~(
+""*Ì
+startingBlockY
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaw w(8¶
+³
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javav v(
+%7"
+__annotate*
+java.lang.Override*,
+*
+reader javax.xml.stream.XMLStreamReader 
+
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaw1 w(7*
+reader javax.xml.stream.XMLStreamReader"__annotation*
+
+%7*
+17*Á
+4[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java” ”(#÷ô
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java”: ”(N
+%4java.lang.String"@javax.xml.stream.XMLStreamReader#getPITarget()Ljava/lang/String;*,
+*
+reader javax.xml.stream.XMLStreamReader2getPITarget()"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java” ”(P
+""*Ä
+16Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaz z("c
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaz z(
+""*È
+17Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javax x(ÙÖ
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javax x(,	
+%0int"0javax.xml.stream.XMLStreamReader#getEventType()I*,
+*
+reader javax.xml.stream.XMLStreamReader2getEventType()*
+2
+14
+16*Ã
+7[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaŽ Ž(#ùö
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaŽ: Ž(O
+%3java.lang.String"Ajavax.xml.stream.XMLStreamReader#getLocalName()Ljava/lang/String;*,
+*
+reader javax.xml.stream.XMLStreamReader2getLocalName()"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaŽ Ž(Q
+""*Ç
+9[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java‰ ‰($"e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java‰ ‰(%
+""*–
+11[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java†# †(/†
+ƒ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java†# †(;
+%2java.lang.String"__id*
+""ž
+›
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java† †(;
+readerNsjava.lang.String"__id*
+
+%2java.lang.String*	
+7
+9
+1*“
+12[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java„& „(,ÿü
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java„& „(>
+%1java.lang.String"Djavax.xml.stream.XMLStreamReader#getNamespaceURI()Ljava/lang/String;*,
+*
+reader javax.xml.stream.XMLStreamReader2getNamespaceURI()ž
+›
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java„ „(?
+readerNsjava.lang.String"__id*
+
+%1java.lang.String*
+7
+9
+11
+1*Ç
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java˜ ˜("e
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java˜ ˜(
+"":*
+reader javax.xml.stream.XMLStreamReaderB
+org.exist.xquery.NameTest

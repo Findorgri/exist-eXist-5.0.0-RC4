@@ -1,0 +1,472 @@
+
+/org.exist.client.QueryDialog$QueryThread#run()V^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaù ù("79*°
+47^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÃ Ã(C∞
+≠
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÃ Ã(C#
+contentsjava.lang.StringBuilder"__id* 
+
+%34java.lang.StringBuilder*
+30
+41*ö
+69^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÆ Æ(K≠
+™
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaØ  Ø(:
+%15long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+65*ª
+48^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java   (úô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÃ3 Ã(@
+%34java.lang.StringBuilder"java.lang.StringBuilderØ
+¨
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÃ/ Ã(B
+%35"!java.lang.StringBuilder#<init>()V* 
+
+%34java.lang.StringBuilder*
+47*∂
+26^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaﬂ ﬂ(…
+∆
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaﬂ ﬂ(
+%43javax.swing.JTextField"__id*?*=*
+(org.exist.client.QueryDialog$QueryThread"
+statusMessage*
+21*â
+49^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java… …(∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java… …(
+%32javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progress”–
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java… …(,
+%33void"'javax.swing.JProgressBar#setMaximum(I)V*!
+
+%32javax.swing.JProgressBar*
+""2setMaximum(I)*
+48*“
+29^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java› ›(Â‚
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java›& ›(9
+%42java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+contentsjava.lang.StringBuilder2
+toString()*
+26*®
+70^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÆ4 Æ(;ª
+∏
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÆD Æ(I
+%14java.lang.String"__id*7*5*
+(org.exist.client.QueryDialog$QueryThread"
+xpath*
+69*á
+50^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java» »(∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java» »(
+%30javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progress—Œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java» »(&
+%31void"'javax.swing.JProgressBar#setMinimum(I)V*!
+
+%30javax.swing.JProgressBar*22setMinimum(I)*
+49*ï
+51^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∆ ∆(A∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java« «(
+%28javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progressﬂ‹
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java« «(0
+%29void"-javax.swing.JProgressBar#setIndeterminate(Z)V*!
+
+%28javax.swing.JProgressBar*
+""2setIndeterminate(Z)*
+50*°
+52^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∆$ ∆(@¥±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∆$ ∆(@
+
+%27int"java.lang.Number#intValue()I*
+
+%26java.lang.Number2
+intValue()*
+51*º
+30^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java‹ ‹(«
+ƒ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java‹ ‹(
+%40javax.swing.JTabbedPane"__id*<*:*
+(org.exist.client.QueryDialog$QueryThread"
+
+resultTabsÖÇ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java‹ ‹(H
+%41"Cjavax.swing.JTabbedPane#setSelectedComponent(Ljava/awt/Component;)V* 
+
+%40javax.swing.JTabbedPane*
+""2*setSelectedComponent(Ljava/awt/Component;)*
+29*©
+53^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java≈ ≈(%…
+∆
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∆$ ∆()%
+%25javax.swing.SpinnerNumberModel"__id*7*5*
+(org.exist.client.QueryDialog$QueryThread"
+countÌ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∆$ ∆(5
+%26java.lang.Number"<javax.swing.SpinnerNumberModel#getNumber()Ljava/lang/Number;*'
+%
+%25javax.swing.SpinnerNumberModel2getNumber()*
+52*ö
+75^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java®  ®(&≠
+™
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java®  ®(:
+%13long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+70*€
+54^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaƒ ƒ(ZÓÎ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaƒ ƒ(Z
+%24"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*
+
+%23javax.swing.JTextField*
+""2setText(Ljava/lang/String;)*
+53*∂
+55^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaƒ ƒ(…
+∆
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaƒ ƒ(
+%23javax.swing.JTextField"__id*?*=*
+(org.exist.client.QueryDialog$QueryThread"
+statusMessage*
+54*ô
+77^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¶3 ¶(uâ
+Ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaß$ ß(5
+%9java.lang.String"__id*
+""ƒ
+¡
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaß7 ß(A
+%10java.util.Properties"__id*<*:*
+(org.exist.client.QueryDialog$QueryThread"
+
+propertiesä
+á
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaßN ß(_
+%11java.lang.String"__id*
+""Ã…
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaß7 ß(g
+%12java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%10java.util.Properties*
+
+%11java.lang.String*
+yes21getProperty(Ljava/lang/String;Ljava/lang/String;)*
+75*¡
+79^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaû û(»
+≈
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaû û(
+%0javax.swing.JTextField"__id*?*=*
+(org.exist.client.QueryDialog$QueryThread"
+statusMessageÏÈ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaû û([
+%1"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*
+
+%0javax.swing.JTextField*
+""2setText(Ljava/lang/String;)≈
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaü ü(
+%2javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progressœÃ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaü ü(%
+
+%3void"%javax.swing.JComponent#setVisible(Z)V* 
+
+%2javax.swing.JProgressBar*
+""2setVisible(Z)≈
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java† †(
+%4javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progress›⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java† †(+
+
+%5void"-javax.swing.JProgressBar#setIndeterminate(Z)V* 
+
+%4javax.swing.JProgressBar*
+""2setIndeterminate(Z){
+y
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java°1 °(C	
+%6int"__id*
+""’
+“
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java° °(D
+%7java.awt.Cursor"7java.awt.Cursor#getPredefinedCursor(I)Ljava/awt/Cursor;*"
+java.awt.Cursor*
+	
+%6intÉÄ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java° °(E
+
+%8void"-java.awt.Window#setCursor(Ljava/awt/Cursor;)V*,*
+(org.exist.client.QueryDialog$QueryThread*
+
+%7java.awt.Cursor2setCursor(Ljava/awt/Cursor;)*
+77* 
+57^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¬ ¬(›⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¬$ ¬(5
+%22java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()*
+55*ï
+58^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¿ ¿(+®
+•
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¿ ¿(+
+writerjava.io.StringWriter"__id*
+
+%20java.io.StringWriter*
+57*å
+37^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java“ “( õò
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java“ “(-
+%39java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+\n2append(Ljava/lang/String;)*
+30
+41*Ø
+59^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaΩ7 Ω(9ñì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¿ ¿()
+%20java.io.StringWriter"java.io.StringWriter©
+¶
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¿ ¿(+
+%21"java.io.StringWriter#<init>()V*
+
+%20java.io.StringWriter*
+58*à
+38^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java—( —(Fõò
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java— —(G
+%38java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+""2append(Ljava/lang/String;)*
+37*|
+0 "u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˝ ˝(	
+implicit return*â
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˘ ˘(≈
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˘ ˘(/
+%54java.awt.Cursor"3java.awt.Cursor#getDefaultCursor()Ljava/awt/Cursor;*"
+java.awt.CursorÖÇ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˘ ˘(0
+%55void"-java.awt.Window#setCursor(Ljava/awt/Cursor;)V*,*
+(org.exist.client.QueryDialog$QueryThread*
+
+%54java.awt.Cursor2setCursor(Ljava/awt/Cursor;)∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˙ ˙(
+%56javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progress—Œ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˙ ˙(&
+%57void"%javax.swing.JComponent#setVisible(Z)V*!
+
+%56javax.swing.JProgressBar*
+""2setVisible(Z)√
+¿
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˚ ˚(
+%58javax.swing.JButton"__id*<*:*
+(org.exist.client.QueryDialog$QueryThread"
+
+killButton–Õ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˚ ˚((
+%59void")javax.swing.AbstractButton#setEnabled(Z)V*
+
+%58javax.swing.JButton*
+""2setEnabled(Z)≈
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¸ ¸(
+%60javax.swing.JButton"__id*>*<*
+(org.exist.client.QueryDialog$QueryThread"
+submitButton–Õ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¸ ¸()
+%61void")javax.swing.AbstractButton#setEnabled(Z)V*
+
+%60javax.swing.JButton*
+""2setEnabled(Z)*
+0*‹
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaı ı(ª
+∏
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaı$ ı()
+%51java.lang.String"__id*7*5*
+(org.exist.client.QueryDialog$QueryThread"
+xpathª
+∏
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˜ ˜(
+%52java.lang.String"__id*7*5*
+(org.exist.client.QueryDialog$QueryThread"
+xpathı
+Ú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java˜ ˜(
+%53void":org.exist.client.QueryDialog#addQuery(Ljava/lang/String;)V*,*
+(org.exist.client.QueryDialog$QueryThread*
+
+%52java.lang.String*
+1*å
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÙ< Ù(Bª
+∏
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÙb Ù(g
+%49java.lang.String"__id*7*5*
+(org.exist.client.QueryDialog$QueryThread"
+xpath‡›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÙ2 Ù(h
+%50boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+""*
+
+%49java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*ö
+60^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaª ª(2≠
+™
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaΩ Ω(4
+%19long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+59*Ö
+41^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaŒ Œ(=∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaœ œ(
+%36javax.swing.JProgressBar"__id*:*8*
+(org.exist.client.QueryDialog$QueryThread"
+
+progressœÃ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaœ œ((
+%37void"%javax.swing.JProgressBar#setValue(I)V*!
+
+%36javax.swing.JProgressBar*
+""2setValue(I)*
+38* 
+63^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaπ π(›⁄
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaπ$ π(5
+%18java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()*
+60*ï
+64^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∑ ∑(9®
+•
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∑ ∑(9
+writerjava.io.StringWriter"__id*
+
+%16java.io.StringWriter*
+63*Ø
+65^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java¥ ¥(ñì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∑* ∑(6
+%16java.io.StringWriter"java.io.StringWriter©
+¶
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java∑& ∑(8
+%17"java.io.StringWriter#<init>()V*
+
+%16java.io.StringWriter*
+64*‚
+21_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaﬂ& ‡(ïÔÏ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaﬂ ‡(Æ
+%44"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*
+
+%43javax.swing.JTextField*
+""2setText(Ljava/lang/String;)*	
+2
+3
+0B,*
+(org.exist.client.QueryDialog$QueryThread

@@ -1,0 +1,28 @@
+
+Forg.exist.debugger.dbgp.ResponseImpl#hasAttribute(Ljava/lang/String;)Zx
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java^ ^("1*°
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java_	 _(Ü
+Ù
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java_	 _(
+%0org.w3c.dom.Element"__id*<*:&
+$org.exist.debugger.dbgp.ResponseImpl"
+parsedResponse‡„
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java_	 _('
+%1org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
+
+%0org.w3c.dom.Element2getAttributes()Â¿
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java_	 _(:
+%2org.w3c.dom.Node"Korg.w3c.dom.NamedNodeMap#getNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;* 
+
+%1org.w3c.dom.NamedNodeMap*
+
+attrjava.lang.String2 getNamedItem(Ljava/lang/String;)"‚
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java_ _(C
+"":
+attrjava.lang.StringB(&
+$org.exist.debugger.dbgp.ResponseImpl

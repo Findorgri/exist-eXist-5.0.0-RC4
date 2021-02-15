@@ -1,0 +1,24 @@
+
+Oorg.exist.security.realm.iprange.IPRangeRealm#ipToLong(Ljava/net/InetAddress;)J‰
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/iprange/src/org/exist/security/realm/iprange/IPRangeRealm.javaF F( "5*¿
+5‰
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/iprange/src/org/exist/security/realm/iprange/IPRangeRealm.javaG G( îë
+‰
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/iprange/src/org/exist/security/realm/iprange/IPRangeRealm.javaG G(-
+%0byte[]"#java.net.InetAddress#getAddress()[B*
+
+ipjava.net.InetAddress2getAddress()·
+´
+‰
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/iprange/src/org/exist/security/realm/iprange/IPRangeRealm.javaG G(.
+octetsbyte[]"__id*
+
+%0byte[]*
+1*¦
+1‰
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/iprange/src/org/exist/security/realm/iprange/IPRangeRealm.javaM M("”
+‰
+C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/iprange/src/org/exist/security/realm/iprange/IPRangeRealm.javaM M(
+"":
+ipjava.net.InetAddressB1"/
+-org.exist.security.realm.iprange.IPRangeRealm

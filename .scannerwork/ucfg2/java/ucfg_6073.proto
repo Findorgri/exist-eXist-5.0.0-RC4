@@ -1,0 +1,25 @@
+
+Eorg.exist.repo.ExistPkgInfo#getJava(Ljava/net/URI;)Ljava/lang/String;[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java0 0("1*½
+1[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java1 1(¨
+¥
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java1 1(
+%0java.util.Map"__id*+*)
+org.exist.repo.ExistPkgInfo"
+myJava¶
+³
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java1 1($
+%1java.lang.String"__mapGet*
+
+%0java.util.Map*
+
+	namespacejava.net.URI"w
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java1 1(%
+
+%1java.lang.String:
+	namespacejava.net.URIB
+org.exist.repo.ExistPkgInfo

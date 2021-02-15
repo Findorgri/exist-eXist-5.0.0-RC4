@@ -1,0 +1,34 @@
+
+Dorg.exist.xmlrpc.RpcConnection#setLastModified(Ljava/lang/String;J)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaş ş(""startingBlock*Ì
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaş" ş(V³
+°
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaı ı(
+%1"
+__annotate*
+java.lang.Override*"
+ 
+documentPathjava.lang.String
+š
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaş0 ş(< 
+documentPathjava.lang.String"__annotation*
+
+%1*
+1*±
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ ÿ(İ
+Ú
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ ÿ(I
+%0"Dorg.exist.xmlrpc.RpcConnection#writeDocument(LXmldbURI;)LFunction2E;*" 
+org.exist.xmlrpc.RpcConnection*
+"""j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ ˆ	(
+"": 
+documentPathjava.lang.String:
+""B" 
+org.exist.xmlrpc.RpcConnection

@@ -1,0 +1,45 @@
+
+5org.exist.http.jaxb.Result#getValue()Ljava/util/List;Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.javaz z(&"3*»
+2Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java| |(1èå
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java| |(/
+%1java.util.ArrayList"java.util.ArrayList°
+û
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java| |(1
+%2"java.util.ArrayList#<init>()V*
+
+%1java.util.ArrayList´
+®
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java| |(1'
+org.exist.http.jaxb.Result"
+value"__id*
+
+%1java.util.ArrayList*
+1*ê
+3Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java{ {(¶
+£
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java{ {(
+%0java.util.List"__id*)*'
+org.exist.http.jaxb.Result"
+value*
+2
+1*˛
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java~ ~(¶
+£
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java~ ~(
+%3java.util.List"__id*)*'
+org.exist.http.jaxb.Result"
+value"t
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java~ ~(
+
+%3java.util.ListB
+org.exist.http.jaxb.Result

@@ -1,0 +1,16 @@
+
+5org.exist.backup.BackupFile#getDate()Ljava/util/Date;[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaQ Q("1*Å
+1[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaS S(ß
+§
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaS S(
+%0java.util.Date"__id*)*'
+org.exist.backup.BackupFile"
+date"u
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaS S(
+
+%0java.util.DateB
+org.exist.backup.BackupFile

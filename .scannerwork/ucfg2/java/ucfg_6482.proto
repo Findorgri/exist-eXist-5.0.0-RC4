@@ -1,0 +1,68 @@
+
+\org.exist.config.ConfigurationImpl#getPropertyBoolean(Ljava/lang/String;)Ljava/lang/Boolean;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaò ò(%"startingBlock*Ÿ
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¶ ß("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaß ß(
+""*Ÿ
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¢ §("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java§ §(
+""*»
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaò% ò(8Ø
+¨
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaó ó(
+%2"
+__annotate*
+java.lang.Override*
+
+namejava.lang.Stringô
+ñ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaò3 ò(7
+namejava.lang.String"__annotation*
+
+%2*
+6*Ÿ
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaû †("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java† †(
+""*Ÿ
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaõ õ("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaõ õ(
+""*◊
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaô ô((ºπ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaô ô(.
+%0java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
+"org.exist.config.ConfigurationImpl*
+
+namejava.lang.String2getProperty(Ljava/lang/String;)§
+°
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaô ô(/
+valuejava.lang.String"__id*
+
+%0java.lang.String*
+5
+1*÷
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaù ù(ﬂ‹
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaù ù("
+%1java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+valuejava.lang.String2toLowerCase()*	
+2
+3
+4:
+namejava.lang.StringB&$
+"org.exist.config.ConfigurationImpl

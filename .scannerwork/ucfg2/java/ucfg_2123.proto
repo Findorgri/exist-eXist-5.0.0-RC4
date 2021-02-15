@@ -1,0 +1,28 @@
+
+;org.exist.dom.memtree.TextImpl#toString()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java> >("1*¥
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java? ?(!áÞ
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java?$ ?(-
+%0java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*" 
+org.exist.dom.memtree.TextImpl2	getData()µ
+²
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java? ?(-
+%1java.lang.String"__concat*
+in-memory#text {*
+
+%0java.lang.String§
+¤
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java? ?(4
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+} "z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/TextImpl.java? ?(5
+
+%2java.lang.StringB" 
+org.exist.dom.memtree.TextImpl

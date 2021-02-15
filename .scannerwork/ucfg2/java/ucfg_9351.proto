@@ -1,0 +1,237 @@
+
+/org.exist.util.Heap#extract()Ljava/lang/Object;S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javaf f($"13"12*∏
+13S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javag g( "]
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javag g(!
+""*Û
+3S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javav
+ v(û
+õ
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javav
+ v(
+%19java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_û
+õ
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javav v(
+%20java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_¢
+ü
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javav v(#
+%21java.lang.Object"
+__arrayGet*
+
+%20java.lang.Object[]*
+""´
+®
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javav
+ v(#
+%22"
+__arraySet*
+
+%19java.lang.Object[]*
+""*
+
+%21java.lang.Object*
+10*Õ
+4S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat t(Nû
+õ
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javau u(
+%16java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_¢
+ü
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javau u($
+%17java.lang.Object"
+__arrayGet*
+
+%16java.lang.Object[]*
+""§°
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javau u(%
+
+%18int"Borg.exist.util.Heap#compare(Ljava/lang/Object;Ljava/lang/Object;)I*
+org.exist.util.Heap*
+
+xjava.lang.Object*
+
+%17java.lang.Object2-compare(Ljava/lang/Object;Ljava/lang/Object;)*
+3
+1*÷
+5S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javatL t(Mw
+u
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javatL t(M
+
+%13int"__id*
+
+
+%15int*
+4*÷
+6S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javatH t(Iw
+u
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javatH t(I
+
+%13int"__id*
+
+
+%14int*
+4*ë
+7S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat$ t(+ù
+ö
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat, t(2
+%8java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_†
+ù
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat, t(5
+%9java.lang.Object"
+__arrayGet*
+
+%8java.lang.Object[]*
+""û
+õ
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat7 t(=
+%10java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_¢
+ü
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat7 t(@
+%11java.lang.Object"
+__arrayGet*
+
+%10java.lang.Object[]*
+""•¢
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javat$ t(A
+
+%12int"Borg.exist.util.Heap#compare(Ljava/lang/Object;Ljava/lang/Object;)I*
+org.exist.util.Heap*
+
+%9java.lang.Object*
+
+%11java.lang.Object2-compare(Ljava/lang/Object;Ljava/lang/Object;)*
+5
+6*ê
+8S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javas s(≠™
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javas s(	
+%7int"org.exist.util.Heap#right(I)I*
+org.exist.util.Heap*
+""2right(I)*
+6
+7*è
+10S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javao o(´®
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javao o(	
+%6int"org.exist.util.Heap#left(I)I*
+org.exist.util.Heap*
+""2left(I)*
+8
+1*∆
+
+12S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javai i(ù
+ö
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javaj j(
+%0java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_†
+ù
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javaj j("
+%1java.lang.Object"
+__arrayGet*
+
+%0java.lang.Object[]*
+""ì
+ê
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javaj j(#
+leastjava.lang.Object"__id*
+
+%1java.lang.Objectù
+ö
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javal l(
+%2java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_†
+ù
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javal l(
+%3java.lang.Object"
+__arrayGet*
+
+%2java.lang.Object[]*
+""è
+å
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javal l(
+xjava.lang.Object"__id*
+
+%3java.lang.Objectù
+ö
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javam m(
+
+%4java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_ñ
+ì
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.javam m(
+%5"
+__arraySet*
+
+%4java.lang.Object[]*
+""*
+""*
+10*ô
+1S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java| |(
+û
+õ
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java| |(
+
+%23java.lang.Object[]"__id*#*!
+org.exist.util.Heap"
+nodes_©
+¶
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java| |(
+%24"
+__arraySet*
+
+%23java.lang.Object[]*
+""*
+
+xjava.lang.Object"r
+S
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java} }(
+
+leastjava.lang.ObjectB
+org.exist.util.Heap

@@ -1,0 +1,126 @@
+
+<org.exist.storage.index.BFile$MultiPageInput#readFixedInt()I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÚ Ú("7"8"10*†
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaë ë(Û
+Ø
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaë ë(/
+%12(org.exist.storage.index.BFile$SinglePage"__id*>*<.
+,org.exist.storage.index.BFile$MultiPageInput"
+
+nextPage¶
+³
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaë ë(#
+%13byte[]"__id*;*9
+/
+%12(org.exist.storage.index.BFile$SinglePage"
+data*	
+3
+4
+1*È
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaé é(Ü
+Ù
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaé é(
+%11void"7org.exist.storage.index.BFile$MultiPageInput#advance()V*0.
+,org.exist.storage.index.BFile$MultiPageInput*
+3*„
+7_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaå å(Ú
+×
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaå å(.
+%9(org.exist.storage.index.BFile$SinglePage"__id*>*<.
+,org.exist.storage.index.BFile$MultiPageInput"
+
+nextPageµ
+²
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaå å(!
+%10byte[]"__id*:*8
+.
+%9(org.exist.storage.index.BFile$SinglePage"
+data*	
+3
+4
+1*Ÿ
+8_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaà à(!Ú
+×
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaà à(!.
+%1(org.exist.storage.index.BFile$SinglePage"__id*>*<.
+,org.exist.storage.index.BFile$MultiPageInput"
+
+nextPage´
+±
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaà à(&
+%2byte[]"__id*:*8
+.
+%1(org.exist.storage.index.BFile$SinglePage"
+dataÚ
+×
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaá á(.
+%3(org.exist.storage.index.BFile$SinglePage"__id*>*<.
+,org.exist.storage.index.BFile$MultiPageInput"
+
+nextPage´
+±
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaá á($
+%4byte[]"__id*:*8
+.
+%3(org.exist.storage.index.BFile$SinglePage"
+dataÚ
+×
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaâ â(.
+%5(org.exist.storage.index.BFile$SinglePage"__id*>*<.
+,org.exist.storage.index.BFile$MultiPageInput"
+
+nextPage´
+±
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaâ â($
+%6byte[]"__id*:*8
+.
+%5(org.exist.storage.index.BFile$SinglePage"
+dataÚ
+×
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaã ã(.
+%7(org.exist.storage.index.BFile$SinglePage"__id*>*<.
+,org.exist.storage.index.BFile$MultiPageInput"
+
+nextPage´
+±
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaã ã($
+%8byte[]"__id*:*8
+.
+%7(org.exist.storage.index.BFile$SinglePage"
+data"i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaà ã(?
+""*Ë
+10_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÜ Ü(Û
+Ø
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÜ Ü(
+
+%0void"7org.exist.storage.index.BFile$MultiPageInput#advance()V*0.
+,org.exist.storage.index.BFile$MultiPageInput*
+7
+8*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaî î("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaî î(
+""B0.
+,org.exist.storage.index.BFile$MultiPageInput

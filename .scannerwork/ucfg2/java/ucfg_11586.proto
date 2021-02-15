@@ -1,0 +1,58 @@
+
+>org.exist.fluent.Document#contentsAsString()Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÀ À("10*˛
+6m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java“ “(8"â
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java“ “(8
+
+%2java.lang.String*ı
+7m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java“ “(úô
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java“ “(
+%2java.lang.String"java.lang.String‹
+Ÿ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java“
+ “(7
+%3".java.lang.String#<init>([BLjava/lang/String;)V*
+
+%2java.lang.String*
+
+databyte[]*
+""*
+6*º
+8m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java— —(¬ø
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java— —(
+
+%1void"java.io.InputStream#close()V*
+
+isjava.io.InputStream2close()*
+7*‚
+9m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaœ œ(Rê
+ç
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaœ œ(T
+databyte[]"__id*
+""’“
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.java– –(	
+%0int"java.io.InputStream#read([B)I*
+
+isjava.io.InputStream*
+
+databyte[]2read([B)*
+8*ñ
+10m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaŒ Œ(Cõ
+ò
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaŒ Œ(C
+isjava.io.InputStream"__id*
+""*
+9B
+org.exist.fluent.Document

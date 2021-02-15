@@ -1,0 +1,59 @@
+
+4org.exist.start.Version#toString()Ljava/lang/String;W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaC C("1*˚
+
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(¡
+æ
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D('
+%0java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*"
+java.lang.String*
+""ü
+ú
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(-
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+.†
+ù
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(9
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""ü
+ú
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(?
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+.†
+ù
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(N
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""§
+°
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaDQ D(X
+%5java.lang.String"__id*(*&
+org.exist.start.Version"	
+_suffix≤
+Ø
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(X
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"s
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.javaD D(Y
+
+%6java.lang.StringB
+org.exist.start.Version

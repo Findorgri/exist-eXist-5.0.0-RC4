@@ -1,0 +1,29 @@
+
+org.exist.xquery.value.TimeUtils#newDurationYearMonth(ZLjava/math/BigInteger;Ljava/math/BigInteger;)Ljavax/xml/datatype/Duration;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java† †(("1*Œ
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java‡ ‡(Ê
+Ç
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java‡ ‡((
+%0"javax.xml.datatype.DatatypeFactory"__id*1*/"
+ org.exist.xquery.value.TimeUtils"	
+factoryÉÆ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java‡ ‡(=!
+%1javax.xml.datatype.Duration"ƒjavax.xml.datatype.DatatypeFactory#newDurationYearMonth(ZLjava/math/BigInteger;Ljava/math/BigInteger;)Ljavax/xml/datatype/Duration;**
+(
+%0"javax.xml.datatype.DatatypeFactory*
+""*
+
+arg1java.math.BigInteger*
+
+arg2java.math.BigInteger2CnewDurationYearMonth(ZLjava/math/BigInteger;Ljava/math/BigInteger;)"‰
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java‡ ‡(>#
+!
+%1javax.xml.datatype.Duration:
+"":
+arg1java.math.BigInteger:
+arg2java.math.BigIntegerB$"
+ org.exist.xquery.value.TimeUtils

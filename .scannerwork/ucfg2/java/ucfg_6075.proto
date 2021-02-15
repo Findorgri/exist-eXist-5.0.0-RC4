@@ -1,0 +1,21 @@
+
+;org.exist.repo.ExistPkgInfo#getJavaModules()Ljava/util/Set;[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java7 7(""1*Á
+1[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java8 8(¨
+¥
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java8 8(
+%0java.util.Map"__id*+*)
+org.exist.repo.ExistPkgInfo"
+myJava½º
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java8 8(
+%1java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%0java.util.Map2keySet()"t
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistPkgInfo.java8 8(
+
+%1java.util.SetB
+org.exist.repo.ExistPkgInfo

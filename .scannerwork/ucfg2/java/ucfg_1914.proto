@@ -1,0 +1,18 @@
+
+Yorg.exist.xquery.modules.ngram.NGramSearch#unescape(Ljava/lang/String;)Ljava/lang/String;…
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramSearch.java… …(""1*‹
+1…
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramSearch.java† †(ØÕ
+…
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramSearch.java† †(,
+%0java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+sjava.lang.String*	
+\\\\(.)*
+$120replaceAll(Ljava/lang/String;Ljava/lang/String;)"¢
+…
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramSearch.java† †(-
+
+%0java.lang.String:
+sjava.lang.StringB.",
+*org.exist.xquery.modules.ngram.NGramSearch

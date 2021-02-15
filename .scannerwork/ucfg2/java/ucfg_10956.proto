@@ -1,0 +1,176 @@
+
+úorg.exist.security.realm.ldap.LDAPRealm#findAccountByAccountName(Ljavax/naming/directory/DirContext;Ljava/lang/String;)Ljavax/naming/directory/SearchResult;Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java‡ ‡(1"6*∞
+2Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˜ ˜(ù
+ö
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˜ ˜(
+%15"__id*
+""Ä
+˝
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˜ ˜(V
+%16java.lang.String"__concat*0.
+,Matched multiple users for the accountName: *!
+
+accountNamejava.lang.String*
+1*≥
+3Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÛ Û("ß§
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÛ Û(0*
+%13#javax.naming.directory.SearchResult"5java.util.Enumeration#nextElement()Ljava/lang/Object;*+
+)
+resultsjavax.naming.NamingEnumeration2nextElement()Ò
+Ó
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÛ Û(03
+searchResult#javax.naming.directory.SearchResult"__id*,
+*
+%13#javax.naming.directory.SearchResultÇˇ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaˆ ˆ()
+%14boolean"(java.util.Enumeration#hasMoreElements()Z*+
+)
+resultsjavax.naming.NamingEnumeration2hasMoreElements()*
+2
+1*Ï(
+4Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÊ  Ê(5”
+–
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÊ6 Ê(V
+%1java.lang.String"aorg.exist.security.realm.ldap.LDAPRealm#removeDomainPostfix(Ljava/lang/String;)Ljava/lang/String;*+)
+'org.exist.security.realm.ldap.LDAPRealm*!
+
+accountNamejava.lang.StringÃ
+…
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÊ  Ê(W
+%2java.lang.String"corg.exist.security.realm.ldap.LDAPRealm#escapeSearchAttribute(Ljava/lang/String;)Ljava/lang/String;*+)
+'org.exist.security.realm.ldap.LDAPRealm*
+
+%1java.lang.String∆
+√
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÊ Ê(X
+userNamejava.lang.String"__id*
+
+%2java.lang.Stringß§
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaË) Ë(?
+%3"Rorg.exist.security.realm.ldap.LDAPRealm#ensureContextFactory()LLdapContextFactory;*+)
+'org.exist.security.realm.ldap.LDAPRealm2ensureContextFactory()Ä˝
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÈ' È(6=
+%47org.exist.security.realm.ldap.LDAPRealm$SearchAttribute"7org.exist.security.realm.ldap.LDAPRealm$SearchAttributeâ
+Ü
+É
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÈ# È(ã
+%5"éorg.exist.security.realm.ldap.LDAPRealm$SearchAttribute#<init>(Lorg/exist/security/realm/ldap/LDAPRealm;Ljava/lang/String;Ljava/lang/String;)V*?
+=
+%47org.exist.security.realm.ldap.LDAPRealm$SearchAttribute*
+""*
+
+userNamejava.lang.Stringè
+å
+É
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÈ È(å=
+sa7org.exist.security.realm.ldap.LDAPRealm$SearchAttribute"__id*?
+=
+%47org.exist.security.realm.ldap.LDAPRealm$SearchAttributeü
+ú
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÍ$ Í(l
+%6"òorg.exist.security.realm.ldap.LDAPRealm#buildSearchFilter(Ljava/lang/String;Lorg/exist/security/realm/ldap/LDAPRealm$SearchAttribute;)Ljava/lang/String;*+)
+'org.exist.security.realm.ldap.LDAPRealm*
+""*?
+=
+sa7org.exist.security.realm.ldap.LDAPRealm$SearchAttribute∏
+µ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÍ Í(m 
+searchFilterjava.lang.String"__id*
+
+%6‹Ÿ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÏ2 Ï(@+
+%7%javax.naming.directory.SearchControls"%javax.naming.directory.SearchControlsÓ
+Î
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÏ. Ï(B
+%8"/javax.naming.directory.SearchControls#<init>()V*-
++
+%7%javax.naming.directory.SearchControlsˆ
+Û
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÏ Ï(C7
+searchControls%javax.naming.directory.SearchControls"__id*-
++
+%7%javax.naming.directory.SearchControls°
+û
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÌ& Ì(B	
+%9int"__id*
+""™ß
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÌ Ì(C
+%10void"8javax.naming.directory.SearchControls#setSearchScope(I)V*9
+7
+searchControls%javax.naming.directory.SearchControls*
+	
+%9int2setSearchScope(I)ëé
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÔ8 Ô(r
+%11"ñjavax.naming.directory.DirContext#search(Ljavax/naming/Name;Ljava/lang/String;Ljavax/naming/directory/SearchControls;)Ljavax/naming/NamingEnumeration;**
+(
+ctx!javax.naming.directory.DirContext*
+""*"
+ 
+searchFilterjava.lang.String*9
+7
+searchControls%javax.naming.directory.SearchControls2Tsearch(Ljavax/naming/Name;Ljava/lang/String;Ljavax/naming/directory/SearchControls;)¬
+ø
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÔ Ô(s)
+resultsjavax.naming.NamingEnumeration"__id*
+
+%11À
+»
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÒ Ò()3
+searchResult#javax.naming.directory.SearchResult"__id*
+""Çˇ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÚ Ú(%
+%12boolean"(java.util.Enumeration#hasMoreElements()Z*+
+)
+resultsjavax.naming.NamingEnumeration2hasMoreElements()*
+3
+1*ò
+5Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java„ „("ç
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java„ „(
+""*‘
+6Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java‚ ‚((¡
+æ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java‚ ‚(5
+%0boolean"Xorg.exist.security.realm.ldap.LDAPRealm#checkAccountRestrictionList(Ljava/lang/String;)Z*+)
+'org.exist.security.realm.ldap.LDAPRealm*!
+
+accountNamejava.lang.String*
+4
+5*«
+1Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˚ ˚("º
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˚ ˚(5
+3
+searchResult#javax.naming.directory.SearchResult:(
+ctx!javax.naming.directory.DirContext:
+accountNamejava.lang.StringB+)
+'org.exist.security.realm.ldap.LDAPRealm

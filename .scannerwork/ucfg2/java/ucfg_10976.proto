@@ -1,0 +1,49 @@
+
+Aorg.exist.numbering.DLNTest$TestItem#toString()Ljava/lang/String;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java- -("1*É
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java. .(1›˜
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java.# .(/
+%0java.lang.StringBuffer"java.lang.StringBuffer­
+ª
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java. .(1
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBufferª
+§
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java. .(2
+bufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBufferñî
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java/ /(
+%2java.lang.StringBuffer"8java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""2	append(I)”‘
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java0 0(
+%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+ = 2append(Ljava/lang/String;)ûø
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java1 1(&
+%4"Ijava.lang.StringBuffer#append(Ljava/lang/Object;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+""2append(Ljava/lang/Object;)ßÜ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java2 2(!
+%5java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"|
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/numbering/DLNTest.java2 2("
+
+%5java.lang.StringB(&
+$org.exist.numbering.DLNTest$TestItem

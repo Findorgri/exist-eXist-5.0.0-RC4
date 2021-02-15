@@ -1,0 +1,22 @@
+
+8org.exist.start.Classpath#iterator()Ljava/util/Iterator;Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java| |(""1*Ð
+1Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java} }(¨
+¥
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java} }(
+%0java.util.List"__id*,**
+org.exist.start.Classpath"
+	_elementsËÈ
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java} }(#
+%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%0java.util.List2
+iterator()"w
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java} }($
+
+%1java.util.IteratorB
+org.exist.start.Classpath

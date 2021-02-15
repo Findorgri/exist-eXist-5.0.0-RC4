@@ -1,0 +1,50 @@
+
+Worg.exist.debugger.dbgp.ResponseImpl#getAttribute(Ljava/lang/String;)Ljava/lang/String;x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javab b("3*‚
+2x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaf
+ f("‚
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaf f(
+""*í
+3x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javac c(Ü
+Ù
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javac c(
+%0org.w3c.dom.Element"__id*<*:&
+$org.exist.debugger.dbgp.ResponseImpl"
+parsedResponse‡„
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javac c(,
+%1org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
+
+%0org.w3c.dom.Element2getAttributes()Â¿
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javac c(?
+%2org.w3c.dom.Node"Korg.w3c.dom.NamedNodeMap#getNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;* 
+
+%1org.w3c.dom.NamedNodeMap*
+
+attrjava.lang.String2 getNamedItem(Ljava/lang/String;)·
+´
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javac c(@
+itemorg.w3c.dom.Node"__id*
+
+%2org.w3c.dom.Node*
+2
+1*‹
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javah	 h(ôñ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javah	 h(
+%3java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+itemorg.w3c.dom.Node2getNodeValue()"”
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javah h(
+
+%3java.lang.String:
+attrjava.lang.StringB(&
+$org.exist.debugger.dbgp.ResponseImpl

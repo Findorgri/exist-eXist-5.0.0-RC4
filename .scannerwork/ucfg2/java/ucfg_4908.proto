@@ -1,0 +1,74 @@
+
+\org.expath.tools.model.exist.EXistElement#getAttribute(Ljava/lang/String;)Ljava/lang/String;{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javac c("startingBlock*¹
+2{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javah h(#ïì
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javah h(/
+%1java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
+
+attrorg.w3c.dom.Node2
+getValue()¿
+¼
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javah h(/
+	attrValuejava.lang.String"__id*
+
+%1java.lang.String*
+1*ú
+3{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javad d(­
+ª
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javad d( 
+	attrValuejava.lang.String"__id*
+""±
+®
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javae e(E!
+attrsorg.w3c.dom.NamedNodeMap"__id*
+""ÎË
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javaf f(8
+%0org.w3c.dom.Node"Korg.w3c.dom.NamedNodeMap#getNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;*#
+!
+attrsorg.w3c.dom.NamedNodeMap* 
+
+
+local_namejava.lang.String2 getNamedItem(Ljava/lang/String;)º
+·
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javaf f(9
+attrorg.w3c.dom.Node"__id*
+
+%0org.w3c.dom.Node*
+2
+1*™
+startingBlock{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javac c(7Ì
+É
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javab b(
+%2"
+__annotate*
+java.lang.Override* 
+
+
+local_namejava.lang.String¶
+³
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javac, c(6
+
+local_namejava.lang.String"__annotation*
+
+%2*
+3*¡
+1{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javak k("ž
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistElement.javak k(
+
+	attrValuejava.lang.String:
+
+local_namejava.lang.StringB-+
+)org.expath.tools.model.exist.EXistElement

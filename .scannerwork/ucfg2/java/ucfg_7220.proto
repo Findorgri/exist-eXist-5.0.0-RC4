@@ -1,0 +1,116 @@
+
+porg.exist.util.ExistSAXParserFactory#getSAXParserFactory(Ljava/lang/String;)Ljavax/xml/parsers/SAXParserFactory;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java0# 0(6"19*Ž
+13d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java= =(›
+˜
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java= =("
+methodjava.lang.reflect.Method"__id*
+""*
+12*•
+2d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaR R(}
+{
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaR R(
+%13"__id*
+""ÛØ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaRJ R([
+%14java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+resultjava.lang.Object2
+toString()Ü
+Ù
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaR R([
+%15java.lang.String"__concat*31
+/Could not create instance of SAXParserFactory: *
+
+%14java.lang.String"n
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaS S(
+""*•
+14d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java4 4(,¢
+Ÿ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java4 4(,
+clazzjava.lang.Class"__id*
+
+%0java.lang.Class*
+13*™
+4d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaI I(9¥
+¢
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaI I(9
+resultjava.lang.Object"__id*
+
+%9java.lang.Object*
+2
+1*ç
+18d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java4 4(ô
+ñ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java4 4(,
+%0java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+
+	classNamejava.lang.String*
+14*±
+7d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaI I(À½
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaI I(9
+%9java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+methodjava.lang.reflect.Method*
+""*
+""2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+4*„
+19d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java2 2(‘
+Ž
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java2 2(
+clazzjava.lang.Class"__id*
+""*
+18*„
+8d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaG G(“
+
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaG G(
+resultjava.lang.Object"__id*
+""*
+7*¦
+9d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java? ?(Cµ
+²
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java? ?(C"
+methodjava.lang.reflect.Method"__id* 
+
+%5java.lang.reflect.Method*
+8*¼
+12d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java? ?(ÊÇ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.java? ?(C
+%5java.lang.reflect.Method"Yjava.lang.Class#getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+clazzjava.lang.Class*
+newInstance*
+""2/getMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+9*ð
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaV" V(("„
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ExistSAXParserFactory.javaV V()
+
+resultjava.lang.Object:
+	classNamejava.lang.StringB("&
+$org.exist.util.ExistSAXParserFactory

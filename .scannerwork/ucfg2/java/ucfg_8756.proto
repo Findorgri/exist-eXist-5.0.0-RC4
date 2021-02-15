@@ -1,0 +1,32 @@
+
+forg.exist.dom.persistent.DocumentImpl#createCDATASection(Ljava/lang/String;)Lorg/w3c/dom/CDATASection;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÅ Å(*"startingBlock*Ñ
+startingBlockg
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÅ* Å(=²
+¯
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÄ Ä(
+%1"
+__annotate*
+java.lang.Override*
+
+datajava.lang.Stringœ
+™
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÅ8 Å(<
+datajava.lang.String"__annotation*
+
+%1*
+1*©
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÆQ Æ(UÇÄ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÆQ Æ(c
+%0char[]" java.lang.String#toCharArray()[C*
+
+datajava.lang.String2toCharArray()"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÈ È(
+"":
+datajava.lang.StringB)'
+%org.exist.dom.persistent.DocumentImpl

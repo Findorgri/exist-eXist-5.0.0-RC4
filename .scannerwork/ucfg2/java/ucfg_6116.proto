@@ -1,0 +1,60 @@
+
+Morg.exist.util.OrderedLinkedList$OrderedListIterator#next()Ljava/lang/Object;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÛ Û("3*Õ
+2b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÝ Ý("l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÝ Ý(
+""*Ð
+3b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÜ Ü(Þ
+Û
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÜ Ü(+
+%0%org.exist.util.OrderedLinkedList$Node"__id*B*@6
+4org.exist.util.OrderedLinkedList$OrderedListIterator"
+next*
+2
+1*Ì
+
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÞ Þ(Þ
+Û
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÞ Þ(+
+%1%org.exist.util.OrderedLinkedList$Node"__id*B*@6
+4org.exist.util.OrderedLinkedList$OrderedListIterator"
+nextÎ
+Ë
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaÞ Þ(0
+current%org.exist.util.OrderedLinkedList$Node"__id*-
++
+%1%org.exist.util.OrderedLinkedList$NodeÞ
+Û
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaß
+ ß(+
+%2%org.exist.util.OrderedLinkedList$Node"__id*B*@6
+4org.exist.util.OrderedLinkedList$OrderedListIterator"
+nextÓ
+Ð
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaß
+ ß(+
+%3%org.exist.util.OrderedLinkedList$Node"__id*7*5
++
+%2%org.exist.util.OrderedLinkedList$Node"
+nextÞ
+Û
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaß ß(@6
+4org.exist.util.OrderedLinkedList$OrderedListIterator"
+next"__id*-
++
+%3%org.exist.util.OrderedLinkedList$Node"˜
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaà à(2
+0
+current%org.exist.util.OrderedLinkedList$NodeB86
+4org.exist.util.OrderedLinkedList$OrderedListIterator

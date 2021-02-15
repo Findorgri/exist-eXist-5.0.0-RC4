@@ -1,0 +1,132 @@
+
+[org.exist.xquery.DynamicNameCheck#getPrefixedNodeName(Lorg/w3c/dom/Node;)Ljava/lang/String;a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javad d(&"7*ó
+2a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javan n(ÛØ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javan n(/
+%8java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNodeName()­
+ª
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javan n(/
+%9java.lang.String"__concat*	
+{''}:*
+
+%8java.lang.String"}
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javan n(0
+
+%9java.lang.String*¬
+3a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javam m(»¸
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javam m(#
+%7boolean"java.lang.String#isEmpty()Z*
+
+prefixjava.lang.String2	isEmpty()*
+2
+1*ä
+4a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javak k(±
+®
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javak k('
+%3java.lang.String"__concat*
+{'*
+
+	nameSpacejava.lang.String«
+¨
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javak k(/
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+'}:ÛØ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javak2 k(D
+%5java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNodeName()¼
+¹
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javak k(D
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"}
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javak k(E
+
+%6java.lang.String*Ã
+5a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javai i(ÛØ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javai i()
+%2java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNodeName()"}
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javai i(*
+
+%2java.lang.String*ü
+6a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javag% g()ãà
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javag% g(;
+%1java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNamespaceURI()¥
+¢
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javag g(<
+	nameSpacejava.lang.String"__id*
+
+%1java.lang.String*
+4
+5*í
+7a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javae e("×Ô
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javae e(.
+%0java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getPrefix()¢
+Ÿ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javae e(/
+prefixjava.lang.String"__id*
+
+%0java.lang.String*
+3
+6*º
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javap p(®
+«
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javap p(
+%10java.lang.String"__concat*
+
+prefixjava.lang.String*
+:ÞÛ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javap" p(5
+%11java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getLocalName()¿
+¼
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javap p(5
+%12java.lang.String"__concat*
+
+%10java.lang.String*
+
+%11java.lang.String"~
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/DynamicNameCheck.javap p(6
+
+%12java.lang.String:
+nodeorg.w3c.dom.NodeB%#
+!org.exist.xquery.DynamicNameCheck

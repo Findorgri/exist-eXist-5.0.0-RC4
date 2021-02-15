@@ -1,0 +1,77 @@
+
+ˆorg.exist.storage.lock.EnsureLockingAspect#findMethodOnOtherClass(Ljava/lang/reflect/Method;Ljava/lang/Class;)Ljava/lang/reflect/Method;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaì ì(3"startingBlock*„
+2l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaî î(^"
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaî î(^ 
+
+%2java.lang.reflect.Method*ü
+3l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaî î(]ƒ€
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaî î(]
+%2java.lang.reflect.Method"ajava.lang.Class#getDeclaredMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+
+otherClazzjava.lang.Class*
+
+%0java.lang.String*
+
+%1java.lang.Class[]27getDeclaredMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+2*È
+startingBlockl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaì3 ì(`·
+´
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaì ì(
+%3"
+__annotate*
+
+Nullable*$
+"
+methodjava.lang.reflect.Method«
+¨
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaìA ì(G"
+methodjava.lang.reflect.Method"__annotation*
+
+%3²
+¯
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaì ì(
+%4"
+__annotate*
+
+Nullable*
+
+
+otherClazzjava.lang.Class¦
+£
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaìU ì(_
+
+otherClazzjava.lang.Class"__annotation*
+
+%4*
+5*þ
+4l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaîB î(H…‚
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaîB î(\
+%1java.lang.Class[]">java.lang.reflect.Method#getParameterTypes()[Ljava/lang/Class;*$
+"
+methodjava.lang.reflect.Method2getParameterTypes()*
+3*é
+5l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaî î(ðí
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/EnsureLockingAspect.javaî0 î(@
+%0java.lang.String"4java.lang.reflect.Method#getName()Ljava/lang/String;*$
+"
+methodjava.lang.reflect.Method2	getName()*
+4:"
+methodjava.lang.reflect.Method:
+
+otherClazzjava.lang.ClassB.,
+*org.exist.storage.lock.EnsureLockingAspect

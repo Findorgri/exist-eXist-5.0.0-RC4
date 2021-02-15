@@ -1,0 +1,30 @@
+
+;org.exist.xmldb.ResourceTest#xmlForTest()Ljava/lang/String;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/ResourceTest.javaà à("1*«
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/ResourceTest.javaá á(/Ç
+Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/ResourceTest.javaá â(/
+%0java.lang.String"__concat*
+<test><title>Title</title>*
+<para>Paragraph1</para>Á
+¾
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/ResourceTest.javaá ã(/
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+<para>Paragraph2</para>±
+®
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/ResourceTest.javaá ä(
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+</test>"
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/ResourceTest.javaá ä( 
+
+%2java.lang.StringB 
+org.exist.xmldb.ResourceTest

@@ -1,0 +1,502 @@
+
+corg.exist.client.CommandlineOptions#parse([Ljava/lang/String;)Lorg/exist/client/CommandlineOptions;e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java©% ©(*"6*Ï
+2e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java’ ’(Õ
+ 
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java’ ’($
+%55java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
+java.util.Optional™
+ß
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java’ ’($
+xpathjava.util.Optional"__id*
+
+%55java.util.Optional*
+1*£
+3e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java“ “("±
+Æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java“ “("
+xpathjava.util.Optional"__id*"
+ 
+
+maybeXpathjava.util.Optional*
+1*™
+4e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java– –( ë
+é
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java–$ –(/
+%53java.lang.String"__id*
+""˜
+Ù
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java– –(0
+%54java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+%53java.lang.String™
+ß
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java– –(0
+xpathjava.util.Optional"__id*
+
+%54java.util.Optional*
+1*è
+5e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaœ œ(⁄◊
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaœ œ(
+%51java.lang.String"*java.util.Optional#get()Ljava/lang/Object;*"
+ 
+
+maybeXpathjava.util.Optional2get()Ω∫
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaœ œ()
+%52boolean"java.lang.String#isEmpty()Z*
+
+%51java.lang.String2	isEmpty()*
+3
+4*—C
+6e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java™* ™(;}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java´ ´(&
+%0"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java´( ´(3
+%1"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java´5 ´(>
+%2"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java´@ ´(K
+%3"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java´M ´(^
+%4"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java´` ´(q
+%5"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java¨ ¨(&
+%6"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java¨( ¨(9
+%7"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≠ ≠(&
+%8"__id*
+""}
+{
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≠( ≠(0
+%9"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≠2 ≠(;
+%10"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÆ Æ(*
+%11"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÆ, Æ(5
+%12"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÆ7 Æ(?
+%13"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaØ Ø(&
+%14"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaØ( Ø(6
+%15"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaØ8 Ø(I
+%16"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaØK Ø(Z
+%17"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∞ ∞('
+%18"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∞) ∞(3
+%19"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java± ±((
+%20"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java±* ±(?
+%21"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≤ ≤(%
+%22"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≤' ≤(/
+%23"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≤1 ≤(;
+%24"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≤= ≤(J
+%25"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≤L ≤(U
+%26"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaµ1 µ(9
+%27"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∂3 ∂(=
+%28"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∑@ ∑(M
+%29"__id*
+""ö
+ó
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∑ ∑(O 
+
+outputFilejava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∏: ∏(C
+%30"__id*
+""í
+è
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∏ ∏(E
+optionsjava.util.Map"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∫< ∫(C
+%31"__id*
+""ò
+ï
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∫ ∫(E
+usernamejava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaª< ª(G
+%32"__id*
+""ò
+ï
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaª ª(I
+passwordjava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaº2 º(;
+%33"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaΩ4 Ω(?
+%34"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaæD æ(U
+%35"__id*
+""û
+õ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaæ æ(W$
+embeddedConfigjava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaø: ø(K
+%36"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java¡5 ¡(=
+%37"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java¬8 ¬(I
+%38"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaƒ; ƒ(C
+%39"__id*
+""à
+Ö
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaƒ) ƒ(D
+%40"[org.exist.client.CommandlineOptions#optUri(LParsedArguments;LArgument;)Ljava/util/Optional;*'"%
+#org.exist.client.CommandlineOptions*
+""*
+
+%39~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≈; ≈(C
+%41"__id*
+""à
+Ö
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java≈) ≈(D
+%42"[org.exist.client.CommandlineOptions#optUri(LParsedArguments;LArgument;)Ljava/util/Optional;*'"%
+#org.exist.client.CommandlineOptions*
+""*
+
+%41~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∆< ∆(E
+%43"__id*
+""à
+Ö
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java∆* ∆(F
+%44"[org.exist.client.CommandlineOptions#optUri(LParsedArguments;LArgument;)Ljava/util/Optional;*'"%
+#org.exist.client.CommandlineOptions*
+""*
+
+%43~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java»< »(H
+%45"__id*
+""ï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java» »(J
+	parseDocsjava.util.List"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java…< …(E
+%46"__id*
+""à
+Ö
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java…* …(F
+%47"[org.exist.client.CommandlineOptions#optUri(LParsedArguments;LArgument;)Ljava/util/Optional;*'"%
+#org.exist.client.CommandlineOptions*
+""*
+
+%46~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java 9  (A
+%48"__id*
+""ï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java   (C
+rmDocjava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÃ> Ã(F
+%49"__id*
+""ö
+ó
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÃ Ã(H 
+
+maybeXpathjava.util.Optional"__id*
+""ï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÕ Õ(%
+xpathjava.util.Optional"__id*
+""Ã…
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaŒ Œ(!
+%50boolean"java.util.Optional#isPresent()Z*"
+ 
+
+maybeXpathjava.util.Optional2isPresent()*
+2
+5*û
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java◊& ◊(1~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java◊= ◊(K
+%56"__id*
+""ñ
+ì
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java◊ ◊(M
+
+queryFilesjava.util.List"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÿC ÿ(T
+%57"__id*
+""û
+õ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaÿ ÿ(V$
+howManyResultsjava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaŸF Ÿ(U
+%58"__id*
+""†
+ù
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaŸ Ÿ(W&
+traceQueriesFilejava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java€: €(C
+%59"__id*
+""ñ
+ì
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java€ €(E
+setDocjava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java‹A ‹(K
+%60"__id*
+""õ
+ò
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java‹ ‹(M!
+xupdateFilejava.util.Optional"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaﬁ3 ﬁ(=
+%61"__id*
+""~
+|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.javaﬂ: ﬂ(O
+%62"__id*
+""ª∏
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java· ·(%*
+%63#org.exist.client.CommandlineOptions"#org.exist.client.CommandlineOptions«
+ƒ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java· ¸(	
+%64"˝org.exist.client.CommandlineOptions#<init>(ZZLjava/util/Optional;Ljava/util/Map;Ljava/util/Optional;Ljava/util/Optional;ZZLjava/util/Optional;ZZZLjava/util/Optional;Ljava/util/Optional;Ljava/util/Optional;Ljava/util/List;Ljava/util/Optional;Ljava/util/Optional;Ljava/util/Optional;Ljava/util/List;Ljava/util/Optional;Ljava/util/Optional;Ljava/util/Optional;Ljava/util/Optional;ZZ)V*,
+*
+%63#org.exist.client.CommandlineOptions*
+""*
+""*"
+ 
+
+outputFilejava.util.Optional*
+
+optionsjava.util.Map* 
+
+usernamejava.util.Optional* 
+
+passwordjava.util.Optional*
+""*
+""*&
+$
+embeddedConfigjava.util.Optional*
+""*
+""*
+""*
+""*
+""*
+""*
+
+	parseDocsjava.util.List*
+""*
+
+rmDocjava.util.Optional*
+
+xpathjava.util.Optional*
+
+
+queryFilesjava.util.List*&
+$
+howManyResultsjava.util.Optional*(
+&
+traceQueriesFilejava.util.Optional*
+
+setDocjava.util.Optional*#
+!
+xupdateFilejava.util.Optional*
+""*
+"""ï
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CommandlineOptions.java· ¸(
+,
+*
+%63#org.exist.client.CommandlineOptions:
+argsjava.lang.String[]B'"%
+#org.exist.client.CommandlineOptions

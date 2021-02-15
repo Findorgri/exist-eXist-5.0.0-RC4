@@ -1,0 +1,48 @@
+
+Forg.exist.util.ZipEntryInputSource#getSymbolicPath()Ljava/lang/String;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java\ \("1*š
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java] ](¿
+¼
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^	 ^(
+%0java.util.zip.ZipFile"__id*3*1$
+"org.exist.util.ZipEntryInputSource"	
+zipFileÜÙ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^	 ^(
+%1java.lang.String"1java.util.zip.ZipFile#getName()Ljava/lang/String;*
+
+%0java.util.zip.ZipFile2	getName()ª
+§
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^	 ^( 
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+#Á
+¾
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^# ^(+
+%3java.util.zip.ZipEntry"__id*4*2$
+"org.exist.util.ZipEntryInputSource"
+
+zipEntryÞÛ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^# ^(5
+%4java.lang.String"2java.util.zip.ZipEntry#getName()Ljava/lang/String;*
+
+%3java.util.zip.ZipEntry2	getName()½
+º
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^	 ^(5
+%5java.lang.String"__concat*
+
+%2java.lang.String*
+
+%4java.lang.String"~
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.java^ ^(6
+
+%5java.lang.StringB&$
+"org.exist.util.ZipEntryInputSource

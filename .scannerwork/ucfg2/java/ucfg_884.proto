@@ -1,0 +1,76 @@
+
+@org.exist.xquery.value.AbstractDateTimeValue#getDayWithinYear()In
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÝ Ý("1*‘
+1n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞ Þ((è
+å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞ) Þ(1-
+%0'javax.xml.datatype.XMLGregorianCalendar"__id*>*<.
+,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarîë
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞ) Þ(;	
+%1int"2javax.xml.datatype.XMLGregorianCalendar#getYear()I*/
+-
+%0'javax.xml.datatype.XMLGregorianCalendar2	getYear()è
+å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞ= Þ(E-
+%2'javax.xml.datatype.XMLGregorianCalendar"__id*>*<.
+,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarðí
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞ= Þ(P	
+%3int"3javax.xml.datatype.XMLGregorianCalendar#getMonth()I*/
+-
+%2'javax.xml.datatype.XMLGregorianCalendar2
+getMonth()è
+å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞR Þ(Z-
+%4'javax.xml.datatype.XMLGregorianCalendar"__id*>*<.
+,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarìé
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞR Þ(c	
+%5int"1javax.xml.datatype.XMLGregorianCalendar#getDay()I*/
+-
+%4'javax.xml.datatype.XMLGregorianCalendar2getDay()ž
+›
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÞ Þ(d	
+%6int"Eorg.exist.xquery.value.AbstractDateTimeValue#getJulianDayNumber(III)I*0".
+,org.exist.xquery.value.AbstractDateTimeValue*
+	
+%1int*
+	
+%3int*
+	
+%5intè
+å
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaß) ß(1-
+%7'javax.xml.datatype.XMLGregorianCalendar"__id*>*<.
+,org.exist.xquery.value.AbstractDateTimeValue"
+
+calendarîë
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaß) ß(;	
+%8int"2javax.xml.datatype.XMLGregorianCalendar#getYear()I*/
+-
+%7'javax.xml.datatype.XMLGregorianCalendar2	getYear()
+
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaß ß(B	
+%9int"Eorg.exist.xquery.value.AbstractDateTimeValue#getJulianDayNumber(III)I*0".
+,org.exist.xquery.value.AbstractDateTimeValue*
+	
+%8int*2*2"x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaà à(
+""B0.
+,org.exist.xquery.value.AbstractDateTimeValue

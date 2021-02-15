@@ -1,0 +1,44 @@
+
+korg.exist.debuggee.SessionImpl#setAttributeIfAbsent(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÔ Ô(#"startingBlock*æ
+startingBlockt
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÔ# Ô(=¿
+¼
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÓ Ó(
+
+%0"
+__annotate*
+java.lang.Override*
+
+arg0java.lang.Object©
+¦
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÔ+ Ô(/
+arg0java.lang.Object"__annotation*
+
+%0¿
+¼
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÓ Ó(
+
+%1"
+__annotate*
+java.lang.Override*
+
+arg1java.lang.Object©
+¦
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÔ8 Ô(<
+arg1java.lang.Object"__annotation*
+
+%1*
+1*ù
+1t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÖ	 Ö("~
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÖ Ö(
+"":
+arg0java.lang.Object:
+arg1java.lang.ObjectB" 
+org.exist.debuggee.SessionImpl

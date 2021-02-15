@@ -1,0 +1,36 @@
+
+Porg.exist.xquery.XQueryUseCase#readQuery(Ljava/nio/file/Path;)Ljava/lang/String;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java| |("1*Û
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java} }(‰
+·
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java} }()
+%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+fjava.nio.file.Pathñ
+ì
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java}+ }(0
+%1java.nio.charset.Charset"__id*
+""íè
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java} }(
+%2java.lang.String"java.lang.StringÚ
+Ô
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java}	 }(1
+%3"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%2java.lang.String*
+
+%0byte[]* 
+
+%1java.nio.charset.Charset"
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryUseCase.java} }(2
+
+%2java.lang.String:
+fjava.nio.file.PathB" 
+org.exist.xquery.XQueryUseCase

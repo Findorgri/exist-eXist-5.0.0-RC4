@@ -1,0 +1,93 @@
+
+9org.exist.fluent.Folder$Event#equals(Ljava/lang/Object;)Zi
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaV V("startingBlock*ù
+2i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY3 Y(9¬
+ø
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY3 Y(9
+%6org.exist.fluent.Folder"__id*-*+
+org.exist.fluent.Folder$Event"
+folder∏
+µ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaYA Y(S
+%7org.exist.fluent.Folder"__id*#*!
+
+ojava.lang.Object"
+folderêç
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY3 Y(T
+%4boolean"3org.exist.fluent.Folder#equals(Ljava/lang/Object;)Z*
+
+%6org.exist.fluent.Folder*
+
+%7org.exist.fluent.Folder2equals(Ljava/lang/Object;)î
+ë
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY3 Y(T
+%2boolean"__id*
+
+%4boolean*
+1*≈
+3i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY Y( ∏
+µ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY Y((
+%5org.exist.fluent.Folder"__id*#*!
+
+ojava.lang.Object"
+folderî
+ë
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY Y(0
+%2boolean"__id*
+
+%3boolean*
+1*—
+startingBlocki
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaV V(!±
+Æ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaU U(
+%8"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Objectõ
+ò
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaV V( 
+ojava.lang.Object"__annotation*
+
+%8*
+5*ª
+4i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY Y(¬
+ø
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaY Y(
+%1org.exist.fluent.Folder"__id*-*+
+org.exist.fluent.Folder$Event"
+folder*
+2
+3*≈
+5i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaX X(	Ã
+…
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaX X(
+%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+""*
+
+ojava.lang.Object*
+4
+1*„
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaW Y(V"s
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaW Y(V
+"":
+ojava.lang.ObjectB!
+org.exist.fluent.Folder$Event

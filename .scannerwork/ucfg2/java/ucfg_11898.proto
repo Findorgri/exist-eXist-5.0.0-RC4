@@ -1,0 +1,163 @@
+
+†org.exist.storage.serializers.Serializer$InternalURIResolver#resolve(Ljava/lang/String;Ljava/lang/String;)Ljavax/xml/transform/Source;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaá	 á	("startingBlock*å
+2j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaå	 å	("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaå	 å	(
+""*–
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaâ	 â	(ƒ
+€
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaâ	 â	(
+%0"__id*
+""Ì
+É
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaâ	 â	(/
+%1java.lang.String"__concat*
+resolving stylesheet ref *
+
+hrefjava.lang.StringÇÄ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaã	 ã	(	
+%2int"java.lang.String#indexOf(I)I*
+
+hrefjava.lang.String*
+:2
+indexOf(I)*
+2
+1*¸
+startingBlockj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaá	 á	(1¶
+³
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaà	 à	(
+%13"
+__annotate*
+java.lang.Override*
+
+hrefjava.lang.String 
+
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaá	 á	(#
+hrefjava.lang.String"__annotation*
+
+%13¶
+³
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaà	 à	(
+%14"
+__annotate*
+java.lang.Override*
+
+basejava.lang.String 
+
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaá	, á	(0
+basejava.lang.String"__annotation*
+
+%14*
+3*²
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç	 ç	(á
+Þ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç	" ç	(.
+%3java.lang.String"__id*R*P>
+<org.exist.storage.serializers.Serializer$InternalURIResolver"
+collectionId²
+¯
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç	" ç	(4
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+/æ
+ã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç	 ç	(5
+%5java.net.URI"5java.net.URI#create(Ljava/lang/String;)Ljava/net/URI;*"
+java.net.URI*
+
+%4java.lang.String¤
+¡
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç	 ç	(6
+baseURIjava.net.URI"__id*
+
+%5java.net.URIè
+å
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaè	 è	(#
+%6java.net.URI"5java.net.URI#create(Ljava/lang/String;)Ljava/net/URI;*"
+java.net.URI*
+
+hrefjava.lang.String 
+
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaè	 è	($
+urijava.net.URI"__id*
+
+%6java.net.URI‚ÿ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaé	
+ é	(
+%7java.net.URI"2java.net.URI#resolve(Ljava/net/URI;)Ljava/net/URI;*
+
+baseURIjava.net.URI*
+
+urijava.net.URI2resolve(Ljava/net/URI;)ÔÑ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaé	
+ é	()
+%8java.lang.String")java.net.URI#toString()Ljava/lang/String;*
+
+%7java.net.URI2
+toString()©
+¦
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaé	 é	()
+hrefjava.lang.String"__id*
+
+%8java.lang.Stringµ
+²
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaê	 ê	(86
+
+serializer(org.exist.storage.serializers.Serializer"__id*
+""§¤
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaë	( ë	(3
+%9org.xml.sax.InputSource"org.xml.sax.InputSourceè
+å
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaë	$ ë	(9
+%10"3org.xml.sax.InputSource#<init>(Ljava/lang/String;)V*
+
+%9org.xml.sax.InputSource*
+
+hrefjava.lang.String¼¹
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaë	 ë	((
+%11!javax.xml.transform.sax.SAXSource"!javax.xml.transform.sax.SAXSourceÚ
+×
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaë	
+ ë	(:
+%12"[javax.xml.transform.sax.SAXSource#<init>(Lorg/xml/sax/XMLReader;Lorg/xml/sax/InputSource;)V**
+(
+%11!javax.xml.transform.sax.SAXSource*8
+6
+
+serializer(org.exist.storage.serializers.Serializer*
+
+%9org.xml.sax.InputSource"˜
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaë	 ë	(;*
+(
+%11!javax.xml.transform.sax.SAXSource:
+hrefjava.lang.String:
+basejava.lang.StringB@>
+<org.exist.storage.serializers.Serializer$InternalURIResolver

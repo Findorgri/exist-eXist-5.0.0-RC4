@@ -1,0 +1,29 @@
+
+5org.exist.util.GZIPInputSource#getByteStreamLength()J^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javai i( "4*Í
+3^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javal l("h
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javal l(
+""*ø
+4^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javal
+ l(µ
+²
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javal l(
+%0java.nio.file.Path"__id*0*. 
+org.exist.util.GZIPInputSource"
+
+gzipFileÕ
+Ò
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javal
+ l(
+
+%1long"/java.nio.file.Files#size(Ljava/nio/file/Path;)J*"
+java.nio.file.Files*
+
+%0java.nio.file.Path*
+3B" 
+org.exist.util.GZIPInputSource

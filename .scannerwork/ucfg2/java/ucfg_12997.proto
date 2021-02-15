@@ -1,0 +1,71 @@
+
+Uorg.exist.xquery.XQueryContext#getInScopePrefix(Ljava/lang/String;)Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaΩ Ω(""startingBlock*Ç
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ0 æ(?π
+∂
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ0 æ(?
+%4java.util.Map"__id*7*5 
+org.exist.xquery.XQueryContext"
+inScopePrefixesπ
+∂
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ0 æ(H
+%3java.lang.String"__mapGet*
+
+%4java.util.Map*
+
+urijava.lang.Stringù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ0 æ(H
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*Ñ
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ) æ(-ó
+î
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ) æ(-
+%1java.lang.String"__id*
+
+%2
+<nulltype>*
+1*∫
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaΩ" Ω(4™
+ß
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaº º(
+%5"
+__annotate*
+java.lang.Override*
+
+urijava.lang.Stringî
+ë
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaΩ0 Ω(3
+urijava.lang.String"__annotation*
+
+%5*
+4*©
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ æ(π
+∂
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ æ(
+%0java.util.Map"__id*7*5 
+org.exist.xquery.XQueryContext"
+inScopePrefixes*
+2
+3*„
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ æ(I"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaæ æ(I
+
+%1java.lang.String:
+urijava.lang.StringB" 
+org.exist.xquery.XQueryContext

@@ -1,0 +1,167 @@
+
+lorg.exist.xquery.value.BinaryValueType#instantiateCoder(Ljava/io/OutputStream;Z)Ljava/io/FilterOutputStream;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java* *("20*¬
+13f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java5D 5(EÕ 
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java5 5(U"
+%10java.lang.invoke.MethodType"`java.lang.invoke.MethodType#changeParameterType(ILjava/lang/Class;)Ljava/lang/invoke/MethodType;*#
+!
+%9java.lang.invoke.MethodType*2*
+""2'changeParameterType(ILjava/lang/Class;)*
+12*ˇ
+14f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java4 4((äá
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java5 5(/!
+%9java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
+-
+methodHandlejava.lang.invoke.MethodHandle2type()*
+13*Û
+15f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java3 3(]˛˚
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java3 3(]!
+%8java.lang.invoke.MethodType"@java.lang.invoke.MethodType#erase()Ljava/lang/invoke/MethodType;*#
+!
+%7java.lang.invoke.MethodType2erase()*
+14*¡
+16f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java3D 3(EÃ…
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java3 3(U!
+%7java.lang.invoke.MethodType"`java.lang.invoke.MethodType#changeParameterType(ILjava/lang/Class;)Ljava/lang/invoke/MethodType;*#
+!
+%6java.lang.invoke.MethodType*2*
+""2'changeParameterType(ILjava/lang/Class;)*
+15*ˇ
+17f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java3 3((äá
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java3 3(/!
+%6java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
+-
+methodHandlejava.lang.invoke.MethodHandle2type()*
+16*˘
+18g
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java, ,(á»
+≈
+g
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java, ,(á-
+methodHandlejava.lang.invoke.MethodHandle"__id*%
+#
+%3java.lang.invoke.MethodHandle¶
+£
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java0 0("+
+%4%java.lang.invoke.MethodHandles$Lookup"__id*
+""è
+å
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java2 2(8!
+%5java.lang.invoke.MethodType"Vjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
+java.lang.invoke.MethodType*
+""*
+17*º
+19g
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java,. ,(Ü∆√
+g
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java,. ,(Ü#
+%3java.lang.invoke.MethodHandle"Ñjava.lang.invoke.MethodHandles$Lookup#findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;*-
++
+%0%java.lang.invoke.MethodHandles$Lookup*
+
+%1java.lang.Class*#
+!
+%2java.lang.invoke.MethodType2?findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)*
+18*Á
+8f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java7 7(1Ö
+Ç
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java7 7(1
+fT"__id*
+
+
+%14T"r
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java8 8(
+
+fT*ı
+9f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java.; 6(/∞
+≠
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java. 6(0"
+cjava.util.function.BiFunction"__id*
+
+%13java.lang.ObjectœÃ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java7 7(0
+%14T"[java.util.function.BiFunction#apply(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.util.function.BiFunction* 
+
+streamjava.io.OutputStream*
+""2+apply(Ljava/lang/Object;Ljava/lang/Object;)*
+8*£
+20f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java,. ,(4¶
+£
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java,. ,(4+
+%0%java.lang.invoke.MethodHandles$Lookup"__id*
+""ø
+º
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java,E ,(J
+%1java.lang.Class"__id*5*3(
+&org.exist.xquery.value.BinaryValueType"
+coder√
+¿
+g
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java,L ,(Ö!
+%2java.lang.invoke.MethodType"yjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;Ljava/lang/Class;[Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
+java.lang.invoke.MethodType*
+""*
+""*
+""*
+19*î
+10f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java/ 6(/†ù
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java/ 6(/
+%13java.lang.Object"Pjava.lang.invoke.MethodHandle#invokeExact([Ljava/lang/Object;)Ljava/lang/Object;*&
+$
+%12java.lang.invoke.MethodHandle2 invokeExact([Ljava/lang/Object;)*
+9*˝
+11f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java/ 6(!àÖ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java/ 6(!$
+%12java.lang.invoke.MethodHandle"Djava.lang.invoke.CallSite#getTarget()Ljava/lang/invoke/MethodHandle;*"
+ 
+%11java.lang.invoke.CallSite2getTarget()*
+10*Ç
+12f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java/ 6(ç
+ä
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java/ 6( 
+%11java.lang.invoke.CallSite"˙java.lang.invoke.LambdaMetafactory#metafactory(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;*&"$
+"java.lang.invoke.LambdaMetafactory*-
++
+%4%java.lang.invoke.MethodHandles$Lookup*	
+apply*#
+!
+%5java.lang.invoke.MethodType*#
+!
+%8java.lang.invoke.MethodType*/
+-
+methodHandlejava.lang.invoke.MethodHandle*$
+"
+%10java.lang.invoke.MethodType*
+11:
+streamjava.io.OutputStream:
+""B*(
+&org.exist.xquery.value.BinaryValueType

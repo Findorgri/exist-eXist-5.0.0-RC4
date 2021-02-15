@@ -1,0 +1,46 @@
+
+Gorg.exist.storage.io.VariableByteArrayInput#readUTF()Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java ("1*´
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java‘ ‘(ñî
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java‘ ‘(!	
+%0int"6org.exist.storage.io.VariableByteArrayInput#readInt()I*/-
++org.exist.storage.io.VariableByteArrayInput2	readInt()Á
+¾
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java’$ ’((
+%1byte[]"__id*9*7-
++org.exist.storage.io.VariableByteArrayInput"
+data 
+
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java’9 ’(>
+%2java.nio.charset.Charset"__id*
+""œ™
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java’ ’(#
+%3java.lang.String"java.lang.StringŽ
+‹
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java’ ’(?
+%4"8java.lang.String#<init>([BIILjava/nio/charset/Charset;)V*
+
+%3java.lang.String*
+
+%1byte[]*
+""*
+""* 
+
+%2java.nio.charset.Charset©
+¦
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java’ ’(@
+sjava.lang.String"__id*
+
+%3java.lang.String"ˆ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/VariableByteArrayInput.java” ”(
+
+sjava.lang.StringB/-
++org.exist.storage.io.VariableByteArrayInput

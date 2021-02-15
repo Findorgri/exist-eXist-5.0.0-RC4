@@ -1,0 +1,22 @@
+
+@org.exist.management.impl.DiskUsage#getDataDirectoryUsedSpace()Jc
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaz z()"1*ž
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.java{ {(¾
+»
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.java{ {(
+%0java.util.Optional"__id*4*2%
+#org.exist.management.impl.DiskUsage"	
+dataDir‚ÿ
+d
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.java{ ˆ(
+
+%1"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
+
+%0java.util.Optional*
+""2"map(Ljava/util/function/Function;)"n
+d
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.java{ ˆ(
+""B'%
+#org.exist.management.impl.DiskUsage

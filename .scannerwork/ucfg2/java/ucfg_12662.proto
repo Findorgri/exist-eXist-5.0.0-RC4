@@ -1,0 +1,55 @@
+
+Porg.exist.fluent.QName#getAttributeNode(Lorg/w3c/dom/Element;)Lorg/w3c/dom/Attr;h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javac c("3*Ï
+2h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javad d(!óð
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javad5 d(F
+%1java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*
+org.exist.fluent.QName2getNamespaceURI()íê
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javadH d(V
+%2java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*
+org.exist.fluent.QName2getLocalPart()òï
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javad d(W
+%3org.w3c.dom.Attr"^org.w3c.dom.Element#getAttributeNodeNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Attr;*
+
+elemorg.w3c.dom.Element*
+
+%1java.lang.String*
+
+%2java.lang.String28getAttributeNodeNS(Ljava/lang/String;Ljava/lang/String;)"„
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javad d(X
+
+%3org.w3c.dom.Attr*È
+3h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javad d(ÐÍ
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javad d(
+%0boolean"&org.exist.fluent.QName#hasNamespace()Z*
+org.exist.fluent.QName2hasNamespace()*
+2
+1*Ú
+1h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javae	 e(°
+­
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javae e("
+%4java.lang.String"__id*#*!
+org.exist.fluent.QName"
+tag°­
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javae	 e(#
+%5org.w3c.dom.Attr"Jorg.w3c.dom.Element#getAttributeNode(Ljava/lang/String;)Lorg/w3c/dom/Attr;*
+
+elemorg.w3c.dom.Element*
+
+%4java.lang.String2$getAttributeNode(Ljava/lang/String;)"„
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javae e($
+
+%5org.w3c.dom.Attr:
+elemorg.w3c.dom.ElementB
+org.exist.fluent.QName

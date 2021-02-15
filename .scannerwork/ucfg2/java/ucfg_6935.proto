@@ -1,0 +1,16 @@
+
+8org.exist.management.impl.Lock#getId()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java= =("1*
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java> >(­
+ª
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java> >(
+%0java.lang.String"__id***( 
+org.exist.management.impl.Lock"
+id"z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java> >(
+
+%0java.lang.StringB" 
+org.exist.management.impl.Lock

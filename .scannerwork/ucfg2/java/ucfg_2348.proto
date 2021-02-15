@@ -1,0 +1,72 @@
+
+gorg.exist.http.servlets.ScaleImageJAI$DBStorage#getRelativePath(Ljava/nio/file/Path;)Ljava/lang/String;y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java« «(""startingBlock*‰
+startingBlocky
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java«" «(2Å
+Â
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaª ª(
+%7"
+__annotate*
+java.lang.Override*
+
+dirjava.nio.file.Path¯
+¬
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java«. «(1
+dirjava.nio.file.Path"__annotation*
+
+%7*
+1*­
+1y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬
+ ¬(€ý
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬
+ ¬(
+%0java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+dirjava.nio.file.Path2toAbsolutePath()ïì
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬
+ ¬()
+%1java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%0java.nio.file.Path2
+toString()à
+Ý
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬4 ¬(;
+%2java.nio.file.Path"__id*@*>1
+/org.exist.http.servlets.ScaleImageJAI$DBStorage"	
+baseDirÿü
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬4 ¬(L
+%3java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%2java.nio.file.Path2toAbsolutePath()ïì
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬4 ¬(W
+%4java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%3java.nio.file.Path2
+toString()ÉÆ
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬4 ¬(`	
+%5int"java.lang.String#length()I*
+
+%4java.lang.String2length()üù
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬
+ ¬(a
+%6java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+%1java.lang.String*
+	
+%5int2substring(I)"•
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java¬ ¬(b
+
+%6java.lang.String:
+dirjava.nio.file.PathB31
+/org.exist.http.servlets.ScaleImageJAI$DBStorage

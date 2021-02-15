@@ -1,0 +1,23 @@
+
+8org.exist.dom.persistent.AVLTreeNodeSet$Node#balanced()Zi
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java› ›("1*…
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaœ œ(õò
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaœ œ()	
+%0int":org.exist.dom.persistent.AVLTreeNodeSet$Node#leftHeight()I*0.
+,org.exist.dom.persistent.AVLTreeNodeSet$Node2leftHeight()÷ô
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaœ, œ(9	
+%1int";org.exist.dom.persistent.AVLTreeNodeSet$Node#rightHeight()I*0.
+,org.exist.dom.persistent.AVLTreeNodeSet$Node2rightHeight()­
+ª
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaœ œ(:	
+%2int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+"""s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaœ œ(A
+""B0.
+,org.exist.dom.persistent.AVLTreeNodeSet$Node

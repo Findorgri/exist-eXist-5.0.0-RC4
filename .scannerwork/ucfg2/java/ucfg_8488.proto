@@ -1,0 +1,34 @@
+
+Corg.exist.source.StringSourceWithMapKey#getReader()Ljava/io/Reader;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java7 7("1*ë
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java7G 7(J½
+º
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java7G 7(J
+%0java.util.Map"__id*4*2)
+'org.exist.source.StringSourceWithMapKey"
+map²
+¯
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java7G 7(Y
+%1java.lang.String"__mapGet*
+
+%0java.util.Map*	
+<query>ž›
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java7: 7(F
+%2java.io.StringReader"java.io.StringReaderÜ
+Ù
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java76 7(Z
+%3"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%2java.io.StringReader*
+
+%1java.lang.String"‡
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSourceWithMapKey.java7/ 7([
+
+%2java.io.StringReaderB+)
+'org.exist.source.StringSourceWithMapKey

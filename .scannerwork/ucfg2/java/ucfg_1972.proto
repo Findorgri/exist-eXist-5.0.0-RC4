@@ -1,0 +1,40 @@
+
+Borg.exist.dom.persistent.ElementImpl#toString(Z)Ljava/lang/String;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÊ
+ Ê
+("1*Ü
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaË
+ Ë
+(—”
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaË
+! Ë
+(*
+%0java.util.TreeSet"java.util.TreeSet©
+¦
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaË
+ Ë
+(,
+%1"java.util.TreeSet#<init>()V*
+
+%0java.util.TreeSet£
+ 
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaË
+ Ë
+(-
+%2java.lang.String"Qorg.exist.dom.persistent.ElementImpl#toString(ZLjava/util/Set;)Ljava/lang/String;*(&
+$org.exist.dom.persistent.ElementImpl*
+""*
+
+%0java.util.TreeSet"‚
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaË
+ Ë
+(.
+
+%2java.lang.String:
+""B(&
+$org.exist.dom.persistent.ElementImpl

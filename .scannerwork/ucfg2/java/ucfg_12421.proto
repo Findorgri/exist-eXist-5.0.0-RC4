@@ -1,0 +1,38 @@
+
+`org.exist.fluent.AttributeBuilder#delAttr(Ljava/lang/String;)Lorg/exist/fluent/AttributeBuilder;s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javat t( "6*ˆ
+4u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javaÄ	 Ä(œ
+Ã
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javaÄ  Ä('
+%1org.w3c.dom.Element"__id*2*0#
+!org.exist.fluent.AttributeBuilder"	
+element¢
+ü
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javaÄ Ä((
+attrorg.w3c.dom.Attr"__id*
+""*
+1*˛
+6s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javau u(€
+ÿ
+s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javau u(
+
+%0void".org.exist.fluent.AttributeBuilder#checkDone()V*%#
+!org.exist.fluent.AttributeBuilder†
+ù
+s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javay y("
+attrorg.w3c.dom.Attr"__id*
+""*
+4*õ
+1u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javaÜ	 Ü("û
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javaÜ Ü(%#
+!org.exist.fluent.AttributeBuilder:
+namejava.lang.StringB%#
+!org.exist.fluent.AttributeBuilder

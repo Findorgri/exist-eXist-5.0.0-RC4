@@ -1,0 +1,291 @@
+
+3org.exist.dom.QName#matches(Lorg/exist/dom/QName;)ZU
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÌ Ì("19*ü
+13U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ5 Ò(<©
+¦
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ5 Ò(F
+%6java.lang.String"__id*/*-
+
+qnOtherorg.exist.dom.QName"
+	localPart
+}
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒN Ò(V
+%7java.lang.String"__id*
+""çä
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ5 Ò(W
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%6java.lang.String*
+
+%7java.lang.String2equals(Ljava/lang/Object;)*
+10
+12*ó
+14U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ Ò(  
+
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ Ò( 
+%3java.lang.String"__id*&*$
+org.exist.dom.QName"
+	localPart
+}
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ( Ò(0
+%4java.lang.String"__id*
+""çä
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ Ò(1
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+
+%4java.lang.String2equals(Ljava/lang/Object;)*
+13
+12*¼
+15U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(
+""*ù
+16U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÐ1 Ð(8‘
+Ž
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÐ< Ð(R'
+%2!org.exist.dom.QName$WildcardQName"__id*
+""*
+14
+15*ù
+17U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÐ Ð(‘
+Ž
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÐ Ð(-'
+%1!org.exist.dom.QName$WildcardQName"__id*
+""*
+15
+16*¼
+18U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÎ Î("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÎ Î(
+""*Ù
+19U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÍ Í(ñî
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÍ Í(
+%0boolean"/org.exist.dom.QName#equals(Ljava/lang/Object;)Z*
+org.exist.dom.QName* 
+
+qnOtherorg.exist.dom.QName2equals(Ljava/lang/Object;)*
+17
+18*»
+1U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÙ Ù("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÙ Ù(
+""*»
+2U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java× ×("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java× ×(
+""*ˆ
+3W
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ Ö(ˆ¬
+©
+W
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ Ö(’
+%30java.lang.String"__id*/*-
+
+qnOtherorg.exist.dom.QName"
+	localPartƒ
+€
+W
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖš Ö(¢
+%31java.lang.String"__id*
+""ìé
+W
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ Ö(£
+%32boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%30java.lang.String*
+
+%31java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*‚
+4U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖX Ö(_­
+ª
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖX Ö(l
+%27java.lang.String"__id*2*0
+
+qnOtherorg.exist.dom.QName"
+namespaceURI€
+~
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖt Ö(|
+%28java.lang.String"__id*
+""êç
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖX Ö(}
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%27java.lang.String*
+
+%28java.lang.String2equals(Ljava/lang/Object;)*
+2
+3*ö
+5U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ8 Ö(A¡
+ž
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ8 Ö(A
+%24java.lang.String"__id*&*$
+org.exist.dom.QName"
+	localPart€
+~
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖI Ö(Q
+%25java.lang.String"__id*
+""êç
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ8 Ö(R
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%24java.lang.String*
+
+%25java.lang.String2equals(Ljava/lang/Object;)*
+2
+4*ù
+6U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ Ö(#¤
+¡
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ Ö(#
+%21java.lang.String"__id*)*'
+org.exist.dom.QName"
+namespaceURI€
+~
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ+ Ö(3
+%22java.lang.String"__id*
+""êç
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÖ Ö(4
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%21java.lang.String*
+
+%22java.lang.String2equals(Ljava/lang/Object;)*
+4
+5*»
+7U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÕ Õ("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÕ Õ(
+""*¢
+8U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔb Ô(f¡
+ž
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔb Ô(p
+%18java.lang.String"__id*&*$
+org.exist.dom.QName"
+	localPart«
+¨
+V
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔx Ô(‰
+%19java.lang.String"__id*/*-
+
+qnOtherorg.exist.dom.QName"
+	localPartëè
+V
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔb Ô(Š
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%18java.lang.String*
+
+%19java.lang.String2equals(Ljava/lang/Object;)*
+6
+7*‚
+9U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ8 Ô(?­
+ª
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ8 Ô(L
+%15java.lang.String"__id*2*0
+
+qnOtherorg.exist.dom.QName"
+namespaceURI€
+~
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔT Ô(\
+%16java.lang.String"__id*
+""êç
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ8 Ô(]
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%15java.lang.String*
+
+%16java.lang.String2equals(Ljava/lang/Object;)*
+6
+8*ú
+10U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ Ô(#¤
+¡
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ Ô(#
+%12java.lang.String"__id*)*'
+org.exist.dom.QName"
+namespaceURI€
+~
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ+ Ô(3
+%13java.lang.String"__id*
+""êç
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÔ Ô(4
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%12java.lang.String*
+
+%13java.lang.String2equals(Ljava/lang/Object;)*
+8
+9*¼
+11U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÓ Ó("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÓ Ó(
+""*©
+12U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ\ Ò(`£
+ 
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ\ Ò(m
+%9java.lang.String"__id*)*'
+org.exist.dom.QName"
+namespaceURI®
+«
+V
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒu Ò(‰
+%10java.lang.String"__id*2*0
+
+qnOtherorg.exist.dom.QName"
+namespaceURIêç
+V
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÒ\ Ò(Š
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%9java.lang.String*
+
+%10java.lang.String2equals(Ljava/lang/Object;)*
+10
+11:
+qnOtherorg.exist.dom.QNameB
+org.exist.dom.QName

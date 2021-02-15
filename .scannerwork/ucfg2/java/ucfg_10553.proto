@@ -1,0 +1,127 @@
+
+Vorg.exist.xquery.functions.fn.FunMatches#match(Ljava/lang/String;Ljava/lang/String;I)Zj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÅ Å("17*è
+13j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ9 É(>À
+»
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉB É(E
+%4java.util.regex.Pattern"__id*5*3*
+(org.exist.xquery.functions.fn.FunMatches"
+pat∆√
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉB É(M	
+%5int" java.util.regex.Pattern#flags()I*
+
+%4java.util.regex.Pattern2flags()*
+7
+9*˝
+15j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ É(4Å˛
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ É(4
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+patternjava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+13
+9*Ø
+16j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ É(À
+»
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ& É()
+%1java.util.regex.Pattern"__id*5*3*
+(org.exist.xquery.functions.fn.FunMatches"
+patËÂ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ& É(3
+%2java.lang.String"3java.util.regex.Pattern#pattern()Ljava/lang/String;*
+
+%1java.util.regex.Pattern2	pattern()*
+15*Â
+5j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaã ã("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaã ã(
+""*«
+17j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ É(	À
+»
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÉ É(	
+%0java.util.regex.Pattern"__id*5*3*
+(org.exist.xquery.functions.fn.FunMatches"
+pat*
+16
+9*î
+6j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaã
+ ã(–
+Õ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaã
+ ã(
+%10java.util.regex.Matcher"__id*9*7*
+(org.exist.xquery.functions.fn.FunMatches"	
+matcher «
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaã
+ ã(
+%11boolean"java.util.regex.Matcher#find()Z* 
+
+%10java.util.regex.Matcher2find()*
+5*â
+7j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaà à(œ
+Ã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaà à(
+%8java.util.regex.Matcher"__id*9*7*
+(org.exist.xquery.functions.fn.FunMatches"	
+matcher¿Ω
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaà à(%
+%9java.util.regex.Matcher"Pjava.util.regex.Matcher#reset(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%8java.util.regex.Matcher*
+
+stringjava.lang.String2reset(Ljava/lang/CharSequence;)*
+6*∆
+8j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÜ Ü(-œ
+Ã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÜ Ü(-7*
+(org.exist.xquery.functions.fn.FunMatches"	
+matcher"__id*
+
+%7java.util.regex.Matcher*
+6*æ
+9j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÑ Ñ(A≤
+Ø
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÑ Ñ(A3*
+(org.exist.xquery.functions.fn.FunMatches"
+pat"__id*
+""À
+»
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÜ Ü(
+%6java.util.regex.Pattern"__id*5*3*
+(org.exist.xquery.functions.fn.FunMatches"
+patƒ¡
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunMatches.javaÜ Ü(-
+%7java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%6java.util.regex.Pattern*
+
+stringjava.lang.String2!matcher(Ljava/lang/CharSequence;)*
+8:
+stringjava.lang.String:
+patternjava.lang.String:
+""B,*
+(org.exist.xquery.functions.fn.FunMatches

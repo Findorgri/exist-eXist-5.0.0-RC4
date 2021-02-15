@@ -1,0 +1,55 @@
+
+Torg.exist.webstart.JnlpWriter#getImageMimeType(Ljava/lang/String;)Ljava/lang/String;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.javaß ß(#"2*Å
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java® ®(å
+â
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java® ®(
+typejava.lang.String"__id*
+""*
+3
+4
+5
+6*é
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java¥ µ(2¢
+ü
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.javaµ µ(1
+typejava.lang.String"__id*
+application/octet-stream*
+1*Ä
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java∞ ≥(î
+ë
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java≤ ≤(#
+typejava.lang.String"__id*
+
+image/jpeg*
+1*ˇ
+5_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java≠ Ø(ì
+ê
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.javaÆ Æ("
+typejava.lang.String"__id*
+	image/png*
+1*ˇ
+6_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java™ ¨(ì
+ê
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java´ ´("
+typejava.lang.String"__id*
+	image/gif*
+1*„
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java∑ ∑("}
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpWriter.java∑ ∑(
+
+typejava.lang.String:
+filenamejava.lang.StringB!
+org.exist.webstart.JnlpWriter

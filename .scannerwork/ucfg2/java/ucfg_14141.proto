@@ -1,0 +1,99 @@
+
+@org.exist.xquery.TryCatchExpression#toString()Ljava/lang/String;e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¢ ¢("5*Ü
+2e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¶ ¶(*∏
+µ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¶ ¶(*>
+catchClause/org.exist.xquery.TryCatchExpression$CatchClause"__id*
+""÷
+”
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¶ ¶(*>
+catchClause/org.exist.xquery.TryCatchExpression$CatchClause"
+__arrayGet*
+
+%4java.util.List*
+""*
+3
+1*‹	
+3e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.javaß6 ß(Aéã
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.javaß6 ß(P
+%5"Jorg.exist.xquery.TryCatchExpression$CatchClause#getCatchExpr()LExpression;*@
+>
+catchClause/org.exist.xquery.TryCatchExpression$CatchClause2getCatchExpr()Ø¨
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java® ®(/
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ } catch (expr) { 2append(Ljava/lang/String;)ÜÉ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java© ©(/
+%7"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)ûõ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java™ ™(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+}2append(Ljava/lang/String;)*
+2*≥
+4e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¶- ¶(9¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¶- ¶(9
+%4java.util.List"__id*9*7%
+#org.exist.xquery.TryCatchExpression"
+catchClauses*
+2*±	
+5e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java£% £(8¢ü
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java£) £(6
+%0java.lang.StringBuilder"java.lang.StringBuilder¥
+±
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java£% £(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder¥
+±
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java£ £(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder£†
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java§ §(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+
+try { 2append(Ljava/lang/String;)ÜÉ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java• •(/
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+4*⁄
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¨ ¨(ÈÊ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¨ ¨( 
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"Å
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TryCatchExpression.java¨ ¨(!
+
+%9java.lang.StringB'%
+#org.exist.xquery.TryCatchExpression

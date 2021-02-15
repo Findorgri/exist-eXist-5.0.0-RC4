@@ -1,0 +1,39 @@
+
+\org.exist.storage.btree.BTree$BTreeNode#getParent()Lorg/exist/storage/btree/BTree$BTreeNode;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java∆ ∆(""3*˚
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java» »(#‹
+Ÿ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java»$ »(.3
+%1-org.exist.storage.btree.BTree$BTreePageHeader"__id*;*9)
+'org.exist.storage.btree.BTree$BTreeNode"
+
+pageHeader†
+ù
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java» »(:-
+%2'org.exist.storage.btree.BTree$BTreeNode"Vorg.exist.storage.btree.BTree#getBTreeNode(J)Lorg/exist/storage/btree/BTree$BTreeNode;*+)
+'org.exist.storage.btree.BTree$BTreeNode*
+"""í
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java» »(;/
+-
+%2'org.exist.storage.btree.BTree$BTreeNode*À
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java« «(‹
+Ÿ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java« «(3
+%0-org.exist.storage.btree.BTree$BTreePageHeader"__id*;*9)
+'org.exist.storage.btree.BTree$BTreeNode"
+
+pageHeader*
+2
+1*œ
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java   ("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java   (
+""B+)
+'org.exist.storage.btree.BTree$BTreeNode

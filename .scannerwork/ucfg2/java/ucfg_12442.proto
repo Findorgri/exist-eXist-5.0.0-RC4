@@ -1,0 +1,387 @@
+
+Eorg.exist.xquery.XQueryTest#improbableAxesAndNodeTestsCombinations()Vb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaå å(6"26*∏
+26b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaç ç(ê
+ç
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaé é(
+queryjava.lang.String"__id*
+""ç
+ä
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaî1 î(<
+%0java.lang.String"__id*
+""ç
+ä
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaî> î(E
+%1java.lang.String"__id*
+""π
+∂
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaî î(F
+%2"uorg.exist.xquery.XQueryTest#storeXMLStringAndGetQueryService(Ljava/lang/String;Ljava/lang/String;)LXPathQueryService;*
+org.exist.xquery.XQueryTest*
+
+%0java.lang.String*
+
+%1java.lang.StringÃ
+…
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaï ï(P
+queryjava.lang.String"__id*B@
+>let $a := <x>a<!--b-->c</x>/self::comment() return <z>{$a}</z>¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaó ó('
+%3java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaò ò('
+%4java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.StringŒ
+À
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaô ô(R
+queryjava.lang.String"__id*DB
+@let $a := <x>a<!--b-->c</x>/parent::comment() return <z>{$a}</z>¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaõ õ('
+%5java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaú ú('
+%6java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String–
+Õ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaù ù(T
+queryjava.lang.String"__id*FD
+Blet $a := <x>a<!--b-->c</x>/ancestor::comment() return <z>{$a}</z>¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaü ü('
+%7java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java† †('
+%8java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringÿ
+’
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java° °(\
+queryjava.lang.String"__id*NL
+Jlet $a := <x>a<!--b-->c</x>/ancestor-or-self::comment() return <z>{$a}</z>¥
+±
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java£ £('
+%9java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java§ §('
+%10java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String—
+Œ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaß ß(U
+queryjava.lang.String"__id*GE
+Clet $a := <x>a<!--b-->c</x>/attribute::comment() return <z>{$a}</z>*
+21*⁄4
+16b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java∫ ∫(Œ
+À
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaª ª(R
+queryjava.lang.String"__id*DB
+@let $a := <x>a<!--b-->c</x>/self::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaΩ Ω('
+%11java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaæ æ('
+%12java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String–
+Õ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaø ø(T
+queryjava.lang.String"__id*FD
+Blet $a := <x>a<!--b-->c</x>/parent::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java¡ ¡('
+%13java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java¬ ¬('
+%14java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String“
+œ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java√ √(V
+queryjava.lang.String"__id*HF
+Dlet $a := <x>a<!--b-->c</x>/ancestor::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java≈ ≈('
+%15java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java∆ ∆('
+%16java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String⁄
+◊
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java« «(^
+queryjava.lang.String"__id*PN
+Llet $a := <x>a<!--b-->c</x>/ancestor-or-self::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java… …('
+%17java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java   ('
+%18java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringœ
+Ã
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÀ À(S
+queryjava.lang.String"__id*EC
+Alet $a := <x>a<!--b-->c</x>/child::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÕ Õ('
+%19java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaŒ Œ('
+%20java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String‘
+—
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaœ œ(X
+queryjava.lang.String"__id*JH
+Flet $a := <x>a<!--b-->c</x>/descendant::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java— —('
+%21java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java“ “('
+%22java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String‹
+Ÿ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java” ”(`
+queryjava.lang.String"__id*RP
+Nlet $a := <x>a<!--b-->c</x>/descendant-or-self::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java’ ’('
+%23java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java÷ ÷('
+%24java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String”
+–
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java◊ ◊(W
+queryjava.lang.String"__id*IG
+Elet $a := <x>a<!--b-->c</x>/preceding::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaŸ Ÿ('
+%25java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java⁄ ⁄('
+%26java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String€
+ÿ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java€ €(_
+queryjava.lang.String"__id*QO
+Mlet $a := <x>a<!--b-->c</x>/preceding-sibling::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java› ›('
+%27java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaﬁ ﬁ('
+%28java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String”
+–
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaﬂ ﬂ(W
+queryjava.lang.String"__id*IG
+Elet $a := <x>a<!--b-->c</x>/following::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java· ·('
+%29java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java‚ ‚('
+%30java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String€
+ÿ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java„ „(_
+queryjava.lang.String"__id*QO
+Mlet $a := <x>a<!--b-->c</x>/following-sibling::attribute() return <z>{$a}</z>µ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÂ Â('
+%31java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.Stringµ
+≤
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÊ Ê('
+%32java.lang.String"__concat*
+
+XQuery: *
+
+queryjava.lang.String”
+–
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÈ È(W
+queryjava.lang.String"__id*IG
+Elet $a := <x>a<!--b-->c</x>/namespace::attribute() return <z>{$a}</z>*
+11*‘
+6b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaî î(Â
+‚
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaó ó(i
+queryjava.lang.String"__id*[Y
+Wlet $a := <x>a<?foo ?>c</x>/namespace::processing-instruction('foo') return <z>{$a}</z>*
+0*¬
+21b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaØ Ø(—
+Œ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java≤ ≤(U
+queryjava.lang.String"__id*GE
+Clet $a := <x>a<!--b-->c</x>/namespace::comment() return <z>{$a}</z>*
+16*Ä
+0 "y
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.java† †(
+implicit return*’
+11b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaÒ Ò(Â
+‚
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/XQueryTest.javaå å(i
+queryjava.lang.String"__id*[Y
+Wlet $a := <x>a<?foo ?>c</x>/attribute::processing-instruction('foo') return <z>{$a}</z>*
+6B
+org.exist.xquery.XQueryTest

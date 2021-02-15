@@ -1,0 +1,16 @@
+
+Lorg.exist.debuggee.dbgp.packets.Command#getTransactionId()Ljava/lang/String;{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javaK K("1*û
+1{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javaL	 L(Þ
+Û
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javaL	 L(
+%0java.lang.String"__id*>*<)
+'org.exist.debuggee.dbgp.packets.Command"
+transactionID"—
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.javaL L(
+
+%0java.lang.StringB+)
+'org.exist.debuggee.dbgp.packets.Command

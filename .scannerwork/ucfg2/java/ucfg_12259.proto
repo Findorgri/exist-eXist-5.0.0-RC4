@@ -1,0 +1,35 @@
+
+Lorg.exist.xmldb.AbstractRemoteResource#readFile(Lorg/xml/sax/InputSource;)[Bh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaú ú("7*é
+5h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaı ı(!"z
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaı ı(!
+
+%1byte[]*„
+6h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaı ı(
+Œ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaı ı( 
+%1byte[]"Horg.exist.xmldb.AbstractRemoteResource#readFile(Ljava/io/InputStream;)[B**(
+&org.exist.xmldb.AbstractRemoteResource*
+
+bisjava.io.InputStream*
+5*œ
+7h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaû  û("øõ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaû  û(2
+%0java.io.InputStream"<org.xml.sax.InputSource#getByteStream()Ljava/io/InputStream;*
+
+inorg.xml.sax.InputSource2getByteStream()¬
+©
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaû û(3
+bisjava.io.InputStream"__id*
+
+%0java.io.InputStream*
+6:
+inorg.xml.sax.InputSourceB*(
+&org.exist.xmldb.AbstractRemoteResource

@@ -1,0 +1,60 @@
+
+$org.exist.util.PorterStemmer#cvc(I)Z^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java³ ³("6"9*Í
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¸7 ¸(<"h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¸0 ¸(=
+""*Ž
+5^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java· ·( 
+
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java· ·(
+%3char[]"__id*'*%
+org.exist.util.PorterStemmer"
+b*
+2
+1*Í
+6^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaµ µ("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaµ µ(
+""*±
+7^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´. ´(2Ã
+À
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´. ´(7
+%2boolean"%org.exist.util.PorterStemmer#cons(I)Z* 
+org.exist.util.PorterStemmer*
+""*
+5
+6*±
+8^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´  ´($Ã
+À
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´  ´()
+%1boolean"%org.exist.util.PorterStemmer#cons(I)Z* 
+org.exist.util.PorterStemmer*
+""*
+6
+7*±
+9^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´ ´(Ã
+À
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´ ´(
+%0boolean"%org.exist.util.PorterStemmer#cons(I)Z* 
+org.exist.util.PorterStemmer*
+""*
+6
+8*Í
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaº º("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaº º(
+"":
+""B 
+org.exist.util.PorterStemmer

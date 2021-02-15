@@ -1,0 +1,55 @@
+
+Eorg.exist.dom.persistent.NodeImpl#getNamespaceURI()Ljava/lang/String;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaü ü('"1*×
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java‡ ˆ("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaˆ ˆ(
+""*í
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java„ „( "‚
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java„ „(!
+
+nsUrijava.lang.String*×
+4c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java‚ ‚("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java‚ ‚( 
+""*
+5c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaş …(‘
+
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java€ €(B
+nsUrijava.lang.String"__id*
+""
+‹
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java  (8
+%2java.lang.String"__id*
+""øõ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java (9
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+nsUrijava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+3
+4*ü
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaı ı(ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaş ş("
+%0short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÿ ÿ($
+%1short"__id*
+""*
+2
+5B%#
+!org.exist.dom.persistent.NodeImpl

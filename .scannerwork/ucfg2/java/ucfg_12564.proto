@@ -1,0 +1,28 @@
+
+Jorg.exist.storage.journal.Journal#findLastFile(Ljava/util/stream/Stream;)Ic
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaÖ Ö(("1*Ÿ
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.java× ×(¬©
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.java× Ø(-
+%0java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*"
+ 
+filesjava.util.stream.Stream*
+""2"map(Ljava/util/function/Function;)‘Ž
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.java× Ù("
+%1java.util.Optional"Gjava.util.stream.Stream#max(Ljava/util/Comparator;)Ljava/util/Optional;*
+
+%0java.util.stream.Stream*
+""2max(Ljava/util/Comparator;)‚ÿ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.java× Ú(
+%2java.lang.Integer"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.java× Ú(
+"": 
+filesjava.util.stream.StreamB%"#
+!org.exist.storage.journal.Journal

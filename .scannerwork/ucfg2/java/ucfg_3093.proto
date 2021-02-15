@@ -1,0 +1,21 @@
+
+7org.exist.debuggee.dbgp.packets.Status#commandBytes()[Bz
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Status.java< <("1*•
+1z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Status.java= =(ª
+§
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Status.java= =(.
+commandjava.lang.String"__id*
+""×Ô
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Status.java?	 ?(
+%0byte[]"java.lang.String#getBytes()[B*
+
+commandjava.lang.String2
+getBytes()"Œ
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Status.java? ?(
+
+%0byte[]B*(
+&org.exist.debuggee.dbgp.packets.Status

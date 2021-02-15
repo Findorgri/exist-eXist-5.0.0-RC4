@@ -1,0 +1,41 @@
+
+Yorg.exist.dom.memtree.MemTreeBuilder#namespaceNode(Ljava/lang/String;Ljava/lang/String;)If
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java¤ ¤("3"4*„
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java© ©($‘
+Ž
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java©+ ©(G
+%2java.lang.String"__id*
+""*
+1*„
+3f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java§ §(*‘
+Ž
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java§ §(:
+%1java.lang.String"__id*
+""*
+1*¶
+4f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java¦ ¦(#À½
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java¦ ¦(-
+%0boolean"java.lang.String#isEmpty()Z*
+
+prefixjava.lang.String2	isEmpty()*
+2
+3*Ù
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java« «(ùö
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java« «(#
+%3"<org.exist.dom.memtree.MemTreeBuilder#namespaceNode(LQName;)I*(&
+$org.exist.dom.memtree.MemTreeBuilder*
+""2namespaceNode(LQName;)"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java« «($
+"":
+prefixjava.lang.String:
+urijava.lang.StringB(&
+$org.exist.dom.memtree.MemTreeBuilder

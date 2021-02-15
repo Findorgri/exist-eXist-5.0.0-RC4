@@ -1,0 +1,23 @@
+
+Gorg.exist.management.impl.DiskUsage#getJournalDirectoryNumberOfFiles()Je
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaž ž(0"1*§
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaŸ Ÿ(Ã
+À
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaŸ Ÿ(
+%0java.util.Optional"__id*7*5%
+#org.exist.management.impl.DiskUsage"
+
+journalDirƒ€
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaŸ ¨(
+
+%1"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
+
+%0java.util.Optional*
+""2"map(Ljava/util/function/Function;)"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaŸ ¨(
+""B'%
+#org.exist.management.impl.DiskUsage

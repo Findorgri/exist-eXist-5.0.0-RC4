@@ -1,0 +1,42 @@
+
+Iorg.exist.debugger.dbgp.ResponseImpl#getTransactionID()Ljava/lang/String;x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaW W("3*„
+2x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaY
+ Y("„
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaY Y(
+init*×
+3x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaX X(Ü
+Ù
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaX X(
+%0org.w3c.dom.Element"__id*<*:&
+$org.exist.debugger.dbgp.ResponseImpl"
+parsedResponseóð
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaX X("
+%1java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+%0org.w3c.dom.Element2getNodeName()ú÷
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javaX X(1
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+init2equals(Ljava/lang/Object;)*
+2
+1*å
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java[	 [(ÎË
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java[	 [('
+%3java.lang.String"Worg.exist.debugger.dbgp.ResponseImpl#getAttribute(Ljava/lang/String;)Ljava/lang/String;*(&
+$org.exist.debugger.dbgp.ResponseImpl*
+transaction_id2 getAttribute(Ljava/lang/String;)"”
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.java[ [((
+
+%3java.lang.StringB(&
+$org.exist.debugger.dbgp.ResponseImpl

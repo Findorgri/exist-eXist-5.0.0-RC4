@@ -1,0 +1,16 @@
+
+Forg.exist.storage.lock.LockInfo#getWaitingForRead()[Ljava/lang/String;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaT T(%"1*£
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaU U(½
+º
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaU U(
+%0java.lang.String[]"__id*7*5!
+org.exist.storage.lock.LockInfo"
+waitingForRead"}
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaU U(
+
+%0java.lang.String[]B#!
+org.exist.storage.lock.LockInfo

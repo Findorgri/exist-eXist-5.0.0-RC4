@@ -1,0 +1,9 @@
+
+Oorg.exist.xquery.modules.oracle.OracleModule#getDescription()Ljava/lang/String;
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/oracle/OracleModule.javaE E("1*¼
+1€
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/oracle/OracleModule.javaF	 F(²"³
+€
+uC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/oracle/OracleModule.javaF F(³­ª
+§A module for executing PL/SQL stored procedures against an Oracle Database where data is given in an Oracle cursor, returning an XML representations of the result set.B0.
+,org.exist.xquery.modules.oracle.OracleModule

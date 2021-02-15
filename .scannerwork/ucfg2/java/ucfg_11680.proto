@@ -1,0 +1,25 @@
+
+Torg.exist.util.MimeTable#getPreferredExtension(Ljava/lang/String;)Ljava/lang/String;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java¬ ¬('"1*Å
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java­ ­( °
+­
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java­ ­( 
+%0java.util.Map"__id*4*2
+org.exist.util.MimeTable"
+preferredExtension¸
+µ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java­ ­(.
+%1java.lang.String"__mapGet*
+
+%0java.util.Map*
+
+mimeTypejava.lang.String"v
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java­ ­(/
+
+%1java.lang.String:
+mimeTypejava.lang.StringB
+org.exist.util.MimeTable

@@ -1,0 +1,55 @@
+
+Forg.exist.launcher.ConfigurationUtility#getJettyPorts()Ljava/util/Map;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java$' $(4"1*¼
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java%+ %(:˜•
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java%/ %(8
+%0java.util.HashMap"java.util.HashMapª
+§
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java%+ %(:
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMap¥
+¢
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java% %(;
+portsjava.util.Map"__id*
+
+%0java.util.HashMap¡
+ž
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java& &(b%
+jettyHttpConfigjava.nio.file.Path"__id*
+""¢
+Ÿ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java' '(b&
+jettyHttpsConfigjava.nio.file.Path"__id*
+""Å
+Â
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java( ((-
+
+%2void"[org.exist.launcher.ConfigurationUtility#getJettyPorts(Ljava/util/Map;Ljava/nio/file/Path;)V*+")
+'org.exist.launcher.ConfigurationUtility*
+
+portsjava.util.Map*'
+%
+jettyHttpConfigjava.nio.file.PathÆ
+Ã
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java) )(.
+
+%3void"[org.exist.launcher.ConfigurationUtility#getJettyPorts(Ljava/util/Map;Ljava/nio/file/Path;)V*+")
+'org.exist.launcher.ConfigurationUtility*
+
+portsjava.util.Map*(
+&
+jettyHttpsConfigjava.nio.file.Path"ƒ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java* *(
+
+portsjava.util.MapB+")
+'org.exist.launcher.ConfigurationUtility

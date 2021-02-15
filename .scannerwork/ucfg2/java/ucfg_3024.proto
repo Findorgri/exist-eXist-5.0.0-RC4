@@ -1,0 +1,22 @@
+
+8org.exist.dom.persistent.DefaultDocumentSet#contains(I)Zm
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaÌ Ì("1*ƒ
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaÍ Í(Í
+Ê
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaÍ Í(
+%0java.util.BitSet"__id*;*9-
++org.exist.dom.persistent.DefaultDocumentSet"
+docIdsÅÂ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaÍ Í(
+%1boolean"java.util.BitSet#get(I)Z*
+
+%0java.util.BitSet*
+""2get(I)"w
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DefaultDocumentSet.javaÍ Í(
+"":
+""B/-
++org.exist.dom.persistent.DefaultDocumentSet

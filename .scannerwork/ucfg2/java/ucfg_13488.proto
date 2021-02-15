@@ -1,0 +1,23 @@
+
+,org.exist.storage.dom.DOMFile#getBinary(J)[B_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÙ Ù("3"1*Ù
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÚ$ Ú(/íê
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÚ> Ú(K
+%0java.lang.String"=org.exist.storage.dom.DOMFile#getLockName()Ljava/lang/String;*!
+org.exist.storage.dom.DOMFile2getLockName()*
+1*Á
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÝ Ý(çä
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÝ Ý((
+%1byte[]"3org.exist.storage.dom.DOMFile#getOverflowValue(J)[B*!
+org.exist.storage.dom.DOMFile*
+""2getOverflowValue(J)"q
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÝ Ý()
+
+%1byte[]:
+""B!
+org.exist.storage.dom.DOMFile

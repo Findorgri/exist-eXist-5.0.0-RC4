@@ -1,0 +1,38 @@
+
+Worg.exist.fluent.NamedResource$MetadataFacet#convertPermissionBits(Ljava/lang/String;)Ir
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java… …(#"4*Ú
+3r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‡' ‡(,ÏÌ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‡E ‡(S
+
+%1char"java.lang.String#charAt(I)C*
+
+whatjava.lang.String*
+""2	charAt(I)‰
+†
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‡0 ‡(T	
+%2int"Eorg.exist.fluent.NamedResource$MetadataFacet#convertPermissionBit(C)I*0.
+,org.exist.fluent.NamedResource$MetadataFacet*
+
+
+%1char*
+4*Æ
+4r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‡ ‡(ÄÁ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‡ ‡( 	
+%0int"java.lang.String#length()I*
+
+whatjava.lang.String2length()*
+3
+1*õ
+1r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaˆ
+ ˆ("|
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaˆ ˆ(
+"":
+whatjava.lang.StringB0.
+,org.exist.fluent.NamedResource$MetadataFacet

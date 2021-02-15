@@ -1,0 +1,51 @@
+
+Vorg.exist.debuggee.DebuggeeJointImpl#featureSet(Ljava/lang/String;Ljava/lang/String;)Zz
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaØ Ø("3*œ
+2z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java± ±(“
+œ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java± ±(
+%2java.util.Map"__id*6*4&
+$org.exist.debuggee.DebuggeeJointImpl"
+
+featuresÒ
+Ó
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java± ±(
+%3java.lang.String"__mapSet*
+
+%2java.util.Map*
+
+namejava.lang.String*
+
+valuejava.lang.String"Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java≥ ≥(
+""*Ò
+3z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java∞ ∞(“
+œ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java∞ ∞(
+%0java.util.Map"__id*6*4&
+$org.exist.debuggee.DebuggeeJointImpl"
+
+featuresíè
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java∞ ∞( 
+%1boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*
+
+%0java.util.Map*
+
+namejava.lang.String2containsKey(Ljava/lang/Object;)*
+2
+1*Ü
+1z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java∂	 ∂("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java∂ ∂(
+"":
+namejava.lang.String:
+valuejava.lang.StringB(&
+$org.exist.debuggee.DebuggeeJointImpl

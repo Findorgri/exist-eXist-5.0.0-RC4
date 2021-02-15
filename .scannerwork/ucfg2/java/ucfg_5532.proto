@@ -1,0 +1,27 @@
+
+\org.exist.stax.EmbeddedXMLStreamReader#getNamespaceURI(Ljava/lang/String;)Ljava/lang/String;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaµ µ(!"startingBlock*Ø
+startingBlockh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaµ! µ(6µ
+²
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java´ ´(
+%0"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.StringŸ
+œ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaµ/ µ(5
+prefixjava.lang.String"__annotation*
+
+%0*
+1*á
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¶ ¶("r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¶ ¶(
+"":
+prefixjava.lang.StringB*(
+&org.exist.stax.EmbeddedXMLStreamReader

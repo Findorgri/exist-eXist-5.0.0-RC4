@@ -1,0 +1,28 @@
+
+Zorg.exist.util.io.FastByteArrayOutputStream#toString(Ljava/lang/String;)Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java∂ ∂("1*ç
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java∑ ∑(%˝˙
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java∑ ∑('
+%0byte[]";org.exist.util.io.FastByteArrayOutputStream#toByteArray()[B*/-
++org.exist.util.io.FastByteArrayOutputStream2toByteArray()úô
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java∑ ∑(
+%1java.lang.String"java.lang.StringÌ
+Í
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java∑ ∑(-
+%2".java.lang.String#<init>([BLjava/lang/String;)V*
+
+%1java.lang.String*
+
+%0byte[]*
+
+encjava.lang.String"â
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java∑ ∑(.
+
+%1java.lang.String:
+encjava.lang.StringB/-
++org.exist.util.io.FastByteArrayOutputStream

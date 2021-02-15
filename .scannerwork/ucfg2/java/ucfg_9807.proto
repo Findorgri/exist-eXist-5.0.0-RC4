@@ -1,0 +1,23 @@
+
+Horg.exist.storage.BrokerPool#removeStatusObserver(Ljava/util/Observer;)Z^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¥ ¥('"1*×
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¦ ¦(Ò
+Ï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¦ ¦(#0
+%0*java.util.concurrent.ConcurrentSkipListSet"__id*5*3
+org.exist.storage.BrokerPool"
+statusObservers²¯
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¦ ¦(:
+%1boolean"Fjava.util.concurrent.ConcurrentSkipListSet#remove(Ljava/lang/Object;)Z*2
+0
+%0*java.util.concurrent.ConcurrentSkipListSet*&
+$
+statusObserverjava.util.Observer2remove(Ljava/lang/Object;)"h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¦ ¦(;
+"":$
+statusObserverjava.util.ObserverB 
+org.exist.storage.BrokerPool

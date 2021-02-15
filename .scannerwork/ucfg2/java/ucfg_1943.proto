@@ -1,0 +1,35 @@
+
+[org.exist.dom.persistent.ElementImpl#getAttributeNode(Ljava/lang/String;)Lorg/w3c/dom/Attr;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¤ ¤( "startingBlock*Î
+startingBlockf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¤  ¤(3±
+®
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java£ £(
+%1"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String›
+˜
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¤. ¤(2
+namejava.lang.String"__annotation*
+
+%1*
+1*é
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¥ ¥(‰
+†
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¥ ¥("
+%0"Porg.exist.dom.persistent.ElementImpl#findAttribute(Ljava/lang/String;)LAttrImpl;*(&
+$org.exist.dom.persistent.ElementImpl*
+
+namejava.lang.String"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¥ ¥(#
+
+%0:
+namejava.lang.StringB(&
+$org.exist.dom.persistent.ElementImpl

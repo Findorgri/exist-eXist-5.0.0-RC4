@@ -1,0 +1,98 @@
+
+Forg.exist.util.hashtable.SequencedLongHashMap#get(J)Ljava/lang/Object;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java≠ ≠("10*˙
+2o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaª ª(Å
+˛
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaª ª(9
+%63org.exist.util.hashtable.SequencedLongHashMap$Entry"__id*J*H
+;
+next3org.exist.util.hashtable.SequencedLongHashMap$Entry"	
+nextDupÙ
+Ò
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaª ª(;
+next3org.exist.util.hashtable.SequencedLongHashMap$Entry"__id*;
+9
+%63org.exist.util.hashtable.SequencedLongHashMap$Entry*	
+2
+3
+1*¬
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaπ π(Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaπ π(!
+%5V"__id*H*F
+;
+next3org.exist.util.hashtable.SequencedLongHashMap$Entry"
+value"|
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaπ π("	
+
+%5V*Ù
+6o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java∂ ∂(ˆ
+Û
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java∂ ∂(;
+%35org.exist.util.hashtable.SequencedLongHashMap$Entry[]"__id*=*;/
+-org.exist.util.hashtable.SequencedLongHashMap"
+valuesÇ
+ˇ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java∂ ∂(#9
+%43org.exist.util.hashtable.SequencedLongHashMap$Entry"
+__arrayGet*=
+;
+%35org.exist.util.hashtable.SequencedLongHashMap$Entry[]*
+""Ù
+Ò
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java∂ ∂($;
+next3org.exist.util.hashtable.SequencedLongHashMap$Entry"__id*;
+9
+%43org.exist.util.hashtable.SequencedLongHashMap$Entry*	
+2
+3
+1*Ô
+7o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java≥ ≥("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java≥ ≥(
+""*˙
+8o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java≤ ≤(ˆ
+Û
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java≤ ≤(;
+%15org.exist.util.hashtable.SequencedLongHashMap$Entry[]"__id*=*;/
+-org.exist.util.hashtable.SequencedLongHashMap"
+valuesÇ
+ˇ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.java≤ ≤(9
+%23org.exist.util.hashtable.SequencedLongHashMap$Entry"
+__arrayGet*=
+;
+%15org.exist.util.hashtable.SequencedLongHashMap$Entry[]*
+""*
+6
+7*Ô
+10o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÆ Æ(Ú
+Ô
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaÆ Æ(	
+%0int"6org.exist.util.hashtable.SequencedLongHashMap#hash(J)I*1"/
+-org.exist.util.hashtable.SequencedLongHashMap*
+""*
+8*Ô
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaΩ Ω("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/SequencedLongHashMap.javaΩ Ω(
+"":
+""B1/
+-org.exist.util.hashtable.SequencedLongHashMap

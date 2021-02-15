@@ -1,0 +1,68 @@
+
+Horg.exist.xquery.PerformanceStats$IndexStats#equals(Ljava/lang/Object;)Za
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaN N("10"1*Ó
+2a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ R(W"k
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ R(W
+""*ò
+9a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ< Q(AÉ
+Æ
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ< Q(H
+%3java.lang.String"__id*C*A
+5
+other,org.exist.xquery.PerformanceStats$IndexStats"
+sourceÂ
+¿
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQP Q(V
+%4java.lang.String"__id*<*:.
+,org.exist.xquery.PerformanceStats$IndexStats"
+sourceóð
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ< Q(W
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+
+%4java.lang.String2equals(Ljava/lang/Object;)*
+2*½
+10a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaP6 P(9¾
+»
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaP P(:5
+other,org.exist.xquery.PerformanceStats$IndexStats"__id*
+
+objjava.lang.ObjectÌ
+É
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ Q(&
+%0java.lang.String"__id*F*D
+5
+other,org.exist.xquery.PerformanceStats$IndexStats"
+	indexTypeÅ
+Â
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ. Q(7
+%1java.lang.String"__id*?*=.
+,org.exist.xquery.PerformanceStats$IndexStats"
+	indexTypeóð
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaQ Q(8
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)*
+2
+9*Ó
+1a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaT T("k
+a
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PerformanceStats.javaT	 T(
+"":
+objjava.lang.ObjectB0.
+,org.exist.xquery.PerformanceStats$IndexStats

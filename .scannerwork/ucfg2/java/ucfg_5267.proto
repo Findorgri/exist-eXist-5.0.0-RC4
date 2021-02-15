@@ -1,0 +1,45 @@
+
+Forg.exist.util.serializer.json.JSONObject#toString()Ljava/lang/String;k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaÊ Ê("4*´
+3k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaÍ Í(¼¹
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaÍ Í($
+
+%2void"Gorg.exist.util.serializer.json.JSONObject#serialize(Ljava/io/Writer;Z)V*-+
+)org.exist.util.serializer.json.JSONObject* 
+
+writerjava.io.StringWriter*
+""2serialize(Ljava/io/Writer;Z)*
+1*ˆ
+4k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaË$ Ë(6¢Ÿ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaË( Ë(4
+%0java.io.StringWriter"java.io.StringWriter´
+±
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaË$ Ë(6
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriter´
+±
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaË Ë(7
+writerjava.io.StringWriter"__id*
+
+%0java.io.StringWriter*
+3*æ
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaÑ Ñ(éæ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaÑ Ñ( 
+%4java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()"‡
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONObject.javaÑ Ñ(!
+
+%4java.lang.StringB-+
+)org.exist.util.serializer.json.JSONObject

@@ -1,0 +1,31 @@
+
+4org.exist.dom.NodeListImpl#item(I)Lorg/w3c/dom/Node;Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaI I("3*Å
+2Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaK K("d
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaK K(
+""*™
+3Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaJ J(¯¬
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaJ J(	
+%0int"java.util.ArrayList#size()I*
+org.exist.dom.NodeListImpl2size()*
+2
+1*…
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaM M(«
+¨
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaM M(
+%1org.w3c.dom.Node"
+__arrayGet*
+org.exist.dom.NodeListImpl*
+"""v
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaM M(
+
+%1org.w3c.dom.Node:
+""B
+org.exist.dom.NodeListImpl

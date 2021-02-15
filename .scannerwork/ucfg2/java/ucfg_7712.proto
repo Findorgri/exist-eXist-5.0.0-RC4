@@ -1,0 +1,34 @@
+
+6org.exist.debuggee.dbgp.packets.Init#responseBytes()[Bx
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.java5 5("1*Ã
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.java6 6('Ñ
+Î
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.java: :(
+%0java.lang.String"__id*4*2&
+$org.exist.debuggee.dbgp.packets.Init"
+idekeyÕ
+Ò
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.java; ;(
+%1java.lang.String"__id*8*6&
+$org.exist.debuggee.dbgp.packets.Init"
+
+idesession­
+ª
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.java6 E( 
+init_messagejava.lang.String"__id*
+""Ú×
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.javaG	 G( 
+%2byte[]"java.lang.String#getBytes()[B*"
+ 
+init_messagejava.lang.String2
+getBytes()"Š
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Init.javaG G(!
+
+%2byte[]B(&
+$org.exist.debuggee.dbgp.packets.Init

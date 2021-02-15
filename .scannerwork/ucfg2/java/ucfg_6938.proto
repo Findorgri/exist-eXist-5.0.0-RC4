@@ -1,0 +1,16 @@
+
+Forg.exist.management.impl.Lock#getWaitingForWrite()[Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.javaI I(&"1* 
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.javaJ J(¼
+¹
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.javaJ J(
+%0java.lang.String[]"__id*7*5 
+org.exist.management.impl.Lock"
+waitingForWrite"|
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.javaJ J(
+
+%0java.lang.String[]B" 
+org.exist.management.impl.Lock

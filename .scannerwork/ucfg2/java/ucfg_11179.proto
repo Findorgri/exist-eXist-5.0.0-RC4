@@ -1,0 +1,66 @@
+
+Borg.exist.util.io.Resource#getConnection()Ljava/net/URLConnection;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÃ Ã('"18*£
+18\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÕ Õ(µ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÕ Õ(
+%0java.net.URLConnection"__id*.*,
+org.exist.util.io.Resource"
+
+connection*
+10
+1*û
+8\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java‘ ‘(5µ
+≤
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java‘ ‘(5,
+org.exist.util.io.Resource"
+
+connection"__id*
+
+%3java.net.URLConnection*
+1*›
+9\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java” ”(yí
+è
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java” ”(y
+urljava.net.URL"__id*
+
+%1java.net.URLﬂ‹
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java‘! ‘(5
+%3java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+urljava.net.URL2openConnection()*
+8*ü
+10\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java”, ”(wÉÄ
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java”( ”(+
+%1java.net.URL"java.net.URLØ
+¨
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java”$ ”(x
+%2"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%1java.net.URL*
+""*
+9*õ
+1\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaﬁ ﬁ(∂
+≥
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaﬁ ﬁ(
+%10java.net.URLConnection"__id*.*,
+org.exist.util.io.Resource"
+
+connection"
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaﬁ ﬁ(
+
+%10java.net.URLConnectionB
+org.exist.util.io.Resource

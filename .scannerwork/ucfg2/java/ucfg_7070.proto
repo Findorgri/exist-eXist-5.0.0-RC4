@@ -1,0 +1,52 @@
+
+@org.exist.debugger.dbgp.ResponseImpl#getText()Ljava/lang/String;x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javak k("3*Š
+2x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javan n(óð
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javan
+ n(!
+%4java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2	getData()"”
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javan n("
+
+%4java.lang.String*Œ	
+3x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javal l(Ü
+Ù
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javal l(
+%0org.w3c.dom.Element"__id*<*:&
+$org.exist.debugger.dbgp.ResponseImpl"
+parsedResponse÷ô
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javal l(,
+%1org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+%0org.w3c.dom.Element2getFirstChild()·
+´
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javal l(-
+nodeorg.w3c.dom.Node"__id*
+
+%1org.w3c.dom.NodeÖÓ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javam m(
+%2short"org.w3c.dom.Node#getNodeType()S*
+
+nodeorg.w3c.dom.Node2getNodeType()˜
+•
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javam m(*
+%3short"__id*
+""*
+2
+1*‚
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javap	 p("‚
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/dbgp/ResponseImpl.javap p(
+""B(&
+$org.exist.debugger.dbgp.ResponseImpl

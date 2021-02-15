@@ -1,0 +1,16 @@
+
+:org.exist.util.MimeType#getDescription()Ljava/lang/String;W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaC C( "1*ü
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaD D(¨
+¥
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaD D(
+%0java.lang.String"__id*,**
+org.exist.util.MimeType"
+description"s
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaD D(
+
+%0java.lang.StringB
+org.exist.util.MimeType

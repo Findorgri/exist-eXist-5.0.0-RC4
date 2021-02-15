@@ -1,0 +1,21 @@
+
+Horg.exist.backup.restore.listener.AbstractRestoreListener#hasProblems()Z{
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.java‚ ‚("1*º
+1{
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.javaƒ ƒ(é
+æ
+{
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.javaƒ ƒ(
+%0java.util.List"__id*K*I;
+9org.exist.backup.restore.listener.AbstractRestoreListener"
+
+problemsÃÀ
+{
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.javaƒ ƒ(	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()"…
+{
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.javaƒ ƒ(#
+""B=;
+9org.exist.backup.restore.listener.AbstractRestoreListener

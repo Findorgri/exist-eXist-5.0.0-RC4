@@ -1,0 +1,81 @@
+
+•org.exist.validation.resolver.unstable.ExistResolver#resolveEntity(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaP P($"1*ì
+1t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(ç
+ä
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(
+%0"__id*
+""¬
+ø
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S( 
+%1java.lang.String"__concat*	
+name=*
+
+namejava.lang.String≈
+¬
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(/
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+ publicId=’
+“
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(:
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+publicIdjava.lang.Stringƒ
+¡
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(H
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+	 baseURI=‘
+—
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(R
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+baseURIjava.lang.String≈
+¬
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(a
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+ systemId=’
+“
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaS S(l
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+
+systemIdjava.lang.String‰
+·
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaU U(7
+%8"Äorg.exist.validation.resolver.unstable.ExistResolver#resolveInputSource(LBrokerPool;Ljava/lang/String;)Lorg/xml/sax/InputSource;*86
+4org.exist.validation.resolver.unstable.ExistResolver*
+""*
+
+systemIdjava.lang.String"~
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/ExistResolver.javaU U(8
+
+%8:
+namejava.lang.String:
+publicIdjava.lang.String:
+baseURIjava.lang.String:
+systemIdjava.lang.StringB86
+4org.exist.validation.resolver.unstable.ExistResolver

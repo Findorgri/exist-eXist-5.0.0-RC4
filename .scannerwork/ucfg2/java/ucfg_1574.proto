@@ -1,0 +1,27 @@
+
+Torg.exist.webdav.MiltonDocument#getContentType(Ljava/lang/String;)Ljava/lang/String;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÆ Æ( "startingBlock*û
+startingBlocks
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÆ  Æ(0Á
+¾
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÅ Å(
+%0"
+__annotate*
+java.lang.Override*
+
+acceptsjava.lang.String«
+¨
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÆ( Æ(/
+acceptsjava.lang.String"__annotation*
+
+%0*
+1*÷
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÇ Ç("}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaÇ Ç(+
+"":
+acceptsjava.lang.StringB#!
+org.exist.webdav.MiltonDocument

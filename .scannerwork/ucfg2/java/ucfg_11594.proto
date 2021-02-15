@@ -1,0 +1,71 @@
+
+:org.exist.fluent.Folder$Event#toString()Ljava/lang/String;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javab b("1*®
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javac) c(.½
+º
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javac) c(9
+%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+""¦£
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javac c((
+%1java.lang.StringBuilder"java.lang.StringBuilderä
+á
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javac c(:
+%2"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
+
+%1java.lang.StringBuilder*
+
+%0java.lang.Stringµ
+²
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javac c(;
+bufjava.lang.StringBuilder"__id*
+
+%1java.lang.StringBuilder­ª
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javad d(
+%3java.lang.StringBuilder"Ljava.lang.StringBuilder#insert(ILjava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*2*	
+Folder.2insert(ILjava/lang/String;)ÐÍ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javae e(	
+%4int")java.lang.AbstractStringBuilder#length()I* 
+
+bufjava.lang.StringBuilder2length()Â
+¿
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javae% e(+
+%5org.exist.fluent.Folder"__id*-*+
+org.exist.fluent.Folder$Event"
+folder¹
+¶
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javae e(+
+%6java.lang.String"__concat*
+, *
+
+%5org.exist.fluent.Folder¼¹
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javae e(,
+%7java.lang.StringBuilder"Ljava.lang.StringBuilder#insert(ILjava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""*
+
+%6java.lang.String2insert(ILjava/lang/String;)êç
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaf
+ f(
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"…
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaf f(
+
+%8java.lang.StringB!
+org.exist.fluent.Folder$Event

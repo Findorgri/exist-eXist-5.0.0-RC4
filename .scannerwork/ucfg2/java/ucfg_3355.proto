@@ -1,0 +1,72 @@
+
+5org.exist.source.DBSource#getReader()Ljava/io/Reader;Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java| |("1*á
+1Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java} }(%á
+Ñ
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java} }(=
+isjava.io.InputStream"__id*
+""ûõ
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java~, ~(?!
+%0java.io.BufferedInputStream"java.io.BufferedInputStream‚
+ﬂ
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java~( ~(C
+%1":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%0java.io.BufferedInputStream*
+
+isjava.io.InputStream≠
+™
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java~ ~(D"
+bisjava.io.BufferedInputStream"__id*#
+!
+%0java.io.BufferedInputStream≈¬
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java (
+
+%2void"$java.io.BufferedInputStream#mark(I)V*$
+"
+bisjava.io.BufferedInputStream*2@2mark(I)Ú
+Ô
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.javaÄ Ä(
+
+%3void"?org.exist.source.DBSource#checkEncoding(Ljava/io/InputStream;)V*
+org.exist.source.DBSource*$
+"
+bisjava.io.BufferedInputStream¡æ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.javaÅ Å(
+
+%4void"$java.io.BufferedInputStream#reset()V*$
+"
+bisjava.io.BufferedInputStream2reset()´
+®
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.javaÇ* Ç(2
+%5java.lang.String"__id*+*)
+org.exist.source.DBSource"
+
+encodingúô
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.javaÇ Ç($
+%6java.io.InputStreamReader"java.io.InputStreamReaderï
+í
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.javaÇ Ç(3
+%7"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%6java.io.InputStreamReader*$
+"
+bisjava.io.BufferedInputStream*
+
+%5java.lang.String"Ä
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.javaÇ Ç(4!
+
+%6java.io.InputStreamReaderB
+org.exist.source.DBSource

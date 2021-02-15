@@ -1,0 +1,16 @@
+
+Eorg.exist.webstart.JnlpHelper#getExistJarFolder()Ljava/nio/file/Path;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaU U(!"1*›
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaV V(¹
+¶
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaV V(
+%0java.nio.file.Path"__id*5*3
+org.exist.webstart.JnlpHelper"
+existJarFolder"{
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaV V(
+
+%0java.nio.file.PathB!
+org.exist.webstart.JnlpHelper

@@ -1,0 +1,101 @@
+
+6org.exist.xquery.PathExpr#toString()Ljava/lang/String;[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaå å("15*⁄
+2[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.java§ §(ÚÔ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.java§ §("
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+)2	append(C)*
+1*˛
+14[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaê ê(ïí
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaê ê(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+()2append(Ljava/lang/String;)*
+1*Ô
+15[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaç% ç(8òï
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaç) ç(6
+%0java.lang.StringBuilder"java.lang.StringBuilder™
+ß
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaç% ç(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder™
+ß
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaç ç(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+2
+14
+5
+6
+7
+10
+1*Ù
+5[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.java† †(¸˘
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.java† †(.
+%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+2
+5
+6
+7
+10
+1*⁄
+6[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaù ù(ÚÔ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaù ù(*
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ 2	append(C)*
+5*¸
+7[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaõ õ(îë
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaõ õ(*
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+/2append(Ljava/lang/String;)*
+5*·
+10[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaó ó(ÚÔ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaó ó(&
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+(2	append(C)*	
+5
+6
+7*ª
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaß ß(ﬂ‹
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaß ß( 
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"w
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/PathExpr.javaß ß(!
+
+%8java.lang.StringB
+org.exist.xquery.PathExpr

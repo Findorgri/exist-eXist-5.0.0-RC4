@@ -1,0 +1,449 @@
+
+%org.exist.util.PorterStemmer#step3()V^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaï ï("51"1*…
+24^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¨
+ ¨(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¨
+ ¨(
+%22boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+ation*
+22
+23*”
+47^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaö ö(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaö ö(%
+
+%3void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+tion2r(Ljava/lang/String;)*
+0*”
+25^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´ ´(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´ ´(%
+%21void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ize2r(Ljava/lang/String;)*
+0*»
+48^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaö
+ ö(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaö
+ ö(
+%2boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+
+tional*
+47
+0*À
+26^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java™ Æ(⁄
+◊
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java´
+ ´(
+%20boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+ization*
+24
+25*“
+49^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaô ô(Ê„
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaô ô(%
+
+%1void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ate2r(Ljava/lang/String;)*
+0*”
+28^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java® ®(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java® ®(#
+%19void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ous2r(Ljava/lang/String;)*
+0*»
+29^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java®
+ ®(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java®
+ ®(
+%18boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+ousli*
+28
+0* 
+50^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaò õ(Ÿ
+÷
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaô
+ ô(
+%0boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+ational*
+48
+49*Œ
+51^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javañ ñ("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javañ ñ(
+""*—
+30^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaß ß(Â‚
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaß ß(
+%17void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+e2r(Ljava/lang/String;)*
+0*«
+31^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaß
+ ß(÷
+”
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaß
+ ß(
+%16boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+eli*
+29
+30*«
+10^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaµ π(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∂
+ ∂(
+%34boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+aliti*
+8
+9*”
+32^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¶ ¶(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¶ ¶(#
+%15void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ent2r(Ljava/lang/String;)*
+0*…
+33^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¶
+ ¶(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¶
+ ¶(
+%14boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+entli*
+31
+32*“
+34^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java• •(Ê„
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java• •(!
+%13void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+al2r(Ljava/lang/String;)*
+0*”
+12^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≥ ≥(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≥ ≥(%
+%33void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ous2r(Ljava/lang/String;)*
+0*»
+35^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java•
+ •(◊
+‘
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java•
+ •(
+%12boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+alli*
+33
+34* 
+13^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≥
+ ≥(⁄
+◊
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≥
+ ≥(
+%32boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+ousness*
+0
+12*”
+36^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java§ §(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java§ §(!
+%11void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ble2r(Ljava/lang/String;)*
+0*”
+14^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≤ ≤(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≤ ≤(%
+%31void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ful2r(Ljava/lang/String;)*
+0*«
+37^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java£ ©(÷
+”
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java§
+ §(
+%10boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+bli*
+35
+36*À
+15^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≤
+ ≤(⁄
+◊
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≤
+ ≤(
+%30boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+fulness*
+13
+14*”
+16^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java± ±(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java± ±(%
+%29void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ive2r(Ljava/lang/String;)*
+0*“
+39^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java° °(Ê„
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java° °("
+
+%9void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ize2r(Ljava/lang/String;)*
+0*À
+17^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java±
+ ±(⁄
+◊
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java±
+ ±(
+%28boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+iveness*
+15
+16*“
+18^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∞ ∞(Ê„
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∞ ∞("
+%27void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+al2r(Ljava/lang/String;)*
+0*…
+19^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaØ ¥(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∞
+ ∞(
+%26boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+alism*
+17
+18*|
+0 "u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaΩ Ω(
+implicit return*´
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaó ó(°
+û
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaó ó(
+%42char[]"__id*'*%
+org.exist.util.PorterStemmer"
+b*"
+3
+26
+37
+19
+50
+40
+10
+0
+45*“
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaª ª(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaª ª("
+%41void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+log2r(Ljava/lang/String;)*
+0*≈
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∫ ª(,◊
+‘
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaª
+ ª(
+%40boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+logi*
+2
+0*“
+5^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∏ ∏(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∏ ∏($
+%39void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ble2r(Ljava/lang/String;)*
+0*«
+6^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∏
+ ∏(Ÿ
+÷
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∏
+ ∏(
+%38boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+
+biliti*
+5
+0*“
+7^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∑ ∑(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∑ ∑(#
+%37void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ive2r(Ljava/lang/String;)*
+0*∆
+8^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∑
+ ∑(ÿ
+’
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∑
+ ∑(
+%36boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*	
+iviti*
+6
+7*—
+9^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∂ ∂(Ê„
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java∂ ∂("
+%35void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+al2r(Ljava/lang/String;)*
+0*∆
+40^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java† ¢(÷
+”
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java°
+ °(
+%8boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+izer*
+39
+0*”
+42^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaû û(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaû û(#
+
+%7void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ance2r(Ljava/lang/String;)*
+0*∆
+43^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaû
+ û(÷
+”
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaû
+ û(
+%6boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+anci*
+42
+0*”
+21^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≠ ≠(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≠ ≠("
+%25void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ate2r(Ljava/lang/String;)*
+0*”
+44^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaù ù(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaù ù(#
+
+%5void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ence2r(Ljava/lang/String;)*
+0*«
+22^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≠
+ ≠(◊
+‘
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java≠
+ ≠(
+%24boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+ator*
+21
+0*«
+45^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaú ü(÷
+”
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaù
+ ù(
+%4boolean"6org.exist.util.PorterStemmer#ends(Ljava/lang/String;)Z* 
+org.exist.util.PorterStemmer*
+enci*
+43
+44*”
+23^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¨ ¨(Á‰
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java¨ ¨(#
+%23void"3org.exist.util.PorterStemmer#r(Ljava/lang/String;)V* 
+org.exist.util.PorterStemmer*
+ate2r(Ljava/lang/String;)*
+0B 
+org.exist.util.PorterStemmer

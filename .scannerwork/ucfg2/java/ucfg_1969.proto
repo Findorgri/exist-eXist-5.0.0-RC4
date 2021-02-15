@@ -1,0 +1,39 @@
+
+Forg.exist.dom.persistent.ElementImpl#getPrefixes()Ljava/util/Iterator;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java·
+ ·
+('"1*à
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¸
+ ¸
+( Ç
+Ä
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¸
+ ¸
+( 
+%0java.util.Map"__id*?*=&
+$org.exist.dom.persistent.ElementImpl"
+namespaceMappingsÈÅ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¸
+ ¸
+()
+%1java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%0java.util.Map2keySet()ÖÓ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¸
+ ¸
+(4
+%2java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*
+
+%1java.util.Set2
+iterator()"„
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¸
+ ¸
+(5
+
+%2java.util.IteratorB(&
+$org.exist.dom.persistent.ElementImpl

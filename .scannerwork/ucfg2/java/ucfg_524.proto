@@ -1,0 +1,67 @@
+
+;org.exist.numbering.DLNBase#toBitString()Ljava/lang/String;]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaµ µ("5*÷
+3]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¹ ¹(á
+Þ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¹ ¹('
+%4java.lang.String"<org.exist.numbering.DLNBase#toBitString(B)Ljava/lang/String;*"
+org.exist.numbering.DLNBase*
+""¦£
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¹ ¹((
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+%4java.lang.String2append(Ljava/lang/String;)*
+3
+1*Ž
+4]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¸ ¸(¡
+ž
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¸ ¸(
+%3byte[]"__id*)*'
+org.exist.numbering.DLNBase"
+bits*
+3
+1*ƒ
+5]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¶" ¶(5š—
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¶& ¶(3
+%0java.lang.StringBuilder"java.lang.StringBuilder¬
+©
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¶" ¶(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder©
+¦
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¶ ¶(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¡
+ž
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java· ·(
+%2byte[]"__id*)*'
+org.exist.numbering.DLNBase"
+bits*
+4*¾
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java» »(ÞÛ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java» »(
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"y
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java» »(
+
+%6java.lang.StringB
+org.exist.numbering.DLNBase

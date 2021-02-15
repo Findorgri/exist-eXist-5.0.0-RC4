@@ -1,0 +1,69 @@
+
+forg.exist.xmlrpc.RpcConnection#copyCollection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù ù(!"startingBlock*ø
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù! ù(rµ
+²
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaø ø(
+%1"
+__annotate*
+java.lang.Override*$
+"
+collectionPathjava.lang.StringŸ
+œ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù/ ù(="
+collectionPathjava.lang.String"__annotation*
+
+%1¶
+³
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaø ø(
+%2"
+__annotate*
+java.lang.Override*%
+#
+destinationPathjava.lang.String 
+
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaùL ù([#
+destinationPathjava.lang.String"__annotation*
+
+%2®
+«
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaø ø(
+%3"
+__annotate*
+java.lang.Override*
+
+newNamejava.lang.String˜
+•
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaùj ù(q
+newNamejava.lang.String"__annotation*
+
+%3*
+1*¹
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú ú(#åâ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú ú(j
+%0"{org.exist.xmlrpc.RpcConnection#moveOrCopyCollection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLPreserveType;)Z*" 
+org.exist.xmlrpc.RpcConnection*$
+"
+collectionPathjava.lang.String*%
+#
+destinationPathjava.lang.String*
+
+newNamejava.lang.String*
+""*
+""2[moveOrCopyCollection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ZLPreserveType;)"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú ú(k
+"":"
+collectionPathjava.lang.String:#
+destinationPathjava.lang.String:
+newNamejava.lang.StringB" 
+org.exist.xmlrpc.RpcConnection

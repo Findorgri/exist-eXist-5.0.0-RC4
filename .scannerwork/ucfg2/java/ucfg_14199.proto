@@ -1,0 +1,50 @@
+
+@org.exist.fluent.ItemList$NodesFacet#equals(Ljava/lang/Object;)Zm
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java‘ ‘(!"startingBlock*Ô
+2m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java’& ’(.Â
+¿
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java’& ’(3
+%0org.exist.fluent.ItemList"__id*'*%
+org.exist.fluent.ItemList"
+thisø
+õ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java’; ’(V
+%1org.exist.fluent.ItemList"Jorg.exist.fluent.ItemList$NodesFacet#itemList()Lorg/exist/fluent/ItemList;*
+
+ojava.lang.Objectš—
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java’& ’(W
+%2boolean"5org.exist.fluent.ItemList#equals(Ljava/lang/Object;)Z*!
+
+%0org.exist.fluent.ItemList*!
+
+%1org.exist.fluent.ItemList2equals(Ljava/lang/Object;)*
+1*à
+startingBlockm
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java‘! ‘(+µ
+²
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java‘ ‘(
+%3"
+__annotate*
+java.lang.Override*
+
+ojava.lang.ObjectŸ
+œ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java‘) ‘(*
+ojava.lang.Object"__annotation*
+
+%3*
+2
+1*ë
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java’ ’(Y"w
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ItemList.java’ ’(Y
+"":
+ojava.lang.ObjectB(&
+$org.exist.fluent.ItemList$NodesFacet

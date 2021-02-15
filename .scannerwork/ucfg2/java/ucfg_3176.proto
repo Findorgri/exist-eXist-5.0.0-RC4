@@ -1,0 +1,52 @@
+
+Torg.exist.xmldb.IndexingTest#addChildren(Lorg/w3c/dom/Node;ILorg/w3c/dom/Document;)Ic
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java÷ ÷("3"7"1*à
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaÿ ÿ( Ÿœ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaÿ ÿ(9
+%2org.w3c.dom.Element"Korg.w3c.dom.Document#createElement(Ljava/lang/String;)Lorg/w3c/dom/Element;*
+
+docorg.w3c.dom.Document*	
+element2!createElement(Ljava/lang/String;)¦
+£
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaÿ ÿ(:
+elorg.w3c.dom.Element"__id*
+
+%2org.w3c.dom.Element¢Ÿ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java€ €((
+%3org.w3c.dom.Node"Borg.w3c.dom.Node#appendChild(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;*
+
+rootElemorg.w3c.dom.Node*
+
+elorg.w3c.dom.Element2appendChild(Lorg/w3c/dom/Node;)*
+3
+1*é
+7c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaû û( ´
+±
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaû û( 
+%0java.util.Random"__id*,**
+org.exist.xmldb.IndexingTest"
+random¿¼
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaû û(0	
+%1int"java.util.Random#nextInt(I)I*
+
+%0java.util.Random*
+""2
+nextInt(I)*
+3
+1*×
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaƒ ƒ("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaƒ ƒ(
+"":
+rootElemorg.w3c.dom.Node:
+"":
+docorg.w3c.dom.DocumentB 
+org.exist.xmldb.IndexingTest

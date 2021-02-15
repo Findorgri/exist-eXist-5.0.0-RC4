@@ -1,0 +1,13 @@
+
+&org.exist.xmldb.XmldbURI#isAbsolute()ZZ
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¨ ¨("1*¦
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java© ©('ÞÛ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java© ©()
+%0boolean"4org.exist.xmldb.XmldbURI#isCollectionPathAbsolute()Z*
+org.exist.xmldb.XmldbURI2isCollectionPathAbsolute()"d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java© ©(*
+""B
+org.exist.xmldb.XmldbURI

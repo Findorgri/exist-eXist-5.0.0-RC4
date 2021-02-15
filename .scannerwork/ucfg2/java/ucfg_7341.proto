@@ -1,0 +1,57 @@
+
+yorg.exist.xquery.functions.fn.FunResolveQName#findNamespaceURI(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¼ ¼()"5*Œ
+2o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.javaÀ À("•
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.javaÀ À( "
+ 
+namespaceURIjava.lang.String*ò
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¿A ¿(Gëè
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¿O ¿(b
+%2java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element2getPrefix()…‚
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¿A ¿(c
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+prefixjava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*È
+4o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¿$ ¿(0ÉÆ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¿$ ¿(9	
+%1int"java.lang.String#length()I*"
+ 
+namespaceURIjava.lang.String2length()*
+3
+1*¯
+5o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¾$ ¾(+÷ô
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¾$ ¾(=
+%0java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;* 
+
+elementorg.w3c.dom.Element2getNamespaceURI()¶
+³
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.java¾ ¾(> 
+namespaceURIjava.lang.String"__id*
+
+%0java.lang.String*
+4
+1*ï
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.javaÂ Â("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunResolveQName.javaÂ Â(
+"":
+elementorg.w3c.dom.Element:
+prefixjava.lang.StringB1"/
+-org.exist.xquery.functions.fn.FunResolveQName

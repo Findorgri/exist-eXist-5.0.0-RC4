@@ -1,0 +1,55 @@
+
+borg.exist.indexing.IndexController#configure(Lorg/w3c/dom/NodeList;Ljava/util/Map;)Ljava/util/Map;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaO O(("6*•
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaT T(≥
+∞
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaT T(7
+%2"__mapSet*
+
+mapjava.util.Map*
+""*
+
+confjava.lang.Object*
+4
+1*Ñ
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaR  R(+è
+å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaR R(U
+confjava.lang.Object"__id*
+""*	
+3
+4
+1*Œ
+6b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaP( P(7ìê
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaP, P(5
+%0java.util.HashMap"java.util.HashMap•
+¢
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaP( P(7
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMapû
+õ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaP P(8
+mapjava.util.Map"__id*
+
+%0java.util.HashMap*
+4
+1*Â
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaW W("|
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/indexing/IndexController.javaW W(
+
+mapjava.util.Map:#
+configNodesorg.w3c.dom.NodeList:
+
+namespacesjava.util.MapB&$
+"org.exist.indexing.IndexController

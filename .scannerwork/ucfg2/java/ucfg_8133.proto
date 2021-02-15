@@ -1,0 +1,42 @@
+
+Yorg.exist.xmldb.LocalXPathQueryService#getNamespace(Ljava/lang/String;)Ljava/lang/String;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javad d("startingBlock*Ò
+startingBlockf
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javad d(3³
+°
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javac c(
+%2"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.String
+š
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javad, d(2
+prefixjava.lang.String"__annotation*
+
+%2*
+1*†
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javae e(Ê
+Ç
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javae e(
+%0java.util.TreeMap"__id*>*<(
+&org.exist.xmldb.LocalXPathQueryService"
+namespaceDeclsÆ
+Ã
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javae e()
+%1java.lang.String"__mapGet*
+
+%0java.util.TreeMap*
+
+prefixjava.lang.String"‚
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javae e(*
+
+%1java.lang.String:
+prefixjava.lang.StringB*(
+&org.exist.xmldb.LocalXPathQueryService

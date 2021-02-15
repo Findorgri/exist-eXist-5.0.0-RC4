@@ -1,0 +1,57 @@
+
+Oorg.exist.xmldb.XmldbURI#getXmldbURI(Ljava/net/URI;Z)Lorg/exist/xmldb/XmldbURI;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‡ ‡('"5*Å
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‰$ ‰('"d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‰ ‰(8
+""*¯
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaˆI ˆ(LÅÂ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaˆI ˆ(W
+%2java.lang.String")java.net.URI#getQuery()Ljava/lang/String;*
+
+urijava.net.URI2
+getQuery()*
+2
+1*µ
+4Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaˆ* ˆ(-ËÈ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaˆ* ˆ(;
+%1java.lang.String",java.net.URI#getFragment()Ljava/lang/String;*
+
+urijava.net.URI2getFragment()*
+2
+3*±
+5Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaˆ ˆ(ÇÄ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaˆ ˆ(
+%0java.lang.String"*java.net.URI#getScheme()Ljava/lang/String;*
+
+urijava.net.URI2getScheme()*
+2
+4*×
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‹ ‹(™–
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‹ ‹(
+%3org.exist.xmldb.XmldbURI"org.exist.xmldb.XmldbURIÙ
+Ö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‹ ‹(/
+%4"1org.exist.xmldb.XmldbURI#<init>(Ljava/net/URI;Z)V* 
+
+%3org.exist.xmldb.XmldbURI*
+
+urijava.net.URI*
+"""~
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java‹ ‹(0 
+
+%3org.exist.xmldb.XmldbURI:
+urijava.net.URI:
+""B"
+org.exist.xmldb.XmldbURI

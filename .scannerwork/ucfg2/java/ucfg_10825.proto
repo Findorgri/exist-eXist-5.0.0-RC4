@@ -1,0 +1,101 @@
+
+[org.exist.util.FastStringBuffer#diagnosticPrint(Ljava/lang/CharSequence;)Ljava/lang/String;a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaò ò(("11*è
+4a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.java° °(∏µ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.java°  °(E
+
+%7char"java.lang.String#charAt(I)C*
+0123456789abcdef*
+""2	charAt(I)‚ﬂ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.java° °(F
+
+%8void"*org.exist.util.FastStringBuffer#append(C)V*)
+'
+bufforg.exist.util.FastStringBuffer*
+
+
+%7char2	append(C)*
+4
+10*Ò
+6a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaü ü(ˇ¸
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaü ü("
+
+%6void";org.exist.util.FastStringBuffer#append(Ljava/lang/String;)V*)
+'
+bufforg.exist.util.FastStringBuffer*
+\\u2append(Ljava/lang/String;)*
+4
+10*À
+7a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaù ù(‹Ÿ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaù ù(
+
+%5void"*org.exist.util.FastStringBuffer#append(C)V*)
+'
+bufforg.exist.util.FastStringBuffer*
+""2	append(C)*
+10*π
+9a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaõ õ(»≈
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaõ õ('
+
+%4char"!java.lang.CharSequence#charAt(I)C*
+
+injava.lang.CharSequence*
+""2	charAt(I)*
+6
+7*Ø
+10a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaö ö(Ω∫
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaö ö(#	
+%3int" java.lang.CharSequence#length()I*
+
+injava.lang.CharSequence2length()*
+9
+1*Î
+11a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaô; ô(=Ω∫
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaô; ô(F	
+%0int" java.lang.CharSequence#length()I*
+
+injava.lang.CharSequence2length()Æ´
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaô* ô(:%
+%1org.exist.util.FastStringBuffer"org.exist.util.FastStringBuffer…
+∆
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaô& ô(I
+%2"*org.exist.util.FastStringBuffer#<init>(I)V*'
+%
+%1org.exist.util.FastStringBuffer*
+""æ
+ª
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaô ô(J'
+bufforg.exist.util.FastStringBuffer"__id*'
+%
+%1org.exist.util.FastStringBuffer*
+10*€
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.java• •(Û
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.java• •(
+%9java.lang.String"<org.exist.util.FastStringBuffer#toString()Ljava/lang/String;*)
+'
+bufforg.exist.util.FastStringBuffer2
+toString()"}
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.java• •(
+
+%9java.lang.String:
+injava.lang.CharSequenceB#"!
+org.exist.util.FastStringBuffer

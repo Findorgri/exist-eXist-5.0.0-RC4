@@ -1,0 +1,55 @@
+
+Norg.exist.client.InteractiveClient#getSystemProperties()Ljava/util/Properties;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¾ ¾(0"6*ü
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â({‹ˆ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â({
+
+%4void"1java.util.Properties#load(Ljava/io/InputStream;)V*'
+%
+sysPropertiesjava.util.Properties*
+
+%3java.io.InputStream2load(Ljava/io/InputStream;)*
+1*²
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ\ Â(yÁ¾
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â(z
+%3java.io.InputStream"Rjava.lang.ClassLoader#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
+
+%2java.lang.ClassLoader*
+org/exist/system.properties2'getResourceAsStream(Ljava/lang/String;)*
+3*Ê
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â(ÙÖ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÂ Â(G
+%2java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+""2getClassLoader()*
+4*ó
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ) À(9›˜
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ- À(7
+%0java.util.Properties"java.util.Properties­
+ª
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ) À(9
+%1"java.util.Properties#<init>()V*
+
+%0java.util.Properties´
+±
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ À(:%
+sysPropertiesjava.util.Properties"__id*
+
+%0java.util.Properties*
+5*û
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÇ Ç("
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÇ Ç('
+%
+sysPropertiesjava.util.PropertiesB&"$
+"org.exist.client.InteractiveClient

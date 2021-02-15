@@ -1,0 +1,151 @@
+
+rorg.exist.management.client.JMXtoXML#generateXMLReport(Ljava/lang/String;[Ljava/lang/String;)Lorg/w3c/dom/Element;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java¯ ¯($"23*Ò
+16f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÖ Ö(~
+|
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÖ% Ö(.
+%8"__id*
+""*
+7*“
+7f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaä ä(&ó
+î
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaä ä(&
+categoryjava.lang.String"__id*
+""¡
+æ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaä ä(&
+categoryjava.lang.String"
+__arrayGet*"
+ 
+
+categoriesjava.lang.String[]*
+""*
+12
+1*Œ
+19f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÅ Å(~
+|
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÅ% Å(8
+%5"__id*
+""—
+Œ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÅ: Å(=+
+%6%javax.management.remote.JMXServiceURL"__id*1*/&
+$org.exist.management.client.JMXtoXML"
+urlÇˇ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÅ: Å(H
+%7java.lang.String"Bjavax.management.remote.JMXServiceURL#toString()Ljava/lang/String;*-
++
+%6%javax.management.remote.JMXServiceURL2
+toString()*
+16
+7*Â
+8f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaå å(*û
+õ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaå å(*#
+namejavax.management.ObjectName"__id*
+""Œ
+À
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaå å(*#
+namejavax.management.ObjectName"
+__arrayGet*(
+&
+namesjavax.management.ObjectName[]*
+""*
+7
+9*†
+9f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaç ç(≠
+™
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaç ç(.
+%11"`org.exist.management.client.JMXtoXML#queryMBeans(LMemTreeBuilder;Ljavax/management/ObjectName;)V*(&
+$org.exist.management.client.JMXtoXML*
+""*%
+#
+namejavax.management.ObjectName*
+8*Õ
+20f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÄ Ä(—
+Œ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaÄ Ä(+
+%4%javax.management.remote.JMXServiceURL"__id*1*/&
+$org.exist.management.client.JMXtoXML"
+url*
+16
+7
+19*‘
+22f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaˇ ˇ(~
+|
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaˇ! ˇ(-
+%1"__id*
+""Ñ
+Å
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaˇ@ ˇ(G	
+%2int"__id*
+""ÿ
+’
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaˇ/ ˇ(H
+%3java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+	
+%2int*
+20*µ
+11f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaã ã(D¡
+æ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaã ã(D&
+namesjavax.management.ObjectName[]"__id*&
+$
+%10javax.management.ObjectName[]*
+8*Ú
+23f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java˛ ˛(~
+|
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java˛! ˛(,
+%0"__id*
+""*
+22*ÿ
+12f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaã+ ã(5é
+ã
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaã+ ã(5
+%9java.util.Map"__id*
+""“
+œ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaã+ ã(C$
+%10javax.management.ObjectName[]"__mapGet*
+
+%9java.util.Map*
+
+categoryjava.lang.String*
+11*›
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaô ô( "p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaô ô(:
+"":
+errcodejava.lang.String: 
+
+categoriesjava.lang.String[]B(&
+$org.exist.management.client.JMXtoXML

@@ -1,0 +1,629 @@
+
+9org.exist.indexing.ngram.CustomIndexTest#xupdateInsert()Và
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaª ª("77*‹
+24à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaà à(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaà à(.
+%49"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+ir9*2*
+21*‹
+25à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaá á(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaá á(.
+%48"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+cha*2*
+24*‹
+26à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÜ Ü(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÜ Ü(.
+%47"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+999*2*
+25*Î
+49à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java„' „(Q«ƒ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java„+ „(6
+%23org.xml.sax.InputSource"org.xml.sax.InputSourceâ
+Ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java„' „(Q
+%24"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%23org.xml.sax.InputSource*
+
+%21java.io.StringReader*
+44*€
+70à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¬ ¬(√
+¿
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¬ ¬(.
+%3"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+le8*2*
+59*€
+71à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaø ø(@√
+¿
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¡ ¡(.
+%2"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+cha*2*
+70*†
+50à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaﬁ ﬁ(!Ó
+Î
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaﬁ ﬁ(!
+%15java.lang.String"__id*?*=*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_STARTà
+Ö
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaﬁ ﬂ(L
+%16java.lang.String"__concat*
+
+%15java.lang.String*:8
+6       <xu:insert-before select=\"//item[@id = '1']\">©
+¶
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaﬁ ‡(m
+%17java.lang.String"__concat*
+
+%16java.lang.String*[Y
+W           <item id='0'><description>Wheelchair</description><price>1230</price></item>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaﬁ ·(0
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+       </xu:insert-before>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java‚ ‚(
+%19java.lang.String"__id*=*;*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_ENDÁ
+‰
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaﬁ ‚(
+%20java.lang.String"__concat*
+
+%18java.lang.String*
+
+%19java.lang.StringÃ
+…
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java› ‚(
+xupdatejava.lang.String"__id*
+
+%20java.lang.String¡æ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java„; „(G
+%21java.io.StringReader"java.io.StringReaderÖ
+Ç
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java„7 „(P
+%22"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%21java.io.StringReader*
+
+xupdatejava.lang.String*
+49*ã
+74à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaæ- æ(fÛ
+
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaæ- æ(f
+%1"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+""*
+71*‹
+53à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaŸ Ÿ(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaŸ Ÿ(.
+%14"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+arm*2*
+50*Î
+31à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÅ' Å(Q«ƒ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÅ+ Å(6
+%45org.xml.sax.InputSource"org.xml.sax.InputSourceâ
+Ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÅ' Å(Q
+%46"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%45org.xml.sax.InputSource*
+
+%43java.io.StringReader*
+26*
+32à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¸ ¸(!Ó
+Î
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¸ ¸(!
+%37java.lang.String"__id*?*=*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_STARTì
+ê
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¸ ˝(W
+%38java.lang.String"__concat*
+
+%37java.lang.String*EC
+A       <xu:insert-after select=\"//item[@id = '1']/description\">Ô
+Ï
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¸ ˛(3
+%39java.lang.String"__concat*
+
+%38java.lang.String*!
+           <price>999</price>Î
+Ë
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¸ ˇ(/
+%40java.lang.String"__concat*
+
+%39java.lang.String*
+       </xu:insert-after>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÄ Ä(
+%41java.lang.String"__id*=*;*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_ENDÁ
+‰
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java¸ Ä(
+%42java.lang.String"__concat*
+
+%40java.lang.String*
+
+%41java.lang.StringÃ
+…
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java˚ Ä(
+xupdatejava.lang.String"__id*
+
+%42java.lang.String¡æ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÅ; Å(G
+%43java.io.StringReader"java.io.StringReaderÖ
+Ç
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÅ7 Å(P
+%44"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%43java.io.StringReader*
+
+xupdatejava.lang.String*
+31*∫
+77à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaº  º(3¢
+ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaº  º(3
+%0"__id*
+""*
+74*€
+12à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaõ õ(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaõ õ(.
+%63"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+att*2*
+9*‹
+35à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java˜ ˜(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java˜ ˜(.
+%36"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+ref*2*
+32*‹
+13à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaô ô(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaô ô(.
+%62"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+88c*2*
+12*Î
+58à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java‘6 ‘(`«ƒ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java‘: ‘(E
+%12org.xml.sax.InputSource"org.xml.sax.InputSourceâ
+Ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java‘6 ‘(`
+%13"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%12org.xml.sax.InputSource*
+
+%10java.io.StringReader*
+53*‹
+14à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaò ò(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaò ò(.
+%61"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+888*2*
+13*Î
+59à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaœ œ(!Ì
+Í
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaœ œ(!
+%4java.lang.String"__id*?*=*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_STARTÔ
+Ï
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaœ –(5
+%5java.lang.String"__concat*
+
+%4java.lang.String*#!
+   <xu:append select=\"/test\">†
+ù
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaœ —(f
+%6java.lang.String"__concat*
+
+%5java.lang.String*TR
+P       <item id='4'><description>Armchair</description><price>340</price></item>ﬂ
+‹
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaœ “(%
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+   </xu:append>Î
+Ë
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java” ”(
+%8java.lang.String"__id*=*;*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_END‰
+·
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaœ ”(
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8java.lang.StringÀ
+»
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaŒ ”( 
+xupdatejava.lang.String"__id*
+
+%9java.lang.String¡æ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java‘J ‘(V
+%10java.io.StringReader"java.io.StringReaderÖ
+Ç
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java‘F ‘(_
+%11"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%10java.io.StringReader*
+
+xupdatejava.lang.String*
+58*‹
+15à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaó ó(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaó ó(.
+%60"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+999*2*
+14*®
+0 "†
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java≠ ≠(
+implicit return*⁄
+2à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java© ©(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java© ©(.
+%75"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+abc*2*
+0*ÿ
+3à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java® ®(¬
+ø
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java® ®(.
+%74"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+att*2 *
+2*È
+8à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java§' §(Q«ƒ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java§+ §(6
+%72org.xml.sax.InputSource"org.xml.sax.InputSourceâ
+Ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java§' §(Q
+%73"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%72org.xml.sax.InputSource*
+
+%70java.io.StringReader*
+3*Ú
+9à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaü ü(!Ó
+Î
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaü ü(!
+%64java.lang.String"__id*?*=*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_STARTÅ
+˛
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaü †(E
+%65java.lang.String"__concat*
+
+%64java.lang.String*31
+/       <xu:append select=\"//item[@id = '1']\">ã
+à
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaü °(O
+%66java.lang.String"__concat*
+
+%65java.lang.String*=;
+9           <xu:attribute name=\"attr\">abc</xu:attribute>Â
+‚
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaü ¢()
+%67java.lang.String"__concat*
+
+%66java.lang.String*
+       </xu:append>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java£ £(
+%68java.lang.String"__id*=*;*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_ENDÁ
+‰
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaü £(
+%69java.lang.String"__concat*
+
+%67java.lang.String*
+
+%68java.lang.StringÃ
+…
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaû £(
+xupdatejava.lang.String"__id*
+
+%69java.lang.String¡æ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java§; §(G
+%70java.io.StringReader"java.io.StringReaderÖ
+Ç
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.java§7 §(P
+%71"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%70java.io.StringReader*
+
+xupdatejava.lang.String*
+8*Î
+40à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÚ' Ú(Q«ƒ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÚ+ Ú(6
+%34org.xml.sax.InputSource"org.xml.sax.InputSourceâ
+Ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÚ' Ú(Q
+%35"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%34org.xml.sax.InputSource*
+
+%32java.io.StringReader*
+35*°
+41à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÌ Ì(!Ó
+Î
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÌ Ì(!
+%26java.lang.String"__id*?*=*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_STARTá
+Ñ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÌ Ó(K
+%27java.lang.String"__concat*
+
+%26java.lang.String*97
+5       <xu:insert-after select=\"//item[@id = '1']\">¨
+©
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÌ Ô(p
+%28java.lang.String"__concat*
+
+%27java.lang.String*^\
+Z           <item id='1.1'><description>refrigerator</description><price>777</price></item>Î
+Ë
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÌ (/
+%29java.lang.String"__concat*
+
+%28java.lang.String*
+       </xu:insert-after>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÒ Ò(
+%30java.lang.String"__id*=*;*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_ENDÁ
+‰
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÌ Ò(
+%31java.lang.String"__concat*
+
+%29java.lang.String*
+
+%30java.lang.StringÃ
+…
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÏ Ò(
+xupdatejava.lang.String"__id*
+
+%31java.lang.String¡æ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÚ; Ú(G
+%32java.io.StringReader"java.io.StringReaderÖ
+Ç
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaÚ7 Ú(P
+%33"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%32java.io.StringReader*
+
+xupdatejava.lang.String*
+40*Î
+20à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaí' í(Q«ƒ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaí+ í(6
+%58org.xml.sax.InputSource"org.xml.sax.InputSourceâ
+Ü
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaí' í(Q
+%59"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%58org.xml.sax.InputSource*
+
+%56java.io.StringReader*
+15*Ú
+21à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaç ç(!Ó
+Î
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaç ç(!
+%50java.lang.String"__id*?*=*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_STARTî
+ë
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaç é(X
+%51java.lang.String"__concat*
+
+%50java.lang.String*FD
+B       <xu:insert-before select=\"//item[@id = '1']/description\">Ô
+Ï
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaç è(3
+%52java.lang.String"__concat*
+
+%51java.lang.String*!
+           <price>888</price>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaç ê(0
+%53java.lang.String"__concat*
+
+%52java.lang.String*
+       </xu:insert-before>Ï
+È
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaë ë(
+%54java.lang.String"__id*=*;*
+(org.exist.indexing.ngram.CustomIndexTest"
+XUPDATE_ENDÁ
+‰
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaç ë(
+%55java.lang.String"__concat*
+
+%53java.lang.String*
+
+%54java.lang.StringÃ
+…
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaå ë(
+xupdatejava.lang.String"__id*
+
+%55java.lang.String¡æ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaí; í(G
+%56java.io.StringReader"java.io.StringReaderÖ
+Ç
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaí7 í(P
+%57"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%56java.io.StringReader*
+
+xupdatejava.lang.String*
+20*‹
+44à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaË Ë(ƒ
+¡
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/test/src/org/exist/indexing/ngram/CustomIndexTest.javaË Ë(.
+%25"`org.exist.indexing.ngram.CustomIndexTest#checkIndex(LDBBroker;LDocumentSet;Ljava/lang/String;I)V*,*
+(org.exist.indexing.ngram.CustomIndexTest*
+""*
+""*
+hee*2*
+41B,*
+(org.exist.indexing.ngram.CustomIndexTest

@@ -1,0 +1,28 @@
+
+borg.exist.client.security.UmaskEditorFormatter#stringToValue(Ljava/lang/String;)Ljava/lang/Object;n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskEditorFormatter.java% %("startingBlock*æ
+startingBlockn
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskEditorFormatter.java% %(,¹
+¶
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskEditorFormatter.java$ $(
+%0"
+__annotate*
+java.lang.Override*
+
+textjava.lang.String£
+ 
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskEditorFormatter.java%' %(+
+textjava.lang.String"__annotation*
+
+%0*
+1*‚
+1n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskEditorFormatter.java& &("Œ
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UmaskEditorFormatter.java& &(
+
+textjava.lang.String:
+textjava.lang.StringB20
+.org.exist.client.security.UmaskEditorFormatter

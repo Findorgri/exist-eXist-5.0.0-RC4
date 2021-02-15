@@ -1,0 +1,26 @@
+
+Norg.exist.collections.triggers.TriggerStatePerThread#getTriggerRunningState()Iv
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/TriggerStatePerThread.javaÜ Ü()"1*±
+1v
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/TriggerStatePerThread.javaá	 á(Ò
+Ó
+v
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/TriggerStatePerThread.javaá	 á(
+%0java.lang.ThreadLocal"__id*Q*O6
+4org.exist.collections.triggers.TriggerStatePerThread"
+triggerRunningStateôñ
+v
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/TriggerStatePerThread.javaá	 á("G
+%1Aorg.exist.collections.triggers.TriggerStatePerThread$TriggerState"-java.lang.ThreadLocal#get()Ljava/lang/Object;*
+
+%0java.lang.ThreadLocal2get()†
+ù
+v
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/TriggerStatePerThread.javaá	 á(-	
+%2int"Morg.exist.collections.triggers.TriggerStatePerThread$TriggerState#getState()I*I
+G
+%1Aorg.exist.collections.triggers.TriggerStatePerThread$TriggerState"Ä
+v
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/TriggerStatePerThread.javaá á(.
+""B8"6
+4org.exist.collections.triggers.TriggerStatePerThread

@@ -1,0 +1,53 @@
+
+eorg.exist.dom.persistent.QNamePool#hashCode(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;B)Id
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÀ À("4*·
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÃ, Ã(2¼¹
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÃ, Ã(=	
+%4int"java.lang.String#hashCode()I*
+
+prefixjava.lang.String2
+hashCode()‡
+„
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÃ, Ã(=	
+%2int"__id*
+	
+%4int*
+1*ø
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÃ( Ã()‡
+„
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÃ( Ã()	
+%2int"__id*
+	
+%3int*
+1*ø
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÁ Á(¿¼
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÁ  Á(4	
+%0int"java.lang.String#hashCode()I*
+
+	localPartjava.lang.String2
+hashCode()Â¿
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÂ Â(-	
+%1int"java.lang.String#hashCode()I*"
+ 
+namespaceURIjava.lang.String2
+hashCode()*
+2
+3*Ù
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÃ Ã(>"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/QNamePool.javaÄ Ä(
+"":
+	localPartjava.lang.String: 
+namespaceURIjava.lang.String:
+prefixjava.lang.String:
+""B&"$
+"org.exist.dom.persistent.QNamePool

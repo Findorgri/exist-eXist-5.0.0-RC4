@@ -1,0 +1,21 @@
+
+5org.exist.util.IterableEnumeration#hasMoreElements()Zb
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/IterableEnumeration.java' '(""1*Ô
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/IterableEnumeration.java( ((½
+º
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/IterableEnumeration.java( ((
+%0java.util.Iterator"__id*4*2$
+"org.exist.util.IterableEnumeration"
+
+iterator¼¹
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/IterableEnumeration.java( ((!
+%1boolean"java.util.Iterator#hasNext()Z*
+
+%0java.util.Iterator2	hasNext()"l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/IterableEnumeration.java( (("
+""B&$
+"org.exist.util.IterableEnumeration

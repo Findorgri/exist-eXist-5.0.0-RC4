@@ -1,0 +1,61 @@
+
+Horg.exist.util.SelectorUtils#isOutOfDate(Ljava/io/File;Ljava/io/File;I)Z^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaš š(%"7*Í
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¢ ¢("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¢ ¢(
+""*Ü
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¡ ¡(´±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¡ ¡(
+
+%2long"java.io.File#lastModified()J*
+
+srcjava.io.File2lastModified()·´
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¡1 ¡(F
+
+%3long"java.io.File#lastModified()J*
+
+targetjava.io.File2lastModified()*
+2
+1*Í
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaŸ Ÿ("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaŸ Ÿ(
+""*œ
+5^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaž ž(®«
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaž ž(
+%1boolean"java.io.File#exists()Z*
+
+targetjava.io.File2exists()*
+3
+4*Í
+6^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaœ œ("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaœ œ(
+""*™
+7^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java› ›(«¨
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java› ›(
+%0boolean"java.io.File#exists()Z*
+
+srcjava.io.File2exists()*
+5
+6*Í
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¤ ¤("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¤ ¤(
+"":
+srcjava.io.File:
+targetjava.io.File:
+""B "
+org.exist.util.SelectorUtils

@@ -1,0 +1,65 @@
+
+@org.exist.xquery.value.TimeUtils#getLocalTimezoneOffsetMillis()I`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaI I(+"4*‚
+2`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK4 K(<Ì
+É
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK4 K(I
+%7java.util.TimeZone"3java.util.TimeZone#getDefault()Ljava/util/TimeZone;*"
+java.util.TimeZoneÀ½
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK4 K(X	
+%8int""java.util.TimeZone#getRawOffset()I*
+
+%7java.util.TimeZone2getRawOffset()ƒ
+€
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK4 K(d	
+%4int"__id*
+	
+%6int*
+1*ð
+3`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK# K(1ƒ
+€
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK# K(1	
+%4int"__id*
+	
+%5int*
+1*û
+4`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaJ J(&Ì
+É
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaJ3 J(H
+%0java.util.TimeZone"3java.util.TimeZone#getDefault()Ljava/util/TimeZone;*"
+java.util.TimeZoneý
+ú
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaJ J(I
+%1java.util.Calendar"Hjava.util.Calendar#getInstance(Ljava/util/TimeZone;)Ljava/util/Calendar;*"
+java.util.Calendar*
+
+%0java.util.TimeZone}
+{
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaJN J(a	
+%2int"__id*
+""½º
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaJ J(b	
+%3int"java.util.Calendar#get(I)I*
+
+%1java.util.Calendar*
+	
+%2int2get(I)*
+2
+3*Ñ
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK K(e"j
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaK K(e
+""B$"
+ org.exist.xquery.value.TimeUtils

@@ -1,0 +1,13 @@
+
+'org.exist.dom.NodeListImpl#getLength()IZ
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaD D("1*÷
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaE E(¯¬
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaE E(	
+%0int"java.util.ArrayList#size()I*
+org.exist.dom.NodeListImpl2size()"d
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NodeListImpl.javaE E(
+""B
+org.exist.dom.NodeListImpl

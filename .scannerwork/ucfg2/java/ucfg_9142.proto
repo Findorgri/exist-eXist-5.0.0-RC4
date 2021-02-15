@@ -1,0 +1,77 @@
+
+;org.exist.xupdate.Modification#toString()Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaË Ë("1*Ø
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(èå
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ Í(
+%0java.lang.String":org.exist.xupdate.Modification#getName()Ljava/lang/String;*" 
+org.exist.xupdate.Modification2	getName()«
+¨
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(
+%1java.lang.String"__concat*
+<xu:*
+
+%0java.lang.String±
+®
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(*
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+ select=\"·
+´
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ- Í(7
+%3java.lang.String"__id*2*0 
+org.exist.xupdate.Modification"
+
+selectStmt»
+¸
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(7
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Stringª
+§
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(?
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+\">¬
+©
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(I
+%6java.lang.String"__concat*
+
+%5java.lang.String*	
+</xu:èå
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍL Í(U
+%7java.lang.String":org.exist.xupdate.Modification#getName()Ljava/lang/String;*" 
+org.exist.xupdate.Modification2	getName()»
+¸
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í(U
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.String¨
+¥
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ	 Í([
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+>"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xupdate/Modification.javaÍ Í(\
+
+%9java.lang.StringB" 
+org.exist.xupdate.Modification

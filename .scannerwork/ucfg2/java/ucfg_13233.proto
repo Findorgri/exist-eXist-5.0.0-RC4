@@ -1,0 +1,66 @@
+
+Dorg.exist.fluent.NamespaceMap#clone()Lorg/exist/fluent/NamespaceMap;o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaY Y("7*í
+3o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java]
+ ]("õ
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java] ]((
+&
+cloneorg.exist.fluent.NamespaceMap*¬
+4o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\ \(I∆
+√
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\ \(I/
+&
+cloneorg.exist.fluent.NamespaceMap"
+map"__id*
+
+%3java.util.HashMap*
+3*µ
+5o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\ \(ª
+∏
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\@ \(H
+%2java.util.Map"__id***(
+org.exist.fluent.NamespaceMap"
+map†ù
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\) \(?
+%3java.util.HashMap"java.util.HashMapÿ
+’
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\% \(I
+%4"*java.util.HashMap#<init>(Ljava/util/Map;)V*
+
+%3java.util.HashMap*
+
+%2java.util.Map*
+4*˘
+6o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java[ [(4º
+π
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java[ [(5&
+cloneorg.exist.fluent.NamespaceMap"__id*
+
+%0java.lang.Objectª
+∏
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java\ \(
+%1java.util.Map"__id***(
+org.exist.fluent.NamespaceMap"
+map*
+3
+5*º
+7o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java[' [(,¿
+Ω
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java[' [(4
+%0java.lang.Object"*java.lang.Object#clone()Ljava/lang/Object;*
+""*
+6B!
+org.exist.fluent.NamespaceMap

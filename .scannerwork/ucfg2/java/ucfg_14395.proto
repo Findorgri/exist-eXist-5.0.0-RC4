@@ -1,0 +1,22 @@
+
+Uorg.exist.xmldb.XmldbURI#createInternal(Ljava/lang/String;)Lorg/exist/xmldb/XmldbURI;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaï ï()"1*á
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javað ð(*™–
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javað ð(
+%0org.exist.xmldb.XmldbURI"org.exist.xmldb.XmldbURIã
+à
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javað ð(+
+%1"4org.exist.xmldb.XmldbURI#<init>(Ljava/lang/String;)V* 
+
+%0org.exist.xmldb.XmldbURI*$
+"
+collectionPathjava.lang.String"~
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javað ð(, 
+
+%0org.exist.xmldb.XmldbURI:"
+collectionPathjava.lang.StringB"
+org.exist.xmldb.XmldbURI

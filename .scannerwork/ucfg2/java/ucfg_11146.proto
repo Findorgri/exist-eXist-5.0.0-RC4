@@ -1,0 +1,39 @@
+
+Zorg.exist.launcher.Launcher#createLoggingProxy(Ljava/io/PrintStream;)Ljava/io/PrintStream;]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaú ú(*"1*Û
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù! µ(	≤Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù% ù(1)
+%0#Lorg/exist/launcher/Launcher$27326;"#Lorg/exist/launcher/Launcher$27326;µ
+≤
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù! µ(	
+%1"java.io.OutputStream#<init>()V*+
+)
+%0#Lorg/exist/launcher/Launcher$27326;≤
+Ø
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.javaù µ(
+
+outjava.io.OutputStream"__id*+
+)
+%0#Lorg/exist/launcher/Launcher$27326;íè
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂(
+%2java.io.PrintStream"java.io.PrintStreamŸ
+÷
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂(#
+%3"3java.io.PrintStream#<init>(Ljava/io/OutputStream;)V*
+
+%2java.io.PrintStream*
+
+outjava.io.OutputStream"|
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/Launcher.java∂ ∂($
+
+%2java.io.PrintStream:!
+
+realStreamjava.io.PrintStreamB
+org.exist.launcher.Launcher

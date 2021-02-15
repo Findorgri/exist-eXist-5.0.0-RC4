@@ -1,0 +1,28 @@
+
+Vorg.exist.xquery.util.Messages#getBundle(Ljava/util/Locale;)Ljava/util/ResourceBundle;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.javaL" L(+"4*è
+3^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.javaN N(?"‚
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.javaN N(? 
+
+%1java.util.ResourceBundle*´
+4^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.javaN N(!‰
+†
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.javaN, N(5
+%0java.lang.String"__id*
+""½
+º
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.javaN N(>
+%1java.util.ResourceBundle"bjava.util.ResourceBundle#getBundle(Ljava/lang/String;Ljava/util/Locale;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+
+%0java.lang.String*
+
+localejava.util.Locale*
+3:
+localejava.util.LocaleB"" 
+org.exist.xquery.util.Messages

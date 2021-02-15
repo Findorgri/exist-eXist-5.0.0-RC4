@@ -1,0 +1,52 @@
+
+horg.exist.config.Configurator#implementsInterface(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/Boolean;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java‚ ‚(."5*£
+2_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaƒ ƒ(ˆ
+…
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaƒ ƒ(
+cjava.lang.Class"__id*
+""©
+¦
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaƒ ƒ(
+cjava.lang.Class"
+__arrayGet*
+
+%0java.lang.Class[]*
+""*
+4
+1*Ï
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java… …("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java… …(
+""*à
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java„ „(ñî
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.java„ „(
+%1boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+cjava.lang.Class*
+
+ifacejava.lang.Class2equals(Ljava/lang/Object;)*
+2
+3*Ê
+5_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaƒ  ƒ(&ÞÛ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaƒ  ƒ(6
+%0java.lang.Class[]"1java.lang.Class#getInterfaces()[Ljava/lang/Class;*
+
+objectjava.lang.Class2getInterfaces()*
+2*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaˆ ˆ("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaˆ ˆ(
+"":
+objectjava.lang.Class:
+ifacejava.lang.ClassB!"
+org.exist.config.Configurator

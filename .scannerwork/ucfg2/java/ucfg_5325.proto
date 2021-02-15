@@ -1,0 +1,54 @@
+
+7org.exist.util.serializer.XQuerySerializer#normalize()Zj
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java7 7("3*ë
+2j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java9* 9(4ôñ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java9* 9(C
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+adaptive*
+
+methodjava.lang.String2equals(Ljava/lang/Object;)*
+1*â	
+3j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java8 8(.×
+Ô
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java8 8(.
+%0java.util.Properties"__id*D*B,
+*org.exist.util.serializer.XQuerySerializer"
+outputProperties•
+’
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java8; 8(L
+%1java.lang.String"__id*
+""ÕÒ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java8 8(T
+%2java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+%1java.lang.String*
+xml21getProperty(Ljava/lang/String;Ljava/lang/String;)«
+¨
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java8 8(U
+methodjava.lang.String"__id*
+
+%2java.lang.Stringðí
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java9 9(&
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+json*
+
+methodjava.lang.String2equals(Ljava/lang/Object;)*
+2
+1*å
+1j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java9 9(D"t
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XQuerySerializer.java9 9(E
+""B.,
+*org.exist.util.serializer.XQuerySerializer

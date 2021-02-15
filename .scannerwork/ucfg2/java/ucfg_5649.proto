@@ -1,0 +1,62 @@
+
+]org.exist.xquery.regex.RegexTranslator#lowSurrogateRanges(Ljava/util/List;)Ljava/lang/String;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java« «(."12*º
+10h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java®# ®()µ
+²
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java®# ®(0
+%2java.lang.Object"
+__arrayGet*
+
+rangesjava.util.List*
+""À
+½
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java® ®(11
+r,org.exist.xquery.regex.RegexTranslator$Range"__id*
+
+%2java.lang.Objectïì
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java¯4 ¯(>	
+%3int"6org.exist.xquery.regex.RegexTranslator$Range#getMin()I*3
+1
+r,org.exist.xquery.regex.RegexTranslator$Range2getMin()ïì
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java°3 °(=	
+%4int"6org.exist.xquery.regex.RegexTranslator$Range#getMin()I*3
+1
+r,org.exist.xquery.regex.RegexTranslator$Range2getMin()ïì
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java±4 ±(>	
+%5int"6org.exist.xquery.regex.RegexTranslator$Range#getMax()I*3
+1
+r,org.exist.xquery.regex.RegexTranslator$Range2getMax()ïì
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java²3 ²(=	
+%6int"6org.exist.xquery.regex.RegexTranslator$Range#getMax()I*3
+1
+r,org.exist.xquery.regex.RegexTranslator$Range2getMax()*
+10
+1*å
+12h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java¬@ ¬(F´±
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java¬@ ¬(M	
+%0int"java.util.List#size()I*
+
+rangesjava.util.List2size()´±
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.java­ ­(+	
+%1int"java.util.List#size()I*
+
+rangesjava.util.List2size()*
+10
+1*á
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.javaÆ Æ("r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/regex/RegexTranslator.javaÆ Æ($
+"":
+rangesjava.util.ListB*"(
+&org.exist.xquery.regex.RegexTranslator

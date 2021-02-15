@@ -1,0 +1,35 @@
+
+forg.exist.client.security.EditPropertiesDialog#getAclTableModel()Ljavax/swing/table/DefaultTableModel;p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaå å(."3*≈
+2p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaé. é(8»
+≈
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaé é(9C0
+.org.exist.client.security.EditPropertiesDialog"
+aclTableModel"__id*
+""*
+1*Ì
+3p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaç ç(Ì
+Í
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaç ç()
+%0#javax.swing.table.DefaultTableModel"__id*E*C0
+.org.exist.client.security.EditPropertiesDialog"
+aclTableModel*
+2
+1*á
+1p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaê ê(Ì
+Í
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaê ê()
+%1#javax.swing.table.DefaultTableModel"__id*E*C0
+.org.exist.client.security.EditPropertiesDialog"
+aclTableModel"ü
+p
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaê ê(+
+)
+%1#javax.swing.table.DefaultTableModelB20
+.org.exist.client.security.EditPropertiesDialog

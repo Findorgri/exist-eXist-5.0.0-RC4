@@ -1,0 +1,33 @@
+
+rorg.exist.fluent.AttributeBuilder#attrIf(ZLjava/lang/String;Ljava/lang/Object;)Lorg/exist/fluent/AttributeBuilder;s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javaf f("3*ž
+2s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javah h(ž›
+s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javah h("'
+%1!org.exist.fluent.AttributeBuilder"oorg.exist.fluent.AttributeBuilder#attr(Ljava/lang/String;Ljava/lang/Object;)Lorg/exist/fluent/AttributeBuilder;*%#
+!org.exist.fluent.AttributeBuilder*
+
+namejava.lang.String*
+
+valuejava.lang.Object2*attr(Ljava/lang/String;Ljava/lang/Object;)*
+1*Þ
+3s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javag g(Û
+Ø
+s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javag g(
+
+%0void".org.exist.fluent.AttributeBuilder#checkDone()V*%#
+!org.exist.fluent.AttributeBuilder*
+2
+1*—
+1s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javai	 i("œ
+s
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/AttributeBuilder.javai i(%#
+!org.exist.fluent.AttributeBuilder:
+"":
+namejava.lang.String:
+valuejava.lang.ObjectB%#
+!org.exist.fluent.AttributeBuilder

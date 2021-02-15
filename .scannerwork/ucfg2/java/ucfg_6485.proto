@@ -1,0 +1,51 @@
+
+porg.exist.config.ConfigurationImpl#getPropertyInteger(Ljava/lang/String;Ljava/lang/Integer;Z)Ljava/lang/Integer;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java» »(%"6*÷
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÂ Â("‹
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÂ Â( #
+!
+defaultValuejava.lang.Integer*Í
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÀ À("Ù
+Ö
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÀ À(2	
+%1int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+2
+1*÷
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¾ ¾("‹
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¾ ¾( #
+!
+defaultValuejava.lang.Integer*×
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¼ ¼((¼¹
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¼ ¼(.
+%0java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
+"org.exist.config.ConfigurationImpl*
+
+namejava.lang.String2getProperty(Ljava/lang/String;)¤
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¼ ¼(/
+valuejava.lang.String"__id*
+
+%0java.lang.String*
+4
+5*Ù
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÄ Ä("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÄ Ä(
+"":
+namejava.lang.String:!
+defaultValuejava.lang.Integer:
+""B&$
+"org.exist.config.ConfigurationImpl

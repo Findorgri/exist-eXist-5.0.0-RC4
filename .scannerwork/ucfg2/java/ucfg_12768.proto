@@ -1,0 +1,48 @@
+
+aorg.exist.xmldb.LocalUserManagementService#getGroupMembers(Ljava/lang/String;)[Ljava/lang/String;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÔ Ô(#"startingBlock*ê
+startingBlockl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÔ# Ô(;¼
+¹
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÓ Ó(
+%3"
+__annotate*
+java.lang.Override*
+
+	groupNamejava.lang.String¦
+£
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÔ1 Ô(:
+	groupNamejava.lang.String"__annotation*
+
+%3*
+1*­
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÕ* Õ(0Ÿ
+œ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÕ Ø(
+groupMembersjava.util.List"__id*
+""¾»
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÙ/ Ù(B	
+%0int"java.util.List#size()I* 
+
+groupMembersjava.util.List2size()Ÿœ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÙ$ Ù(C
+%1java.lang.String[]"java.lang.String[]§¤
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÙ Ù(D
+%2java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;* 
+
+groupMembersjava.util.List*
+
+%1java.lang.String[]2toArray([Ljava/lang/Object;)"Š
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÙ Ù(E
+
+%2java.lang.String[]:
+	groupNamejava.lang.StringB.,
+*org.exist.xmldb.LocalUserManagementService

@@ -1,0 +1,25 @@
+
+4org.exist.TestUtils#readFile(Ljava/nio/file/Path;)[BZ
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaå å(!"1*ç
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaç ç(‹
+Ÿ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaç ç()
+%0boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+filejava.nio.file.Pathﬁ
+€
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaé é('
+%1byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+filejava.nio.file.Path"l
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaé é((
+
+%1byte[]:
+filejava.nio.file.PathB"
+org.exist.TestUtils

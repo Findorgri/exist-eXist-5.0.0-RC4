@@ -1,0 +1,53 @@
+
+=org.exist.util.FileUtils#deleteQuietly(Ljava/nio/file/Path;)ZX
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javas s('"10*¡
+5X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaz z("b
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaz z(
+""*∏
+6X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javax x(í
+è
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javax) x(9%
+%2java.nio.file.SimpleFileVisitor"__id*
+""æ
+ª
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javax x(:
+%3java.nio.file.Path"ejava.nio.file.Files#walkFileTree(Ljava/nio/file/Path;Ljava/nio/file/FileVisitor;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+
+pathjava.nio.file.Path*'
+%
+%2java.nio.file.SimpleFileVisitor*
+5*¡
+7X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javav v(2"b
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javav v(2
+""*√
+8X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javav v(ﬁ
+€
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javav v(1
+%1boolean"9java.nio.file.Files#deleteIfExists(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+pathjava.nio.file.Path*
+7*ﬂ
+10X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javau u(ˆ
+Û
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javau u((
+%0boolean"Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+pathjava.nio.file.Path*
+6
+8:
+pathjava.nio.file.PathB"
+org.exist.util.FileUtils

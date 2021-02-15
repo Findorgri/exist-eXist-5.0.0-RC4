@@ -1,0 +1,28 @@
+
+Borg.exist.util.GZIPInputSource#getSymbolicPath()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javay y("1*Õ
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.javaz z(µ
+²
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java{	 {(
+%0java.nio.file.Path"__id*0*. 
+org.exist.util.GZIPInputSource"
+
+gzipFileäá
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java{	 {("
+%1java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%0java.nio.file.Path2toAbsolutePath()ÔÑ
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java{	 {(-
+%2java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%1java.nio.file.Path2
+toString()"z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java{ {(.
+
+%2java.lang.StringB" 
+org.exist.util.GZIPInputSource

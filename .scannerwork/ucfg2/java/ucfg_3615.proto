@@ -1,0 +1,35 @@
+
+7org.exist.xquery.modules.file.UnicodeReader#read([CII)I€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/UnicodeReader.java® ®("1*•
+1€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/UnicodeReader.java° °(€ý
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/UnicodeReader.java° °(
+
+%0void"3org.exist.xquery.modules.file.UnicodeReader#init()V*/-
++org.exist.xquery.modules.file.UnicodeReader2init()ï
+ì
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/UnicodeReader.java±
+ ±(
+%1java.io.InputStreamReader"__id*@*>-
++org.exist.xquery.modules.file.UnicodeReader"
+internalIn2‰†
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/UnicodeReader.java±
+ ±(,	
+%2int"%java.io.InputStreamReader#read([CII)I*!
+
+%1java.io.InputStreamReader*
+
+cbufchar[]*
+""*
+""2
+read([CII)"‹
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/UnicodeReader.java± ±(/
+"":
+cbufchar[]:
+"":
+""B/-
++org.exist.xquery.modules.file.UnicodeReader

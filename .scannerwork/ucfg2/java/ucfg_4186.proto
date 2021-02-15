@@ -1,0 +1,36 @@
+
+Rorg.exist.xmlrpc.RpcConnection#describeResource(Ljava/lang/String;)Ljava/util/Map;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaË Ë(/"startingBlock*—
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÎ Î(H"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÎ Î(H
+
+%0*Ã
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaË/ Ë(J≥
+∞
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÁ Á(
+%1"
+__annotate*
+java.lang.Override*"
+ 
+resourceNamejava.lang.Stringù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaË= Ë(I 
+resourceNamejava.lang.String"__annotation*
+
+%1*
+4*˛
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÎ Î(Gëé
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÎ Î(G
+%0"Rorg.exist.xmlrpc.RpcConnection#describeResource(Ljava/lang/String;)Ljava/util/Map;*" 
+org.exist.xmlrpc.RpcConnection*
+""2$describeResource(Ljava/lang/String;)*
+3: 
+resourceNamejava.lang.StringB" 
+org.exist.xmlrpc.RpcConnection

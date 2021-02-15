@@ -1,0 +1,44 @@
+
+Horg.exist.storage.index.BFile$MultiPageInput#readUTF()Ljava/lang/String;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java’ ’(#"1*ﬁ
+
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java÷ ÷(#Â‚
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java÷ ÷(%	
+%0int"7org.exist.storage.index.BFile$MultiPageInput#readInt()I*0.
+,org.exist.storage.index.BFile$MultiPageInput2	readInt()Å
+
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java◊ ◊(.
+databyte[]"__id*
+""ıÚ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŸ Ÿ(	
+%1int"6org.exist.storage.index.BFile$MultiPageInput#read([B)I*0.
+,org.exist.storage.index.BFile$MultiPageInput*
+
+databyte[]2read([B)í
+è
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java€$ €()
+%2java.nio.charset.Charset"__id*
+""éã
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java€ €(
+%3java.lang.String"java.lang.String
+Ì
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java€ €(*
+%4"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%3java.lang.String*
+
+databyte[]* 
+
+%2java.nio.charset.Charset"{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java€ €(+
+
+%3java.lang.StringB0.
+,org.exist.storage.index.BFile$MultiPageInput

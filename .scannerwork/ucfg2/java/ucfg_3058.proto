@@ -1,0 +1,17 @@
+
+Jorg.exist.http.servlets.HttpRequestWrapper#getPathInfo()Ljava/lang/String;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java§ §("1*Ì
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java¨ ¨(Í
+Ê
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java¨ ¨(
+%0java.lang.String"__id*<*:,
+*org.exist.http.servlets.HttpRequestWrapper"
+
+pathInfo"ˆ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java¨ ¨(
+
+%0java.lang.StringB.,
+*org.exist.http.servlets.HttpRequestWrapper

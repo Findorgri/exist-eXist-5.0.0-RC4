@@ -1,0 +1,45 @@
+
+Corg.exist.util.FileUtils#list(Ljava/nio/file/Path;)Ljava/util/List;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java˜ ˜(!"4*ž
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaš š(7·´
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaš š(7
+%2java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*$
+"
+entriesjava.util.stream.Stream*"
+ 
+%1java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)*
+1*ø
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java™ ™(>ª
+§
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java™ ™(>"
+entriesjava.util.stream.Stream"__id*
+
+%0java.util.stream.Streamä
+á
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaš# š(6 
+%1java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*"
+java.util.stream.Collectors*
+2*ê
+4Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java™) ™(.ƒ
+€
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java™) ™(>
+%0java.util.stream.Stream"Gjava.nio.file.Files#list(Ljava/nio/file/Path;)Ljava/util/stream/Stream;*"
+java.nio.file.Files*!
+
+	directoryjava.nio.file.Path*
+3*Õ
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaš š(8"t
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaš š(8
+
+%2java.util.List:
+	directoryjava.nio.file.PathB"
+org.exist.util.FileUtils

@@ -1,0 +1,34 @@
+
+@org.exist.dom.persistent.TextImpl#getBaseURI()Ljava/lang/String;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaå å("3*…
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaè è(›⁄
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaè è(&
+%1java.lang.String"/org.w3c.dom.Node#getBaseURI()Ljava/lang/String;*
+
+parentorg.w3c.dom.Node2getBaseURI()"
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaè è('
+
+%1java.lang.String*Ü
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaç ç()ÏÈ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaç ç(+
+%0org.w3c.dom.Node"2org.w3c.dom.Node#getParentNode()Lorg/w3c/dom/Node;*%#
+!org.exist.dom.persistent.TextImpl2getParentNode()§
+°
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaç ç(,
+parentorg.w3c.dom.Node"__id*
+
+%0org.w3c.dom.Node*
+2
+1*◊
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaë ë("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaë ë(
+""B%#
+!org.exist.dom.persistent.TextImpl

@@ -1,0 +1,19 @@
+
+Dorg.exist.stax.EmbeddedXMLStreamReader#getPrefix()Ljava/lang/String;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java‰ ‰("1*˙
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÂ Â(íè
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÂ Â(
+%0javax.xml.namespace.QName"Korg.exist.stax.EmbeddedXMLStreamReader#getName()Ljavax/xml/namespace/QName;**(
+&org.exist.stax.EmbeddedXMLStreamReader2	getName()ÓÎ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÂ Â($
+%1java.lang.String"7javax.xml.namespace.QName#getPrefix()Ljava/lang/String;*!
+
+%0javax.xml.namespace.QName2getPrefix()"Ñ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÂ Â(%
+
+%1java.lang.StringB*(
+&org.exist.stax.EmbeddedXMLStreamReader

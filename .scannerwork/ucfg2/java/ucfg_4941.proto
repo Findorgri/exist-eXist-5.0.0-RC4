@@ -1,0 +1,37 @@
+
+.org.exist.xquery.modules.ModuleUtils#getUID()Jf
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaä ä("1*Ï
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaã- ã(/ë
+é
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaã1 ã(7
+%0java.util.Random"__id*
+""ùö
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaã" ã(,
+%1java.math.BigInteger"java.math.BigInteger‚
+ﬂ
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaã ã(8
+%2"1java.math.BigInteger#<init>(ILjava/util/Random;)V*
+
+%1java.math.BigInteger*2@*
+
+%0java.util.Random´
+®
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaã ã(9
+bijava.math.BigInteger"__id*
+
+%1java.math.BigInteger≈¬
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaå å(
+
+%3long"!java.math.BigInteger#longValue()J*
+
+bijava.math.BigInteger2longValue()"p
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/modules/ModuleUtils.javaå å(
+""B("&
+$org.exist.xquery.modules.ModuleUtils

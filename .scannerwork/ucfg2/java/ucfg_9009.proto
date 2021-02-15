@@ -1,0 +1,33 @@
+
+/org.exist.xmlrpc.XmlRpcTest#generateBinary(I)[Bb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÑ Ñ(!"1*
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÖ$ Ö(,Ñ
+Å
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÖ Ö(.
+bufbyte[]"__id*
+""ëé
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÜ Ü(
+%0java.util.Random"java.util.Random£
+†
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÜ Ü(
+%1"java.util.Random#<init>()V*
+
+%0java.util.RandomŒÀ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÜ Ü(#
+
+%2void"java.util.Random#nextBytes([B)V*
+
+%0java.util.Random*
+
+bufbyte[]2nextBytes([B)"u
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaá á(
+
+bufbyte[]:
+""B
+org.exist.xmlrpc.XmlRpcTest

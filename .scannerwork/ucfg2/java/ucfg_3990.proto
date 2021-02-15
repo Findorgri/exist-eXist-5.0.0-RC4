@@ -1,0 +1,32 @@
+
+Åorg.exist.xquery.value.TimeUtils#newXMLGregorianCalendarTime(IIILjava/math/BigDecimal;I)Ljavax/xml/datatype/XMLGregorianCalendar;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java¨  ¨(;"1*ê
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java≠ ≠( 
+«
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java≠ ≠((
+%0"javax.xml.datatype.DatatypeFactory"__id*1*/"
+ org.exist.xquery.value.TimeUtils"	
+factory¡æ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java≠ ≠(P-
+%1'javax.xml.datatype.XMLGregorianCalendar"Éjavax.xml.datatype.DatatypeFactory#newXMLGregorianCalendarTime(IIILjava/math/BigDecimal;I)Ljavax/xml/datatype/XMLGregorianCalendar;**
+(
+%0"javax.xml.datatype.DatatypeFactory*
+""*
+""*
+""*
+
+arg3java.math.BigDecimal*
+""27newXMLGregorianCalendarTime(IIILjava/math/BigDecimal;I)"ï
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java≠ ≠(Q/
+-
+%1'javax.xml.datatype.XMLGregorianCalendar:
+"":
+"":
+"":
+arg3java.math.BigDecimal:
+""B$"
+ org.exist.xquery.value.TimeUtils

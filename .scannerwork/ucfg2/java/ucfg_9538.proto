@@ -1,0 +1,70 @@
+
+Xorg.exist.indexing.range.RangeIndexConfigAttributeCondition#matches(Lorg/w3c/dom/Node;)Zó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaí í("startingBlock*¬
+2ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaï ï("¢
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaï ï(
+""*ˆ
+3ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaî7 î(Aè
+å
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaî_ î(l
+%2java.lang.String"__id*R*P=
+;org.exist.indexing.range.RangeIndexConfigAttributeCondition"
+attributeName’“
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaîB î(m
+%3java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node*
+
+%2java.lang.String2 getAttribute(Ljava/lang/String;)‰
+·
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaî7 î(n
+%4boolean"[org.exist.indexing.range.RangeIndexConfigAttributeCondition#matchValue(Ljava/lang/String;)Z*?=
+;org.exist.indexing.range.RangeIndexConfigAttributeCondition*
+
+%3java.lang.String*
+2
+1*‰
+startingBlockó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaí í(%„
+‡
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaë ë(
+%5"
+__annotate*
+java.lang.Override*
+
+nodeorg.w3c.dom.NodeÕ
+ 
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaí  í($
+nodeorg.w3c.dom.Node"__annotation*
+
+%5*
+4*Ÿ
+4ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaî î(ˆÛ
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaî î(
+%0short"org.w3c.dom.Node#getNodeType()S*
+
+nodeorg.w3c.dom.Node2getNodeType()∏
+µ
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaî" î(3
+%1short"__id*
+""*
+3
+1*¬
+1ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaò ò("¢
+ó
+äC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndexConfigAttributeCondition.javaò ò(
+"":
+nodeorg.w3c.dom.NodeB?=
+;org.exist.indexing.range.RangeIndexConfigAttributeCondition

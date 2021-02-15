@@ -1,0 +1,67 @@
+
+Torg.exist.xmldb.XmldbURI#xmldbUriFor(Ljava/lang/String;ZZ)Lorg/exist/xmldb/XmldbURI;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaø ø(&"2"3"5*Ú
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√H √(Pã
+à
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√H √(P
+%0"__id*
+
+xmldbURIjava.lang.String*
+1*Ê
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√) √(4ã
+à
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√< √(D
+%0"__id*
+
+xmldbURIjava.lang.Stringr
+p
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√) √(E
+%0"__id*
+
+%1*
+1*≈
+5Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¡ ¡("d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¡ ¡(
+""*µ
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√ √(QÄ~
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√ √(
+%2java.net.URI"java.net.URI≠
+™
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√ √(Q
+%3"(java.net.URI#<init>(Ljava/lang/String;)V*
+
+%2java.net.URI*
+
+%0ê
+ç
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√ √(R
+urijava.net.URI"__id*
+
+%2java.net.URIç
+ä
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaƒ ƒ(.
+%4org.exist.xmldb.XmldbURI"Oorg.exist.xmldb.XmldbURI#getXmldbURI(Ljava/net/URI;Z)Lorg/exist/xmldb/XmldbURI;*"
+org.exist.xmldb.XmldbURI*
+
+urijava.net.URI*
+"""~
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaƒ ƒ(/ 
+
+%4org.exist.xmldb.XmldbURI:
+xmldbURIjava.lang.String:
+"":
+""B"
+org.exist.xmldb.XmldbURI

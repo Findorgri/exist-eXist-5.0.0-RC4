@@ -1,0 +1,370 @@
+
+Norg.exist.util.SelectorUtils#matchPath(Ljava/lang/String;Ljava/lang/String;Z)Z^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÀ À(#"61*ø
+24^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaî î(‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaî  î(4
+%20java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)‡›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaî î(5
+%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+***
+
+%20java.lang.String2equals(Ljava/lang/Object;)*
+24
+14
+4
+8
+1*Œ
+47^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÔ Ô( "h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÔ Ô(!
+""*Ø	
+14^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¶* ¶(1‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¶* ¶(L
+%22java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¶ ¶(M
+subPatjava.lang.String"__id*
+
+%22java.lang.String‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaß* ß(L
+%23java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+strDirsjava.util.Vector*
+""2elementAt(I)†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaß ß(M
+subStrjava.lang.String"__id*
+
+%23java.lang.String•
+¢
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java® ®(>
+%24boolean"Jorg.exist.util.SelectorUtils#match(Ljava/lang/String;Ljava/lang/String;Z)Z* "
+org.exist.util.SelectorUtils*
+
+subPatjava.lang.String*
+
+subStrjava.lang.String*
+""*
+24
+14
+4
+8
+1*Œ
+37^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÇ Ç("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÇ Ç(
+""*∫
+48^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÓ Ó(‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÓ! Ó(5
+%12java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)‡›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÓ Ó(6
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+***
+
+%12java.lang.String2equals(Ljava/lang/Object;)*
+47
+48
+45*Ÿ
+
+59^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java÷' ÷(3ç
+ä
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java÷' ÷(=
+%4java.util.Vector"Oorg.exist.util.SelectorUtils#tokenizePath(Ljava/lang/String;)Ljava/util/Vector;* "
+org.exist.util.SelectorUtils*
+
+patternjava.lang.String†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java÷ ÷(>
+patDirsjava.util.Vector"__id*
+
+%4java.util.Vectorâ
+Ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java◊' ◊(9
+%5java.util.Vector"Oorg.exist.util.SelectorUtils#tokenizePath(Ljava/lang/String;)Ljava/util/Vector;* "
+org.exist.util.SelectorUtils*
+
+strjava.lang.String†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java◊ ◊(:
+strDirsjava.util.Vector"__id*
+
+%5java.util.VectorØ¨
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java⁄ ⁄((	
+%6int"java.util.Vector#size()I*
+
+patDirsjava.util.Vector2size()Ø¨
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‹ ‹((	
+%7int"java.util.Vector#size()I*
+
+strDirsjava.util.Vector2size()*-
+24
+14
+48
+4
+29
+8
+40
+43
+32
+56
+45
+1*ë
+38^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÄ Ä(‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÄ Ä(:
+%16java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+strDirsjava.util.Vector*
+""2elementAt(I)¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÄ Å($
+%17boolean"Jorg.exist.util.SelectorUtils#match(Ljava/lang/String;Ljava/lang/String;Z)Z* "
+org.exist.util.SelectorUtils*
+
+patDirjava.lang.String*
+
+%16java.lang.String*
+""*!
+24
+14
+37
+4
+29
+8
+40
+32
+1*Œ
+29^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaé é("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaé é(
+""*Õ
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaø ø("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaø ø(
+""*Õ
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaª ª("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaª ª(
+""*∂
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java∫ ∫(‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java∫ ∫(1
+%25java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)‡›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java∫ ∫(2
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+***
+
+%25java.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*Õ
+8^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java≤ ≤("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java≤ ≤(
+""*Œ
+60^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java” ”("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java” ”(
+""*Ç
+61^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java— —(â
+Ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java— —()
+%0java.lang.String"__id*
+""˘ˆ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java— —(*
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+strjava.lang.String*
+
+%0java.lang.String2startsWith(Ljava/lang/String;)â
+Ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java“ “(-
+%2java.lang.String"__id*
+""˝˙
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java“ “(.
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+patternjava.lang.String*
+
+%2java.lang.String2startsWith(Ljava/lang/String;)*
+59
+60*Ò
+40^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¸" ¸()‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¸" ¸(>
+%14java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java¸ ¸(?
+patDirjava.lang.String"__id*
+
+%14java.lang.String„‡
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java˝ ˝(#
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+***
+
+patDirjava.lang.String2equals(Ljava/lang/Object;)*
+24
+14
+4
+38
+29
+8
+32
+1*Œ
+53^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÊ Ê("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÊ Ê(
+""*Œ
+31^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaã ã( "h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaã ã(!
+""*Œ
+43^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaˆ ˆ("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaˆ ˆ(
+""*°
+54^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‰ ‰(‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‰ ‰(<
+%10java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+strDirsjava.util.Vector*
+""2elementAt(I)¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‰ Â($
+%11boolean"Jorg.exist.util.SelectorUtils#match(Ljava/lang/String;Ljava/lang/String;Z)Z* "
+org.exist.util.SelectorUtils*
+
+patDirjava.lang.String*
+
+%10java.lang.String*
+""*1
+24
+14
+48
+29
+1
+4
+8
+40
+53
+43
+32
+56
+45*∫
+32^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaä ä(‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaä! ä(5
+%18java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)‡›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaä ä(6
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+***
+
+%18java.lang.String2equals(Ljava/lang/Object;)*
+29
+31
+32*Œ
+45^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÚ Ú("h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javaÚ Ú(
+""*˛
+56^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‡" ‡()·ﬁ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‡" ‡(@
+%8java.lang.String"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+patDirsjava.util.Vector*
+""2elementAt(I)ü
+ú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java‡ ‡(A
+patDirjava.lang.String"__id*
+
+%8java.lang.String‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.java· ·(#
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+***
+
+patDirjava.lang.String2equals(Ljava/lang/Object;)*-
+24
+14
+48
+4
+29
+8
+40
+54
+43
+32
+45
+1:
+patternjava.lang.String:
+strjava.lang.String:
+""B "
+org.exist.util.SelectorUtils

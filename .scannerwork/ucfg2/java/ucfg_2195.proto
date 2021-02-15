@@ -1,0 +1,115 @@
+
+^org.exist.xquery.modules.mail.SendEmailFunction#encode64(Ljava/lang/String;)Ljava/lang/String;„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java½	 ½	("1*‚
+1„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java¿	 ¿	(/ê
+ç
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÀ	# À	(*
+%0java.lang.String"__id*@*>1
+/org.exist.xquery.modules.mail.SendEmailFunction"	
+charsetœ™
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÀ	 À	(+
+%1byte[]"/java.lang.String#getBytes(Ljava/lang/String;)[B*
+
+strjava.lang.String*
+
+%0java.lang.String2getBytes(Ljava/lang/String;)´±
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÁ	 Á	("
+%2java.lang.String"java.lang.Stringà
+Ý
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÁ	 Á	(6
+%3",java.lang.String#<init>(Ljava/lang/String;)V*
+
+%2java.lang.String*
+""Æ
+Ã
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÁ	 Á	(7
+resultjava.lang.String"__id*
+
+%2java.lang.Stringê
+ç
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ	4 Ã	(;
+%4java.lang.String"__id*@*>1
+/org.exist.xquery.modules.mail.SendEmailFunction"	
+charsetÓ
+Ð
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ	( Ã	(;
+%5java.lang.String"__concat*	
+?=\n =?*
+
+%4java.lang.StringÏ
+Ì
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ	( Ã	(C
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+?B?éæ
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ	 Ã	(D
+%7java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+resultjava.lang.String*
+\n*
+
+%6java.lang.String20replaceAll(Ljava/lang/String;Ljava/lang/String;)Æ
+Ã
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ	 Ã	(D
+resultjava.lang.String"__id*
+
+%7java.lang.Stringê
+ç
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ	 Ä	(
+%8java.lang.String"__id*@*>1
+/org.exist.xquery.modules.mail.SendEmailFunction"	
+charsetÎ
+Ë
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ	 Ä	(
+%9java.lang.String"__concat*
+=?*
+
+%8java.lang.StringÐ
+Í
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ	 Ä	('
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+?B?æ
+ã
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ	 Ä	(0
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+
+resultjava.lang.StringÐ
+Í
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ	 Ä	(7
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+?=Ç
+Ä
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ	 Ä	(7
+resultjava.lang.String"__id*
+
+%12java.lang.String"¥
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÅ	 Å	(
+
+resultjava.lang.String:
+strjava.lang.StringB31
+/org.exist.xquery.modules.mail.SendEmailFunction

@@ -1,0 +1,73 @@
+
+Yorg.exist.xquery.LocationStep$PrecedingFilter#accept(Ljavax/xml/stream/XMLStreamReader;)Z_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaó ó("startingBlock*
+14_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaò. ò(4ïí
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaò. ò(j
+%0"Rjavax.xml.stream.XMLStreamReader#getProperty(Ljava/lang/String;)Ljava/lang/Object;*,
+*
+reader javax.xml.stream.XMLStreamReader*
+""2getProperty(Ljava/lang/String;)ﬂ‹
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaö ö(%	
+%1int"0javax.xml.stream.XMLStreamReader#getEventType()I*,
+*
+reader javax.xml.stream.XMLStreamReader2getEventType()|
+z
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaö) ö(D	
+%2int"__id*
+""*
+6
+9
+11
+12
+1*ﬁ
+startingBlock_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaó ó(;º
+π
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javañ ñ(
+%4"
+__annotate*
+java.lang.Override*,
+*
+reader javax.xml.stream.XMLStreamReader¶
+£
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaó4 ó(:*
+reader javax.xml.stream.XMLStreamReader"__annotation*
+
+%4*
+14*À
+6_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java©6 ©(Cﬂ‹
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java™0 ™(E	
+%3int"0javax.xml.stream.XMLStreamReader#getEventType()I*,
+*
+reader javax.xml.stream.XMLStreamReader2getEventType()*
+1*œ
+9_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java• •("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java• •(
+""*–
+11_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java† †("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java† †(
+""*–
+12_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaù ù( "i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.javaù ù(!
+""*œ
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java¥ ¥("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LocationStep.java¥ ¥(
+"":*
+reader javax.xml.stream.XMLStreamReaderB1/
+-org.exist.xquery.LocationStep$PrecedingFilter

@@ -1,0 +1,33 @@
+
+lorg.exist.storage.serializers.Serializer#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¯ ¯("1*ô
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java° °('Õ
+Ò
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java° °('
+%0java.util.Properties"__id*B*@*
+(org.exist.storage.serializers.Serializer"
+outputPropertiesñî
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java° °(F
+%1java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+keyjava.lang.String*"
+ 
+defaultValuejava.lang.String21getProperty(Ljava/lang/String;Ljava/lang/String;)ª
+§
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java° °(G
+valuejava.lang.String"__id*
+
+%1java.lang.String"‰
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java± ±(
+
+valuejava.lang.String:
+keyjava.lang.String: 
+defaultValuejava.lang.StringB,*
+(org.exist.storage.serializers.Serializer

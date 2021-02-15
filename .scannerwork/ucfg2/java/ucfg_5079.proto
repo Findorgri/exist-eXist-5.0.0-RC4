@@ -1,0 +1,48 @@
+
+horg.exist.storage.ProcessMonitor#getRecentQueryHistory()[Lorg/exist/storage/ProcessMonitor$QueryHistory;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java§ §(/"2*∂
+2b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java• •(«
+ƒ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java• •(%
+%0java.util.concurrent.DelayQueue"__id*1*/"
+ org.exist.storage.ProcessMonitor"	
+history*
+1*Å
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java¶ ¶(À
+»
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java¶ ¶(
+
+%1void"0org.exist.storage.ProcessMonitor#cleanHistory()V*$"
+ org.exist.storage.ProcessMonitor«
+ƒ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java® ®(%
+%2java.util.concurrent.DelayQueue"__id*1*/"
+ org.exist.storage.ProcessMonitor"	
+historyÒÓ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java® ®( 
+%3java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*'
+%
+%2java.util.concurrent.DelayQueue2stream()†ù
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java® ©(i
+%4java.util.stream.Stream"Ojava.util.stream.Stream#sorted(Ljava/util/Comparator;)Ljava/util/stream/Stream;*
+
+%3java.util.stream.Stream*
+""2sorted(Ljava/util/Comparator;)»≈
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java® ™(15
+%5/org.exist.storage.ProcessMonitor$QueryHistory[]"Tjava.util.stream.Stream#toArray(Ljava/util/function/IntFunction;)[Ljava/lang/Object;*
+
+%4java.util.stream.Stream*
+""2)toArray(Ljava/util/function/IntFunction;)"ù
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaß ™(27
+5
+%5/org.exist.storage.ProcessMonitor$QueryHistory[]B$"
+ org.exist.storage.ProcessMonitor

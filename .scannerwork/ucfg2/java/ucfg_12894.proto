@@ -1,0 +1,19 @@
+
+Porg.exist.xquery.value.ValueSequence#getCollectionIterator()Ljava/util/Iterator;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/ValueSequence.javaû  û(5"1*›
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/ValueSequence.javaü ü('ãà
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/ValueSequence.javaü ü(%=
+%07org.exist.xquery.value.ValueSequence$CollectionIterator"7org.exist.xquery.value.ValueSequence$CollectionIterator›
+˜
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/ValueSequence.javaü ü('
+%1"gorg.exist.xquery.value.ValueSequence$CollectionIterator#<init>(Lorg/exist/xquery/value/ValueSequence;)V*?
+=
+%07org.exist.xquery.value.ValueSequence$CollectionIterator"©
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/ValueSequence.javaü ü((?
+=
+%07org.exist.xquery.value.ValueSequence$CollectionIteratorB(&
+$org.exist.xquery.value.ValueSequence

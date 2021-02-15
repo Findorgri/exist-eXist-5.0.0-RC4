@@ -1,0 +1,29 @@
+
+Eorg.exist.fluent.QueryService$Statistics#toString()Ljava/lang/String;q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÏ Ï(%"1*∂
+1q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÌ
+ Ì(Ã
+…
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÌ Ì(
+%0java.util.Map"__id*9*7*
+(org.exist.fluent.QueryService$Statistics"	
+entries∑¥
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÌ Ì($	
+%1int"java.util.Map#size()I*
+
+%0java.util.Map2size()§°
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÌ
+ Ì(%
+%2java.lang.String"Iorg.exist.fluent.QueryService$Statistics#toStringTop(I)Ljava/lang/String;*,*
+(org.exist.fluent.QueryService$Statistics*
+	
+%1int2toStringTop(I)"ç
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÌ Ì(&
+
+%2java.lang.StringB,*
+(org.exist.fluent.QueryService$Statistics

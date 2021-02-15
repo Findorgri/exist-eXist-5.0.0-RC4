@@ -1,0 +1,42 @@
+
+Rorg.exist.fluent.ElementBuilderTest#toString(Lorg/w3c/dom/Node;)Ljava/lang/String;|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaá á("1*Á
+1|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaâ â()¹¶
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaâ â('
+%0java.lang.StringBuilder"java.lang.StringBuilderË
+È
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaâ â()
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderÈ
+Å
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaâ â(*
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderÍ
+Ê
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaã ã(
+
+%2void"Worg.exist.fluent.ElementBuilderTest#toBuf(Lorg/w3c/dom/Node;Ljava/lang/StringBuilder;)V*'"%
+#org.exist.fluent.ElementBuilderTest*
+
+nodeorg.w3c.dom.Node* 
+
+bufjava.lang.StringBuilderýú
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaä	 ä(
+%3java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"˜
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/test/src/org/exist/fluent/ElementBuilderTest.javaä ä(
+
+%3java.lang.String:
+nodeorg.w3c.dom.NodeB'"%
+#org.exist.fluent.ElementBuilderTest

@@ -1,0 +1,74 @@
+
+=org.exist.xmlrpc.RpcConnection#xupdate(Ljava/lang/String;[B)I`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java© ©("startingBlock*—
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´ ´(h"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´ ´(h
+""*à
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java© ©(Iµ
+≤
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java® ®(
+%4"
+__annotate*
+java.lang.Override*$
+"
+collectionNamejava.lang.Stringü
+ú
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java©$ ©(2"
+collectionNamejava.lang.String"__annotation*
+
+%4§
+°
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java® ®(
+%5"
+__annotate*
+java.lang.Override*
+
+xupdatebyte[]é
+ã
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java©A ©(H
+xupdatebyte[]"__annotation*
+
+%5*
+5*Â
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´ ´(g¯
+ı
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´ ´(g
+%3"Eorg.exist.xmlrpc.RpcConnection#xupdate(LXmldbURI;Ljava/lang/String;)I*" 
+org.exist.xmlrpc.RpcConnection*
+""*
+
+%1java.lang.String*
+3*â
+5`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´L ´(Sì
+ê
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´U ´(e
+%0java.nio.charset.Charset"__id*
+""èå
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´E ´(K
+%1java.lang.String"java.lang.StringÙ
+Ò
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´A ´(f
+%2"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%1java.lang.String*
+
+xupdatebyte[]* 
+
+%0java.nio.charset.Charset*
+4:"
+collectionNamejava.lang.String:
+xupdatebyte[]B" 
+org.exist.xmlrpc.RpcConnection

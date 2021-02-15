@@ -1,0 +1,43 @@
+
+Qorg.exist.xquery.XQueryContext#getAttribute(Ljava/lang/String;)Ljava/lang/Object;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaò ò("startingBlock*Æ
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaò ò(6°
+­
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ ñ(
+%2"
+__annotate*
+java.lang.Override*
+
+	attributejava.lang.Stringš
+—
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaò, ò(5
+	attributejava.lang.String"__annotation*
+
+%2*
+1*Ü
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaó ó(´
+±
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaó ó(
+%0java.util.Map"__id*2*0 
+org.exist.xquery.XQueryContext"
+
+attributes¿
+¼
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaó ó((
+%1java.lang.Object"__mapGet*
+
+%0java.util.Map*
+
+	attributejava.lang.String"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaó ó()
+
+%1java.lang.Object:
+	attributejava.lang.StringB" 
+org.exist.xquery.XQueryContext

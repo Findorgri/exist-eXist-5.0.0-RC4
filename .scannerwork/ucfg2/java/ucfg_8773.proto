@@ -1,0 +1,14 @@
+
+Horg.exist.dom.persistent.DocumentImpl#getDocumentURI()Ljava/lang/String;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaŸ	 Ÿ	( "1*ø
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java 	  	(ƒ€
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java 	  	(
+%0java.lang.String"Dorg.exist.dom.persistent.DocumentImpl#getBaseURI()Ljava/lang/String;*)'
+%org.exist.dom.persistent.DocumentImpl2getBaseURI()"ƒ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java 	  	(
+
+%0java.lang.StringB)'
+%org.exist.dom.persistent.DocumentImpl

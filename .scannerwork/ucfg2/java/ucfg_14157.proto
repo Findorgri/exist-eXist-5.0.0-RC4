@@ -1,0 +1,22 @@
+
+Xorg.exist.xquery.value.DurationValue#getCanonicalDuration()Ljavax/xml/datatype/Duration;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaá á(("1*≠
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaà à(◊
+‘
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaà à(
+
+%0void"4org.exist.xquery.value.DurationValue#canonicalize()V*(&
+$org.exist.xquery.value.DurationValue’
+“
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaâ â( !
+%1javax.xml.datatype.Duration"__id*?*=&
+$org.exist.xquery.value.DurationValue"
+canonicalDuration"ç
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaâ â(!#
+!
+%1javax.xml.datatype.DurationB(&
+$org.exist.xquery.value.DurationValue

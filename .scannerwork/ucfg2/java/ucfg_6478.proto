@@ -1,0 +1,46 @@
+
+Corg.exist.config.ConfigurationImpl#hasProperty(Ljava/lang/String;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÅ Å("startingBlock*»
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÅ Å(+Ø
+¨
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÄ Ä(
+%3"
+__annotate*
+java.lang.Override*
+
+namejava.lang.Stringô
+ñ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÅ& Å(*
+namejava.lang.String"__annotation*
+
+%3*
+1*ﬂ
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÇ Ç( 
+«
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÇ Ç(
+
+%0void"+org.exist.config.ConfigurationImpl#cache()V*&$
+"org.exist.config.ConfigurationImpl∑
+¥
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ(
+%1java.util.Map"__id*1*/$
+"org.exist.config.ConfigurationImpl"
+props¸˘
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ(&
+%2boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*
+
+%1java.util.Map*
+
+namejava.lang.String2containsKey(Ljava/lang/Object;)"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ('
+"":
+namejava.lang.StringB&$
+"org.exist.config.ConfigurationImpl

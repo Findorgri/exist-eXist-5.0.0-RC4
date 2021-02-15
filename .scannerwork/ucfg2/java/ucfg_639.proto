@@ -1,0 +1,20 @@
+
+Aorg.exist.security.UnixStylePermission#isCurrentSubjectInGroup()Zh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UnixStylePermission.javaí í(*"1*Ö
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UnixStylePermission.javaî î(&Ú
+×
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UnixStylePermission.javaî' î(3	
+%0int"4org.exist.security.UnixStylePermission#getGroupId()I**(
+&org.exist.security.UnixStylePermission•’
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UnixStylePermission.javaî î(4
+%1boolean"Borg.exist.security.UnixStylePermission#isCurrentSubjectInGroup(I)Z**(
+&org.exist.security.UnixStylePermission*
+	
+%0int2isCurrentSubjectInGroup(I)"r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UnixStylePermission.javaî î(5
+""B*(
+&org.exist.security.UnixStylePermission

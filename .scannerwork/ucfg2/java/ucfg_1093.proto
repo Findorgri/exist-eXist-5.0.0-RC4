@@ -1,0 +1,23 @@
+
+Oorg.exist.xquery.util.Messages#getMessage(Ljava/lang/String;)Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.java+ +(#"1*¹
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.java, ,(‘Ž
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.java,( ,(5
+%0java.lang.Object[]"java.lang.Object[]Ã
+À
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.java, ,(6
+%1java.lang.String"eorg.exist.xquery.util.Messages#formatMessage(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"" 
+org.exist.xquery.util.Messages*
+
+	messageIdjava.lang.String*
+
+%0java.lang.Object[]"z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/Messages.java, ,(7
+
+%1java.lang.String:
+	messageIdjava.lang.StringB"" 
+org.exist.xquery.util.Messages

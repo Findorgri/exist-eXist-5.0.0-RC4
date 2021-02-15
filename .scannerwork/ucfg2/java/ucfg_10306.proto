@@ -1,0 +1,39 @@
+
+Gorg.exist.util.io.CachingFilterInputStreamTest#generateRandomBytes(I)[Bu
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaË Ë(&"1*¦	
+1u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÌ& Ì()™
+–
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÌ Ì(+
+bytesbyte[]"__id*
+""¤¡
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÍ" Í((
+%0java.util.Random"java.util.Random¶
+³
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÍ Í(*
+%1"java.util.Random#<init>()V*
+
+%0java.util.Random¶
+³
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÍ Í(+
+randomjava.util.Random"__id*
+
+%0java.util.Randomçä
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÎ Î(
+
+%2void"java.util.Random#nextBytes([B)V*
+
+randomjava.util.Random*
+
+bytesbyte[]2nextBytes([B)"Š
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/CachingFilterInputStreamTest.javaÏ Ï(
+
+bytesbyte[]:
+""B20
+.org.exist.util.io.CachingFilterInputStreamTest

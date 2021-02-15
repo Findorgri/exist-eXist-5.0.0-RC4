@@ -1,0 +1,30 @@
+
+Vorg.exist.start.Version#isInRange(Lorg/exist/start/Version;Lorg/exist/start/Version;)ZW
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java] ]("3*ì
+2W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java^# ^(*ˆ…
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java^# ^(0	
+%1int";org.exist.start.Version#compare(Lorg/exist/start/Version;)I*
+org.exist.start.Version*!
+
+highorg.exist.start.Version2"compare(Lorg/exist/start/Version;)*
+1*î
+3W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java^ ^(‡„
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java^ ^(	
+%0int";org.exist.start.Version#compare(Lorg/exist/start/Version;)I*
+org.exist.start.Version* 
+
+loworg.exist.start.Version2"compare(Lorg/exist/start/Version;)*
+2
+1*¿
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java^ ^(5"a
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Version.java^ ^(5
+"":
+loworg.exist.start.Version:
+highorg.exist.start.VersionB
+org.exist.start.Version

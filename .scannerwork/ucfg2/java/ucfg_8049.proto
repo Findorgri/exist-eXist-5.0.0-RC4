@@ -1,0 +1,41 @@
+
+&org.exist.storage.btree.Paged#flush()Z_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÐ Ð("7*š
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÔ Ô(Í
+Ê
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÔ Ô(.
+%2(org.exist.storage.btree.Paged$FileHeader"__id*1*/
+org.exist.storage.btree.Paged"
+
+fileHeaderÞÛ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÔ Ô("
+
+%3void"1org.exist.storage.btree.Paged$FileHeader#write()V*0
+.
+%2(org.exist.storage.btree.Paged$FileHeader2write()*
+1*¤
+7_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÓ Ó(Í
+Ê
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÓ Ó(.
+%0(org.exist.storage.btree.Paged$FileHeader"__id*1*/
+org.exist.storage.btree.Paged"
+
+fileHeaderåâ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÓ Ó(#
+%1boolean"3org.exist.storage.btree.Paged$FileHeader#isDirty()Z*0
+.
+%0(org.exist.storage.btree.Paged$FileHeader2	isDirty()*
+4
+1*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÛ Û("i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaÛ Û(
+""B!
+org.exist.storage.btree.Paged

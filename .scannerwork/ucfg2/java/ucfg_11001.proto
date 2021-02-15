@@ -1,0 +1,16 @@
+
+@org.exist.webdav.ExistResource#getLastModified()Ljava/lang/Long;p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javaU U(""1*Ì
+1p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javaV V(Ç
+Ä
+p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javaV V(
+%0java.lang.Long"__id*4*2 
+org.exist.webdav.ExistResource"
+lastModified"Š
+p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javaV V(
+
+%0java.lang.LongB" 
+org.exist.webdav.ExistResource

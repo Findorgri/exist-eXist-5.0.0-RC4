@@ -1,0 +1,41 @@
+
+@org.exist.xmldb.SerializationTest#getBaseUri()Ljava/lang/String;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java5 5( "1*¾	
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6	 6(½
+º
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6	 6(
+%0java.lang.String"__id*2*0#
+!org.exist.xmldb.SerializationTest"	
+baseUri‘
+Ž
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6 6()
+%1java.lang.String"__id*
+""~
+|
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6< 6(J
+%2"__id*
+""Á
+¾
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6+ 6(U
+%3"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+""ÆÃ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6	 6(V
+%4"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%0java.lang.String*
+
+%1java.lang.String*
+
+%329replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"p
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/SerializationTest.java6 6(W
+
+%4B%#
+!org.exist.xmldb.SerializationTest

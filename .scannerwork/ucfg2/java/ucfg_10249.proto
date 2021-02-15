@@ -1,0 +1,96 @@
+
+•org.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation#build()Lorg/exist/test/TransactionTestDSL$BiTransactionSchedule;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaås å(x"1*®(
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaèD è(L©
+¶
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaèD è(L<
+%06org.exist.test.TransactionTestDSL$TransactionOperation"__id*v*tf
+dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"
+
+t1_state±Æ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaèD ï(
+%1"∞org.exist.test.TransactionTestDSL$TransactionOperation#andThen(Lorg/exist/test/TransactionTestDSL$TransactionOperation;)Lorg/exist/test/TransactionTestDSL$TransactionOperation;*>
+<
+%06org.exist.test.TransactionTestDSL$TransactionOperation*
+""2AandThen(Lorg/exist/test/TransactionTestDSL$TransactionOperation;)≈
+¬
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaè ï(H
+final_t1_state6org.exist.test.TransactionTestDSL$TransactionOperation"__id*
+
+%1©
+¶
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javañD ñ(L<
+%26org.exist.test.TransactionTestDSL$TransactionOperation"__id*v*tf
+dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"
+
+t2_state±Æ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javañD ú(
+%3"∞org.exist.test.TransactionTestDSL$TransactionOperation#andThen(Lorg/exist/test/TransactionTestDSL$TransactionOperation;)Lorg/exist/test/TransactionTestDSL$TransactionOperation;*>
+<
+%26org.exist.test.TransactionTestDSL$TransactionOperation*
+""2AandThen(Lorg/exist/test/TransactionTestDSL$TransactionOperation;)≈
+¬
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javañ ú(H
+final_t2_state6org.exist.test.TransactionTestDSL$TransactionOperation"__id*
+
+%3≠
+™
+j
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaüß ü(≤;
+%45org.exist.test.TransactionTestDSL$NamedCountDownLatch"__id*y*wf
+dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"
+t1WaitLatch≠
+™
+j
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaü¥ ü(ø;
+%55org.exist.test.TransactionTestDSL$NamedCountDownLatch"__id*y*wf
+dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"
+t2WaitLatchøº
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaü ü(Cj
+%6dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation¯
+ı
+i
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaü ü(¿
+%7"ãorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation#<init>(ZLorg/exist/test/TransactionTestDSL$TransactionScheduleBuilder;Lorg/exist/test/TransactionTestDSL$TransactionOperation;Lorg/exist/test/TransactionTestDSL$TransactionOperation;Lorg/exist/test/TransactionTestDSL$NamedCountDownLatch;Lorg/exist/test/TransactionTestDSL$NamedCountDownLatch;)V*l
+j
+%6dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation*
+""*hf
+dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation*J
+H
+final_t1_state6org.exist.test.TransactionTestDSL$TransactionOperation*J
+H
+final_t2_state6org.exist.test.TransactionTestDSL$TransactionOperation*=
+;
+%45org.exist.test.TransactionTestDSL$NamedCountDownLatch*=
+;
+%55org.exist.test.TransactionTestDSL$NamedCountDownLatch⁄
+◊
+i
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.javaû ü(¡v
+finalOperationdorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"__id*l
+j
+%6dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperationÂ‚
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.java° °(2=
+%87org.exist.test.TransactionTestDSL$BiTransactionSchedule"7org.exist.test.TransactionTestDSL$BiTransactionScheduleÿ
+’
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.java° °(B
+%9"ßorg.exist.test.TransactionTestDSL$BiTransactionSchedule#<init>(Lorg/exist/test/TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation;)V*?
+=
+%87org.exist.test.TransactionTestDSL$BiTransactionSchedule*x
+v
+finalOperationdorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation"´
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/TransactionTestDSL.java° °(C?
+=
+%87org.exist.test.TransactionTestDSL$BiTransactionScheduleBhf
+dorg.exist.test.TransactionTestDSL$BiTransactionScheduleBuilder$BiTransactionScheduleBuilderOperation

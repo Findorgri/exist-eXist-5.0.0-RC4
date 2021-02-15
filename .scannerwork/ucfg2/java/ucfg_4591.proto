@@ -1,0 +1,21 @@
+
+Oorg.expath.tools.model.exist.EXistAttribute#getNamespaceUri()Ljava/lang/String;}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java- -(!"1*
+1}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java. .(à
+Ý
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java. .(
+%0org.w3c.dom.Attr"__id*>*<-
++org.expath.tools.model.exist.EXistAttribute"
+	attributeýú
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java. .(*
+%1java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+%0org.w3c.dom.Attr2getNamespaceURI()"™
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java. .(+
+
+%1java.lang.StringB/-
++org.expath.tools.model.exist.EXistAttribute

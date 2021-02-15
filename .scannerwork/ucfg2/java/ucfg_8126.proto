@@ -1,0 +1,60 @@
+
+;org.exist.storage.btree.Paged#hexDump([B)Ljava/lang/String;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaå å( "7*â
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaí í(óð
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaí í(
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ 2	append(C)*
+5
+1*õ
+5_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaé é(ƒ
+€
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaé é(#
+
+%2void"Dorg.exist.storage.btree.Paged#byteToHex(Ljava/lang/StringBuilder;B)V*!"
+org.exist.storage.btree.Paged* 
+
+bufjava.lang.StringBuilder*
+""*	
+3
+5
+1*ê
+7_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaæ" æ(5œ™
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaæ& æ(3
+%0java.lang.StringBuilder"java.lang.StringBuilder®
+«
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaæ" æ(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder«
+¨
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaæ æ(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+5
+1*Ä
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javað ð(àÝ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javað ð(
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javað ð(
+
+%4java.lang.String:
+databyte[]B!"
+org.exist.storage.btree.Paged

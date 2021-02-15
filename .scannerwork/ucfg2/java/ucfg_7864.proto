@@ -1,0 +1,55 @@
+
+:org.exist.dom.memtree.NodeImpl#equals(Ljava/lang/Object;)Z`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaƒ ƒ("startingBlock*õ
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java   (‘—
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java   (
+%0short"-org.exist.dom.memtree.NodeImpl#getNodeType()S*" 
+org.exist.dom.memtree.NodeImpl2getNodeType()◊‘
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java   (,
+%1short"-org.exist.dom.memtree.NodeImpl#getNodeType()S*%
+#
+oorg.exist.dom.memtree.NodeImpl2getNodeType()*
+1*¡
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaƒ ƒ(-¨
+©
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java√ √(
+%2"
+__annotate*
+java.lang.Override*
+
+otherjava.lang.Objectñ
+ì
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaƒ' ƒ(,
+otherjava.lang.Object"__annotation*
+
+%2*
+5
+6*ù
+5`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java»& »(+≠
+™
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java» »(,#
+oorg.exist.dom.memtree.NodeImpl"__id*
+
+otherjava.lang.Object*
+2
+1*—
+6`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java∆ ∆("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java∆ ∆(
+""*—
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java…  (-"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java…  (-
+"":
+otherjava.lang.ObjectB" 
+org.exist.dom.memtree.NodeImpl

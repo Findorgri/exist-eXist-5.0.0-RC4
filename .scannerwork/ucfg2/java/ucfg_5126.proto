@@ -1,0 +1,30 @@
+
+Corg.exist.source.FileSource#lastModifiedSafe(Ljava/nio/file/Path;)J]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaç ç(!"5*À
+3]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaè è(>"g
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaè è(>
+""*º
+4]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaè è(=“œ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaè è(=
+
+%1long",java.nio.file.attribute.FileTime#toMillis()J*(
+&
+%0 java.nio.file.attribute.FileTime2
+toMillis()*
+3*ß
+5]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaè è(Ω
+∫
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaè è(2&
+%0 java.nio.file.attribute.FileTime"zjava.nio.file.Files#getLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileTime;*"
+java.nio.file.Files*
+
+pathjava.nio.file.Path*
+4:
+pathjava.nio.file.PathB
+org.exist.source.FileSource

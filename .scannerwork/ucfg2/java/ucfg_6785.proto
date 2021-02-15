@@ -1,0 +1,20 @@
+
+1org.exist.xquery.value.DecimalValue#isNegative()Ze
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.javaŠ Š("1*Þ
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java‹ ‹(À
+½
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java‹ ‹(
+%0java.math.BigDecimal"__id*2*0%
+#org.exist.xquery.value.DecimalValue"
+value½º
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java‹ ‹(	
+%1int"java.math.BigDecimal#signum()I*
+
+%0java.math.BigDecimal2signum()"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DecimalValue.java‹ ‹("
+""B'%
+#org.exist.xquery.value.DecimalValue

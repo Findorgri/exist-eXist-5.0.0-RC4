@@ -1,0 +1,127 @@
+
+5org.exist.util.UTF8#encode(Ljava/lang/String;II[BI)[BU
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaÒ Ò(""13"16"1*¤
+13U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaà à(±®
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaà à(
+
+%0char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)*
+13
+4
+5
+8
+9
+1*º
+3U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaø ø(
+s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaø ø((
+
+%9char"__id*
+""t
+r
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaø9 ø(B
+%10char"__id*
+""t
+r
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaú ú((
+%11char"__id*
+""t
+r
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaú1 ú(:
+%12char"__id*
+""*
+13
+1*Ô
+4U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaö ö(s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaö! ö(*
+
+%8char"__id*
+""*
+3*È
+16U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaÚ Ú("k
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaÚ Ú(
+
+bytbufbyte[]*É
+5U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaô ô(s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaô  ô()
+
+%6char"__id*
+""s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaô3 ô(<
+
+%7char"__id*
+""*
+3*Í
+7U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaí í(
+s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaí í((
+
+%4char"__id*
+""s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaí1 í(:
+
+%5char"__id*
+""*
+13
+1*Ô
+8U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaë ë(s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaë! ë(*
+
+%3char"__id*
+""*
+7*É
+9U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaé é(s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaé  é()
+
+%1char"__id*
+""s
+q
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaé3 é(<
+
+%2char"__id*
+""*
+7*Ç
+1U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaþ	 þ("k
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaþ þ(
+
+bytbufbyte[]:
+strjava.lang.String:
+"":
+"":
+bytbufbyte[]:
+""B"
+org.exist.util.UTF8

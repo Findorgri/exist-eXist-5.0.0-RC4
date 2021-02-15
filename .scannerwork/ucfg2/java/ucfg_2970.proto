@@ -1,0 +1,29 @@
+
+7org.exist.xquery.modules.httpclient.DBFile#getLength()J}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaX X("4*Œ
+2}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaZ Z(-"‡
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaZ Z(-
+""*÷
+3}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaZ
+ Z(,íê
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaZ
+ Z(,	
+%1int"*java.net.URLConnection#getContentLength()I*
+
+%0java.net.URLConnection2getContentLength()*
+2*®
+4}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaZ
+ Z(¤
+¡
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaZ
+ Z(
+%0java.net.URLConnection"Rorg.exist.xquery.modules.httpclient.DBFile#getConnection()Ljava/net/URLConnection;*.,
+*org.exist.xquery.modules.httpclient.DBFile*
+3B.,
+*org.exist.xquery.modules.httpclient.DBFile

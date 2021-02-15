@@ -1,0 +1,44 @@
+
+zorg.exist.xquery.value.DateTimeValue#dateToXMLGregorianCalendar(Ljava/util/Date;)Ljavax/xml/datatype/XMLGregorianCalendar;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaD( D(B"1*‹
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaE% E(<©¦
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaE) E(:!
+%0java.util.GregorianCalendar"java.util.GregorianCalendar»
+¸
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaE% E(<
+%1"%java.util.GregorianCalendar#<init>()V*#
+!
+%0java.util.GregorianCalendar·
+´
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaE E(=!
+gcjava.util.GregorianCalendar"__id*#
+!
+%0java.util.GregorianCalendarþû
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaF F(
+
+%2void"-java.util.Calendar#setTime(Ljava/util/Date;)V*#
+!
+gcjava.util.GregorianCalendar*
+
+datejava.util.Date2setTime(Ljava/util/Date;)§
+¤
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaG G(].
+xgc'javax.xml.datatype.XMLGregorianCalendar"__id*
+""µ²
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaH H(-
+%3'javax.xml.datatype.XMLGregorianCalendar"\javax.xml.datatype.XMLGregorianCalendar#normalize()Ljavax/xml/datatype/XMLGregorianCalendar;*0
+.
+xgc'javax.xml.datatype.XMLGregorianCalendar2normalize()"˜
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DateTimeValue.javaI I(0
+.
+xgc'javax.xml.datatype.XMLGregorianCalendar:
+datejava.util.DateB("&
+$org.exist.xquery.value.DateTimeValue

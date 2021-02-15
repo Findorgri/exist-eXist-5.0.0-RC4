@@ -1,0 +1,15 @@
+
+Lorg.exist.fluent.Item#valueWithDefault(Ljava/lang/String;)Ljava/lang/String;i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java– –("1*Ô
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java—	 —(ÛØ
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java—	 —(
+%0java.lang.String"/org.exist.fluent.Item#value()Ljava/lang/String;*
+org.exist.fluent.Item2value()"…
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java— —(
+
+%0java.lang.String: 
+defaultValuejava.lang.StringB
+org.exist.fluent.Item

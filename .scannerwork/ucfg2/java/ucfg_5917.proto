@@ -1,0 +1,80 @@
+
+@org.exist.dom.memtree.DOMIndexer#getNamespaces(I)Ljava/util/Map;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaí  í(-"8"9*ë
+3b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.java° °(ü
+ú
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.java° °(@
+%6"__mapSet*
+
+mapjava.util.Map*
+""*
+""*
+5
+1*≥
+4b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaü ü(ç
+ä
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaü ü(6
+%4java.lang.String"__id*
+""±
+Æ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaü ü(M
+%5"__mapSet*
+
+mapjava.util.Map*
+
+%4java.lang.String*
+""*
+5
+1*€
+5b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaú ú( ç
+ä
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaû û(+
+%2java.lang.String"__id*
+""Ÿ÷
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaû û(E
+%3",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+""2equals(Ljava/lang/Object;)*
+3
+4*Œ
+8b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaô( ô(7ìê
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaô, ô(5
+%0java.util.HashMap"java.util.HashMap•
+¢
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaô( ô(7
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMapû
+õ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javaô ô(8
+mapjava.util.Map"__id*
+
+%0java.util.HashMap*
+5
+1*’
+9b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javañ ñ("l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.javañ ñ(
+""*Â
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.java¶ ¶("|
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMIndexer.java¶ ¶(
+
+mapjava.util.Map:
+""B$"
+ org.exist.dom.memtree.DOMIndexer

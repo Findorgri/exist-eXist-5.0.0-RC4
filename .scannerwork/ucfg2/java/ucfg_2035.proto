@@ -1,0 +1,35 @@
+
+Korg.exist.xqj.Marshaller#streamToNode(Ljava/lang/String;)Lorg/w3c/dom/Node;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÉ É(#"1*í
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÊ2 Ê(9‘Ž
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÊ% Ê(1
+%0java.io.StringReader"java.io.StringReaderÔ
+Ñ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÊ! Ê(:
+%1"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%0java.io.StringReader*
+
+contentjava.lang.String£
+ 
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaÊ Ê(;
+readerjava.io.StringReader"__id*
+
+%0java.io.StringReader‚
+ÿ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaË Ë( 
+%2org.w3c.dom.Node"Iorg.exist.xqj.Marshaller#streamToNode(Ljava/io/Reader;)Lorg/w3c/dom/Node;*"
+org.exist.xqj.Marshaller* 
+
+readerjava.io.StringReader"v
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xqj/Marshaller.javaË Ë(!
+
+%2org.w3c.dom.Node:
+contentjava.lang.StringB"
+org.exist.xqj.Marshaller

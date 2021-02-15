@@ -1,0 +1,68 @@
+
+Aorg.exist.xquery.SequenceConstructor#toString()Ljava/lang/String;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javar r("7*¸
+3d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javay y(ÖÇ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javaz z(*
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+3
+4
+1*è
+4d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javax x(ûõ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javax x($
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+3*•
+7d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javas% s(8°û
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javas) s(6
+%0java.lang.StringBuilder"java.lang.StringBuilder≥
+∞
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javas% s(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder≥
+∞
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javas s(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderûõ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.javat t(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+( 2append(Ljava/lang/String;)*	
+3
+4
+1*¯
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.java| |(ûõ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.java| |(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ )2append(Ljava/lang/String;)ËÂ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.java} }( 
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"Ä
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/SequenceConstructor.java} }(!
+
+%6java.lang.StringB(&
+$org.exist.xquery.SequenceConstructor

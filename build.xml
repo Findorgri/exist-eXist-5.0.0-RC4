@@ -3,13 +3,18 @@
 <!-- eXist 2.x build file                                                    -->
 <!-- ======================================================================= -->
 
-<project basedir="." default="all" name="eXist-DB">
+<project basedir="." default="all" name="eXist-DB" xmlns:sonar="antlib:org.sonar.ant">
     
     <description>eXist Open Source Native XML Database</description>
     
     <!-- import default properties from file -->
     <property file="local.build.properties"/>
     <property file="build.properties"/>
+
+    <property name="sonar.host.url" value="https://sonarcloud.io" />
+    <property name="sonar.organization" value="findorgri" /> 
+    <property name="sonar.projectKey" value="Findorgri_exist-eXist-5.0.0-RC4" />
+    <property name="sonar.java.binaries" value="build" />
     
     <!-- set proxy if needed, use properties in build.properties  -->
     
@@ -29,4 +34,14 @@
     <!-- Additional scripts -->   
     <import file="build/scripts/junit.xml"/>
     <import file="build/scripts/performance.xml"/>
+
+    <target name="sonar">
+    <taskdef uri="antlib:org.sonar.ant" resource="org/sonar/ant/antlib.xml">
+        <!-- Update the following line, or put the "sonarqube-ant-task-*.jar" file in your "$HOME/.ant/lib" folder -->
+        <classpath path="C:\Users\Findorgri\git\exist-eXist-5.0.0-RC4\sonarqube-ant-task-2.7.0.1612.jar" />
+    </taskdef>
+ 
+    <!-- Execute SonarScanner for Ant Analysis -->
+    <sonar:sonar />
+    </target>
 </project>

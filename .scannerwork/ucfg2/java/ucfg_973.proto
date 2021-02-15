@@ -1,0 +1,16 @@
+
+Forg.exist.backup.CreateBackupDialog#getBackupDir()Ljava/nio/file/Path;e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.javaÞ Þ("1*µ
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.javaß ß(Â
+¿
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.javaß ß(
+%0java.nio.file.Path"__id*6*4%
+#org.exist.backup.CreateBackupDialog"
+	backupDir"ƒ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.javaß ß(
+
+%0java.nio.file.PathB'%
+#org.exist.backup.CreateBackupDialog

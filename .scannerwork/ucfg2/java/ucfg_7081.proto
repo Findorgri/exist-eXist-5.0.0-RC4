@@ -1,0 +1,107 @@
+
+Rorg.exist.xquery.value.UntypedAtomicValue#conversionPreference(Ljava/lang/Class;)Ik
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÉ É(#"startingBlock*Ë
+13k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaó ó("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaó ó(
+""*Ë
+25k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaã ã("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaã ã(
+""*Ë
+16k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaî î("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaî î(
+""*Ë
+28k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaà à("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaà à(
+""*Ë
+19k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaë ë("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaë ë(
+""*Û
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java• •(â
+Ü
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java• •( 	
+%1int"__id*
+"""u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java• •(!
+""*Á
+2k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java£ £("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java£ £(
+""*Ê
+startingBlockk
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÉ# É(7∫
+∑
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÇ Ç(
+%2"
+__annotate*
+java.lang.Override*
+
+	javaClassjava.lang.Class§
+°
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÉ- É(6
+	javaClassjava.lang.Class"__annotation*
+
+%2*
+32*Á
+4k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java† †("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.java† †(
+""*Á
+7k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaù ù("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaù ù(
+""*Ë
+31k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ Ö("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ Ö(
+""*§
+32k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÑ Ñ(Çˇ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÑ Ñ(9
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+	javaClassjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*,
+13
+2
+25
+4
+16
+28
+7
+19
+31
+10
+22
+1*Ë
+10k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaö ö("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaö ö(
+""*Ë
+22k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaé é("u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaé é(
+"":
+	javaClassjava.lang.ClassB-+
+)org.exist.xquery.value.UntypedAtomicValue

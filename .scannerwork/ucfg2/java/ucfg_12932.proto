@@ -1,0 +1,22 @@
+
+4org.exist.util.CharSlice#equals(Ljava/lang/Object;)ZX
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CharSlice.javap p("1*Š
+1X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CharSlice.javaq q(ÖÓ
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CharSlice.javaq q(
+%0java.lang.String"5org.exist.util.CharSlice#toString()Ljava/lang/String;*
+org.exist.util.CharSlice2
+toString()íê
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CharSlice.javaq q('
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+otherjava.lang.Object2equals(Ljava/lang/Object;)"b
+X
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CharSlice.javaq q((
+"":
+otherjava.lang.ObjectB
+org.exist.util.CharSlice

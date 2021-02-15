@@ -1,0 +1,35 @@
+
+vorg.exist.xquery.functions.util.GetFragmentBetween#getCharacters(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java§ §( "1*Þ	
+1t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¨ ¨( ˆ…
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¨ ¨(*
+%0java.lang.String"<javax.xml.stream.XMLStreamReader#getText()Ljava/lang/String;*,
+*
+reader javax.xml.stream.XMLStreamReader2	getText()·
+´
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¨ ¨(+
+xmlCharsjava.lang.String"__id*
+
+%0java.lang.StringÊ
+Ç
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java© ©(#
+%1java.lang.String"_org.exist.xquery.functions.util.GetFragmentBetween#escape(Ljava/lang/String;)Ljava/lang/String;*64
+2org.exist.xquery.functions.util.GetFragmentBetween*
+
+xmlCharsjava.lang.String·
+´
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java© ©(#
+xmlCharsjava.lang.String"__id*
+
+%1java.lang.String"–
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.javaª ª(
+
+xmlCharsjava.lang.String:*
+reader javax.xml.stream.XMLStreamReaderB64
+2org.exist.xquery.functions.util.GetFragmentBetween

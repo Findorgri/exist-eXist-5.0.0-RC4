@@ -1,0 +1,178 @@
+
+;org.exist.storage.ElementValue#toString()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javac c("7*–
+2^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javap p(«¨
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javap p(6
+%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+Invalid data length !!!2append(Ljava/lang/String;)*
+1*®
+3^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javam m(¡ž
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javam m(+
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ Symbol id : 2append(Ljava/lang/String;)|
+z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javamT m(a
+
+%17int"__id*
+""ýú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javam m(c
+%18"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+%16java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)£ 
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javan n(-
+%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ NSSymbol id : 2append(Ljava/lang/String;)|
+z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javanV n(e
+
+%20int"__id*
+""ýú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javan n(g
+%21"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+%19java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+1*é
+4^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javak k(|
+z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javak> k(V
+
+%15int"__id*
+""*
+2
+3*Š
+5^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javaj j(¡ž
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javaj j(/
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ Symbol id : 2append(Ljava/lang/String;)|
+z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javajX j(e
+
+%13int"__id*
+""ýú
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javaj j(g
+%14"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+%12java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+1*ê	
+6^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javag g(›˜
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javag g("
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+ Type : 2append(Ljava/lang/String;)‹
+ˆ
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javag* g(.
+%7java.lang.String[]"__id*
+""{
+y
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javag4 g(?	
+%8int"__id*
+""«
+¨
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javag* g(A
+%9java.lang.String"
+__arrayGet*
+
+%7java.lang.String[]*
+""§¤
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javag g(B
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%6java.lang.StringBuilder*
+
+%9java.lang.String2append(Ljava/lang/String;)|
+z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javah9 h(Q
+
+%11int"__id*
+""*
+4
+5*„
+7^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javad" d(5›˜
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javad& d(3
+%0java.lang.StringBuilder"java.lang.StringBuilder­
+ª
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javad" d(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderª
+§
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javad d(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder£ 
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javae e(&
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+Collection id : 2append(Ljava/lang/String;){
+y
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javaeM e(a	
+%3int"__id*
+""ûø
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javae e(c
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%2java.lang.StringBuilder*
+""2append(Ljava/lang/Object;){
+y
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javaf f(&	
+%5int"__id*
+""*
+6
+1*Ã
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javar r(àÝ
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javar r(
+%23java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"{
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ElementValue.javar r(
+
+%23java.lang.StringB" 
+org.exist.storage.ElementValue

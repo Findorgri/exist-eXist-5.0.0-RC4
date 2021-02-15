@@ -1,0 +1,35 @@
+
+-org.exist.storage.dom.NodeIterator#hasNext()Zb
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaL L("18*Ð
+18b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaO O( Ö
+Ó
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaO O("
+%0boolean"6org.exist.storage.dom.NodeIterator#gotoNextPosition()Z*&$
+"org.exist.storage.dom.NodeIterator*
+7
+8
+11
+1*Õ
+7b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaX X( "l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaX X(!
+""*Õ
+8b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaU U(!"l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaU U("
+""*Ö
+11b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaS S( "l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javaS S(!
+""*Õ
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javab b("l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/NodeIterator.javab b(
+""B&$
+"org.exist.storage.dom.NodeIterator

@@ -1,0 +1,67 @@
+
+ùorg.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType#valueOfAlias(Ljava/lang/String;)Lorg/exist/security/realm/oauth/ServiceGoogle$GoogleSchemaType;à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¡$ ¡(0"5*Ω
+2à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¬ ¬((È
+Ê
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¬ ¬((K
+
+schemaType=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType"__id*
+""∏
+µ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¬ ¬((K
+
+schemaType=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType"
+__arrayGet*G
+E
+%1?org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType[]*
+""*
+4
+1*Î
+3à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.javaƒ ƒ(""⁄
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.javaƒ ƒ(#M
+K
+
+schemaType=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType*ó
+4à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java√ √(›⁄
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java√ √(%
+%2java.lang.String"Zorg.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType#getAlias()Ljava/lang/String;*M
+K
+
+schemaType=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType2
+getAlias()ûõ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java√ √(3
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+aliasjava.lang.String2equals(Ljava/lang/Object;)*
+2
+3*õ
+5à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¬+ ¬(;·
+ﬁ
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¬+ ¬(;C
+%0=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType"__id*
+""°
+û
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java¬+ ¬(DE
+%1?org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType[]"Üorg.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType#values()[Lorg/exist/security/realm/oauth/ServiceGoogle$GoogleSchemaType;*A"?
+=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType*
+2*§
+1à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java« «("ì
+à
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceGoogle.java«	 «(
+"":
+aliasjava.lang.StringBA"?
+=org.exist.security.realm.oauth.ServiceGoogle$GoogleSchemaType

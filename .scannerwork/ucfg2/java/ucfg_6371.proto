@@ -1,0 +1,26 @@
+
+_org.exist.extensions.exquery.restxq.impl.ExistXqueryRegistry#getInvalidQueries()Ljava/util/Set;°
+ñC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javau u(("1*°
+1°
+ñC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javav v(+ 
+«
+°
+ñC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javav v(+
+%0java.util.Set"__id*
+""”–
+°
+ñC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javav v(
+%1java.util.HashSet"java.util.HashSetí
+è
+°
+ñC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javav v(,
+%2"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
+
+%1java.util.HashSet*
+
+%0java.util.Set"ø
+°
+ñC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javav v(-
+
+%1java.util.HashSetB@>
+<org.exist.extensions.exquery.restxq.impl.ExistXqueryRegistry

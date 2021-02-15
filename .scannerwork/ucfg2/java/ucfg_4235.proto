@@ -1,0 +1,72 @@
+
+Yorg.exist.xmlrpc.RpcConnection#executeT(Ljava/lang/String;Ljava/util/Map;)Ljava/util/Map;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÌ Ì('"startingBlock*–
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÌ' Ì(g²
+¯
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaË Ë(
+%4"
+__annotate*
+java.lang.Override*!
+
+pathToQueryjava.lang.Stringœ
+™
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÌ5 Ì(@
+pathToQueryjava.lang.String"__annotation*
+
+%4®
+«
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaË Ë(
+%5"
+__annotate*
+java.lang.Override*
+
+
+parametersjava.util.Map˜
+•
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÌ\ Ì(f
+
+parametersjava.util.Map"__annotation*
+
+%5*
+1*Õ
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÍ Í(%®
+«
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÍ Í(9
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.Systemœ
+™
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÏ< Ï(\
+%1"__mapGet*
+
+
+parametersjava.util.Map*
+""Ò
+Ï
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÏ( Ï(]
+%2"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+%1Ü
+Ù
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÑ Ñ([
+%3"Corg.exist.xmlrpc.RpcConnection#readDocument(LXmldbURI;)LFunction2E;*" 
+org.exist.xmlrpc.RpcConnection*
+"""j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÑ ä(
+"":
+pathToQueryjava.lang.String:
+
+parametersjava.util.MapB" 
+org.exist.xmlrpc.RpcConnection

@@ -1,0 +1,31 @@
+
+Üorg.exist.xquery.value.YearMonthDurationValue#fromDecimalMonths(Ljava/math/BigDecimal;)Lorg/exist/xquery/value/YearMonthDurationValue;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java“# “(4"1*–	
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java”* ”(3∆√
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java‘ ‘(	
+%0int"java.math.BigDecimal#signum()I*
+
+xjava.math.BigDecimal2signum()¯ı
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java‘' ‘(7
+%1java.math.BigInteger"9java.math.BigDecimal#toBigInteger()Ljava/math/BigInteger;*
+
+xjava.math.BigDecimal2toBigInteger()ÿ’
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java” ”()3
+%2-org.exist.xquery.value.YearMonthDurationValue"-org.exist.xquery.value.YearMonthDurationValueè
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java” ‘(9
+%3"Torg.exist.xquery.value.YearMonthDurationValue#<init>(Ljavax/xml/datatype/Duration;)V*5
+3
+%2-org.exist.xquery.value.YearMonthDurationValue*
+"""®
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/YearMonthDurationValue.java” ‘(:5
+3
+%2-org.exist.xquery.value.YearMonthDurationValue:
+xjava.math.BigDecimalB1/
+-org.exist.xquery.value.YearMonthDurationValue

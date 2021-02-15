@@ -1,0 +1,41 @@
+
+Forg.exist.security.XmldbApiSecurityTest#getBaseUri()Ljava/lang/String;l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaF F(#"1*ð	
+1l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaG G(É
+Æ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaG G(
+%0java.lang.String"__id*8*6)
+'org.exist.security.XmldbApiSecurityTest"	
+baseUri—
+”
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaG G(/
+%1java.lang.String"__id*
+""…
+‚
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaGB G(P
+%2"__id*
+""Ç
+Ä
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaG1 G([
+%3"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+""ÌÉ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaG G(\
+%4"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%0java.lang.String*
+
+%1java.lang.String*
+
+%329replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"v
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaG G(]
+
+%4B+)
+'org.exist.security.XmldbApiSecurityTest

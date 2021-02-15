@@ -1,0 +1,41 @@
+
+Qorg.exist.util.io.FilterInputStreamCacheMonitor#getActive()Ljava/util/Collection;o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java32 3(;"1*Õ
+
+1o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java4D 4(P§°
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java4: 4(C
+%0java.util.ArrayList"java.util.ArrayList‘
+—
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java46 4(Z
+%1"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*
+
+%0java.util.ArrayList*
+""Ø
+¨
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java4 4([
+listjava.util.List"__id*
+
+%0java.util.ArrayListë
+é
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java5 5(U
+%2java.util.Comparator"]java.util.Comparator#comparingLong(Ljava/util/function/ToLongFunction;)Ljava/util/Comparator;*"
+java.util.Comparator*
+""ÑÅ
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java5 5(V
+
+%3void",java.util.List#sort(Ljava/util/Comparator;)V*
+
+listjava.util.List*
+
+%2java.util.Comparator2sort(Ljava/util/Comparator;)"ã
+o
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FilterInputStreamCacheMonitor.java6 6(
+
+listjava.util.ListB31
+/org.exist.util.io.FilterInputStreamCacheMonitor

@@ -1,0 +1,25 @@
+
+2org.exist.util.serializer.json.JSONNode#isNamed()Zg
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.java: :("1*Ù
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.java; ;(Å˛
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.java; ;(
+%0java.lang.String"Corg.exist.util.serializer.json.JSONNode#getName()Ljava/lang/String;*+)
+'org.exist.util.serializer.json.JSONNode2	getName()í
+è
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.java;! ;(1
+%1java.lang.String"__id*
+""˘ˆ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.java; ;(2
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)"q
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONNode.java; ;(3
+""B+)
+'org.exist.util.serializer.json.JSONNode

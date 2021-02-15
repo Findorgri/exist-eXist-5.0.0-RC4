@@ -1,0 +1,36 @@
+
+8org.exist.util.MimeType#getXMLDBType()Ljava/lang/String;W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaP P("4*ø
+2W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ- Q(=”
+‘
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ- Q(=
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*ø
+3W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ Q(*”
+‘
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ Q(*
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*¢
+4W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ Q(»¸
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ Q(
+%0boolean"$org.exist.util.MimeType#isXMLType()Z*
+org.exist.util.MimeType2isXMLType()*
+2
+3*Ñ
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ Q(>"s
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeType.javaQ Q(>
+
+%1java.lang.StringB
+org.exist.util.MimeType

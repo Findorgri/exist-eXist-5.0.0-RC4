@@ -1,0 +1,188 @@
+
+corg.exist.xquery.functions.fn.FunDeepEqual#compareAttributes(Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)Zl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java½ ½(,"15*ê
+14l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÀ> À(C"v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÀ7 À(D
+""*é
+3l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaË Ë("v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaË Ë(
+""*¾
+15l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¾" ¾(#÷ô
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¾" ¾(3
+%0org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
+
+aorg.w3c.dom.Node2getAttributes()»
+¸
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¾ ¾(4 
+nnmaorg.w3c.dom.NamedNodeMap"__id* 
+
+%0org.w3c.dom.NamedNodeMap÷ô
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¿" ¿(3
+%1org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
+
+borg.w3c.dom.Node2getAttributes()»
+¸
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¿ ¿(4 
+nnmborg.w3c.dom.NamedNodeMap"__id* 
+
+%1org.w3c.dom.NamedNodeMap¦
+£
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÀ À(	
+%2int"Torg.exist.xquery.functions.fn.FunDeepEqual#getAttrCount(Lorg/w3c/dom/NamedNodeMap;)I*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*"
+ 
+nnmaorg.w3c.dom.NamedNodeMap¦
+£
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÀ" À(4	
+%3int"Torg.exist.xquery.functions.fn.FunDeepEqual#getAttrCount(Lorg/w3c/dom/NamedNodeMap;)I*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*"
+ 
+nnmborg.w3c.dom.NamedNodeMap*
+14
+12*–
+4l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÊ Ê()çä
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÊ* Ê(;
+%14java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+taorg.w3c.dom.Node2getNodeValue()çä
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÊ= Ê(N
+%15java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+tborg.w3c.dom.Node2getNodeValue()Å
+Â
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÊ Ê(O
+%16boolean"\org.exist.xquery.functions.fn.FunDeepEqual#safeEquals(Ljava/lang/Object;Ljava/lang/Object;)Z*.",
+*org.exist.xquery.functions.fn.FunDeepEqual*
+
+%14java.lang.String*
+
+%15java.lang.String*
+3
+12*¥
+5l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÇ É(M©
+¦
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÇ É(M
+tborg.w3c.dom.Node"__id*
+
+%8org.w3c.dom.Node*
+3
+4*û
+6l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÉ É(íê
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÉ$ É(8
+%12java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+taorg.w3c.dom.Node2getNamespaceURI()çä
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÉ: É(K
+%13java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+taorg.w3c.dom.Node2getLocalName()ûø
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÉ É(L
+%10org.w3c.dom.Node"_org.w3c.dom.NamedNodeMap#getNamedItemNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Node;*"
+ 
+nnmborg.w3c.dom.NamedNodeMap*
+
+%12java.lang.String*
+
+%13java.lang.String24getNamedItemNS(Ljava/lang/String;Ljava/lang/String;)ª
+§
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÉ É(L
+%8org.w3c.dom.Node"__id*
+
+%10org.w3c.dom.Node*
+5*Ä
+7l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÈ È(åâ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÈ" È(2
+%11java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+taorg.w3c.dom.Node2getNodeName()·´
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÈ È(3
+%9org.w3c.dom.Node"Korg.w3c.dom.NamedNodeMap#getNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;*"
+ 
+nnmborg.w3c.dom.NamedNodeMap*
+
+%11java.lang.String2 getNamedItem(Ljava/lang/String;)©
+¦
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÈ È(3
+%8org.w3c.dom.Node"__id*
+
+%9org.w3c.dom.Node*
+5*â
+8l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÇ Ç(æã
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÇ Ç(-
+%7java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+taorg.w3c.dom.Node2getLocalName()*
+6
+7*¸
+11l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÂ Â( òï
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÂ Â((
+%5org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*"
+ 
+nnmaorg.w3c.dom.NamedNodeMap*
+""2item(I)©
+¦
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÂ Â()
+taorg.w3c.dom.Node"__id*
+
+%5org.w3c.dom.Nodeìé
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÃ Ã(3
+%6java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+taorg.w3c.dom.Node2getNamespaceURI()ª
+§
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÃ Ã(4
+nsAjava.lang.String"__id*
+
+%6java.lang.String*
+8
+12*Ò
+12l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÁ Á(ÔÑ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÁ Á(,	
+%4int"%org.w3c.dom.NamedNodeMap#getLength()I*"
+ 
+nnmaorg.w3c.dom.NamedNodeMap2getLength()*
+11
+1*é
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÎ Î("v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaÎ Î(
+"":
+aorg.w3c.dom.Node:
+borg.w3c.dom.NodeB.",
+*org.exist.xquery.functions.fn.FunDeepEqual

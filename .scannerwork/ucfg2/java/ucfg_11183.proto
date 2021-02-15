@@ -1,0 +1,29 @@
+
+Corg.exist.util.io.Resource#getOutputStream(Z)Ljava/io/OutputStream;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaí í('"2"1*Ü
+2\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javað ð(t
+r
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javað ð(
+%0"__id*
+""*
+1*¸
+1\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaò ò(ã
+à
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaò ò(
+%1java.net.URLConnection"Borg.exist.util.io.Resource#getConnection()Ljava/net/URLConnection;*
+org.exist.util.io.Resourceðí
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaò ò(0
+%2java.io.OutputStream">java.net.URLConnection#getOutputStream()Ljava/io/OutputStream;*
+
+%1java.net.URLConnection2getOutputStream()"|
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaò ò(1
+
+%2java.io.OutputStream:
+""B
+org.exist.util.io.Resource

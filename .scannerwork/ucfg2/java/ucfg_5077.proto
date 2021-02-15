@@ -1,0 +1,47 @@
+
+Xorg.exist.storage.ProcessMonitor$QueryHistory#getDelay(Ljava/util/concurrent/TimeUnit;)Jb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java” ”("startingBlock*Ü
+startingBlockb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java” ”(+º
+·
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java“ “(
+%3"
+__annotate*
+java.lang.Override*'
+%
+unitjava.util.concurrent.TimeUnit¤
+¡
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java”& ”(*%
+unitjava.util.concurrent.TimeUnit"__annotation*
+
+%3*
+1*è
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java• •(°
+­
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java•* •(D
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.Systemš
+—
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java•F •([#
+%1java.util.concurrent.TimeUnit"__id*
+""À½
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java• •(\
+
+%2long"Hjava.util.concurrent.TimeUnit#convert(JLjava/util/concurrent/TimeUnit;)J*'
+%
+unitjava.util.concurrent.TimeUnit*
+""*%
+#
+%1java.util.concurrent.TimeUnit2)convert(JLjava/util/concurrent/TimeUnit;)"l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.java• •(]
+"":%
+unitjava.util.concurrent.TimeUnitB1/
+-org.exist.storage.ProcessMonitor$QueryHistory

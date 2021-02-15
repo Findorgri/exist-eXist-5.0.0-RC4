@@ -1,0 +1,28 @@
+
+Borg.exist.security.internal.Password#md5Hash(Ljava/lang/String;)[Bd
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javax x("1*Ω
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javaz z(!ª∏
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.java{ {((
+%0byte[]"java.lang.String#getBytes()[B*
+
+pjava.lang.String2
+getBytes()è
+å
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.java{ {()
+databyte[]"__id*
+
+%0byte[]á
+Ñ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.java} }()
+hashbyte[]"__id*
+"""x
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.java~ ~(
+
+hashbyte[]:
+pjava.lang.StringB(&
+$org.exist.security.internal.Password

@@ -1,0 +1,23 @@
+
+)org.exist.test.ExistWebServer#random(II)Id
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaÆ Æ("1*Æ
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaØ Ø(è
+å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaØ Ø(
+%0java.util.Random"__id*
+""¿Ω
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaØ Ø(.	
+%1int"java.util.Random#nextInt(I)I*
+
+%0java.util.Random*
+""2
+nextInt(I)"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaØ Ø(5
+"":
+"":
+""B!
+org.exist.test.ExistWebServer

@@ -1,0 +1,279 @@
+
+Jorg.exist.util.serializer.json.JSONWriterTest#ignoreWhitespaceTextNodes()Vr
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaV V()"9*
+2r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javal" l((ÒÓ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javal" l(3
+%32java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()*
+1*æ
+3r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaj9 j(Bøº
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaj j(C
+%31void"djavax.xml.transform.Transformer#transform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)V*0
+.
+transformerjavax.xml.transform.Transformer**
+(
+%29!javax.xml.transform.dom.DOMSource*0
+.
+	saxResult!javax.xml.transform.sax.SAXResult2Ctransform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)*
+2*©
+4r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javai i(BŸ
+÷
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javai i(B.
+	saxResult!javax.xml.transform.sax.SAXResult"__id**
+(
+%27!javax.xml.transform.sax.SAXResultƒ¡
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaj& j(/(
+%29!javax.xml.transform.dom.DOMSource"!javax.xml.transform.dom.DOMSourceá
+Ñ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaj" j(7
+%30"=javax.xml.transform.dom.DOMSource#<init>(Lorg/w3c/dom/Node;)V**
+(
+%29!javax.xml.transform.dom.DOMSource*
+
+xmlDocorg.w3c.dom.Node*
+3*õ
+5r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javah h(P◊
+‘
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javah h(P.
+transformerjavax.xml.transform.Transformer"__id*(
+&
+%26javax.xml.transform.Transformerƒ¡
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javai, i(5(
+%27!javax.xml.transform.sax.SAXResult"!javax.xml.transform.sax.SAXResult˚
+¯
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javai( i(A
+%28"Gjavax.xml.transform.sax.SAXResult#<init>(Lorg/xml/sax/ContentHandler;)V**
+(
+%27!javax.xml.transform.sax.SAXResult*
+""*
+4*Ú
+6r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javah, h(>¥
+±
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javah, h(>-
+%25&javax.xml.transform.TransformerFactory"__id*
+""ºπ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javah, h(O&
+%26javax.xml.transform.Transformer"Xjavax.xml.transform.TransformerFactory#newTransformer()Ljavax/xml/transform/Transformer;*/
+-
+%25&javax.xml.transform.TransformerFactory2newTransformer()*
+5*ª
+7r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaf f(:º
+π
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaf f(:
+writerjava.io.StringWriter"__id*
+
+%23java.io.StringWriter*
+6*È
+8r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaf( f(:™ß
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaf, f(8
+%23java.io.StringWriter"java.io.StringWriterΩ
+∫
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaf( f(:
+%24"java.io.StringWriter#<init>()V*
+
+%23java.io.StringWriter*
+7*ª*
+9r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaX X($ù
+ö
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY Y("
+%0java.lang.String"__id*
+""√
+¿
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY Y("
+%1java.lang.String"__concat*
+
+<a z='99'>*
+
+%0java.lang.String«
+ƒ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY Z((
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+    <b x='1'/>ù
+ö
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaZ+ Z(.
+%3java.lang.String"__id*
+""Õ
+ 
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY Z(.
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String 
+«
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY [(+
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+    <b x='2'></b>ù
+ö
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java[. [(1
+%6java.lang.String"__id*
+""Õ
+ 
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY [(1
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Stringœ
+Ã
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY \(0
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+    <b x='3'>stuff</b>ù
+ö
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java\3 \(6
+%9java.lang.String"__id*
+""Œ
+À
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY \(6
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.StringŸ
+÷
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY ](8
+%11java.lang.String"__concat*
+
+%10java.lang.String*" 
+    <b x='4'>\t\r\n   \r\n</b>û
+õ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java]; ](>
+%12java.lang.String"__id*
+""–
+Õ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY ](>
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.Stringø
+º
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaY ^(
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+</a>ƒ
+¡
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaX ^(
+%15org.w3c.dom.Document"`org.exist.util.serializer.json.JSONWriterTest#parseXml(Ljava/lang/String;)Lorg/w3c/dom/Document;*1/
+-org.exist.util.serializer.json.JSONWriterTest*
+
+%14java.lang.String∏
+µ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaX ^( 
+xmlDocorg.w3c.dom.Node"__id*
+
+%15org.w3c.dom.Document™ß
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java`* `(4
+%16java.util.Properties"java.util.PropertiesΩ
+∫
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java`& `(6
+%17"java.util.Properties#<init>()V*
+
+%16java.util.Properties¿
+Ω
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.java` `(7"
+
+propertiesjava.util.Properties"__id*
+
+%16java.util.Propertiesû
+õ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaa a(0
+%18java.lang.String"__id*
+""ËÂ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javaa a(9
+%19java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
+"
+
+propertiesjava.util.Properties*
+
+%18java.lang.String*
+json21setProperty(Ljava/lang/String;Ljava/lang/String;)¬ø
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javab b(X
+%20"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
+"
+
+propertiesjava.util.Properties*
+""*
+yes21setProperty(Ljava/lang/String;Ljava/lang/String;)û
+õ
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javac c(0
+%21java.lang.String"__id*
+""Ê„
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javac c(7
+%22java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
+"
+
+propertiesjava.util.Properties*
+
+%21java.lang.String*
+no21setProperty(Ljava/lang/String;Ljava/lang/String;)*
+8*ë
+0 "â
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javap p(
+implicit return*≥
+1r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javal l(4¥
+±
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/serializer/json/JSONWriterTest.javal l(4
+resultjava.lang.String"__id*
+
+%32java.lang.String*
+0B1/
+-org.exist.util.serializer.json.JSONWriterTest

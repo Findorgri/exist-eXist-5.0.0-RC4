@@ -1,0 +1,52 @@
+
+Zorg.exist.management.client.JMXtoXML#generateReport([Ljava/lang/String;)Ljava/lang/String;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java≤ ≤( "1*Æ
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java≥ ≥(.äá
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java≥ ≥(@
+%0org.w3c.dom.Element"rorg.exist.management.client.JMXtoXML#generateXMLReport(Ljava/lang/String;[Ljava/lang/String;)Lorg/w3c/dom/Element;*(&
+$org.exist.management.client.JMXtoXML*
+""*"
+ 
+
+categoriesjava.lang.String[]28generateXMLReport(Ljava/lang/String;[Ljava/lang/String;)´
+®
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java≥ ≥(A
+rootorg.w3c.dom.Element"__id*
+
+%0org.w3c.dom.Elementùö
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java¥( ¥(4
+%1java.io.StringWriter"java.io.StringWriterØ
+¨
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java¥$ ¥(6
+%2"java.io.StringWriter#<init>()V*
+
+%1java.io.StringWriterØ
+¨
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java¥ ¥(7
+writerjava.io.StringWriter"__id*
+
+%1java.io.StringWriterï
+í
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.javaµA µ(R
+%3java.util.Properties"__id*
+""‰·
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java∑ ∑( 
+%4java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()"Ç
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXtoXML.java∑ ∑(!
+
+%4java.lang.String: 
+
+categoriesjava.lang.String[]B(&
+$org.exist.management.client.JMXtoXML

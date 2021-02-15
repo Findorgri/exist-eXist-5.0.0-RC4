@@ -1,0 +1,20 @@
+
+4org.exist.backup.AbstractBackupDescriptor#before(J)Zi
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/AbstractBackupDescriptor.javaH H("1*¤
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/AbstractBackupDescriptor.javaJ J(ƒ€
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/AbstractBackupDescriptor.javaJ J(%
+%0java.util.Date"Corg.exist.backup.AbstractBackupDescriptor#getDate()Ljava/util/Date;*-+
+)org.exist.backup.AbstractBackupDescriptor2	getDate()¸µ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/AbstractBackupDescriptor.javaJ J(/
+
+%1long"java.util.Date#getTime()J*
+
+%0java.util.Date2	getTime()"s
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/AbstractBackupDescriptor.javaJ J(2
+"":
+""B-+
+)org.exist.backup.AbstractBackupDescriptor

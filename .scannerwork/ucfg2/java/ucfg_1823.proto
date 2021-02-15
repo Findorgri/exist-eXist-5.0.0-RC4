@@ -1,0 +1,90 @@
+
+.org.exist.util.ByteArrayPool#getByteArray(I)[B\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java. .(%"7*ã
+2\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java4% 4()ó
+î
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java4% 4(,
+%5byte[]"
+__arrayGet*
+
+poolbyte[][]*
+""Ñ
+Å
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java4 4(-
+bbyte[]"__id*
+
+%5byte[]ó
+î
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java5 5("
+%6"
+__arraySet*
+
+poolbyte[][]*
+""*
+"""m
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java6 6(
+
+bbyte[]*Ü
+3\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java2' 2(+ó
+î
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java2' 2(.
+%4byte[]"
+__arrayGet*
+
+poolbyte[][]*
+""*	
+2
+4
+1*Ü
+4\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java2 2(ó
+î
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java2 2(
+%3byte[]"
+__arrayGet*
+
+poolbyte[][]*
+""*	
+3
+4
+1* 
+7\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java/ /($å
+â
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java/ /($
+%0java.lang.ThreadLocal"__id*
+""∆√
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java/ /(*
+%1byte[][]"-java.lang.ThreadLocal#get()Ljava/lang/Object;*
+
+%0java.lang.ThreadLocal2get()ã
+à
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java/ /(+
+poolbyte[][]"__id*
+
+%1byte[][]y
+w
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java0 0(	
+%2int"__id*
+""*
+4
+1*…
+1\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java: :("f
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ByteArrayPool.java: :(
+"":
+""B "
+org.exist.util.ByteArrayPool

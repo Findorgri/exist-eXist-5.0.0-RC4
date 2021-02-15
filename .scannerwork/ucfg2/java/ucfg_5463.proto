@@ -1,0 +1,9 @@
+
+Oorg.exist.xquery.modules.lucene.LuceneModule#getDescription()Ljava/lang/String;†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/xquery/modules/lucene/LuceneModule.javaR R( "1*×
+1†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/xquery/modules/lucene/LuceneModule.javaS S(J"È
+†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/xquery/modules/lucene/LuceneModule.javaS S(K=;
+9A module for full text indexed searching based on Lucene.B0.
+,org.exist.xquery.modules.lucene.LuceneModule

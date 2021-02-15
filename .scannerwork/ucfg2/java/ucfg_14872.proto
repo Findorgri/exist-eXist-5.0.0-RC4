@@ -1,0 +1,74 @@
+
+]org.exist.performance.AbstractAction#getContentValue(Lorg/w3c/dom/Element;)Ljava/lang/String;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javal l(("4*ª
+2i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javap p(éæ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javap p(,
+%3java.lang.String"3org.w3c.dom.Node#getTextContent()Ljava/lang/String;*
+
+nextorg.w3c.dom.Node2getTextContent()®«
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javap p(-
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*
+
+%3java.lang.String2append(Ljava/lang/String;)éæ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaq q((
+%5org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
+
+nextorg.w3c.dom.Node2getNextSibling()¨
+¥
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaq q((
+nextorg.w3c.dom.Node"__id*
+
+%5org.w3c.dom.Node*
+2
+1*¦
+4i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javam m(-¤¡
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javam m(+
+%0java.lang.StringBuffer"java.lang.StringBuffer¶
+³
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javam m(-
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer³
+°
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javam m(.
+bufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBufferìé
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javan n(*
+%2org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+configorg.w3c.dom.Element2getFirstChild()¨
+¥
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javan n(+
+nextorg.w3c.dom.Node"__id*
+
+%2org.w3c.dom.Node*
+2
+1*á
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javas s(èå
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javas s(
+%6java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"…
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javas s(
+
+%6java.lang.String:
+configorg.w3c.dom.ElementB("&
+$org.exist.performance.AbstractAction

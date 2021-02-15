@@ -1,0 +1,16 @@
+
+Lorg.exist.management.impl.DiskUsage#getAllInstancesQuery()Ljava/lang/String;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaC C(-"1*ï
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaD D(ƒ
+€
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaD D(
+%0java.lang.String"Qorg.exist.management.impl.DiskUsage#getName(Ljava/lang/String;)Ljava/lang/String;*'"%
+#org.exist.management.impl.DiskUsage*
+*"
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaD D(
+
+%0java.lang.StringB'"%
+#org.exist.management.impl.DiskUsage

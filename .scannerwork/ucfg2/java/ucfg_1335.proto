@@ -1,0 +1,33 @@
+
+Morg.exist.storage.lock.LockManager#isBtreeLockedForWrite(Ljava/lang/String;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÊ Ê(("startingBlock*Ü
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÊ( Ê(Dº
+·
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÉ É(
+%1"
+__annotate*
+java.lang.Deprecated*#
+!
+btreeFileNamejava.lang.String¢
+Ÿ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÊ6 Ê(C!
+btreeFileNamejava.lang.String"__annotation*
+
+%1*
+1*‹
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaË Ë(¯¬
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaË Ë(+
+%0boolean"Eorg.exist.storage.lock.LockManager#isBtreeLocked(Ljava/lang/String;)Z*&$
+"org.exist.storage.lock.LockManager*#
+!
+btreeFileNamejava.lang.String2!isBtreeLocked(Ljava/lang/String;)"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaË Ë(,
+"":!
+btreeFileNamejava.lang.StringB&$
+"org.exist.storage.lock.LockManager

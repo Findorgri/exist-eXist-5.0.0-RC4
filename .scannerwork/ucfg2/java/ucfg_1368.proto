@@ -1,0 +1,28 @@
+
+Horg.exist.security.AbstractAccount#checkCredentials(Ljava/lang/Object;)Zb
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaK K(#"2"3*Ë
+2b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaL' L(,z
+x
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaL' L(?
+%0"__id*
+
+%2*
+1*Û
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaL L($Ñ
+Å
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaL L($
+%0"__id*
+
+%1boolean*
+1*’
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaL L(@"l
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaL L(@
+"":
+credentialsjava.lang.ObjectB&$
+"org.exist.security.AbstractAccount

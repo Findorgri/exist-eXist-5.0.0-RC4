@@ -1,0 +1,176 @@
+
+5org.exist.util.io.Resource#listFiles()[Ljava/io/File;\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaµ µ("47*û
+35\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaƒ ƒ("≥
+∞
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaƒ ƒ("
+%4java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+34* 
+46\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java∑ ∑("f
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java∑ ∑(
+""*˘
+24\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÕ4 Õ(E|z
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÕ8 Õ(C
+%11"java.util.ArrayListê
+ç
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÕ4 Õ(E
+%12"java.util.ArrayList#<init>()V*
+
+%11*
+23*ü
+36]
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡ ¡(É≥
+∞
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√1 √(;
+%3java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+35*π
+47\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java∂ ∂( «
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java∂ ∂(
+%0boolean")org.exist.util.io.Resource#isDirectory()Z*
+org.exist.util.io.Resource2isDirectory()*
+46
+45*≠
+26\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java… …(Tæ
+ª
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java… …(T
+%10"
+__arraySet*
+
+childrenjava.io.File[]*
+""*"
+ 
+%8org.exist.util.io.Resource*
+24
+30*û
+38\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡o ¡(y≥
+∞
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡o ¡(y
+%2java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+36*–
+27\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java…" …(Tüú
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java…& …(. 
+%8org.exist.util.io.Resource"org.exist.util.io.Resource√
+¿
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java…" …(T
+%9".org.exist.util.io.Resource#<init>(LXmldbURI;)V*"
+ 
+%8org.exist.util.io.Resource*
+""*
+26*ﬂ
+3\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaﬁ ﬁ("|
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaﬁ ﬁ( 
+
+childrenjava.io.File[]*´
+5\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java€ €(8ø
+º
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java€ €(8
+%16"
+__arraySet*
+
+childrenjava.io.File[]*
+""*#
+!
+%14org.exist.util.io.Resource*
+3
+6*—
+6\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java€" €(8†ù
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java€& €(.!
+%14org.exist.util.io.Resource"org.exist.util.io.Resource≈
+¬
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java€" €(8
+%15".org.exist.util.io.Resource#<init>(LXmldbURI;)V*#
+!
+%14org.exist.util.io.Resource*
+""*
+5*û
+30\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java… …(≥
+∞
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java…/ …(9
+%7java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+27* 
+44\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaª ª("f
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaª ª(
+""* 
+34\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√1 ƒ(;áÑ
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√( ƒ(<
+%5java.io.File[]"java.io.File[]õ
+ò
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√ ƒ(=
+childrenjava.io.File[]"__id*
+
+%5java.io.File[]≥
+∞
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java»2 »(<
+%6java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+24
+30*¢
+45\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java∫ ∫(≥
+∞
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java∫ ∫(
+%1java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+38
+44*°
+23\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaÕ Õ(F¥
+±
+\
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaŒ6 Œ(@
+%13java.util.Collection"__id*.*,
+org.exist.util.io.Resource"
+
+collection*
+3
+6B
+org.exist.util.io.Resource

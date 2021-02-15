@@ -1,0 +1,17 @@
+
+>org.exist.webdav.ExistDocument#getMimeType()Ljava/lang/String;r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistDocument.java‡ ‡("1*Ò
+1r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistDocument.javaˆ ˆ(Ç
+Ä
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistDocument.javaˆ ˆ(
+%0java.lang.String"__id*0*. 
+org.exist.webdav.ExistDocument"
+
+mimeType"Ž
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistDocument.javaˆ ˆ(
+
+%0java.lang.StringB" 
+org.exist.webdav.ExistDocument

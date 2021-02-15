@@ -1,0 +1,27 @@
+
+corg.exist.xmldb.RemoteCollectionManagementService#getProperty(Ljava/lang/String;)Ljava/lang/String;q
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollectionManagementService.javat t("startingBlock*÷
+startingBlockq
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollectionManagementService.javat t(4À
+½
+q
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollectionManagementService.javas s(
+%0"
+__annotate*
+java.lang.Override*
+
+propertyjava.lang.Stringª
+§
+q
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollectionManagementService.javat+ t(3
+propertyjava.lang.String"__annotation*
+
+%0*
+1*ó
+1q
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollectionManagementService.javau u("{
+q
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollectionManagementService.javau u(
+"":
+propertyjava.lang.StringB53
+1org.exist.xmldb.RemoteCollectionManagementService

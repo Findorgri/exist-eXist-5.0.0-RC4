@@ -1,0 +1,42 @@
+
+Xorg.exist.xmldb.LocalXPathQueryService#getProperty(Ljava/lang/String;)Ljava/lang/String;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javai i("startingBlock*Ö
+startingBlockf
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javai i(4µ
+²
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javah h(
+%2"
+__annotate*
+java.lang.Override*
+
+propertyjava.lang.StringŸ
+œ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javai+ i(3
+propertyjava.lang.String"__annotation*
+
+%2*
+1*é
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javaj j(É
+Æ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javaj j(
+%0java.util.Properties"__id*:*8(
+&org.exist.xmldb.LocalXPathQueryService"
+
+propertiesª§
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javaj j(/
+%1java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+propertyjava.lang.String2getProperty(Ljava/lang/String;)"‚
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXPathQueryService.javaj j(0
+
+%1java.lang.String:
+propertyjava.lang.StringB*(
+&org.exist.xmldb.LocalXPathQueryService

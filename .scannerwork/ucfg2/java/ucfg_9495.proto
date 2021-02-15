@@ -1,0 +1,55 @@
+
+Eorg.exist.storage.ConsistencyCheckTask#openLog()Ljava/io/PrintWriter;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java‡ ‡("6*˜
+3h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„ „(I"á
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„ „(I
+
+%3java.io.PrintWriter*Ù
+4h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„ „(Hùö
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„ „("
+%3java.io.PrintWriter"java.io.PrintWriterﬂ
+‹
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„ „(H
+%4"-java.io.PrintWriter#<init>(Ljava/io/Writer;)V*
+
+%3java.io.PrintWriter*
+
+%2java.io.BufferedWriter*
+3*ú
+5h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java‚ ‚(Vó
+î
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java‚ ‚(V
+filejava.nio.file.Path"__id*
+""õ
+ò
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„A „(F
+%1java.nio.charset.Charset"__id*
+""Ô
+Ï
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java„# „(G
+%2java.io.BufferedWriter"àjava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;*"
+java.nio.file.Files*
+
+filejava.nio.file.Path* 
+
+%1java.nio.charset.Charset*
+4*ª
+6h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java‚ ‚(*∆
+√
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ConsistencyCheckTask.java‚K ‚(T
+%0java.lang.String"__id*9*7(
+&org.exist.storage.ConsistencyCheckTask"
+	exportDir*
+5B*(
+&org.exist.storage.ConsistencyCheckTask

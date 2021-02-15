@@ -1,0 +1,286 @@
+
+-org.exist.client.InteractiveClient#connect()Vd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÉ É("10*´
+
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü ü(∫
+∑
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü ü(1
+%27java.lang.String"__concat*
+connected to *
+
+urijava.lang.String∂
+≥
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü ü(?
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+	 as user ƒ
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaüB ü(L
+%29java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaüY ü(]
+%30java.lang.String"__id*
+""•¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaüB ü(^
+%31java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%29java.util.Properties*
+
+%30java.lang.String2getProperty(Ljava/lang/String;)¬
+ø
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü ü(^
+%32java.lang.String"__concat*
+
+%28java.lang.String*
+
+%31java.lang.String*
+1*ø
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaö ö(ö
+ó
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaú ú(0!
+collectionUrijava.lang.String"__id*
+""ƒ
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaù? ù(I
+%21java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaùV ù(Z
+%22java.lang.String"__id*
+""•¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaù? ù([
+%23java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%21java.util.Properties*
+
+%22java.lang.String2getProperty(Ljava/lang/String;)ƒ
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaù] ù(g
+%24java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaùt ù(|
+%25java.lang.String"__id*
+""•¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaù] ù(}
+%26java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%24java.util.Properties*
+
+%25java.lang.String2getProperty(Ljava/lang/String;)™
+ß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaù ù(~1$
+"org.exist.client.InteractiveClient"	
+current"__id*
+""*
+2
+1*Å
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaó ó(ê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaó! ó(.
+%20java.lang.String"__id*
+""*
+4*∑
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javañ$ ñ(.√¿
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javañ$ ñ(8
+%19boolean"java.lang.String#isEmpty()Z* 
+
+
+configPropjava.lang.String2	isEmpty()*
+4
+5*Æ
+7d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaå å(!√
+¿
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaå* å(4
+%6java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesè
+å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaåA å(G
+%7java.lang.String"__id*
+""¢ü
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaå* å(H
+%8java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%6java.util.Properties*
+
+%7java.lang.String2getProperty(Ljava/lang/String;)Ì
+Í
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaå å(I
+%9java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+
+%8java.lang.Stringü
+ú
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaå å(J
+cljava.lang.Class"__id*
+
+%9java.lang.Class‘—
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaç- ç(=
+%10	!capture!"/java.lang.Class#newInstance()Ljava/lang/Object;*
+
+cljava.lang.Class2newInstance()ê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaê ê(,
+%11java.lang.String"__id*
+""ê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaë ë('
+%12java.lang.String"__id*
+""ƒ
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaë) ë(3
+%13java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaë@ ë(J
+%14java.lang.String"__id*
+""•¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaë) ë(K
+%15java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%13java.util.Properties*
+
+%14java.lang.String2getProperty(Ljava/lang/String;)ƒ
+¡
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaî" î(,
+%16java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesê
+ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaî9 î(X
+%17java.lang.String"__id*
+""•¢
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaî" î(Y
+%18java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%16java.util.Properties*
+
+%17java.lang.String2getProperty(Ljava/lang/String;)™
+ß
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaî î(Z
+
+configPropjava.lang.String"__id*
+
+%18java.lang.String*
+4
+6*´
+8d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaà à(∫
+∑
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaà à(2
+%5java.lang.String"__concat*
+connecting to *
+
+urijava.lang.String*
+7*¨
+
+10d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÑ Ñ(í
+è
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÑ Ñ(
+%0java.io.PrintStream"__id*
+""Ä˝
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÑ Ñ(7
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+Connecting to database...2println(Ljava/lang/String;)√
+¿
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÜ Ü(%
+%2java.util.Properties"__id*6*4$
+"org.exist.client.InteractiveClient"
+
+propertiesè
+å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÜ2 Ü(G
+%3java.lang.String"__id*
+""¢ü
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÜ Ü(H
+%4java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%2java.util.Properties*
+
+%3java.lang.String2getProperty(Ljava/lang/String;)¢
+ü
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÜ Ü(I
+urijava.lang.String"__id*
+
+%4java.lang.String*
+7
+8*Ç
+0 "{
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java£ £(
+implicit return*˝
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¢ ¢(ì
+ê
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¢ ¢(
+%33java.io.PrintStream"__id*
+""ˆÛ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¢ ¢(+
+%34void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%33java.io.PrintStream*
+Connected :-)2println(Ljava/lang/String;)*
+0B&$
+"org.exist.client.InteractiveClient

@@ -1,0 +1,17 @@
+
+Iorg.exist.validation.ValidationReportItem#getSystemId()Ljava/lang/String;i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaR R("1*Â
+1i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaS S(É
+Æ
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaS S(
+%0java.lang.String"__id*;*9+
+)org.exist.validation.ValidationReportItem"
+
+systemId"…
+i
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaS S(
+
+%0java.lang.StringB-+
+)org.exist.validation.ValidationReportItem

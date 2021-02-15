@@ -1,0 +1,16 @@
+
+Worg.exist.util.serializer.ReceiverToSAX#getContentHandler()Lorg/xml/sax/ContentHandler;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/ReceiverToSAX.javaB B(+"1*‘
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/ReceiverToSAX.javaC C(’
+“
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/ReceiverToSAX.javaC C( 
+%0org.xml.sax.ContentHandler"__id*?*=)
+'org.exist.util.serializer.ReceiverToSAX"
+contentHandler"ç
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/ReceiverToSAX.javaC C("
+ 
+%0org.xml.sax.ContentHandlerB+)
+'org.exist.util.serializer.ReceiverToSAX

@@ -1,0 +1,40 @@
+
+9org.expath.tools.model.exist.EXistAttribute#getInteger()I}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java< <("6*Œ
+4}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java? ?('"‡
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java? ?('
+""*ø
+5}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java? ?(î
+ë
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java? ?(&	
+%2int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+sjava.lang.String*
+4*˜
+6}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java= =(à
+Ý
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java= =(
+%0org.w3c.dom.Attr"__id*>*<-
++org.expath.tools.model.exist.EXistAttribute"
+	attributeïì
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java= =('
+%1java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
+
+%0org.w3c.dom.Attr2
+getValue()¹
+¶
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/tools/model/exist/EXistAttribute.java= =((
+sjava.lang.String"__id*
+
+%1java.lang.String*
+5B/-
++org.expath.tools.model.exist.EXistAttribute

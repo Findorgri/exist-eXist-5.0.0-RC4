@@ -1,0 +1,94 @@
+
+Norg.exist.debugger.DebuggerImpl#evaluate(Ljava/lang/String;)Ljava/lang/String;u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÂ Â("startingBlock*í
+2u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÊ Ê(¦
+£
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÊ Ê(A
+propertyorg.w3c.dom.Node"__id*
+""ÿü
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÌ Ì(1
+%4org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*
+
+propertyorg.w3c.dom.Node2getChildNodes()¨
+¥
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÌ Ì(2
+%5java.lang.String"Qorg.exist.debugger.DebuggerImpl#getText(Lorg/w3c/dom/NodeList;)Ljava/lang/String;*#!
+org.exist.debugger.DebuggerImpl*
+
+%4org.w3c.dom.NodeList•
+’
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÍ Í(!
+cbyte[]"__id*
+""¤¡
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÏ Ï(
+%6java.lang.String"java.lang.StringÇ
+Ä
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÏ
+ Ï(
+%7"java.lang.String#<init>([B)V*
+
+%6java.lang.String*
+
+cbyte[]"‘
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÏ Ï(
+
+%6java.lang.String*”
+3u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÃ Ã(!á
+Þ
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÃ, Ã(@	
+%0int"5org.exist.debugger.DebuggerImpl#getNextTransaction()I*#!
+org.exist.debugger.DebuggerImpl³
+°
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÃ# Ã(@
+%1java.lang.String"__concat*
+ -i *
+	
+%0int™–
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÇ Ç(=
+%2"Iorg.exist.debugger.DebuggerImpl#getResponse(Ljava/lang/String;)LResponse;*#!
+org.exist.debugger.DebuggerImpl*
+""2getResponse(Ljava/lang/String;)ÙÖ
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÉ É(2
+%3",java.lang.String#equals(Ljava/lang/Object;)Z*
+1*
+""2equals(Ljava/lang/Object;)*
+2
+1*ÿ
+startingBlocku
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÂ Â(&Â
+¿
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÁ Á(
+
+%8"
+__annotate*
+java.lang.Override*
+
+scriptjava.lang.String¬
+©
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÂ Â(%
+scriptjava.lang.String"__annotation*
+
+%8*
+3*û
+1u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÒ	 Ò("
+u
+iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/DebuggerImpl.javaÒ Ò(
+"":
+scriptjava.lang.StringB#!
+org.exist.debugger.DebuggerImpl

@@ -1,0 +1,149 @@
+
+torg.exist.security.realm.ldap.LDAPRealm#buildSearchFilterUnion(Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˚ ˚()"7*Œ
+2Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaå å(æª
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaå å(
+%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)*
+1*Ï
+3Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÑ Ñ()’
+“
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÑ Ñ()=
+sa7org.exist.security.realm.ldap.LDAPRealm$SearchAttribute"__id*
+""Å
+˛
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÑ Ñ()=
+sa7org.exist.security.realm.ldap.LDAPRealm$SearchAttribute"
+__arrayGet*$
+"
+searchAttributesjava.util.List*
+""*
+2
+4*Ç
+4Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÖ Ö(Ω∫
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÖ Ö(#
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+(2append(Ljava/lang/String;)¡æ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÜ Ü(+
+%8java.lang.String"Sorg.exist.security.realm.ldap.LDAPRealm$SearchAttribute#getName()Ljava/lang/String;*?
+=
+sa7org.exist.security.realm.ldap.LDAPRealm$SearchAttribute2	getName()–Õ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÜ Ü(,
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+
+%8java.lang.String2append(Ljava/lang/String;)æª
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaá á(#
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+=2append(Ljava/lang/String;)ƒ¡
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaà à(,
+%11java.lang.String"Torg.exist.security.realm.ldap.LDAPRealm$SearchAttribute#getValue()Ljava/lang/String;*?
+=
+sa7org.exist.security.realm.ldap.LDAPRealm$SearchAttribute2
+getValue()“œ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaà à(-
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+
+%11java.lang.String2append(Ljava/lang/String;)æª
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaâ â(#
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)*
+3*Œ
+6Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÇ Ç(æª
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÇ Ç( 
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+(|2append(Ljava/lang/String;)*
+3*Œ
+7Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˝& ˝(9¿Ω
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˝* ˝(7
+%0java.lang.StringBuilder"java.lang.StringBuilder“
+œ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˝& ˝(9
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder”
+–
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˝ ˝(:"
+builderjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderΩ∫
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java˛ ˛(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+(2append(Ljava/lang/String;)‘
+—
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaˇ ˇ(8
+%3java.lang.String"aorg.exist.security.realm.ldap.LDAPRealm#buildSearchCriteria(Ljava/lang/String;)Ljava/lang/String;*+)
+'org.exist.security.realm.ldap.LDAPRealm*"
+ 
+searchPrefixjava.lang.String–Õ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaˇ ˇ(9
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+
+%3java.lang.String2append(Ljava/lang/String;)„‡
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaÅ Å('
+%5boolean"java.util.List#isEmpty()Z*$
+"
+searchAttributesjava.util.List2	isEmpty()*
+6
+1*¯
+1Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaè è(æª
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaè è(
+%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+builderjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)âÜ
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaê ê(!
+%16java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
+"
+builderjava.lang.StringBuilder2
+toString()"†
+Ç
+vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaê ê("
+
+%16java.lang.String: 
+searchPrefixjava.lang.String:"
+searchAttributesjava.util.ListB+)
+'org.exist.security.realm.ldap.LDAPRealm

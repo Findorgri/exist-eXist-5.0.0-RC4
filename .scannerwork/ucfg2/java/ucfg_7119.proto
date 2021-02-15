@@ -1,0 +1,33 @@
+
+Aorg.exist.security.EffectiveSubject#hasGroup(Ljava/lang/String;)Ze
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java¯ ¯("startingBlock*Û
+2e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java± ±("o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java± ±(6
+""*Ð
+startingBlocke
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java¯ ¯(/±
+®
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java® ®(
+%0"
+__annotate*
+java.lang.Override*
+
+groupjava.lang.String›
+˜
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java¯) ¯(.
+groupjava.lang.String"__annotation*
+
+%0*
+2
+1*Û
+1e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java³ ³("o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.java³ ³(+
+"":
+groupjava.lang.StringB'%
+#org.exist.security.EffectiveSubject

@@ -1,0 +1,83 @@
+
+Yorg.exist.storage.ProcessMonitor#runningJobs()[Lorg/exist/storage/ProcessMonitor$JobInfo;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javao o( "5*º
+3`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javau u(Â‚
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javau u(".
+%7(org.exist.storage.ProcessMonitor$JobInfo"+java.util.Iterator#next()Ljava/lang/Object;*
+
+ijava.util.Iterator2next()Á
+‰
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javau u("
+%8"
+__arraySet*4
+2
+jobs*org.exist.storage.ProcessMonitor$JobInfo[]*
+""*0
+.
+%7(org.exist.storage.ProcessMonitor$JobInfo*
+4*©
+4`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javasL s(Mπ∂
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javasL s(W
+%6boolean"java.util.Iterator#hasNext()Z*
+
+ijava.util.Iterator2	hasNext()*
+3
+1*ˆ
+5`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaq/ q(8µ
+≤
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaq/ q(8
+%0java.util.Map"__id*3*1"
+ org.exist.storage.ProcessMonitor"
+	processes¶£
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaq/ q(?	
+%1int"java.util.Map#size()I*
+
+%0java.util.Map2size()√¿
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaq# q(@0
+%2*org.exist.storage.ProcessMonitor$JobInfo[]"*org.exist.storage.ProcessMonitor$JobInfo[]”
+–
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaq q(A2
+jobs*org.exist.storage.ProcessMonitor$JobInfo[]"__id*2
+0
+%2*org.exist.storage.ProcessMonitor$JobInfo[]µ
+≤
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javas- s(6
+%3java.util.Map"__id*3*1"
+ org.exist.storage.ProcessMonitor"
+	processes–Õ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javas- s(?
+%4java.util.Collection",java.util.Map#values()Ljava/util/Collection;*
+
+%3java.util.Map2values()ﬁ€
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javas- s(J
+%5java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*
+
+%4java.util.Collection2
+iterator()†
+ù
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javas s(J
+ijava.util.Iterator"__id*
+
+%5java.util.Iterator*
+4*Ä
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaw w("ò
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/ProcessMonitor.javaw w(4
+2
+jobs*org.exist.storage.ProcessMonitor$JobInfo[]B$"
+ org.exist.storage.ProcessMonitor

@@ -1,0 +1,25 @@
+
+Qorg.exist.util.ConfigurationHelper#lookup(Ljava/lang/String;)Ljava/nio/file/Path;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaÄ Ä("1*â
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaÅ Å(À
+»
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaÅ Å(,
+%0java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
+java.util.Optional 
+«
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaÅ Å(-
+%1java.nio.file.Path"eorg.exist.util.ConfigurationHelper#lookup(Ljava/lang/String;Ljava/util/Optional;)Ljava/nio/file/Path;*&"$
+"org.exist.util.ConfigurationHelper*
+
+pathjava.lang.String*
+
+%0java.util.Optional"Ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConfigurationHelper.javaÅ Å(.
+
+%1java.nio.file.Path:
+pathjava.lang.StringB&"$
+"org.exist.util.ConfigurationHelper

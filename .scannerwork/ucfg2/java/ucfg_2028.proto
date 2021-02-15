@@ -1,0 +1,39 @@
+
+4org.exist.util.io.FileFilterInputStreamCache#get(I)Bl
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javag g("2"1*¡
+2l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javai i(Ò
+Ï
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javai i(
+%0java.io.RandomAccessFile"__id*9*7.
+,org.exist.util.io.FileFilterInputStreamCache"
+rafÓÐ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javai i(
+
+%1void"!java.io.RandomAccessFile#seek(J)V* 
+
+%0java.io.RandomAccessFile*
+""2seek(J)*
+1*’
+1l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javal l(Ò
+Ï
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javal l(
+%2java.io.RandomAccessFile"__id*9*7.
+,org.exist.util.io.FileFilterInputStreamCache"
+rafÑÎ
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javal l(%
+
+%3byte"$java.io.RandomAccessFile#readByte()B* 
+
+%2java.io.RandomAccessFile2
+readByte()"v
+l
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FileFilterInputStreamCache.javan n(
+"":
+""B0.
+,org.exist.util.io.FileFilterInputStreamCache

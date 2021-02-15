@@ -1,0 +1,47 @@
+
+Qorg.exist.dom.NamedNodeMapImpl#setNamedItem(Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaC C("startingBlock*Í
+3^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaE E(C"h
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaE E(C
+
+%1*´
+startingBlock^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaC C(,¨
+¥
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaB B(
+%5"
+__annotate*
+java.lang.Override*
+
+argorg.w3c.dom.Node’
+
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaC( C(+
+argorg.w3c.dom.Node"__annotation*
+
+%5*
+6*õ
+4^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaE> E(AŠ
+‡
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaE E(B
+%1"Xorg.exist.dom.NamedNodeMapImpl#setNamedItem(LQName;Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;*" 
+org.exist.dom.NamedNodeMapImpl*
+""*
+
+argorg.w3c.dom.Node*
+3*Â
+6^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaE E(×Ô
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javaE* E(;
+%0java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+argorg.w3c.dom.Node2getNodeName()*
+4:
+argorg.w3c.dom.NodeB" 
+org.exist.dom.NamedNodeMapImpl

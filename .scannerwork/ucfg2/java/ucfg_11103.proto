@@ -1,0 +1,59 @@
+
+korg.exist.dom.persistent.XMLUtil#readFile(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/lang/String;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaò ò(!"startingBlock*º
+startingBlockb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaò! ò(Q±
+®
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javañ ñ(
+%2"
+__annotate*
+java.lang.Deprecated*
+
+filejava.nio.file.Path™
+–
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaò- ò(1
+filejava.nio.file.Path"__annotation*
+
+%2Â
+¿
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javañ ñ(
+%3"
+__annotate*
+java.lang.Deprecated*-
++
+defaultEncodingjava.nio.charset.Charsetª
+§
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaòA ò(P+
+defaultEncodingjava.nio.charset.Charset"__annotation*
+
+%3*
+1*’
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaõ õ(æ
+ã
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaõ õ(0
+%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+filejava.nio.file.Path¿
+¼
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaõ õ(B
+%1java.lang.String"Yorg.exist.dom.persistent.XMLUtil#readFile([BLjava/nio/charset/Charset;)Ljava/lang/String;*$""
+ org.exist.dom.persistent.XMLUtil*
+
+%0byte[]*-
++
+defaultEncodingjava.nio.charset.Charset"~
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaõ õ(C
+
+%1java.lang.String:
+filejava.nio.file.Path:+
+defaultEncodingjava.nio.charset.CharsetB$""
+ org.exist.dom.persistent.XMLUtil

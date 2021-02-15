@@ -1,0 +1,21 @@
+
+\org.exist.backup.restore.listener.AbstractRestoreListener$Error#toString()Ljava/lang/String;y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.java8 8("1*®
+1y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.java9 9(ËÈ
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.java9 9(+
+%0java.lang.String"`org.exist.backup.restore.listener.AbstractRestoreListener$Problem#getMessage()Ljava/lang/String;*CA
+?org.exist.backup.restore.listener.AbstractRestoreListener$Error2getMessage()Ç
+Ä
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.java9 9(+
+%1java.lang.String"__concat*	
+ERROR: *
+
+%0java.lang.String"•
+y
+oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/listener/AbstractRestoreListener.java9 9(,
+
+%1java.lang.StringBCA
+?org.exist.backup.restore.listener.AbstractRestoreListener$Error

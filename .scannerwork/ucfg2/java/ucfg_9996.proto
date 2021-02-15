@@ -1,0 +1,920 @@
+
+:org.exist.indexing.lucene.LuceneIndexTest#xupdateInsert()Vä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java’ ’("164*˛
+25ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java€% €(K‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java€ €(U
+%82"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+23*É
+69ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java∞) ∞(OÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java∞ ∞(^
+%54"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+perfect*2*
+65*Ä
+131ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¯% ¯(F‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¯ ¯(P
+%19"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+129*Ä
+133ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˜% ˜(M‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˜ ˜(W
+%18"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+131*Ä
+135ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaˆ7 ˆ(]‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaˆ ˆ(g
+%17"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+133*˛
+71ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÆ% Æ(F‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÆ Æ(Q
+%53"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2
+*
+69*˛
+73ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java≠% ≠(M‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java≠ ≠(W
+%52"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+71*Ò
+31ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷' ÷(Q…∆
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷+ ÷(6
+%80org.xml.sax.InputSource"org.xml.sax.InputSourceã
+à
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷' ÷(Q
+%81"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%80org.xml.sax.InputSource*
+
+%78java.io.StringReader*
+25*˛
+75ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¨% ¨(K‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¨ ¨(U
+%51"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+73*î
+32ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java— —(!Ò
+Ó
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java— —(!
+%72java.lang.String"__id*@*>+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_STARTñ
+ì
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java— “(X
+%73java.lang.String"__concat*
+
+%72java.lang.String*FD
+B       <xu:insert-before select=\"//item[@id = '1']/description\">˝
+˙
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java— ”(?
+%74java.lang.String"__concat*
+
+%73java.lang.String*-+
+)           <condition>awesome</condition>Ó
+Î
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java— ‘(0
+%75java.lang.String"__concat*
+
+%74java.lang.String*
+       </xu:insert-before>Ô
+Ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java’ ’(
+%76java.lang.String"__id*>*<+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_ENDÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java— ’(
+%77java.lang.String"__concat*
+
+%75java.lang.String*
+
+%76java.lang.StringŒ
+À
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java– ’(
+xupdatejava.lang.String"__id*
+
+%77java.lang.String√¿
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷; ÷(G
+%78java.io.StringReader"java.io.StringReaderá
+Ñ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷7 ÷(P
+%79"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%78java.io.StringReader*
+
+xupdatejava.lang.String*
+31*É
+37ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java )  (JÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java   (Y
+%71"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+average*2*
+32*Û
+141ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÒ6 Ò(`…∆
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÒ: Ò(E
+%15org.xml.sax.InputSource"org.xml.sax.InputSourceã
+à
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÒ6 Ò(`
+%16"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%15org.xml.sax.InputSource*
+
+%13java.io.StringReader*
+135*í
+142ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÏ Ï(
+Ì
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÏ Ï(
+%7java.lang.String"__id*@*>+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_STARTÒ
+Ó
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÏ Ì(1
+%8java.lang.String"__concat*
+
+%7java.lang.String*#!
+   <xu:append select=\"/test\">´
+®
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÏ Ó(k
+%9java.lang.String"__concat*
+
+%8java.lang.String*][
+Y       <item id='4'><description>Armchair</description> <condition>bad</condition></item>‚
+ﬂ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÏ Ô(!
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+   </xu:append>Ô
+Ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java (
+%11java.lang.String"__id*>*<+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_ENDÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÏ (
+%12java.lang.String"__concat*
+
+%10java.lang.String*
+
+%11java.lang.StringŒ
+À
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÎ (
+xupdatejava.lang.String"__id*
+
+%12java.lang.String√¿
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÒJ Ò(V
+%13java.io.StringReader"java.io.StringReaderá
+Ñ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÒF Ò(_
+%14"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%13java.io.StringReader*
+
+xupdatejava.lang.String*
+141*ˇ
+101ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaì% ì(F‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaì ì(P
+%36"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+99*Ä
+103ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaí% í(M‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaí í(W
+%35"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+101*Ä
+105ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaë% ë(K‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaë ë(U
+%34"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+103*Ò
+81ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaß' ß(Q…∆
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaß+ ß(6
+%49org.xml.sax.InputSource"org.xml.sax.InputSourceã
+à
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaß' ß(Q
+%50"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%49org.xml.sax.InputSource*
+
+%47java.io.StringReader*
+75*ƒ
+82ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¢ ¢(!Ò
+Ó
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¢ ¢(!
+%41java.lang.String"__id*@*>+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_STARTâ
+Ü
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¢ £(K
+%42java.lang.String"__concat*
+
+%41java.lang.String*97
+5       <xu:insert-after select=\"//item[@id = '1']\">ª
+∏
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¢ §(}
+%43java.lang.String"__concat*
+
+%42java.lang.String*ki
+g           <item id='1.1'><description>refrigerator</description> <condition>perfect</condition></item>Ì
+Í
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¢ •(/
+%44java.lang.String"__concat*
+
+%43java.lang.String*
+       </xu:insert-after>Ô
+Ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¶ ¶(
+%45java.lang.String"__id*>*<+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_ENDÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¢ ¶(
+%46java.lang.String"__concat*
+
+%44java.lang.String*
+
+%45java.lang.StringŒ
+À
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java° ¶(
+xupdatejava.lang.String"__id*
+
+%46java.lang.String√¿
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaß; ß(G
+%47java.io.StringReader"java.io.StringReaderá
+Ñ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaß7 ß(P
+%48"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%47java.io.StringReader*
+
+xupdatejava.lang.String*
+81*É
+41ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java») »(OÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java» »(^
+%70"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+average*2*
+37*Ü
+87ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaõ) õ(JÏ
+È
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaõ õ(\
+%40"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+
+wheelchair*2*
+82*˛
+43ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java«% «(F‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java« «(Q
+%69"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+41*˛
+45ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java∆% ∆(K‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java∆ ∆(U
+%68"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+43*ˇ
+153ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaﬁ% ﬁ(F„
+‡
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaﬁ ﬁ(P
+%6"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+142*Û
+111ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaå' å(Q…∆
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaå+ å(6
+%32org.xml.sax.InputSource"org.xml.sax.InputSourceã
+à
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaå' å(Q
+%33"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%32org.xml.sax.InputSource*
+
+%30java.io.StringReader*
+105*¡
+112ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaá á(!Ò
+Ó
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaá á(!
+%24java.lang.String"__id*@*>+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_STARTä
+á
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaá à(L
+%25java.lang.String"__concat*
+
+%24java.lang.String*:8
+6       <xu:insert-before select=\"//item[@id = '1']\">¥
+±
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaá â(v
+%26java.lang.String"__concat*
+
+%25java.lang.String*db
+`           <item id='0'><description>Wheelchair</description> <condition>poor</condition></item>Ó
+Î
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaá ä(0
+%27java.lang.String"__concat*
+
+%26java.lang.String*
+       </xu:insert-before>Ô
+Ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaã ã(
+%28java.lang.String"__id*>*<+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_ENDÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaá ã(
+%29java.lang.String"__concat*
+
+%27java.lang.String*
+
+%28java.lang.StringŒ
+À
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÜ ã(
+xupdatejava.lang.String"__id*
+
+%29java.lang.String√¿
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaå; å(G
+%30java.io.StringReader"java.io.StringReaderá
+Ñ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaå7 å(P
+%31"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%30java.io.StringReader*
+
+xupdatejava.lang.String*
+111*Ç
+157ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java‹A ‹(iÊ
+„
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java‹( ‹(v
+%5"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+chair*2*
+153*Ü
+117ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÄ) Ä(JÍ
+Á
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÄ Ä(Z
+%23"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+
+armchair*2*
+112*Ä
+91ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaô) ô(JÊ
+„
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaô ô(V
+%39"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+poor*2*
+87*Ü
+95ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaó) ó(QÏ
+È
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaó ó(c
+%38"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+
+wheelchair*2*
+91*Ò
+51ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¡' ¡(Q…∆
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¡+ ¡(6
+%66org.xml.sax.InputSource"org.xml.sax.InputSourceã
+à
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¡' ¡(Q
+%67"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%66org.xml.sax.InputSource*
+
+%64java.io.StringReader*
+45*í
+52ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaº º(!Ò
+Ó
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaº º(!
+%58java.lang.String"__id*@*>+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_STARTï
+í
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaº Ω(W
+%59java.lang.String"__concat*
+
+%58java.lang.String*EC
+A       <xu:insert-after select=\"//item[@id = '1']/description\">˝
+˙
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaº æ(?
+%60java.lang.String"__concat*
+
+%59java.lang.String*-+
+)           <condition>average</condition>Ì
+Í
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaº ø(/
+%61java.lang.String"__concat*
+
+%60java.lang.String*
+       </xu:insert-after>Ô
+Ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¿ ¿(
+%62java.lang.String"__id*>*<+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_ENDÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaº ¿(
+%63java.lang.String"__concat*
+
+%61java.lang.String*
+
+%62java.lang.StringŒ
+À
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaª ¿(
+xupdatejava.lang.String"__id*
+
+%63java.lang.String√¿
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¡; ¡(G
+%64java.io.StringReader"java.io.StringReaderá
+Ñ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¡7 ¡(P
+%65"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%64java.io.StringReader*
+
+xupdatejava.lang.String*
+51*Ä
+99ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaï) ï(OÊ
+„
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaï ï([
+%37"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+poor*2*
+95*
+11ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÎ' Î(Q…∆
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÎ+ Î(6
+%94org.xml.sax.InputSource"org.xml.sax.InputSourceã
+à
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÎ' Î(Q
+%95"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V* 
+
+%94org.xml.sax.InputSource*
+
+%92java.io.StringReader*
+6*ä
+12ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÊ Ê(!Ò
+Ó
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÊ Ê(!
+%86java.lang.String"__id*@*>+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_STARTÉ
+Ä
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÊ Á(E
+%87java.lang.String"__concat*
+
+%86java.lang.String*31
+/       <xu:append select=\"//item[@id = '1']\">ç
+ä
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÊ Ë(O
+%88java.lang.String"__concat*
+
+%87java.lang.String*=;
+9           <xu:attribute name=\"attr\">abc</xu:attribute>Á
+‰
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÊ È()
+%89java.lang.String"__concat*
+
+%88java.lang.String*
+       </xu:append>Ô
+Ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÍ Í(
+%90java.lang.String"__id*>*<+
+)org.exist.indexing.lucene.LuceneIndexTest"
+XUPDATE_ENDÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÊ Í(
+%91java.lang.String"__concat*
+
+%89java.lang.String*
+
+%90java.lang.StringŒ
+À
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÂ Í(
+xupdatejava.lang.String"__id*
+
+%91java.lang.String√¿
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÎ; Î(G
+%92java.io.StringReader"java.io.StringReaderá
+Ñ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÎ7 Î(P
+%93"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%92java.io.StringReader*
+
+xupdatejava.lang.String*
+11*à
+57ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java∂) ∂(JÓ
+Î
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java∂ ∂(^
+%57"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+refrigerator*2*
+52*É
+17ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaﬂ) ﬂ(JÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaﬂ ﬂ(Y
+%85"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+awesome*2*
+12*ë
+161ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaŸ- Ÿ(fı
+Ú
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaŸ- Ÿ(f
+%4"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+""*
+157*¬
+164ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷! ÷(2∂
+≥
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷3 ÷(E
+%0java.lang.String"__id*
+""∂
+≥
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷G ÷(K
+%1java.lang.String"__id*
+""ç
+ä
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java÷! ÷([
+%2"Äorg.exist.indexing.lucene.LuceneIndexTest#configureAndStore(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)LDocumentSet;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+
+%0java.lang.String*
+
+%1java.lang.String*
+xupdate.xml§
+°
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java◊  ◊(3
+%3"__id*
+""*
+161*Å
+121ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˛) ˛(JÂ
+‚
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˛ ˛(U
+%22"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+bad*2*
+117*™
+0 "¢
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˜ ˜(
+implicit return*Ç
+2ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÛ Û(Í
+Á
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÛ Û(<
+%101"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+	attribute*2 *
+0*Ü
+125ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¸) ¸(QÍ
+Á
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¸ ¸(a
+%21"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+
+armchair*2*
+121*ﬁ
+5ã
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java (Ñ°û
+ã
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java (Ñ
+%98"QName[]π
+∂
+ã
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java (Ñ
+%99"
+__arraySet*
+
+%98*2 *
+""Â
+‚
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaÒ Ò(9
+%100"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+2*â
+6ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java) (/∑
+¥
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java1 (I
+%96java.lang.String"__id*
+""∑
+¥
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.javaK (i
+%97java.lang.String"__id*
+""*
+5*Å
+129ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˙) ˙(OÂ
+‚
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java˙ ˙(Z
+%20"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+bad*2*
+125*É
+61ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¥) ¥(JÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java¥ ¥(Y
+%56"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+perfect*2*
+57*É
+21ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java›) ›(OÈ
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java› ›(^
+%84"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*	
+awesome*2*
+17*à
+65ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java≤) ≤(QÓ
+Î
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java≤ ≤(e
+%55"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+refrigerator*2*
+61*˛
+23ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java‹% ‹(F‰
+·
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/LuceneIndexTest.java‹ ‹(Q
+%83"vorg.exist.indexing.lucene.LuceneIndexTest#checkIndex(LDocumentSet;LDBBroker;[LQName;Ljava/lang/String;I)[LOccurrences;*-+
+)org.exist.indexing.lucene.LuceneIndexTest*
+""*
+""*
+""*
+""*2*
+21B-+
+)org.exist.indexing.lucene.LuceneIndexTest

@@ -1,0 +1,27 @@
+
+Xorg.exist.xmldb.LocalIndexQueryService#getProperty(Ljava/lang/String;)Ljava/lang/String;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalIndexQueryService.javaw w("startingBlock*Î
+startingBlockf
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalIndexQueryService.javaw w(0±
+®
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalIndexQueryService.javav v(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String›
+˜
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalIndexQueryService.javaw+ w(/
+namejava.lang.String"__annotation*
+
+%0*
+1*Ý
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalIndexQueryService.javax x("p
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalIndexQueryService.javax x(
+"":
+namejava.lang.StringB*(
+&org.exist.xmldb.LocalIndexQueryService

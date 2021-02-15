@@ -1,0 +1,32 @@
+
+corg.exist.start.Classpath#or(Ljava/util/Optional;Ljava/util/function/Supplier;)Ljava/util/Optional;[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java…# …(%"3*Ý
+2[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java‡ ‡("{
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java‡ ‡(
+
+leftjava.util.Optional*¦
+3[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java† †(»¸
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java† †(
+%0boolean"java.util.Optional#isPresent()Z*
+
+leftjava.util.Optional2isPresent()*
+2
+1*¼
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java‰ ‰(ÞÛ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java‰ ‰(
+%1java.util.Optional"3java.util.function.Supplier#get()Ljava/lang/Object;*&
+$
+rightjava.util.function.Supplier2get()"y
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Classpath.java‰ ‰(
+
+%1java.util.Optional:
+leftjava.util.Optional:$
+rightjava.util.function.SupplierB"
+org.exist.start.Classpath

@@ -1,0 +1,40 @@
+
+?org.exist.dom.persistent.AttrImpl#toString(Z)Ljava/lang/String;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaØ Ø("2"1*í
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÚ Ú(%µ
+²
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÚ Ú(8
+%0java.lang.String"__concat*
+<exist:attribute *
+xmlns:exist=\"ú÷
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÜ Ü(&
+%1org.w3c.dom.Document"9org.w3c.dom.Node#getOwnerDocument()Lorg/w3c/dom/Document;*%#
+!org.exist.dom.persistent.AttrImpl2getOwnerDocument()èå
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÜ? Ü(L
+%2java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*%#
+!org.exist.dom.persistent.AttrImpl2getNodeName()óð
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÜW Ü(a
+%3java.lang.String">org.exist.dom.persistent.AttrImpl#getValue()Ljava/lang/String;*%#
+!org.exist.dom.persistent.AttrImpl2
+getValue()"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÚ Ü(k
+""*ß
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÞ Þ(óð
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÞ Þ(
+%4java.lang.String">org.exist.dom.persistent.AttrImpl#toString()Ljava/lang/String;*%#
+!org.exist.dom.persistent.AttrImpl2
+toString()"
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÞ Þ(
+
+%4java.lang.String:
+""B%#
+!org.exist.dom.persistent.AttrImpl

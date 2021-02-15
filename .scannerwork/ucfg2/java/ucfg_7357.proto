@@ -1,0 +1,9 @@
+
+Uorg.exist.xquery.modules.scheduler.SchedulerModule#getDescription()Ljava/lang/String;…
+{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/scheduler/SchedulerModule.javaS S( "1*Ó
+1…
+{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/scheduler/SchedulerModule.javaU U(I"Å
+…
+{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/scheduler/SchedulerModule.javaU U(L;9
+7A module for scheduling jobs using the Quartz SchedulerB64
+2org.exist.xquery.modules.scheduler.SchedulerModule

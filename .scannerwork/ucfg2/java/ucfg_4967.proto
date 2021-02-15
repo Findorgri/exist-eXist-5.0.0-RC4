@@ -1,0 +1,107 @@
+
+Gorg.exist.fluent.WeakMultiValueHashMap#containsKey(Ljava/lang/Object;)Zx
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (("8*Ò
+2x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java   (ÍÊ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java   (
+
+%6void"java.util.Iterator#remove()V*
+
+itjava.util.Iterator2remove()*
+5*‚
+3x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java' (+"‚
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java  (,
+""*ß
+4x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (	ñî
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (!
+%4java.lang.ref.WeakReference"+java.util.Iterator#next()Ljava/lang/Object;*
+
+itjava.util.Iterator2next()ãà
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (
+%5V"/java.lang.ref.Reference#get()Ljava/lang/Object;*#
+!
+%4java.lang.ref.WeakReference2get()*
+2
+3*Ú
+5x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java8 (:ÒÏ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java8 (D
+%3boolean"java.util.Iterator#hasNext()Z*
+
+itjava.util.Iterator2	hasNext()*
+4
+1*¹
+6x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java' (+øõ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java' (6
+%2java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*
+
+listjava.util.Collection2
+iterator()¹
+¶
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (6
+itjava.util.Iterator"__id*
+
+%2java.util.Iterator*
+5*‚
+7x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java ( "‚
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (!
+""*à
+8x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java, (/Í
+Ê
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java, (/
+%0java.util.Map"__id*3*1(
+&org.exist.fluent.WeakMultiValueHashMap"
+mapÆ
+Ã
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java, (8
+%1java.util.Collection"__mapGet*
+
+%0java.util.Map*
+
+
+keyK¿
+¼
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java (9
+listjava.util.Collection"__id*
+
+%1java.util.Collection*
+6
+7*ž
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java" "(Í
+Ê
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java" "(
+%7java.util.Map"__id*3*1(
+&org.exist.fluent.WeakMultiValueHashMap"
+mapÉ
+Æ
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java" "(
+%8java.util.Collection"__mapRemove*
+
+%7java.util.Map*
+
+
+keyK"‚
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/WeakMultiValueHashMap.java# #(
+"":
+keyKB*(
+&org.exist.fluent.WeakMultiValueHashMap

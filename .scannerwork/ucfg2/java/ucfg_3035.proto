@@ -1,0 +1,22 @@
+
+Jorg.exist.collections.ManagedLocks$ManagedLockIterator#next()LManagedLock;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaK K("1*ð
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaL L(Ñ
+Î
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaL L(
+%0java.util.Iterator"__id*H*F8
+6org.exist.collections.ManagedLocks$ManagedLockIterator"
+
+iteratorÁ¾
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaL L("
+%1T"+java.util.Iterator#next()Ljava/lang/Object;*
+
+%0java.util.Iterator2next()"o
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaL L(#	
+
+%1TB:8
+6org.exist.collections.ManagedLocks$ManagedLockIterator

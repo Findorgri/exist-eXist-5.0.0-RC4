@@ -1,0 +1,70 @@
+
+@org.exist.xmldb.RemoteXMLResource#getContent()Ljava/lang/Object;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaü ü("7*Î
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java© ©("Ä
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java© ©(
+
+resjava.lang.Object*ó
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¶+ ¶(.ñ
+ì
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¶0 ¶(5
+%2java.nio.charset.Charset"__id*
+""íè
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¶ ¶(!
+%3java.lang.String"java.lang.String˝
+˙
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¶ ¶(6
+%4"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%3java.lang.String*
+
+resjava.lang.Object* 
+
+%2java.nio.charset.Charset"
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¶ ¶(7
+
+%3java.lang.String*Ö
+5c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java£ £( è
+å
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java£ £(.
+resjava.lang.Object"__id*
+""*	
+2
+3
+1*î
+6c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java°# °(*∫
+∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java°# °(*
+%1java.lang.String"__id*2*0#
+!org.exist.xmldb.RemoteXMLResource"	
+content"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java° °(A
+""*≠
+7c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java† †(∫
+∑
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java† †(
+%0java.lang.String"__id*2*0#
+!org.exist.xmldb.RemoteXMLResource"	
+content*
+5
+6*◊
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¨ ¨("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¨ ¨(
+""B%#
+!org.exist.xmldb.RemoteXMLResource

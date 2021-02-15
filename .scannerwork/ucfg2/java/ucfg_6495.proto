@@ -1,0 +1,40 @@
+
+>org.exist.config.ConfigurationImpl#equals(Ljava/lang/Object;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ("startingBlock*Æ
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ(+®
+«
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÐ Ð(
+%2"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object˜
+•
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ' Ñ(*
+objjava.lang.Object"__annotation*
+
+%2*
+1*…
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÒ Ò(Ë
+È
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÒ Ò(+
+%0java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
+java.util.OptionalÛØ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÒ Ò(,
+%1boolean"Rorg.exist.config.ConfigurationImpl#equals(Ljava/lang/Object;Ljava/util/Optional;)Z*&$
+"org.exist.config.ConfigurationImpl*
+
+objjava.lang.Object*
+
+%0java.util.Optional2.equals(Ljava/lang/Object;Ljava/util/Optional;)"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÒ Ò(-
+"":
+objjava.lang.ObjectB&$
+"org.exist.config.ConfigurationImpl

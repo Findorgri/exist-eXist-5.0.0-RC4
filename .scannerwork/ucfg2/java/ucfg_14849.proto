@@ -1,0 +1,64 @@
+
+vorg.exist.xquery.modules.counter.Counters#getInstance(Ljava/nio/file/Path;)Lorg/exist/xquery/modules/counter/Counters;|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaH H(&"3*∂
+
+2|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaJ J(ï
+í
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaJ J(
+%1"__id*
+""õ
+ò
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaK$ K(@
+%2java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+dataDirjava.nio.file.Path›⁄
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaK K(#/
+%3)org.exist.xquery.modules.counter.Counters")org.exist.xquery.modules.counter.Countersü
+ú
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaK K(A
+%4"Gorg.exist.xquery.modules.counter.Counters#<init>(Ljava/util/Optional;)V*1
+/
+%3)org.exist.xquery.modules.counter.Counters*
+
+%2java.util.Optionalı
+Ú
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaK K(A9+
+)org.exist.xquery.modules.counter.Counters"
+
+instance"__id*1
+/
+%3)org.exist.xquery.modules.counter.Counters*
+1*Å
+3|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaI I(ı
+Ú
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaI I(/
+%0)org.exist.xquery.modules.counter.Counters"__id*;*9+
+)org.exist.xquery.modules.counter.Counters"
+
+instance*
+2
+1*≠
+1|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaM M(ı
+Ú
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaM M(/
+%5)org.exist.xquery.modules.counter.Counters"__id*;*9+
+)org.exist.xquery.modules.counter.Counters"
+
+instance"±
+|
+rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaM M(1
+/
+%5)org.exist.xquery.modules.counter.Counters:
+dataDirjava.nio.file.PathB-"+
+)org.exist.xquery.modules.counter.Counters

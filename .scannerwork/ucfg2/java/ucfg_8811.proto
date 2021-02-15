@@ -1,0 +1,57 @@
+
+‚org.exist.dom.persistent.TextImpl#setUserData(Ljava/lang/String;Ljava/lang/Object;Lorg/w3c/dom/UserDataHandler;)Ljava/lang/Object;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java´ ´("startingBlock*÷
+startingBlockc
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java´ ´(a­
+ª
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java³ ³(
+%0"
+__annotate*
+java.lang.Override*
+
+keyjava.lang.String—
+”
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java´+ ´(.
+keyjava.lang.String"__annotation*
+
+%0®
+«
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java³ ³(
+%1"
+__annotate*
+java.lang.Override*
+
+datajava.lang.Object˜
+•
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java´= ´(A
+datajava.lang.Object"__annotation*
+
+%1¼
+¹
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java³ ³(
+%2"
+__annotate*
+java.lang.Override*(
+&
+handlerorg.w3c.dom.UserDataHandler¦
+£
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java´Y ´(`&
+handlerorg.w3c.dom.UserDataHandler"__annotation*
+
+%2*
+1*×
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaµ µ("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaµ µ(
+"":
+keyjava.lang.String:
+datajava.lang.Object:&
+handlerorg.w3c.dom.UserDataHandlerB%#
+!org.exist.dom.persistent.TextImpl

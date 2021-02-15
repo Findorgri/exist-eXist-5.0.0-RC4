@@ -1,0 +1,45 @@
+
+Dorg.exist.storage.btree.BTree$BTreeNode#toString()Ljava/lang/String;_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaù ù("4*ì
+3_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaü ü(€
+ı
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaü ü(
+
+%2void"?org.exist.storage.btree.BTree$BTreeNode#dump(Ljava/io/Writer;)V*+)
+'org.exist.storage.btree.BTree$BTreeNode* 
+
+writerjava.io.StringWriter*
+1*Ø
+4_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaú( ú(:–“
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaú, ú(8
+%0java.io.StringWriter"java.io.StringWriter¨
+¥
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaú( ú(:
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriter¨
+¥
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaú ú(;
+writerjava.io.StringWriter"__id*
+
+%0java.io.StringWriter*
+3*Á
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java (İÚ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java ($
+%3java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
+
+writerjava.io.StringWriter2
+toString()"{
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java (%
+
+%3java.lang.StringB+)
+'org.exist.storage.btree.BTree$BTreeNode

@@ -1,0 +1,42 @@
+
+Korg.exist.client.InteractiveClient#getGuiLoginData(Ljava/util/Properties;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¥ ¥(#"4*Ù
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaª ª("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaª ª(
+""*½
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¨! ¨(*ÉÆ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¨! ¨(4
+%0boolean"java.util.Properties#isEmpty()Z*#
+!
+	loginDatajava.util.Properties2	isEmpty()*
+2
+1*Ž
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java§% §(0š
+—
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java§ §(E!
+	loginDatajava.util.Properties"__id*
+""*
+2
+3*¤
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¬ ¬(È
+Å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java¬ ¬(
+
+%1void"__mapSetAll*
+
+propsjava.util.Properties*#
+!
+	loginDatajava.util.Properties"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java® ®(
+"":
+propsjava.util.PropertiesB&$
+"org.exist.client.InteractiveClient

@@ -1,0 +1,506 @@
+
+0org.exist.xquery.value.IntegerValue#checkType()Ze
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaò ò("24"14"25"17"28"0"5"8"20"31"21"11"22"23*À
+24e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java® ©(=¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java© ©(
+%12java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java©' ©(6
+%13java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java© ©(7
+
+%14int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%12java.math.BigInteger*
+
+%13java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java© ©(=
+""*‹
+25e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java§ ¶("o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¶ ¶(
+""*‹
+26e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java° ¢(D"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java° ¢(D
+""*ﬁ
+27e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¢ ¢(¿
+Ω
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¢ ¢(
+%9java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¢( ¢(=
+%10java.math.BigInteger"__id*
+""èå
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¢ ¢(>
+
+%11int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%9java.math.BigInteger*
+
+%10java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+26*ﬂ
+28e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java† ¢(D¿
+Ω
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java° °(
+%6java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueî
+ë
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java°' °(6
+%7java.math.BigInteger"__id*
+""çä
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java° °(7	
+%8int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%6java.math.BigInteger*
+
+%7java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+26
+27*‹
+29e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaù û(;"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaù û(;
+""*€
+30e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaû û(¿
+Ω
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaû û(
+%3java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueî
+ë
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaû( û(4
+%4java.math.BigInteger"__id*
+""çä
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaû û(5	
+%5int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%3java.math.BigInteger*
+
+%4java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+29*ﬂ
+31e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaõ û(;¿
+Ω
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaù ù(
+%0java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueî
+ë
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaù' ù(4
+%1java.math.BigInteger"__id*
+""çä
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaù ù(5	
+%2int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%0java.math.BigInteger*
+
+%1java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+29
+30*ﬂ
+10e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¿ ¿(¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¿ ¿(
+%45java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¿( ¿(>
+%46java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¿ ¿(?
+
+%47int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%45java.math.BigInteger*
+
+%46java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+9*„
+11e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaæ ¿(E¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaø ø(
+%42java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaø' ø(6
+%43java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaø ø(7
+
+%44int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%42java.math.BigInteger*
+
+%43java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+9
+10*‹
+12e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaª º(<"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaª º(<
+""*‡
+13e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaº º(¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaº º(
+%39java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaº( º(5
+%40java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaº º(6
+
+%41int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%39java.math.BigInteger*
+
+%40java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+12*‰
+14e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∫ º(<¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaª ª(
+%36java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaª' ª(5
+%37java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaª ª(6
+
+%38int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%36java.math.BigInteger*
+
+%37java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+13
+12*‹
+15e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∑ ∏(C"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∑ ∏(C
+""*‡
+16e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∏ ∏(¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∏ ∏(
+%33java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∏( ∏(<
+%34java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∏ ∏(=
+
+%35int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%33java.math.BigInteger*
+
+%34java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+15*‰
+17e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∂ ∏(C¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∑ ∑(
+%30java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∑' ∑(6
+%31java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∑ ∑(7
+
+%32int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%30java.math.BigInteger*
+
+%31java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+15
+16*‹
+18e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≥ ¥(:"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≥ ¥(:
+""*‡
+19e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¥ ¥(¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¥ ¥(
+%27java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¥( ¥(3
+%28java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¥ ¥(4
+
+%29int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%27java.math.BigInteger*
+
+%28java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+18*É
+0 "|
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÃ Ã(
+implicit return*€
+3e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java« »(D"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java« »(D
+""*ﬁ
+4e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java» »(¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java» »(
+%57java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java»( »(=
+%58java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java» »(>
+
+%59int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%57java.math.BigInteger*
+
+%58java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+3*·
+5e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∆ »(D¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java« «(
+%54java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java«' «(6
+%55java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java« «(7
+
+%56int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%54java.math.BigInteger*
+
+%55java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+3
+4*€
+6e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java√ ƒ(;"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java√ ƒ(;
+""*ﬁ
+7e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaƒ ƒ(¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaƒ ƒ(
+%51java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaƒ( ƒ(4
+%52java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaƒ ƒ(5
+
+%53int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%51java.math.BigInteger*
+
+%52java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+6*·
+8e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¬ ƒ(;¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java√ √(
+%48java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java√' √(4
+%49java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java√ √(5
+
+%50int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%48java.math.BigInteger*
+
+%49java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+6
+7*€
+9e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaø ¿(E"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaø ¿(E
+""*‰
+20e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≤ ¥(:¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≥ ≥(
+%24java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≥' ≥(3
+%25java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≥ ≥(4
+
+%26int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%24java.math.BigInteger*
+
+%25java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)*
+18
+19*À
+21e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaØ ∞(=¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∞ ∞(
+%21java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∞' ∞(5
+%22java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∞ ∞(6
+
+%23int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%21java.math.BigInteger*
+
+%22java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java∞ ∞(=
+""*À
+22e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java≠ Æ(>¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÆ Æ(
+%18java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÆ' Æ(6
+%19java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÆ Æ(7
+
+%20int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%18java.math.BigInteger*
+
+%19java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÆ Æ(>
+""*À
+23e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java™ ´(B¡
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java´ ´(
+%15java.math.BigInteger"__id*2*0%
+#org.exist.xquery.value.IntegerValue"
+valueï
+í
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java´' ´(;
+%16java.math.BigInteger"__id*
+""êç
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java´ ´(<
+
+%17int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
+
+%15java.math.BigInteger*
+
+%16java.math.BigInteger2!compareTo(Ljava/math/BigInteger;)"o
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java´ ´(B
+""B'%
+#org.exist.xquery.value.IntegerValue

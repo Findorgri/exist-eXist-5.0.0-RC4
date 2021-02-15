@@ -1,0 +1,196 @@
+
+korg.exist.dom.persistent.NodeSetHelper#copyNode(Lorg/w3c/dom/Document;Lorg/w3c/dom/Node;)Lorg/w3c/dom/Node;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java´ ´(%"2*ò
+2h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaµ µ(˜
+•
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaµ µ(
+newNodeorg.w3c.dom.Node"__id*
+""ÆÃ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¶ ¶(!
+%0short"org.w3c.dom.Node#getNodeType()S*
+
+nodeorg.w3c.dom.Node2getNodeType()ˆ
+…
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¸ ¸("
+%1short"__id*
+""ˆ
+…
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÄ Ä(
+%2short"__id*
+""*	
+3
+4
+9*
+3h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÈ Ê(˜
+•
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÊ Ê(
+newNodeorg.w3c.dom.Node"__id*
+""*
+1*¼
+4h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÄ Æ(äá
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÅ0 Å(G
+%17java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2	getData()²¯
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÅ Å(H
+%18org.w3c.dom.Text"Iorg.w3c.dom.Document#createTextNode(Ljava/lang/String;)Lorg/w3c/dom/Text;* 
+
+newDocorg.w3c.dom.Document*
+
+%17java.lang.String2"createTextNode(Ljava/lang/String;)«
+¨
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÅ Å(H
+newNodeorg.w3c.dom.Node"__id*
+
+%18org.w3c.dom.Text*
+1*õ
+5h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÁ Á(ˆ
+…
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÁ Á(
+%15void"__id*
+""õ
+ò
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÁ Á(3
+%16void"porg.exist.dom.persistent.NodeSetHelper#copyChildren(Lorg/w3c/dom/Document;Lorg/w3c/dom/Node;Lorg/w3c/dom/Node;)V**"(
+&org.exist.dom.persistent.NodeSetHelper* 
+
+newDocorg.w3c.dom.Document*
+
+nodeorg.w3c.dom.Node*
+
+newNodeorg.w3c.dom.Node*
+1*«
+7h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¼, ¼(6ôñ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¼, ¼(>
+%8org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*(
+&
+
+attributesorg.w3c.dom.NamedNodeMap*
+""2item(I)§
+¤
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¼ ¼(?
+attrorg.w3c.dom.Attr"__id*
+
+%8org.w3c.dom.Nodeêç
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java½B ½(X
+%9java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+attrorg.w3c.dom.Attr2getNamespaceURI()ãà
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java½Z ½(l
+%10java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+attrorg.w3c.dom.Attr2getNodeName()öó
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java½) ½(m
+%11org.w3c.dom.Attr"^org.w3c.dom.Document#createAttributeNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Attr;* 
+
+newDocorg.w3c.dom.Document*
+
+%9java.lang.String*
+
+%10java.lang.String27createAttributeNS(Ljava/lang/String;Ljava/lang/String;)«
+¨
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java½ ½(n
+newAttrorg.w3c.dom.Attr"__id*
+
+%11org.w3c.dom.AttrÝÚ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¾% ¾(=
+%12java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2
+getValue()‚ÿ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¾ ¾(>
+%13void".org.w3c.dom.Attr#setValue(Ljava/lang/String;)V*
+
+newAttrorg.w3c.dom.Attr*
+
+%12java.lang.String2setValue(Ljava/lang/String;)¶³
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¿ ¿(A
+%14org.w3c.dom.Attr"Jorg.w3c.dom.Element#setAttributeNode(Lorg/w3c/dom/Attr;)Lorg/w3c/dom/Attr;*
+
+newNodeorg.w3c.dom.Node*
+
+newAttrorg.w3c.dom.Attr2$setAttributeNode(Lorg/w3c/dom/Attr;)*
+8*Î
+8h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java» »( ÖÓ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java»# »(9	
+%7int"%org.w3c.dom.NamedNodeMap#getLength()I*(
+&
+
+attributesorg.w3c.dom.NamedNodeMap2getLength()*
+5
+7*¦
+9h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¸ Â(êç
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¹1 ¹(G
+%3java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNamespaceURI()âß
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¹I ¹([
+%4java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+nodeorg.w3c.dom.Node2getNodeName()öó
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¹ ¹(\
+%5org.w3c.dom.Element"_org.w3c.dom.Document#createElementNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Element;* 
+
+newDocorg.w3c.dom.Document*
+
+%3java.lang.String*
+
+%4java.lang.String25createElementNS(Ljava/lang/String;Ljava/lang/String;)­
+ª
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.java¹ ¹(\
+newNodeorg.w3c.dom.Node"__id*
+
+%5org.w3c.dom.Elementöó
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaº0 º(D
+%6org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
+
+nodeorg.w3c.dom.Node2getAttributes()½
+º
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaº º(E&
+
+attributesorg.w3c.dom.NamedNodeMap"__id* 
+
+%6org.w3c.dom.NamedNodeMap*
+8*ù
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÌ Ì("‰
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeSetHelper.javaÌ Ì(
+
+newNodeorg.w3c.dom.Node:
+newDocorg.w3c.dom.Document:
+nodeorg.w3c.dom.NodeB*"(
+&org.exist.dom.persistent.NodeSetHelper

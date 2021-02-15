@@ -1,0 +1,20 @@
+
+Eorg.exist.client.security.GroupDialog#canModifySelectedGroupMember()Zg
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.java¸ ¸(2"1*ü
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.java¹ ¹(Ì
+É
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.java¹ ¹(
+%0javax.swing.JTable"__id*>*<'
+%org.exist.client.security.GroupDialog"
+tblGroupMembersËÈ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.java¹ ¹(/	
+%1int"$javax.swing.JTable#getSelectedRow()I*
+
+%0javax.swing.JTable2getSelectedRow()"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.java¹ ¹(5
+""B)'
+%org.exist.client.security.GroupDialog

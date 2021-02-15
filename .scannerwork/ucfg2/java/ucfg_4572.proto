@@ -1,0 +1,17 @@
+
+7org.exist.http.Response#getEncoding()Ljava/lang/String;W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaF F("1*ù
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaG	 G(¥
+¢
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaG	 G(
+%0java.lang.String"__id*)*'
+org.exist.http.Response"
+
+encoding"s
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaG G(
+
+%0java.lang.StringB
+org.exist.http.Response

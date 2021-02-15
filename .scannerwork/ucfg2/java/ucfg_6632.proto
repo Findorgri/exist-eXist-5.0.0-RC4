@@ -1,0 +1,78 @@
+
+worg.exist.dom.memtree.InMemoryXMLStreamReader#getAttributeValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÈ È(#"startingBlock*ï
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÔ Ô("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÔ Ô(4
+""*ð
+startingBlocko
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÈ# È(VÂ
+¿
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÇ Ç(
+%2"
+__annotate*
+java.lang.Override*"
+ 
+namespaceURIjava.lang.String¬
+©
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÈ1 È(= 
+namespaceURIjava.lang.String"__annotation*
+
+%2¿
+¼
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÇ Ç(
+%3"
+__annotate*
+java.lang.Override*
+
+	localNamejava.lang.String©
+¦
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÈL È(U
+	localNamejava.lang.String"__annotation*
+
+%3*
+4
+5
+9
+1*ò
+4o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÓY Ó(bíê
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÓY Ó(
+%1",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+""2equals(Ljava/lang/Object;)*
+3
+4
+5
+1*ò
+5o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÓ( Ó(4ðí
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÓ( Ó(T
+%0",java.lang.String#equals(Ljava/lang/Object;)Z*"
+ 
+namespaceURIjava.lang.String*
+""2equals(Ljava/lang/Object;)*	
+4
+5
+1*ï
+9o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÌ Ì("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.javaÌ Ì(
+""*ï
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.java× ×("y
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/InMemoryXMLStreamReader.java× ×(
+"": 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB1/
+-org.exist.dom.memtree.InMemoryXMLStreamReader

@@ -1,0 +1,49 @@
+
+9org.exist.xquery.OpSimpleMap#toString()Ljava/lang/String;\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaA A("1*Ð
+1\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaB% B(8™–
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaB) B(6
+%0java.lang.StringBuilder"java.lang.StringBuilder«
+¨
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaB% B(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder«
+¨
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaB B(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderýú
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaC C(&
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)—”
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaD D(
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+ ! 2append(Ljava/lang/String;)ýú
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaE E('
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)àÝ
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaF F( 
+%5java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"x
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/OpSimpleMap.javaF F(!
+
+%5java.lang.StringB 
+org.exist.xquery.OpSimpleMap

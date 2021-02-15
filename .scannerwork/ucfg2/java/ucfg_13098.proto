@@ -1,0 +1,33 @@
+
+>org.exist.storage.io.AbstractVariableByteInput#readFixedInt()In
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaA A("1*å	
+1n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaB B(ûø
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaB B(
+
+%0byte":org.exist.storage.io.AbstractVariableByteInput#readByte()B*20
+.org.exist.storage.io.AbstractVariableByteInput2
+readByte()ûø
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaC C(
+
+%1byte":org.exist.storage.io.AbstractVariableByteInput#readByte()B*20
+.org.exist.storage.io.AbstractVariableByteInput2
+readByte()ûø
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaD D(
+
+%2byte":org.exist.storage.io.AbstractVariableByteInput#readByte()B*20
+.org.exist.storage.io.AbstractVariableByteInput2
+readByte()ûø
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaE E(
+
+%3byte":org.exist.storage.io.AbstractVariableByteInput#readByte()B*20
+.org.exist.storage.io.AbstractVariableByteInput2
+readByte()"x
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaB E((
+""B20
+.org.exist.storage.io.AbstractVariableByteInput

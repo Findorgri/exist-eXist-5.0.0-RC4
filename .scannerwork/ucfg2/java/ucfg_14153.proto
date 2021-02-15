@@ -1,0 +1,35 @@
+
+]org.exist.xquery.value.DurationValue#nullIfZero(Ljava/math/BigDecimal;)Ljava/math/BigDecimal;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaj j(("3*É
+2d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javal l(í
+è
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javal l(
+xjava.math.BigDecimal"__id*
+""*
+1*ï
+3d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javak k(ì
+ê
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javak k(
+%0java.math.BigDecimal"__id*
+""ãà
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javak k(%	
+%1int"7java.math.BigDecimal#compareTo(Ljava/math/BigDecimal;)I*
+
+%0java.math.BigDecimal*
+
+xjava.math.BigDecimal2!compareTo(Ljava/math/BigDecimal;)*
+2
+1*Ô
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javan n("É
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javan n(
+
+xjava.math.BigDecimal:
+xjava.math.BigDecimalB("&
+$org.exist.xquery.value.DurationValue

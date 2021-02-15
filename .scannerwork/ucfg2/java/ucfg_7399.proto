@@ -1,0 +1,187 @@
+
+Iorg.exist.fluent.NamedResource$MetadataFacet#toString()Ljava/lang/String;r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŒ Œ("9*â
+
+2r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄ ⁄(™ß
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄ ⁄((
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+g:2append(Ljava/lang/String;)ìê
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄0 ⁄(7
+%17java.lang.String"Forg.exist.fluent.NamedResource$MetadataFacet#group()Ljava/lang/String;*0.
+,org.exist.fluent.NamedResource$MetadataFacet2group()Ω∫
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄ ⁄(8
+%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%16java.lang.StringBuilder*
+
+%17java.lang.String2append(Ljava/lang/String;)áÑ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄ ⁄(D
+%19java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+%18java.lang.StringBuilder*
+ 2	append(C)*
+1*ï
+3r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄ ⁄(ìê
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java⁄ ⁄(
+%15java.lang.String"Forg.exist.fluent.NamedResource$MetadataFacet#group()Ljava/lang/String;*0.
+,org.exist.fluent.NamedResource$MetadataFacet2group()*
+2
+1*â
+
+4r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ Ÿ(™ß
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ Ÿ((
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+u:2append(Ljava/lang/String;)ìê
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ0 Ÿ(7
+%12java.lang.String"Forg.exist.fluent.NamedResource$MetadataFacet#owner()Ljava/lang/String;*0.
+,org.exist.fluent.NamedResource$MetadataFacet2owner()Ω∫
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ Ÿ(8
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%11java.lang.StringBuilder*
+
+%12java.lang.String2append(Ljava/lang/String;)áÑ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ Ÿ(D
+%14java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+%13java.lang.StringBuilder*
+ 2	append(C)*
+3*ï
+5r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ Ÿ(ìê
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaŸ Ÿ(
+%10java.lang.String"Forg.exist.fluent.NamedResource$MetadataFacet#owner()Ljava/lang/String;*0.
+,org.exist.fluent.NamedResource$MetadataFacet2owner()*
+3
+4*È
+6r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java’ ’(√
+¿
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java’ ’($
+
+%4void"\org.exist.fluent.NamedResource$MetadataFacet#appendPermissions(CCLjava/lang/StringBuilder;)V*0.
+,org.exist.fluent.NamedResource$MetadataFacet*
+u*
+u* 
+
+bufjava.lang.StringBuilderÜÉ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java’' ’(6
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+,2	append(C)√
+¿
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java÷ ÷($
+
+%6void"\org.exist.fluent.NamedResource$MetadataFacet#appendPermissions(CCLjava/lang/StringBuilder;)V*0.
+,org.exist.fluent.NamedResource$MetadataFacet*
+g*
+g* 
+
+bufjava.lang.StringBuilderÜÉ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java÷' ÷(6
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+,2	append(C)√
+¿
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java◊ ◊($
+
+%8void"\org.exist.fluent.NamedResource$MetadataFacet#appendPermissions(CCLjava/lang/StringBuilder;)V*0.
+,org.exist.fluent.NamedResource$MetadataFacet*
+o*
+o* 
+
+bufjava.lang.StringBuilderÜÉ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java◊' ◊(6
+%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ 2	append(C)*
+5*À
+7r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java” ”(√
+¿
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java” ”($
+
+%2void"\org.exist.fluent.NamedResource$MetadataFacet#appendPermissions(CCLjava/lang/StringBuilder;)V*0.
+,org.exist.fluent.NamedResource$MetadataFacet*
+a*
+u* 
+
+bufjava.lang.StringBuilderÜÉ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java”& ”(5
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+ 2	append(C)*
+5*∂
+9r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaœ œ(0Ø¨
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaœ! œ(.
+%0java.lang.StringBuilder"java.lang.StringBuilder¡
+æ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaœ œ(0
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderæ
+ª
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.javaœ œ(1
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+6
+7*ﬁ
+1r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java€ €(ùö
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java€ €(
+%20java.util.Date"Korg.exist.fluent.NamedResource$MetadataFacet#creationDate()Ljava/util/Date;*0.
+,org.exist.fluent.NamedResource$MetadataFacet2creationDate()ª∏
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java€ €(
+%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+%20java.util.Date2append(Ljava/lang/Object;)ÙÒ
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‹
+ ‹(
+%22java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"è
+r
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamedResource.java‹ ‹(
+
+%22java.lang.StringB0.
+,org.exist.fluent.NamedResource$MetadataFacet

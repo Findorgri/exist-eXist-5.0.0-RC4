@@ -1,0 +1,49 @@
+
+Torg.exist.xupdate.XUpdateTest#updateDocument(Ljava/nio/file/Path;)Ljava/lang/String;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaõ õ(!"1*∏
+
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaúB ú(EÓ
+Î
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaü7 ü(U
+%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*"
+ 
+
+updateFilejava.nio.file.Pathó
+î
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaüW ü(\
+%1java.nio.charset.Charset"__id*
+""ìê
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaü0 ü(6
+%2java.lang.String"java.lang.StringÛ
+
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaü, ü(]
+%3"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%2java.lang.String*
+
+%0byte[]* 
+
+%1java.nio.charset.Charset≥
+∞
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.javaü ü(^(
+xUpdateModificationsjava.lang.String"__id*
+
+%2java.lang.Stringè
+å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.java£> £(J
+%4java.lang.String"__id*
+"""n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xupdate/XUpdateTest.java§ §(+
+"": 
+
+updateFilejava.nio.file.PathB!
+org.exist.xupdate.XUpdateTest

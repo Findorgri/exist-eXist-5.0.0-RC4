@@ -1,0 +1,84 @@
+
+Aorg.exist.dom.memtree.NodeImpl#getStringValue()Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÅ Å( "2"3"12*‹
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò) ò(1èå
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò" ò((
+%6java.lang.String"java.lang.StringΩ
+∫
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(O
+%7"java.lang.String#<init>([CII)V*
+
+%6java.lang.String*
+""*
+""*
+""ù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(O
+%4java.lang.String"__id*
+
+%6java.lang.String*
+1*ä
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(ù
+ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(
+%4java.lang.String"__id*
+
+%5java.lang.String*
+1*Œ
+6`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaî î()Ë
+Â
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaî î(+
+%3java.lang.String"Eorg.exist.dom.memtree.NodeImpl#getStringValueSlow()Ljava/lang/String;*" 
+org.exist.dom.memtree.NodeImpl"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaî î(,
+
+%3java.lang.String*ˆ
+10`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaã ã( 
+}
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaã3 ã(S
+%2short"__id*
+""*
+2
+3
+6
+12*˜
+11`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaä ä( 
+}
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaä3 ä(J
+%1short"__id*
+""*
+2
+3
+10
+12*˜
+12`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaâ â(
+}
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaâ, â(:
+%0short"__id*
+""*
+2
+3
+11
+12*„
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(P"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(P
+
+%4java.lang.StringB" 
+org.exist.dom.memtree.NodeImpl

@@ -1,0 +1,39 @@
+
+=org.exist.util.FileUtils#sizeQuietly(Ljava/util/Collection;)JZ
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaö ö(""1*õ
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ õ(·ﬁ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ õ(
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+pathsjava.util.Collection2stream()†ù
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ õ(9
+%1java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*
+
+%0java.util.stream.Stream*
+""2"map(Ljava/util/function/Function;)®•
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ ú(+
+%2java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%1java.util.stream.Stream*
+""2&filter(Ljava/util/function/Predicate;)®•
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ ù((
+%3java.util.Optional"Wjava.util.stream.Stream#reduce(Ljava/util/function/BinaryOperator;)Ljava/util/Optional;*
+
+%2java.util.stream.Stream*
+""2+reduce(Ljava/util/function/BinaryOperator;)ˆÛ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ û(
+%4java.lang.Long"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%3java.util.Optional*
+""2orElse(Ljava/lang/Object;)"d
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaõ û(
+"":
+pathsjava.util.CollectionB"
+org.exist.util.FileUtils

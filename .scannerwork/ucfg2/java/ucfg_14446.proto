@@ -1,0 +1,201 @@
+
+Zorg.exist.xmldb.XmldbURI#checkPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÉ É(""13"14*Í
+13Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaâ â(Ö
+Ç
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaâ â(
+%0java.lang.String"__id*
+""ıÚ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaâ â(/
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*!
+
+currentPathjava.lang.String2equals(Ljava/lang/Object;)*
+11
+12*‡
+14Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÖ Ö("~
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÖ Ö( 
+
+
+parentPathjava.lang.String*…
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java§ §(´
+®
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java§ §(
+%16java.lang.String"__concat* 
+
+
+parentPathjava.lang.String*
+/¿
+Ω
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java§ §(-
+%17java.lang.String"__concat*
+
+%16java.lang.String*!
+
+currentPathjava.lang.String"w
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java§ §(.
+
+%17java.lang.String*¢
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¢ ¢(«
+ƒ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¢ ¢(+
+%15java.lang.String"__concat* 
+
+
+parentPathjava.lang.String*!
+
+currentPathjava.lang.String"w
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¢ ¢(,
+
+%15java.lang.String*–
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java° °(Ê„
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java° °($
+%14boolean".java.lang.String#endsWith(Ljava/lang/String;)Z* 
+
+
+parentPathjava.lang.String*
+/2endsWith(Ljava/lang/String;)*
+2
+1*¢
+4Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaù ù(«
+ƒ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaù ù(+
+%13java.lang.String"__concat* 
+
+
+parentPathjava.lang.String*!
+
+currentPathjava.lang.String"w
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaù ù(,
+
+%13java.lang.String*˝
+5Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaõ õ(!‡›
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaõ$ õ(<
+%11java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*!
+
+currentPathjava.lang.String*22substring(I)ø
+º
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaõ õ(<
+%12java.lang.String"__concat* 
+
+
+parentPathjava.lang.String*
+
+%11java.lang.String"w
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaõ õ(=
+
+%12java.lang.String*–
+6Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaö ö(Ê„
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaö ö((
+%10boolean".java.lang.String#endsWith(Ljava/lang/String;)Z* 
+
+
+parentPathjava.lang.String*
+/2endsWith(Ljava/lang/String;)*
+4
+5*‘
+7Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaò ò(ÍÁ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaò ò('
+%9boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*!
+
+currentPathjava.lang.String*
+/2startsWith(Ljava/lang/String;)*
+3
+6*…
+8Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaî î(r
+p
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaî î(
+%6"__id*
+""…
+∆
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaî î(D
+%7java.lang.String"__concat*#!
+Initial '/' for relative path '*!
+
+currentPathjava.lang.String¢
+ü
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaî î(J
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+'*
+7*‘
+9Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaì ì(ÍÁ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaì ì('
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*!
+
+currentPathjava.lang.String*
+/2startsWith(Ljava/lang/String;)*
+7
+8*·
+10Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaè è("
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaè è(!
+
+currentPathjava.lang.String*ñ
+11Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaé é(Ö
+Ç
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaé# é(2
+%2java.lang.String"__id*
+""¢
+ü
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaé# é(8
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+/˝˙
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaé é(9
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*!
+
+currentPathjava.lang.String*
+
+%3java.lang.String2startsWith(Ljava/lang/String;)*
+9
+10*·
+12Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaä ä("
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaä ä(!
+
+currentPathjava.lang.String:
+currentPathjava.lang.String:
+
+parentPathjava.lang.StringB"
+org.exist.xmldb.XmldbURI

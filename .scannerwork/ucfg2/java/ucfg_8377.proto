@@ -1,0 +1,18 @@
+
+morg.exist.util.io.FastByteArrayOutputStream#toBufferedInputStream(Ljava/io/InputStream;)Ljava/io/InputStream;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java® ®(3"1*Ù
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java° °($Õ
+Ò
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java° °(1
+%0java.io.InputStream"norg.exist.util.io.FastByteArrayOutputStream#toBufferedInputStream(Ljava/io/InputStream;I)Ljava/io/InputStream;*/"-
++org.exist.util.io.FastByteArrayOutputStream*
+
+inputjava.io.InputStream*2€"Œ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java° °(2
+
+%0java.io.InputStream:
+inputjava.io.InputStreamB/"-
++org.exist.util.io.FastByteArrayOutputStream

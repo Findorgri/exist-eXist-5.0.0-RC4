@@ -1,0 +1,89 @@
+
+Horg.exist.xquery.parser.XQueryParser#getErrorMessage()Ljava/lang/String;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaW W("4*Ê
+2d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaZ Z(ÑÎ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaZ Z(#
+%5java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*
+
+ijava.util.Iterator2next()ÙÖ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaZ Z(/
+%6java.lang.String"0java.lang.Throwable#toString()Ljava/lang/String;*
+
+%5java.lang.Object2
+toString()­ª
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaZ Z(0
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+%6java.lang.String2append(Ljava/lang/String;)ùö
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java[ [(
+%8java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+\n2	append(C)*
+3*±
+3d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaY* Y(+½º
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaY* Y(5
+%4boolean"java.util.Iterator#hasNext()Z*
+
+ijava.util.Iterator2	hasNext()*
+2
+1*½	
+4d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaX X((¡ž
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaX X(&
+%0java.lang.StringBuilder"java.lang.StringBuilder³
+°
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaX X((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder°
+­
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaX X()
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¿
+¼
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaY Y(
+%2java.util.List"__id*8*6&
+$org.exist.xquery.parser.XQueryParser"
+
+exceptionsÖÓ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaY Y((
+%3java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%2java.util.List2
+iterator()¤
+¡
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaY Y((
+ijava.util.Iterator"__id*
+
+%3java.util.Iterator*
+3*Ô
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java]	 ](åâ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java]	 ](
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"€
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java] ](
+
+%9java.lang.StringB(&
+$org.exist.xquery.parser.XQueryParser

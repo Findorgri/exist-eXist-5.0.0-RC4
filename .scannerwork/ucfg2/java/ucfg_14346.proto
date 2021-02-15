@@ -1,0 +1,64 @@
+
+;org.exist.source.ClassLoaderSource#type()Ljava/lang/String;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.java> >("7*×
+2b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaB B("n
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaB B(
+File*Þ
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaAj A(uìé
+c
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaAj A(‚
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+	127.0.0.1*
+
+hostjava.lang.String2equals(Ljava/lang/Object;)*
+2
+1*Ý
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaAN A(Yëè
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaAN A(f
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+	localhost*
+
+hostjava.lang.String2equals(Ljava/lang/Object;)*
+2
+3*¦
+5b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaA8 A(<´±
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaA8 A(E	
+%1int"java.lang.String#length()I*
+
+hostjava.lang.String2length()*
+2
+4*‡
+7b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.java?  ?(#“
+
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.java? ?(2
+protocoljava.lang.String"__id*
+""
+Œ
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.java@ @(*
+hostjava.lang.String"__id*
+""êç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaA A(#
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+protocoljava.lang.String*
+file2equals(Ljava/lang/Object;)*	
+2
+5
+1*Þ
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaD D("u
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/ClassLoaderSource.javaD D(
+ClassloaderB&$
+"org.exist.source.ClassLoaderSource

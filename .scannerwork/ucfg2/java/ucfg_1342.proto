@@ -1,0 +1,22 @@
+
+xorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter#readLock()Ljava/util/concurrent/locks/Lock;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaŠ/ Š(7"1*ž
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.java‹ ‹()–
+“
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.java‹ ‹()7
+%01java.util.concurrent.locks.ReentrantReadWriteLock"__id*l*jN
+Lorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter"
+reentrantReadWriteLockìé
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.java‹ ‹(4@
+%1:java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock"xjava.util.concurrent.locks.ReentrantReadWriteLock#readLock()Ljava/util/concurrent/locks/ReentrantReadWriteLock$ReadLock;*9
+7
+%01java.util.concurrent.locks.ReentrantReadWriteLock2
+readLock()"ª
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.java‹ ‹(5B
+@
+%1:java.util.concurrent.locks.ReentrantReadWriteLock$ReadLockBPN
+Lorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter

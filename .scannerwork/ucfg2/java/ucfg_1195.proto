@@ -1,0 +1,29 @@
+
+zorg.exist.storage.lock.ManagedLock#acquire(Ljava/util/concurrent/locks/ReentrantLock;)Lorg/exist/storage/lock/ManagedLock;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/ManagedLock.java˜- ˜(4"1*Ì
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/ManagedLock.java™ ™(ãà
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/ManagedLock.java™ ™(
+
+%0void"0java.util.concurrent.locks.ReentrantLock#lock()V*2
+0
+lock(java.util.concurrent.locks.ReentrantLock2lock()·´
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/ManagedLock.javaš š( (
+%1"org.exist.storage.lock.ManagedLock""org.exist.storage.lock.ManagedLock«
+¨
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/ManagedLock.javaš š(4
+%2"Rorg.exist.storage.lock.ManagedLock#<init>(Ljava/lang/Object;Ljava/lang/Runnable;)V**
+(
+%1"org.exist.storage.lock.ManagedLock*2
+0
+lock(java.util.concurrent.locks.ReentrantLock*
+"""’
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/ManagedLock.javaš š(5*
+(
+%1"org.exist.storage.lock.ManagedLock:0
+lock(java.util.concurrent.locks.ReentrantLockB&"$
+"org.exist.storage.lock.ManagedLock

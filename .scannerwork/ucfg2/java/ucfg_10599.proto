@@ -1,0 +1,16 @@
+
+=org.exist.client.ResourceDescriptor#getDate()Ljava/util/Date;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ResourceDescriptor.javaB B("1*¡
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ResourceDescriptor.javaC C(·
+´
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ResourceDescriptor.javaC C(
+%0java.util.Date"__id*1*/%
+#org.exist.client.ResourceDescriptor"
+date"}
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ResourceDescriptor.javaC C(
+
+%0java.util.DateB'%
+#org.exist.client.ResourceDescriptor

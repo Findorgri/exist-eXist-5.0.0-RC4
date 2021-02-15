@@ -1,0 +1,108 @@
+
+Aorg.exist.dom.persistent.NodeImpl#getNodeName()Ljava/lang/String;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java– –(#"1*Ý
+2c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java± ²(""s
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java² ²("
+
+#unknown*ã
+3c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java® ¯(("y
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¯ ¯((
+#cdata-section*Ý
+4c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java« ¬(""s
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¬ ¬("
+
+#comment*Ú
+5c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¨ ©("p
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java© ©(	
+#text*×
+6c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¥ ¦(E"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¦ ¦(E
+""*×
+7c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¡ £(3"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java£ £(3
+""*ç
+8c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaž Ÿ(,"}
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaŸ Ÿ(,
+#document-fragment*Þ
+9c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java› œ(#"t
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaœ œ(#
+	#document*Ø
+10c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java˜ ™(:"m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java™ ™(:
+""*¼
+
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java— —(ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java˜ ˜((
+%0short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java› ›(#
+%1short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaž ž(,
+%2short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¡ ¡("
+%3short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¢ ¢($
+%4short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¥ ¥(1
+%5short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java¨ ¨(
+%6short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java« «("
+%7short"__id*
+""ƒ
+€
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java® ®((
+%8short"__id*
+""*
+2
+3
+4
+5
+6
+7
+8
+9
+10B%#
+!org.exist.dom.persistent.NodeImpl

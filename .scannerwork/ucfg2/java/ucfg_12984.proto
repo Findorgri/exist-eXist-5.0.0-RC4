@@ -1,0 +1,33 @@
+
+Lorg.exist.xquery.XQueryContext#copyContext()Lorg/exist/xquery/XQueryContext;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÉ É($"1*ü	
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÑ4 Ñ(8´®
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÑ& Ñ(3$
+%0org.exist.xquery.XQueryContext"org.exist.xquery.XQueryContextÅ
+˛
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÑ" Ñ(9
+%1"Horg.exist.xquery.XQueryContext#<init>(Lorg/exist/xquery/XQueryContext;)V*&
+$
+%0org.exist.xquery.XQueryContext*" 
+org.exist.xquery.XQueryContext∫
+∑
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÑ Ñ(:%
+ctxorg.exist.xquery.XQueryContext"__id*&
+$
+%0org.exist.xquery.XQueryContext∫∑
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÖ Ö(
+
+%2void"Lorg.exist.xquery.XQueryContext#copyFields(Lorg/exist/xquery/XQueryContext;)V*" 
+org.exist.xquery.XQueryContext*'
+%
+ctxorg.exist.xquery.XQueryContext2,copyFields(Lorg/exist/xquery/XQueryContext;)"ã
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÜ Ü('
+%
+ctxorg.exist.xquery.XQueryContextB" 
+org.exist.xquery.XQueryContext

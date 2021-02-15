@@ -1,0 +1,18 @@
+
+Eorg.exist.client.NewResourceDialog#isNullOrEmpty(Ljava/lang/String;)Zd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/NewResourceDialog.java± ±(!"2"1*¬
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/NewResourceDialog.java² ²(!»¸
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/NewResourceDialog.java² ²(+
+%0boolean"java.lang.String#isEmpty()Z*
+
+strjava.lang.String2	isEmpty()*
+1*Ù
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/NewResourceDialog.java² ²(,"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/NewResourceDialog.java² ²(,
+"":
+strjava.lang.StringB&$
+"org.exist.client.NewResourceDialog

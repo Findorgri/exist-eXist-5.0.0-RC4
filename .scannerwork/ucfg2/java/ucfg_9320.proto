@@ -1,0 +1,57 @@
+
+êorg.exist.dom.memtree.DOMImplementationImpl#createDocumentType(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/DocumentType;k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java1 1(*"startingBlock*∑	
+startingBlockk
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java1* 2(9ø
+º
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java0 0(
+%0"
+__annotate*
+java.lang.Override*#
+!
+qualifiedNamejava.lang.String©
+¶
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java18 1(E!
+qualifiedNamejava.lang.String"__annotation*
+
+%0∫
+∑
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java0 0(
+%1"
+__annotate*
+java.lang.Override*
+
+publicIdjava.lang.String§
+°
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java2 2(!
+publicIdjava.lang.String"__annotation*
+
+%1∫
+∑
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java0 0(
+%2"
+__annotate*
+java.lang.Override*
+
+systemIdjava.lang.String§
+°
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java20 2(8
+systemIdjava.lang.String"__annotation*
+
+%2*
+1*Á
+1k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java3 3("u
+k
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java3 3(
+"":!
+qualifiedNamejava.lang.String:
+publicIdjava.lang.String:
+systemIdjava.lang.StringB/-
++org.exist.dom.memtree.DOMImplementationImpl

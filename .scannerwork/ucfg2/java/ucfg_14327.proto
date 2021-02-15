@@ -1,0 +1,27 @@
+
+Sorg.exist.xquery.util.ExpressionDumper#nl()Lorg/exist/xquery/util/ExpressionDumper;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaz z("1*à
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.java{ {(Á
+¾
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.java{ {(
+%0java.io.PrintWriter"__id*3*1(
+&org.exist.xquery.util.ExpressionDumper"
+out¿¼
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.java{ {(
+
+%1void"java.io.PrintWriter#println()V*
+
+%0java.io.PrintWriter2	println()Õ
+Ò
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.java| |(
+
+%2void"0org.exist.xquery.util.ExpressionDumper#indent()V**(
+&org.exist.xquery.util.ExpressionDumper"”
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.java} }(*(
+&org.exist.xquery.util.ExpressionDumperB*(
+&org.exist.xquery.util.ExpressionDumper

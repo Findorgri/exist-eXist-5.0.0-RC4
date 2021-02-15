@@ -1,0 +1,16 @@
+
+Eorg.exist.security.realm.openid.OpenIDRealm#getId()Ljava/lang/String;†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/openid/src/org/exist/security/realm/openid/OpenIDRealm.java= =("1*˜
+1†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/openid/src/org/exist/security/realm/openid/OpenIDRealm.java>	 >(ã
+à
+†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/openid/src/org/exist/security/realm/openid/OpenIDRealm.java>	 >(
+%0java.lang.String"__id*7*5-
++org.exist.security.realm.openid.OpenIDRealm"
+ID"£
+†
+|C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/openid/src/org/exist/security/realm/openid/OpenIDRealm.java> >(
+
+%0java.lang.StringB/-
++org.exist.security.realm.openid.OpenIDRealm

@@ -1,0 +1,22 @@
+
+†org.exist.extensions.exquery.restxq.impl.RestXqServiceCompiledXQueryCacheImpl#mapIterable(Ljava/lang/Iterable;Ljava/util/function/Function;)Ljava/lang/Iterable;¥
+ßC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl.javaÄ& Ä(1"1*˛
+1¥
+ßC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl.javaÅ ë(	ÏÈ
+¥
+ßC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl.javaÅ Å(Z
+%0TLorg/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl$5181;"TLorg/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl$5181;∫
+∑
+¥
+ßC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl.javaÅ ë(	
+%1"java.lang.Object#<init>()V*\
+Z
+%0TLorg/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl$5181;"ï
+¥
+ßC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl.javaÅ ë(
+\
+Z
+%0TLorg/exist/extensions/exquery/restxq/impl/RestXqServiceCompiledXQueryCacheImpl$5181;:
+inputjava.lang.Iterable:%
+mapperjava.util.function.FunctionBQ"O
+Morg.exist.extensions.exquery.restxq.impl.RestXqServiceCompiledXQueryCacheImpl

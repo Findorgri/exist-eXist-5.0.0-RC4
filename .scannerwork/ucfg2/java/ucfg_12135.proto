@@ -1,0 +1,27 @@
+
+Iorg.exist.management.impl.Database#getName()Ljavax/management/ObjectName;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java3 3("1*å
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java4 4(%ï
+ì
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java4 4(3
+%0"Porg.exist.management.impl.Database#getName(Ljava/lang/String;)Ljava/lang/String;*&"$
+"org.exist.management.impl.Database*
+""§¤
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java4 4(!
+%1javax.management.ObjectName"javax.management.ObjectNameÓ
+Ð
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java4 4(4
+%2"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
+!
+%1javax.management.ObjectName*
+
+%0"‰
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java4 4(5#
+!
+%1javax.management.ObjectNameB&$
+"org.exist.management.impl.Database

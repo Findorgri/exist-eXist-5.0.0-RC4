@@ -1,0 +1,23 @@
+
+Morg.exist.client.security.FindGroupForm#isValidGroupName(Ljava/lang/String;)Zi
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindGroupForm.java¥ ¥($"1*²
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindGroupForm.java¦ ¦(É
+Æ
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindGroupForm.java¦ ¦(
+%0java.util.Set"__id*>*<)
+'org.exist.client.security.FindGroupForm"
+allGroupNames€ý
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindGroupForm.java¦ ¦(0
+%1boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Set*
+
+	groupNamejava.lang.String2contains(Ljava/lang/Object;)"s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/FindGroupForm.java¦ ¦(1
+"":
+	groupNamejava.lang.StringB+)
+'org.exist.client.security.FindGroupForm

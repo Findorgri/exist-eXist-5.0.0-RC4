@@ -1,0 +1,42 @@
+
+\org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper#getDateHeader(Ljava/lang/String;)Jl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaû	 û	(!"startingBlock*é
+2l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaý	 ý	("v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaý	 ý	(
+""*Ú
+startingBlockl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaû	! û	(1´
+±
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaú	 ú	(
+%1"
+__annotate*
+java.lang.Override*
+
+sjava.lang.Stringž
+›
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaû	/ û	(0
+sjava.lang.String"__annotation*
+
+%1*
+4*ö
+4l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaü	 ü	(#ú÷
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaü	 ü	(-
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+If-Modified-Since*
+
+sjava.lang.String2equals(Ljava/lang/Object;)*
+2
+1*é
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÿ	 ÿ	("v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÿ	 ÿ	(*
+"":
+sjava.lang.StringB=;
+9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper

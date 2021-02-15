@@ -1,0 +1,21 @@
+
+7org.exist.launcher.ConfigurationUtility#isFirstStart()Zg
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java (&"1*É
+1g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java   (1ö
+ó
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java   (J
+propFilejava.nio.file.Path"__id*
+""Ñ
+Å
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java! !(&
+%0boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files* 
+
+propFilejava.nio.file.Path"q
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationUtility.java! !('
+""B+")
+'org.exist.launcher.ConfigurationUtility

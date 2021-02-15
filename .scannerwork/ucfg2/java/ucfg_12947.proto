@@ -1,0 +1,41 @@
+
+9org.exist.source.BinarySource#getReader()Ljava/io/Reader;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java- -("1*‹
+
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java. .(Á
+¾
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java. .(
+
+%0void".org.exist.source.BinarySource#checkEncoding()V*!
+org.exist.source.BinarySource÷ô
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java/% /(5
+%1java.io.InputStream"Corg.exist.source.BinarySource#getInputStream()Ljava/io/InputStream;*!
+org.exist.source.BinarySource2getInputStream()±
+®
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java/7 /(?
+%2java.lang.String"__id*/*-
+org.exist.source.BinarySource"
+
+encodingž›
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java/ /($
+%3java.io.InputStreamReader"java.io.InputStreamReaderŽ
+‹
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java/ /(@
+%4"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%3java.io.InputStreamReader*
+
+%1java.io.InputStream*
+
+%2java.lang.String"‚
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java/ /(A!
+
+%3java.io.InputStreamReaderB!
+org.exist.source.BinarySource

@@ -1,0 +1,28 @@
+
+8org.exist.fluent.Folder#clone()Lorg/exist/fluent/Folder;k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.java÷ ÷("1*¨
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaø ø(ßÜ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaù ù(
+%0java.lang.String"0org.exist.fluent.Folder#path()Ljava/lang/String;*
+org.exist.fluent.Folder2path()¨¥
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaù ù(
+%1org.exist.fluent.Folder"org.exist.fluent.Folder—
+”
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaù	 ù(A
+%2"Lorg.exist.fluent.Folder#<init>(Ljava/lang/String;ZLNamespaceMap;LDatabase;)V*
+
+%1org.exist.fluent.Folder*
+
+%0java.lang.String*
+""*
+""*
+"""Ž
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Folder.javaù ù(B
+
+%1org.exist.fluent.FolderB
+org.exist.fluent.Folder

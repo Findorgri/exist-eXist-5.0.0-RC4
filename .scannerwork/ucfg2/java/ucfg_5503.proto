@@ -1,0 +1,52 @@
+
+Xorg.exist.stax.EmbeddedXMLStreamReader#getProperty(Ljava/lang/String;)Ljava/lang/Object;h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java· ·("startingBlock*á
+2h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¼ ¼("r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¼ ¼(
+""*Ð
+3h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaº º(Û
+Ø
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaº º(
+
+%1void"4org.exist.stax.EmbeddedXMLStreamReader#readNodeId()V**(
+&org.exist.stax.EmbeddedXMLStreamReader*
+2*Ø
+startingBlockh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java· ·(2µ
+²
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¶ ¶(
+%2"
+__annotate*
+java.lang.Override*
+
+stringjava.lang.StringŸ
+œ
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java·+ ·(1
+stringjava.lang.String"__annotation*
+
+%2*
+5*Þ
+5h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¸ ¸(ãà
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¸ ¸(*
+%0",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+stringjava.lang.String*
+""2equals(Ljava/lang/Object;)*	
+2
+3
+1*á
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¾ ¾("r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¾ ¾(
+"":
+stringjava.lang.StringB*(
+&org.exist.stax.EmbeddedXMLStreamReader

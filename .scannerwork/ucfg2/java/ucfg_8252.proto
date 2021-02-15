@@ -1,0 +1,45 @@
+
+Morg.exist.http.Descriptor#getDescriptorSingleton()Lorg/exist/http/Descriptor;[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java®* ®(@"3*ð
+2[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java° °(+œ™
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java° °()
+%1org.exist.http.Descriptor"org.exist.http.Descriptor®
+«
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java° °(+
+%2"#org.exist.http.Descriptor#<init>()V*!
+
+%1org.exist.http.Descriptor¸
+µ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java° °(+-
+org.exist.http.Descriptor"
+singletonRef"__id*!
+
+%1org.exist.http.Descriptor*
+1*£
+3[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java¯ ¯(¸
+µ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java¯ ¯(
+%0org.exist.http.Descriptor"__id*/*-
+org.exist.http.Descriptor"
+singletonRef*
+2
+1*ž
+1[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java³ ³(¸
+µ
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java³ ³(
+%3org.exist.http.Descriptor"__id*/*-
+org.exist.http.Descriptor"
+singletonRef"€
+[
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java³ ³(!
+
+%3org.exist.http.DescriptorB"
+org.exist.http.Descriptor

@@ -1,0 +1,27 @@
+
+`org.exist.http.servlets.HttpServletRequestWrapper#upgrade(Ljava/lang/Class;)LHttpUpgradeHandler;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaé, é(3"startingBlock*õ
+startingBlocks
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaé3 é(I¾
+»
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaè è(
+%0"
+__annotate*
+java.lang.Override*
+
+clazzjava.lang.Class¨
+¥
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaéC é(H
+clazzjava.lang.Class"__annotation*
+
+%0*
+1*÷
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaê ê("}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaê ê(&
+"":
+clazzjava.lang.ClassB53
+1org.exist.http.servlets.HttpServletRequestWrapper

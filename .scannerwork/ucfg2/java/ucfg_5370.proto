@@ -1,0 +1,188 @@
+
+*org.exist.storage.lock.FileLock#tryLock()Z_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javak k("31*Ω
+24_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaz z(À
+»
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaz z( 
+%5boolean"1org.exist.storage.lock.FileLock#checkHeartbeat()Z*#!
+org.exist.storage.lock.FileLock*
+31
+21*î
+13a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaé é("§
+°
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaé é(".!
+org.exist.storage.lock.FileLock"	
+channel"__id*
+""*
+31*è
+15a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaå å(Ã
+…
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaå å(,
+%10%java.nio.channels.SeekableByteChannel"__id*0*.!
+org.exist.storage.lock.FileLock"	
+channel–Õ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaå å('
+%11void""java.nio.channels.Channel#close()V*.
+,
+%10%java.nio.channels.SeekableByteChannel2close()*
+13*¨
+27_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javas s(æ
+ª
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javas s(
+
+%2void"'org.exist.storage.lock.FileLock#read()V*#!
+org.exist.storage.lock.FileLock*
+24*ï
+17a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaã ã(À
+»
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaã ã(+
+%8%java.nio.channels.SeekableByteChannel"__id*0*.!
+org.exist.storage.lock.FileLock"	
+channel”–
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaã ã((
+%9boolean"#java.nio.channels.Channel#isOpen()Z*-
++
+%8%java.nio.channels.SeekableByteChannel2isOpen()*
+13
+15*–
+29_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javao o("i
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javao o(
+""*Å
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java§" §(2ôñ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java§& §(0
+%17java.util.Properties"java.util.Properties¨
+©
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java§" §(2
+%18"java.util.Properties#<init>()V*
+
+%17java.util.Properties´
+®
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java§ §(3
+paramsjava.util.Properties"__id*
+
+%17java.util.Propertiesøº
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java• •(+
+%19java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+""2	getName()Î
+Ë
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java• •(2
+%20java.lang.Object"__mapSet* 
+
+paramsjava.util.Properties*
+
+%19java.lang.String*#!
+org.exist.storage.lock.FileLock∫
+∑
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaß& ß(.
+%21java.nio.file.Path"__id*1*/!
+org.exist.storage.lock.FileLock"
+
+lockFileÈÊ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaß& ß(?
+%22java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%21java.nio.file.Path2toAbsolutePath()Ÿ÷
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaß& ß(J
+%23java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%22java.nio.file.Path2
+toString()"k
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.java© ©(
+""*∑
+5a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaû û(…∆
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaû û(
+%15void"'org.exist.storage.lock.FileLock#save()V*#!
+org.exist.storage.lock.FileLock2save()*
+1*®
+7a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaò ò(6∫
+∑
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaò ò(6/!
+org.exist.storage.lock.FileLock"
+
+lockFile"__id*
+
+%13java.nio.file.Path*
+5*¶
+31_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javam m(∑
+¥
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javam m($
+%0java.nio.file.Path"__id*1*/!
+org.exist.storage.lock.FileLock"
+
+lockFileˆ
+Û
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javam m(%
+%1boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+%0java.nio.file.Path*
+27
+29
+11*≥
+20a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÉ É(√¿
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÉ É(-
+
+%7void"java.lang.Object#wait(J)V*#!
+org.exist.storage.lock.FileLock*
+""2wait(J)*
+17*Í
+21a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÇ Ç(˙˜
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÇ Ç(\
+%6java.lang.String"borg.exist.storage.lock.FileLock#message(Ljava/lang/String;Ljava/lang/Exception;)Ljava/lang/String;*#!
+org.exist.storage.lock.FileLock*75
+3Waiting a short time for the lock to be released...*
+""20message(Ljava/lang/String;Ljava/lang/Exception;)*
+20*’
+11a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaò ò(!∫
+∑
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaò- ò(5
+%12java.nio.file.Path"__id*1*/!
+org.exist.storage.lock.FileLock"
+
+lockFile©
+¶
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaò ò(6
+%13java.nio.file.Path"pjava.nio.file.Files#createFile(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+
+%12java.nio.file.Path*
+7B#!
+org.exist.storage.lock.FileLock

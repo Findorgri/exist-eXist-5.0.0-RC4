@@ -1,0 +1,122 @@
+
+Korg.exist.dom.persistent.NodeProxy#conversionPreference(Ljava/lang/Class;)Id
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java€ €(#"startingBlock*⁄
+13d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÎ Î("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÎ Î(
+""*⁄
+25d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java„ „("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java„ „(
+""*⁄
+16d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÈ È("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÈ È(
+""*⁄
+28d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java· ·("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java· ·(
+""*⁄
+19d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÁ Á("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÁ Á(
+""*›
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaı ı(Å
+
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaı ı($	
+%2int"__id*
+"""n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaı ı(%
+""*Ÿ
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÛ Û("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÛ Û(
+""*—
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java€# €(:≥
+∞
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java⁄ ⁄(
+%3"
+__annotate*
+java.lang.Override*
+
+	javaClassjava.lang.Classù
+ö
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java€0 €(9
+	javaClassjava.lang.Class"__annotation*
+
+%3*
+34*Ÿ
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÒ Ò("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÒ Ò(
+""*Ÿ
+7d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÔ Ô("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÔ Ô(
+""*⁄
+31d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaﬂ ﬂ("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaﬂ ﬂ(
+""*ñ
+32d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaﬁ ﬁ(˚¯
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaﬁ ﬁ(8
+%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+	javaClassjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*,
+13
+2
+25
+4
+16
+28
+7
+19
+31
+10
+22
+1*⁄
+10d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÌ Ì("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÌ Ì(
+""*⁄
+22d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÂ Â("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÂ Â(
+""*⁄
+33d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java› ›("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java› ›(
+""*Ú
+34d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java‹ ‹(˚¯
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java‹ ‹(6
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+	javaClassjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*
+32
+33:
+	javaClassjava.lang.ClassB&$
+"org.exist.dom.persistent.NodeProxy

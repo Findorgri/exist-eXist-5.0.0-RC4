@@ -1,0 +1,56 @@
+
+Porg.exist.dom.memtree.NodeImpl#toJavaObject(Ljava/lang/Class;)Ljava/lang/Object;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÕ Õ("startingBlock*î
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java× ×("†
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java× ×(" 
+org.exist.dom.memtree.NodeImpl*¾
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÕ Õ(4¬
+©
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÔ Ô(
+%3"
+__annotate*
+java.lang.Override*
+
+targetjava.lang.Class–
+“
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÕ- Õ(3
+targetjava.lang.Class"__annotation*
+
+%3*
+5*ä
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ6 Ö(<ôñ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ6 Ö(Y
+%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+targetjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*
+2
+1*ä
+5`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ Ö(ôñ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÖ Ö(2
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+targetjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*
+2
+4*Ê
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÙ2 Ù(@öó
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÙ2 Ù(B
+%2java.lang.String"Aorg.exist.dom.memtree.NodeImpl#getStringValue()Ljava/lang/String;*" 
+org.exist.dom.memtree.NodeImpl2getStringValue()"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÚ Ú(*
+"":
+targetjava.lang.ClassB" 
+org.exist.dom.memtree.NodeImpl

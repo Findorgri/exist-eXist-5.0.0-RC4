@@ -1,0 +1,523 @@
+
+borg.exist.xquery.modules.mail.SendEmailFunction#parseMailElement(Ljava/util/List;)Ljava/util/List;Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java‹ ‹('"27*ã
+24Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÊ Ê(&¸˘
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÊ  Ê($:
+%44org.exist.xquery.modules.mail.SendEmailFunction$Mail"4org.exist.xquery.modules.mail.SendEmailFunction$Mailé
+ã
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÊ Ê(&
+%5">org.exist.xquery.modules.mail.SendEmailFunction$Mail#<init>()V*<
+:
+%44org.exist.xquery.modules.mail.SendEmailFunction$Mailå
+â
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÊ Ê('<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail"__id*<
+:
+%44org.exist.xquery.modules.mail.SendEmailFunction$Mailçä
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÈ È(8
+%6org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*$
+"
+mailElementorg.w3c.dom.Element2getFirstChild()≈
+¬
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÈ È(9
+childorg.w3c.dom.Node"__id*
+
+%6org.w3c.dom.Node*
+3
+22*Ë
+14Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÇ ö(*ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÑ0 Ñ(E
+%28org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()…
+∆
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÑ  Ñ(F
+bodyPartorg.w3c.dom.Node"__id*
+
+%28org.w3c.dom.Node*
+4
+12*¨
+25Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java„ „(ãà
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java„ „()
+%2java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*$
+"
+mailElementorg.w3c.dom.Element2getLocalName()áÑ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java„ „(8
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+mail2equals(Ljava/lang/Object;)*
+24
+2*á
+15Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaˇ Å(&ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ0 Ä(E
+%25org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ0 Ä(T
+%26java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%25org.w3c.dom.Node2getNodeValue()ËÂ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ  Ä(U
+%27void"Torg.exist.xquery.modules.mail.SendEmailFunction$Mail#setSubject(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%26java.lang.String2setSubject(Ljava/lang/String;)*
+4*ˇ
+16Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java¸ ˛(&ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˝, ˝(A
+%22org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˝, ˝(P
+%23java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%22org.w3c.dom.Node2getNodeValue()‡›
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˝  ˝(Q
+%24void"Porg.exist.xquery.modules.mail.SendEmailFunction$Mail#addBCC(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%23java.lang.String2addBCC(Ljava/lang/String;)*
+4*Â
+27Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaﬁ ﬁ(,∫∑
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaﬁ ﬁ(*
+%0java.util.ArrayList"java.util.ArrayListÃ
+…
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaﬁ ﬁ(,
+%1"java.util.ArrayList#<init>()V*
+
+%0java.util.ArrayList∆
+√
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaﬁ ﬁ(-
+mailsjava.util.List"__id*
+
+%0java.util.ArrayList*
+2*˝
+17Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˘ ˚(&ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˙+ ˙(@
+%19org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˙+ ˙(O
+%20java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%19org.w3c.dom.Node2getNodeValue()ﬁ€
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˙  ˙(P
+%21void"Oorg.exist.xquery.modules.mail.SendEmailFunction$Mail#addCC(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%20java.lang.String2addCC(Ljava/lang/String;)*
+4*˝
+18Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaˆ ¯(&ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˜+ ˜(@
+%16org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˜+ ˜(O
+%17java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%16org.w3c.dom.Node2getNodeValue()ﬁ€
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java˜  ˜(P
+%18void"Oorg.exist.xquery.modules.mail.SendEmailFunction$Mail#addTo(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%17java.lang.String2addTo(Ljava/lang/String;)*
+4*á
+19Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÛ ı(&ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÙ0 Ù(E
+%13org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÙ0 Ù(T
+%14java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%13org.w3c.dom.Node2getNodeValue()ËÂ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÙ  Ù(U
+%15void"Torg.exist.xquery.modules.mail.SendEmailFunction$Mail#setReplyTo(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%14java.lang.String2setReplyTo(Ljava/lang/String;)*
+4*Ø
+1Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java´ ´("¢
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java´ ´(
+
+mailsjava.util.List*π
+2Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java‡ ‡(º
+π
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java‡ ‡("
+mailElementorg.w3c.dom.Element"__id*
+""‰
+·
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java‡ ‡("
+mailElementorg.w3c.dom.Element"
+__arrayGet* 
+
+mailElementsjava.util.List*
+""*
+25
+1*ó
+3Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaß ß(Ö
+Ç
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaß ß(
+%58boolean"
+__arrayAdd*
+
+mailsjava.util.List*: *>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+2*Ê
+4Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java§ §(!áÑ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java§ §(2
+%57org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getNextSibling()∆
+√
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java§ §(2
+childorg.w3c.dom.Node"__id*
+
+%57org.w3c.dom.Node*
+3
+22*¥
+5Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÔ  Ô(%ÉÄ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÔ  Ô(4
+%56java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+childorg.w3c.dom.Node2getLocalName()*"
+14
+15
+4
+16
+6
+17
+18
+19
+20*‚
+6Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaõ ü(&–
+Õ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaú  ú(D!
+
+attachmentorg.w3c.dom.Element"__id*
+
+childorg.w3c.dom.Node¿Ω
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaùG ù(j
+%49java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*#
+!
+
+attachmentorg.w3c.dom.Element*
+
+filename2 getAttribute(Ljava/lang/String;)¡æ
+Ö
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaùl ù(è
+%50java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*#
+!
+
+attachmentorg.w3c.dom.Element*
+
+mimetype2 getAttribute(Ljava/lang/String;)èå
+Ü
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaùë ù(´
+%51org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*#
+!
+
+attachmentorg.w3c.dom.Element2getFirstChild()ÉÄ
+Ü
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaùë ù(∫
+%52java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%51org.w3c.dom.Node2getNodeValue()ëé
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaù8 ù(FE
+%53>org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment">org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment¨
+©
+Ö
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaù4 ù(ª
+%54"~org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*G
+E
+%53>org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment*
+
+%49java.lang.String*
+
+%50java.lang.String*
+
+%52java.lang.String†
+ù
+Ö
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaù  ù(ºD
+ma>org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment"__id*G
+E
+%53>org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment¯ı
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaû  û(6
+%55void"Öorg.exist.xquery.modules.mail.SendEmailFunction$Mail#addAttachment(Lorg/exist/xquery/modules/mail/SendEmailFunction$MailAttachment;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*F
+D
+ma>org.exist.xquery.modules.mail.SendEmailFunction$MailAttachment2OaddAttachment(Lorg/exist/xquery/modules/mail/SendEmailFunction$MailAttachment;)*
+4*Ï
+8Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaô/ ô(7äá
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaô/ ô(H
+%48org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
+
+bodyPartorg.w3c.dom.Node2getNextSibling()…
+∆
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaô$ ô(H
+bodyPartorg.w3c.dom.Node"__id*
+
+%48org.w3c.dom.Node*
+4
+12*ƒ%
+9Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaéJ é(\√
+¿
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaéJ é(j-
+%36&javax.xml.transform.TransformerFactory"\javax.xml.transform.TransformerFactory#newInstance()Ljavax/xml/transform/TransformerFactory;**"(
+&javax.xml.transform.TransformerFactory˘
+ˆ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaé( é(k6
+transFactory&javax.xml.transform.TransformerFactory"__id*/
+-
+%36&javax.xml.transform.TransformerFactoryÿ’
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaèB è(_&
+%37javax.xml.transform.Transformer"Xjavax.xml.transform.TransformerFactory#newTransformer()Ljavax/xml/transform/Transformer;*8
+6
+transFactory&javax.xml.transform.TransformerFactory2newTransformer()Í
+Á
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaè( è(`.
+transformerjavax.xml.transform.Transformer"__id*(
+&
+%37javax.xml.transform.TransformeràÖ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaêI ê(a
+%38org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+bodyPartorg.w3c.dom.Node2getFirstChild()◊‘
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê? ê(H(
+%39!javax.xml.transform.dom.DOMSource"!javax.xml.transform.dom.DOMSourceó
+î
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê; ê(b
+%40"=javax.xml.transform.dom.DOMSource#<init>(Lorg/w3c/dom/Node;)V**
+(
+%39!javax.xml.transform.dom.DOMSource*
+
+%38org.w3c.dom.NodeÈ
+Ê
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê( ê(c+
+source!javax.xml.transform.dom.DOMSource"__id**
+(
+%39!javax.xml.transform.dom.DOMSourceΩ∫
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaëE ë(Q
+%41java.io.StringWriter"java.io.StringWriter–
+Õ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaëA ë(S
+%42"java.io.StringWriter#<init>()V*
+
+%41java.io.StringWriter“
+œ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaë( ë(T!
+	strWriterjava.io.StringWriter"__id*
+
+%41java.io.StringWriter„‡
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaíB í(N.
+%43'javax.xml.transform.stream.StreamResult"'javax.xml.transform.stream.StreamResult´
+®
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaí> í(Y
+%44"Ajavax.xml.transform.stream.StreamResult#<init>(Ljava/io/Writer;)V*0
+.
+%43'javax.xml.transform.stream.StreamResult*#
+!
+	strWriterjava.io.StringWriterı
+Ú
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaí( í(Z1
+result'javax.xml.transform.stream.StreamResult"__id*0
+.
+%43'javax.xml.transform.stream.StreamResultÿ’
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaì( ì(M
+%45void"djavax.xml.transform.Transformer#transform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)V*0
+.
+transformerjavax.xml.transform.Transformer*-
++
+source!javax.xml.transform.dom.DOMSource*3
+1
+result'javax.xml.transform.stream.StreamResult2Ctransform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)áÑ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaï6 ï(J
+%46java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;*#
+!
+	strWriterjava.io.StringWriter2
+toString()‰·
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaï( ï(K
+%47void"Rorg.exist.xquery.modules.mail.SendEmailFunction$Mail#setXHTML(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%46java.lang.String2setXHTML(Ljava/lang/String;)*
+8*Å
+20Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java Ú(&ÖÇ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÒ- Ò(B
+%10org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÒ- Ò(Q
+%11java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%10org.w3c.dom.Node2getNodeValue()‚ﬂ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÒ  Ò(R
+%12void"Qorg.exist.xquery.modules.mail.SendEmailFunction$Mail#setFrom(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%11java.lang.String2setFrom(Ljava/lang/String;)*
+4*Ä
+21Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÌC Ì(HÍÁ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÌC Ì(X
+%9boolean"!org.w3c.dom.Node#hasChildNodes()Z*
+
+childorg.w3c.dom.Node2hasChildNodes()*
+4
+5*©
+10Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaã, ã(4ÜÉ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaã, ã(C
+%34java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+bodyPartorg.w3c.dom.Node2getLocalName()äá
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaã, ã(S
+%35boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%34java.lang.String*	
+xhtml2equals(Ljava/lang/Object;)*
+8
+9*£
+22Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÌ Ì(‰·
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÌ Ì(*
+%7short"org.w3c.dom.Node#getNodeType()S*
+
+childorg.w3c.dom.Node2getNodeType()•
+¢
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÌ. Ì(?
+%8short"__id*
+""*
+4
+21*Ñ
+11Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaâ( â(,àÖ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaâ5 â(M
+%31org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+bodyPartorg.w3c.dom.Node2getFirstChild()Å˛
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaâ5 â(\
+%32java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
+
+%31org.w3c.dom.Node2getNodeValue()‚ﬂ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaâ( â(]
+%33void"Qorg.exist.xquery.modules.mail.SendEmailFunction$Mail#setText(Ljava/lang/String;)V*>
+<
+mail4org.exist.xquery.modules.mail.SendEmailFunction$Mail*
+
+%32java.lang.String2setText(Ljava/lang/String;)*
+8*™
+12Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaá' á(/ÜÉ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaá' á(>
+%29java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
+
+bodyPartorg.w3c.dom.Node2getLocalName()âÜ
+Ñ
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaá' á(M
+%30boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%29java.lang.String*
+text2equals(Ljava/lang/Object;)*
+10
+11:
+mailElementsjava.util.ListB31
+/org.exist.xquery.modules.mail.SendEmailFunction

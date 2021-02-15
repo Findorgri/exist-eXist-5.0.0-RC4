@@ -1,0 +1,178 @@
+
+dorg.exist.webdav.MiltonResource#authenticate(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java® ®("startingBlock*¯
+14s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaØ Ø("}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaØ Ø(
+""*œ
+16s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java´ ´(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java´ ´(
+%1"__id*
+""±
+Æ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java´ ´(`
+%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*!
+Authenticating user %s for %s*
+
+usernamejava.lang.String*
+""*
+14
+3
+4
+8
+12*ü
+17s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java™ ™(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java™ ™(
+%0"__id*
+""*
+14
+3
+4
+16
+8
+12*≠
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java— —(ü
+ú
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java— —(
+%13java.lang.String"__id*
+"""ê
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java— —(
+
+%13java.lang.String*¶
+2s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java– –(ç
+ä
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java– –(
+%11"__id*
+""ñ
+ì
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java– –([
+%12"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*%#
+!User '%s' has been authenticated.*
+""*
+1*ê
+3s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaÕ Õ(ç
+ä
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaœ œ(
+%10"__id*
+""*
+2
+1*ˆ
+startingBlocks
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java® ®(@√
+¿
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaß ß(
+%14"
+__annotate*
+java.lang.Override*
+
+usernamejava.lang.String≠
+™
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java®& ®(.
+usernamejava.lang.String"__annotation*
+
+%14√
+¿
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaß ß(
+%15"
+__annotate*
+java.lang.Override*
+
+passwordjava.lang.String≠
+™
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java®7 ®(?
+passwordjava.lang.String"__annotation*
+
+%15*
+17*∂
+4s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java∆ ∆(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java∆ ∆(
+%8"__id*
+""≠
+™
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java∆ ∆(q
+%9"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*=;
+9The user %s is prohibited from logging in through WebDAV.*
+"""}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java« «(
+""*˜
+6s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¿ ¿("}
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¿ ¿(
+""*å
+7s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaø ø(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaø ø(
+%7"__id*
+""*
+6*è
+8s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaæ æ(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaæ æ(
+%6"__id*
+""*
+6
+7*¨
+10s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java∂ ∂( û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java∂ ∂( 
+%5java.lang.String"__id*
+"""è
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java∂ ∂(!
+
+%5java.lang.String*é
+11s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaµ µ(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaµ µ(
+%4"__id*
+""*
+10*í
+12s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¥ ¥(å
+â
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¥ ¥(
+%3"__id*
+""*
+10
+11:
+usernamejava.lang.String:
+passwordjava.lang.StringB#!
+org.exist.webdav.MiltonResource

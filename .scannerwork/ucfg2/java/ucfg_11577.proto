@@ -1,0 +1,45 @@
+
+Oorg.exist.fluent.Document#listeners()Lorg/exist/fluent/Document$ListenersFacet;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÄ Ä( "3*›
+2m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÅ% Å(9ÌÉ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÅ) Å(7.
+%1(org.exist.fluent.Document$ListenersFacet"(org.exist.fluent.Document$ListenersFacetù
+ö
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÅ% Å(9
+%2"Morg.exist.fluent.Document$ListenersFacet#<init>(Lorg/exist/fluent/Document;)V*0
+.
+%1(org.exist.fluent.Document$ListenersFacetÖ
+Ó
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÅ Å(9*
+org.exist.fluent.Document"
+	listeners"__id*0
+.
+%1(org.exist.fluent.Document$ListenersFacet*
+1*Ó
+3m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÅ Å(Ö
+Ó
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÅ Å(.
+%0(org.exist.fluent.Document$ListenersFacet"__id*,**
+org.exist.fluent.Document"
+	listeners*
+2
+1*ï
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÆ	 Æ(Ö
+Ó
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÆ	 Æ(.
+%3(org.exist.fluent.Document$ListenersFacet"__id*,**
+org.exist.fluent.Document"
+	listeners"¡
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaÆ Æ(0
+.
+%3(org.exist.fluent.Document$ListenersFacetB
+org.exist.fluent.Document

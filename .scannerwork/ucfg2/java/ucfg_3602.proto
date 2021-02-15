@@ -1,0 +1,29 @@
+
+;org.exist.dom.persistent.AVLTreeNodeSet$Node#rightHeight()Ii
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaç ç("3*Ð
+2i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaé é(ê
+ç
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaé é(&2
+%1,org.exist.dom.persistent.AVLTreeNodeSet$Node"__id*@*>.
+,org.exist.dom.persistent.AVLTreeNodeSet$Node"
+
+rightChild"s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaé é(/
+""*ø
+3i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaè è(ÿü
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaè è(
+%0boolean"=org.exist.dom.persistent.AVLTreeNodeSet$Node#hasRightChild()Z*0.
+,org.exist.dom.persistent.AVLTreeNodeSet$Node2hasRightChild()*
+2
+1*ã
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaë ë("s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaë ë(
+""B0.
+,org.exist.dom.persistent.AVLTreeNodeSet$Node

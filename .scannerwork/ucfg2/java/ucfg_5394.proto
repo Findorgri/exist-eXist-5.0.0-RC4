@@ -1,0 +1,42 @@
+
+Qorg.exist.xmldb.LocalCollection#getProperty(Ljava/lang/String;)Ljava/lang/String;a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java• •("startingBlock*Ç
+startingBlocka
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java• •(4°
+­
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java” ”(
+%2"
+__annotate*
+java.lang.Override*
+
+propertyjava.lang.Stringš
+—
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java•+ •(3
+propertyjava.lang.String"__annotation*
+
+%2*
+1*Í
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java– –(½
+º
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java– –(
+%0java.util.Properties"__id*3*1!
+org.exist.xmldb.LocalCollection"
+
+properties¥¢
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java– –(/
+%1java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+propertyjava.lang.String2getProperty(Ljava/lang/String;)"}
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java– –(0
+
+%1java.lang.String:
+propertyjava.lang.StringB#!
+org.exist.xmldb.LocalCollection

@@ -1,0 +1,16 @@
+
+Torg.exist.http.jaxb.Collection#getCreated()Ljavax/xml/datatype/XMLGregorianCalendar;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Collection.java{  {(*"1*Ã
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Collection.java| |(É
+Æ
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Collection.java| |(-
+%0'javax.xml.datatype.XMLGregorianCalendar"__id*/*- 
+org.exist.http.jaxb.Collection"	
+created"‘
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Collection.java| |(/
+-
+%0'javax.xml.datatype.XMLGregorianCalendarB" 
+org.exist.http.jaxb.Collection

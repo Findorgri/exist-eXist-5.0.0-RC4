@@ -1,0 +1,48 @@
+
+horg.exist.dom.NamedNodeMapImpl#removeNamedItemNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Node;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javau u(!"startingBlock*í
+startingBlock^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javau! u(T±
+Æ
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javat t(
+%1"
+__annotate*
+java.lang.Override*"
+ 
+namespaceURIjava.lang.Stringõ
+ò
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javau/ u(; 
+namespaceURIjava.lang.String"__annotation*
+
+%1Æ
+´
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javat t(
+%2"
+__annotate*
+java.lang.Override*
+
+	localNamejava.lang.Stringò
+ï
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javauJ u(S
+	localNamejava.lang.String"__annotation*
+
+%2*
+1*‡
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javav v(êç
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javav v(B
+%0"Torg.exist.dom.NamedNodeMapImpl#removeNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;*" 
+org.exist.dom.NamedNodeMapImpl*
+""2#removeNamedItem(Ljava/lang/String;)"h
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.javav v(C
+
+%0: 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB" 
+org.exist.dom.NamedNodeMapImpl

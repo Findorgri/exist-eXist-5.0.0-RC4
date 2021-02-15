@@ -1,0 +1,9 @@
+
+Morg.exist.xquery.modules.cache.CacheModule#getDescription()Ljava/lang/String;}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheModule.javaR R( "1*Û
+1}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheModule.javaS S(b"Ö
+}
+sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheModule.javaS S(cUS
+QA module for accessing global caches for sharing data between concurrent sessionsB.,
+*org.exist.xquery.modules.cache.CacheModule

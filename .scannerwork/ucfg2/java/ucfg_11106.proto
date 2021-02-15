@@ -1,0 +1,36 @@
+
+corg.exist.dom.persistent.XMLUtil#parseValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaç ç(#"3*’
+2b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaê ê("l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaê ê(
+""*Ë
+3b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaé é(ˆÛ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaé é("	
+%0int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+valuejava.lang.String*
+
+keyjava.lang.String2indexOf(Ljava/lang/String;)*
+2
+1*à
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaí í(û
+õ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaí í(#
+%1java.lang.String"Rorg.exist.dom.persistent.XMLUtil#parseValue(Ljava/lang/String;I)Ljava/lang/String;*$""
+ org.exist.dom.persistent.XMLUtil*
+
+valuejava.lang.String*
+"""~
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaí í($
+
+%1java.lang.String:
+valuejava.lang.String:
+keyjava.lang.StringB$""
+ org.exist.dom.persistent.XMLUtil

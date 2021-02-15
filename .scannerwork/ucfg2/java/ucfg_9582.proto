@@ -1,0 +1,37 @@
+
+Porg.exist.xquery.parser.XQueryTreeParser#getLastException()Ljava/lang/Exception;h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java_ _(""1*õ
+1h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java` `(Ç
+Ä
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java` `(
+%0java.util.List"__id*<*:*
+(org.exist.xquery.parser.XQueryTreeParser"
+
+exceptionsÇ
+Ä
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java`$ `(.
+%1java.util.List"__id*<*:*
+(org.exist.xquery.parser.XQueryTreeParser"
+
+exceptions°­
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java`$ `(5	
+%2int"java.util.List#size()I*
+
+%1java.util.List2size()´
+±
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java` `(:
+%3java.lang.Exception"
+__arrayGet*
+
+%0java.util.List*
+"""‡
+h
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryTreeParser.java` `(;
+
+%3java.lang.ExceptionB,*
+(org.exist.xquery.parser.XQueryTreeParser

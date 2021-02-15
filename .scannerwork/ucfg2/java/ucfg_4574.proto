@@ -1,0 +1,17 @@
+
+:org.exist.http.Response#getDescription()Ljava/lang/String;W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaN N("1*û
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaO	 O(§
+¤
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaO	 O(
+%0java.lang.String"__id*+*)
+org.exist.http.Response"
+
+statusDesc"s
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaO O(
+
+%0java.lang.StringB
+org.exist.http.Response

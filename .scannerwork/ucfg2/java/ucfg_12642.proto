@@ -1,0 +1,56 @@
+
+]org.exist.start.Main#list(Ljava/nio/file/Path;Ljava/util/function/Predicate;)Ljava/util/List;V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java   ("5*–
+2V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¢ ¢(7³°
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¢ ¢(7
+%3java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*$
+"
+entriesjava.util.stream.Stream*"
+ 
+%2java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)*
+1*ì
+3V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¡ ¡(M¦
+£
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¡ ¡(M"
+entriesjava.util.stream.Stream"__id*
+
+%1java.util.stream.Streamà
+Ý
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¢# ¢(6 
+%2java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*"
+java.util.stream.Collectors*
+2*©
+4V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¡F ¡(LÆÃ
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¡) ¡(M
+%1java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%0java.util.stream.Stream*(
+&
+filterjava.util.function.Predicate2&filter(Ljava/util/function/Predicate;)*
+3*â
+5V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¡) ¡(.ÿ
+ü
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¡) ¡(>
+%0java.util.stream.Stream"Gjava.nio.file.Files#list(Ljava/nio/file/Path;)Ljava/util/stream/Stream;*"
+java.nio.file.Files*!
+
+	directoryjava.nio.file.Path*
+4*Í
+1V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¢ ¢(8"p
+V
+JC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/start/Main.java¢ ¢(8
+
+%3java.util.List:
+	directoryjava.nio.file.Path:&
+filterjava.util.function.PredicateB"
+org.exist.start.Main

@@ -1,0 +1,62 @@
+
+Zorg.exist.http.servlets.ScaleImageJAI#useScaled(Ljava/nio/file/Path;Ljava/nio/file/Path;)Zy
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaß ß("5*„
+2y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaá
+ á("ƒ
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaá á(
+""*†
+4y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaà& à(+ý
+ú
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaà& à(>
+%1boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+scaledjava.nio.file.Path*
+2
+1* 
+5y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaà à(”
+‘
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaà à("
+%0boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+scaledjava.nio.file.Path*	
+2
+4
+1*Ÿ
+
+1y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaä ä(Û
+Ø
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaä ä(0&
+%2 java.nio.file.attribute.FileTime"zjava.nio.file.Files#getLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileTime;*"
+java.nio.file.Files*
+
+scaledjava.nio.file.PathÚ
+×
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaä; ä([&
+%3 java.nio.file.attribute.FileTime"zjava.nio.file.Files#getLastModifiedTime(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/FileTime;*"
+java.nio.file.Files*
+
+imagejava.nio.file.PathÝÚ
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaä ä(\	
+%4int"Ojava.nio.file.attribute.FileTime#compareTo(Ljava/nio/file/attribute/FileTime;)I*(
+&
+%2 java.nio.file.attribute.FileTime*(
+&
+%3 java.nio.file.attribute.FileTime2-compareTo(Ljava/nio/file/attribute/FileTime;)"ƒ
+y
+mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.javaä ä(b
+"":
+imagejava.nio.file.Path:
+scaledjava.nio.file.PathB)'
+%org.exist.http.servlets.ScaleImageJAI

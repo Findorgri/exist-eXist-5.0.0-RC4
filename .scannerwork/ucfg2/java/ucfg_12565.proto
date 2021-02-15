@@ -1,0 +1,56 @@
+
+Eorg.exist.storage.journal.Journal#getFiles()Ljava/util/stream/Stream;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaã ã( "1*Í
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaä ä(!Ž
+‹
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaä$ ä(3
+%0java.lang.String"__id*
+""«
+¨
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaä ä(3
+%1java.lang.String"__concat*
+.*
+
+%0java.lang.String¤
+¡
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaä ä(4
+suffixjava.lang.String"__id*
+
+%1java.lang.String´
+±
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaå# å(4
+%2java.lang.String"__concat*
+
+_index*
+
+suffixjava.lang.String©
+¦
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaå å(5
+indexSuffixjava.lang.String"__id*
+
+%2java.lang.String¸
+µ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaç ç(
+%3java.nio.file.Path"__id*.*,#
+!org.exist.storage.journal.Journal"
+dirÕ
+Ò
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaç ê(H
+%4java.util.stream.Stream"ˆjava.nio.file.Files#find(Ljava/nio/file/Path;ILjava/util/function/BiPredicate;[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;*"
+java.nio.file.Files*
+
+%3java.nio.file.Path*2*
+"""†
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Journal.javaç ê(I
+
+%4java.util.stream.StreamB%#
+!org.exist.storage.journal.Journal

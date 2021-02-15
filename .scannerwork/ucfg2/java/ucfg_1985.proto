@@ -1,0 +1,300 @@
+
+forg.exist.http.urlrewrite.URLRewriteTest#constructorAddsMultipleParameterValuesForSameParameterName()Vm
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java (J"4*å
+2m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaM M(×
+Ô
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaM M(6
+%31java.util.List"__mapGet*!
+
+testParametersjava.util.Map*
+
+	paramNamejava.lang.StringÂ¿
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaM8 M(R
+%32java.util.Map"Zorg.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite#getParameters()Ljava/util/Map;*K
+I
+
+urlRewrite;org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite2getParameters()Ì
+É
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaM8 M(a
+%33java.util.List"__mapGet*
+
+%32java.util.Map*
+
+	paramNamejava.lang.String*
+1*Ö
+3m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaL L(-ÜÙ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaL L(6
+%30java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*!
+
+testParametersjava.util.Map2keySet()*
+1*›G
+4m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java- (<¶
+³
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java (=)
+ELEMENT_ADD_PARAMETERjava.lang.String"__id*
+add-parameter¤
+¡
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java (+
+
+PARAM_NAMEjava.lang.String"__id*
+
+param1©
+¦
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java   (0!
+PARAM_VALUE_1java.lang.String"__id*
+
+value1.1©
+¦
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java! !(0!
+PARAM_VALUE_2java.lang.String"__id*
+
+value1.2£
+ 
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java# #(@!
+
+mockConfigorg.w3c.dom.Element"__id*
+""§
+¤
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java$ $(D%
+mockParameter1org.w3c.dom.Element"__id*
+""§
+¤
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java% %(D%
+mockParameter2org.w3c.dom.Element"__id*
+""Š
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java' '(2
+%0boolean"5org.w3c.dom.Element#hasAttribute(Ljava/lang/String;)Z*#
+!
+
+mockConfigorg.w3c.dom.Element*
+
+absolute2 hasAttribute(Ljava/lang/String;)‹ˆ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java( ((0
+%1boolean"5org.w3c.dom.Element#hasAttribute(Ljava/lang/String;)Z*#
+!
+
+mockConfigorg.w3c.dom.Element*
+
+method2 hasAttribute(Ljava/lang/String;)Ú×
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java* *()
+%2boolean"!org.w3c.dom.Node#hasChildNodes()Z*#
+!
+
+mockConfigorg.w3c.dom.Element2hasChildNodes()ôñ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java+ +()
+%3org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*#
+!
+
+mockConfigorg.w3c.dom.Element2getFirstChild()ØÕ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java- -(+
+%4short"org.w3c.dom.Node#getNodeType()S*'
+%
+mockParameter1org.w3c.dom.Element2getNodeType()
+Š
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java-7 -(H
+%5short"__id*
+""üù
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java. .(/
+%6java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*'
+%
+mockParameter1org.w3c.dom.Element2getNamespaceURI()öó
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java/ /(,
+%7java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*'
+%
+mockParameter1org.w3c.dom.Element2getLocalName()§¤
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java0 0(2
+%8java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*'
+%
+mockParameter1org.w3c.dom.Element*
+name2 getAttribute(Ljava/lang/String;)¨¥
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java1 1(3
+%9java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*'
+%
+mockParameter1org.w3c.dom.Element*	
+value2 getAttribute(Ljava/lang/String;)ûø
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java3 3(.
+%10org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*'
+%
+mockParameter1org.w3c.dom.Element2getNextSibling()ÙÖ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java5 5(+
+%11short"org.w3c.dom.Node#getNodeType()S*'
+%
+mockParameter2org.w3c.dom.Element2getNodeType()Ž
+‹
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java57 5(H
+%12short"__id*
+""ýú
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java6 6(/
+%13java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*'
+%
+mockParameter2org.w3c.dom.Element2getNamespaceURI()÷ô
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java7 7(,
+%14java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*'
+%
+mockParameter2org.w3c.dom.Element2getLocalName()¨¥
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java8 8(2
+%15java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*'
+%
+mockParameter2org.w3c.dom.Element*
+name2 getAttribute(Ljava/lang/String;)©¦
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java9 9(3
+%16java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*'
+%
+mockParameter2org.w3c.dom.Element*	
+value2 getAttribute(Ljava/lang/String;)ûø
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java; ;(.
+%17org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*'
+%
+mockParameter2org.w3c.dom.Element2getNextSibling()óð
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java@, @(>B
+%18;org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite";org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite…
+‚
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java@( @(P
+%19"–org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite#<init>(Lorg/exist/http/urlrewrite/URLRewriteTest;Lorg/w3c/dom/Element;Ljava/lang/String;)V*D
+B
+%18;org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite*#
+!
+
+mockConfigorg.w3c.dom.Element*
+""‰
+†
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.java@ @(QI
+
+urlRewrite;org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite"__id*D
+B
+%18;org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewriteŸœ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaD= D(Z
+%20java.util.HashMap"java.util.HashMap²
+¯
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaD9 D(\
+%21"java.util.HashMap#<init>()V*
+
+%20java.util.HashMapµ
+²
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaD D(]
+testParametersjava.util.Map"__id*
+
+%20java.util.HashMap£ 
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaE" E(3
+%22java.util.ArrayList"java.util.ArrayList¶
+³
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaE E(5
+%23"java.util.ArrayList#<init>()V*
+
+%22java.util.ArrayList°
+­
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaE E(6
+valuesjava.util.List"__id*
+
+%22java.util.ArrayListÓ
+Ð
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaF F(!
+%24boolean"
+__arrayAdd*
+
+valuesjava.util.List*: *#
+!
+PARAM_VALUE_1java.lang.StringÓ
+Ð
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaG G(!
+%25boolean"
+__arrayAdd*
+
+valuesjava.util.List*: *#
+!
+PARAM_VALUE_2java.lang.Stringô
+ñ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaH H(.
+%26java.util.List"__mapSet*!
+
+testParametersjava.util.Map* 
+
+
+PARAM_NAMEjava.lang.String*
+
+valuesjava.util.ListÀ½
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaJ J(*
+
+%27int"java.util.Map#size()I*!
+
+testParametersjava.util.Map2size()Â¿
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaJ, J(F
+%28java.util.Map"Zorg.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite#getParameters()Ljava/util/Map;*K
+I
+
+urlRewrite;org.exist.http.urlrewrite.URLRewriteTest$TestableURLRewrite2getParameters()µ²
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaJ, J(M
+
+%29int"java.util.Map#size()I*
+
+%28java.util.Map2size()*
+3*Œ
+0 "„
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaP P(
+implicit return*Ü
+1m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaL L(Ÿ
+œ
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaL L(
+	paramNamejava.lang.String"__id*
+""½
+º
+m
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/urlrewrite/URLRewriteTest.javaL L(
+	paramNamejava.lang.String"
+__arrayGet*
+
+%30java.util.Set*
+""*
+2
+0B,*
+(org.exist.http.urlrewrite.URLRewriteTest

@@ -1,0 +1,198 @@
+
+lorg.exist.xquery.util.NumberFormatter#getInstance(Ljava/lang/String;)Lorg/exist/xquery/util/NumberFormatter;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaî" î(-"19*Ç
+13g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaû û((åâ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaû û(/"
+%10java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
+-
+methodHandlejava.lang.invoke.MethodHandle2type()*
+12*—
+14g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaö ö(v»
+≈
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaö ö(v-
+methodHandlejava.lang.invoke.MethodHandle"__id*%
+#
+%8java.lang.invoke.MethodHandleê
+ç
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaù- ù(Z!
+%9java.lang.invoke.MethodType"Vjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
+java.lang.invoke.MethodType*
+""*
+13*«
+15g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaö. ö(u—Œ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaö. ö(u#
+%8java.lang.invoke.MethodHandle"Ñjava.lang.invoke.MethodHandles$Lookup#findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;*1
+/
+lookup%java.lang.invoke.MethodHandles$Lookup*
+
+	langClazzjava.lang.Class*#
+!
+%7java.lang.invoke.MethodType2?findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)*
+14*Ù
+16g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaô ô(G“
+œ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaô ô(G/
+lookup%java.lang.invoke.MethodHandles$Lookup"__id*-
++
+%6%java.lang.invoke.MethodHandles$Lookup©
+¶
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaöP ö(t!
+%7java.lang.invoke.MethodType"gjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
+java.lang.invoke.MethodType*
+""*
+""*
+15*Ø
+17g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaò ò(=©
+¶
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaò ò(=
+	langClazzjava.lang.Class"__id*
+
+%5java.lang.Classç
+ä
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaô0 ô(F+
+%6%java.lang.invoke.MethodHandles$Lookup"Njava.lang.invoke.MethodHandles#lookup()Ljava/lang/invoke/MethodHandles$Lookup;*"" 
+java.lang.invoke.MethodHandles*
+16*Ì
+18g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaò$ ò()˜
+Ù
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaò$ ò(<
+%5java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*
+
+	classNamejava.lang.String*
+17*Ü
+19g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaï! ï(6ƒ¡
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaï! ï(@
+%0java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+""2	getName()Ø
+¨
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaï! ï(F
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+_»
+≈
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaï! ï(Q
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+languagejava.lang.String´
+®
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaï ï(R
+	classNamejava.lang.String"__id*
+
+%2java.lang.Stringñì
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javañ" ñ((
+%3java.util.Locale"java.util.Locale⁄
+◊
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javañ ñ(2
+%4",java.util.Locale#<init>(Ljava/lang/String;)V*
+
+%3java.util.Locale*
+
+languagejava.lang.String®
+•
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javañ ñ(3
+localejava.util.Locale"__id*
+
+%3java.util.Locale*
+18*à
+6g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaü ü(-"ô
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaü ü(-.
+,
+%16%org.exist.xquery.util.NumberFormatter*˙
+7g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaõU û(uπ
+∂
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaõ û(v*
+constructorjava.util.function.Function"__id*
+
+%15java.lang.Object «
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaü ü(,,
+%16%org.exist.xquery.util.NumberFormatter"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*,
+*
+constructorjava.util.function.Function*
+
+localejava.util.Locale2apply(Ljava/lang/Object;)*
+6*ï
+8g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaú û(u°û
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaú û(u
+%15java.lang.Object"Pjava.lang.invoke.MethodHandle#invokeExact([Ljava/lang/Object;)Ljava/lang/Object;*&
+$
+%14java.lang.invoke.MethodHandle2 invokeExact([Ljava/lang/Object;)*
+7*˝
+9g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaú û(gâÜ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaú û(g$
+%14java.lang.invoke.MethodHandle"Djava.lang.invoke.CallSite#getTarget()Ljava/lang/invoke/MethodHandle;*"
+ 
+%13java.lang.invoke.CallSite2getTarget()*
+8*à
+10g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaú û([ì
+ê
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaú û([ 
+%13java.lang.invoke.CallSite"˙java.lang.invoke.LambdaMetafactory#metafactory(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;*&"$
+"java.lang.invoke.LambdaMetafactory*1
+/
+lookup%java.lang.invoke.MethodHandles$Lookup*	
+apply*#
+!
+%9java.lang.invoke.MethodType*$
+"
+%11java.lang.invoke.MethodType*/
+-
+methodHandlejava.lang.invoke.MethodHandle*$
+"
+%12java.lang.invoke.MethodType*
+9*Ç
+11g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaû9 û(Eåâ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaûG û(Z"
+%12java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
+-
+methodHandlejava.lang.invoke.MethodHandle2type()*
+10*˜
+12g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaû û(7Å˛
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaû û(7"
+%11java.lang.invoke.MethodType"@java.lang.invoke.MethodType#erase()Ljava/lang/invoke/MethodType;*$
+"
+%10java.lang.invoke.MethodType2erase()*
+11:
+languagejava.lang.StringB)"'
+%org.exist.xquery.util.NumberFormatter

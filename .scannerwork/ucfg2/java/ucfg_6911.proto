@@ -1,0 +1,65 @@
+
+‡org.exist.security.XmldbApiSecurityTest#getXmlResourceContent(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÔ Ô(*"startingBlock*ü
+14n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaØ Ø(!€
+ý
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaØ0 Ø(<
+%0java.lang.String"Forg.exist.security.XmldbApiSecurityTest#getBaseUri()Ljava/lang/String;*+)
+'org.exist.security.XmldbApiSecurityTest*
+8*µ	
+startingBlockn
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÔ* Ô(hÀ
+½
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÓ Ó(
+%1"
+__annotate*
+java.lang.Override*!
+
+resourceUrijava.lang.Stringª
+§
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÔ8 Ô(C
+resourceUrijava.lang.String"__annotation*
+
+%1¸
+µ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÓ Ó(
+%2"
+__annotate*
+java.lang.Override*
+
+uidjava.lang.String¢
+Ÿ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÔR Ô(U
+uidjava.lang.String"__annotation*
+
+%2¸
+µ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÓ Ó(
+%3"
+__annotate*
+java.lang.Override*
+
+pwdjava.lang.String¢
+Ÿ
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÔd Ô(g
+pwdjava.lang.String"__annotation*
+
+%3*
+14*í
+8n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÚ Ú(0"x
+n
+bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/XmldbApiSecurityTest.javaÚ Ú(1
+"":
+resourceUrijava.lang.String:
+uidjava.lang.String:
+pwdjava.lang.StringB+)
+'org.exist.security.XmldbApiSecurityTest

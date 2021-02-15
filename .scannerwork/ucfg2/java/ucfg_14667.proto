@@ -1,0 +1,36 @@
+
+]org.exist.xmldb.RemoteCollection#getChildCollection(Ljava/lang/String;)Ljava/util/Collection;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŒ Œ(("startingBlock*Õ
+3b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŽ Ž(B"l
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŽ Ž(B
+
+%0*Â
+startingBlockb
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŒ( Œ(;­
+ª
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java‹ ‹(
+%1"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String—
+”
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŒ6 Œ(:
+namejava.lang.String"__annotation*
+
+%1*
+4*‘
+4b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŽ Ž(A¢Ÿ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaŽ Ž(A
+%0"]org.exist.xmldb.RemoteCollection#getChildCollection(Ljava/lang/String;)Ljava/util/Collection;*$"
+ org.exist.xmldb.RemoteCollection*
+""2&getChildCollection(Ljava/lang/String;)*
+3:
+namejava.lang.StringB$"
+ org.exist.xmldb.RemoteCollection

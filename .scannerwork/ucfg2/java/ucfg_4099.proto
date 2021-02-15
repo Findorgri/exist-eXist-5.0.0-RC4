@@ -1,0 +1,49 @@
+
+Worg.exist.storage.journal.AbstractJournalTest$ExpectedStart#equals(Ljava/lang/Object;)Zt
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaª ª("startingBlock*ù
+2t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java¬D ¬(I"~
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java¬= ¬(J
+""*ç
+3t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java¬ ¬(ãà
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java¬ ¬()
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+2
+1*ø
+startingBlockt
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaª ª(-¼
+¹
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java© ©(
+%1"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object¦
+£
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaª+ ª(,
+ojava.lang.Object"__annotation*
+
+%1*	
+2
+3
+5*ù
+5t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java«" «(&"~
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java« «('
+""*ù
+1t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java®- ®(."~
+t
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.java° °(7
+"":
+ojava.lang.ObjectB?=
+;org.exist.storage.journal.AbstractJournalTest$ExpectedStart

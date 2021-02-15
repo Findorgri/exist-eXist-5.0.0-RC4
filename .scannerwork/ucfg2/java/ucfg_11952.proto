@@ -1,0 +1,50 @@
+
+Jorg.exist.collections.CollectionConfiguration#toString()Ljava/lang/String;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.java÷ ÷("3*‰
+2o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaú ú(
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaú ú(/
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+resultjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)ú
+÷
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaú7 ú([
+%3java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator*
+1*­
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaø% ø(8¬©
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaø) ø(6
+%0java.lang.StringBuilder"java.lang.StringBuilder¾
+»
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaø% ø(8
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder¾
+»
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaø ø(9!
+resultjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+2
+1*ø
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaü ü(óğ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaü ü( 
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+resultjava.lang.StringBuilder2
+toString()"‹
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaü ü(!
+
+%4java.lang.StringB1/
+-org.exist.collections.CollectionConfiguration

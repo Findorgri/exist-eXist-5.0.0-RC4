@@ -1,0 +1,16 @@
+
+@org.exist.util.hashtable.ObjectHashSet#hash(Ljava/lang/Object;)Ih
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/ObjectHashSet.java¾ ¾("1*Ÿ
+1h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/ObjectHashSet.java¿ ¿(»¸
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/ObjectHashSet.java¿ ¿(	
+%0int"java.lang.Object#hashCode()I*
+
+ojava.lang.Object2
+hashCode()"r
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/hashtable/ObjectHashSet.java¿ ¿(
+"":
+ojava.lang.ObjectB*"(
+&org.exist.util.hashtable.ObjectHashSet

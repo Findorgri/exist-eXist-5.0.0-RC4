@@ -1,0 +1,9 @@
+
+Korg.exist.xquery.modules.mail.MailModule#getDescription()Ljava/lang/String;{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/MailModule.javav v( "1*µ
+1{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/MailModule.javaw w(@"²
+{
+qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/MailModule.javaw w(A31
+/A module for performing email related functionsB,*
+(org.exist.xquery.modules.mail.MailModule

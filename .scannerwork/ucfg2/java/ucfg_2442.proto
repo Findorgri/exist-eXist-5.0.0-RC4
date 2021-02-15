@@ -1,0 +1,27 @@
+
+Zorg.exist.xmldb.LocalXUpdateQueryService#getProperty(Ljava/lang/String;)Ljava/lang/String;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.javaŠ Š("startingBlock*Ú
+startingBlockj
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.javaŠ Š(0µ
+²
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java‰ ‰(
+%0"
+__annotate*
+java.lang.Override*
+
+namejava.lang.StringŸ
+œ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.javaŠ+ Š(/
+namejava.lang.String"__annotation*
+
+%0*
+1*å
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java‹ ‹("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXUpdateQueryService.java‹ ‹(
+"":
+namejava.lang.StringB,*
+(org.exist.xmldb.LocalXUpdateQueryService

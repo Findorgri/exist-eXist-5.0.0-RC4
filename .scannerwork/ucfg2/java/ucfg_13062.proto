@@ -1,0 +1,60 @@
+
+Vorg.exist.xquery.XQueryContext#getModuleLocation(Ljava/lang/String;)Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaö ö(#"startingBlock*’
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaö# ö(>»
+¸
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaô ô("
+%3"
+__annotate*
+java.lang.SuppressWarnings*"
+ 
+namespaceURIjava.lang.String³
+°
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaõ õ(
+%4"
+__annotate*
+java.lang.Override*"
+ 
+namespaceURIjava.lang.String¥
+¢
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaö1 ö(= 
+namespaceURIjava.lang.String"__annotation*
+
+%3*
+
+%4*
+1*¤
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaø ø(ÒÏ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaø ø(!
+%0"4org.exist.xquery.XQueryContext#getBroker()LDBBroker;*" 
+org.exist.xquery.XQueryContext2getBroker()‹
+ˆ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaøA ø([
+%1java.lang.String"__id*
+""
+Œ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java÷ ø(]
+	moduleMapjava.util.Map"__id*
+""É
+Æ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaù ù(*
+%2java.lang.String"__mapGet*
+
+	moduleMapjava.util.Map*"
+ 
+namespaceURIjava.lang.String"|
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaù ù(+
+
+%2java.lang.String: 
+namespaceURIjava.lang.StringB" 
+org.exist.xquery.XQueryContext

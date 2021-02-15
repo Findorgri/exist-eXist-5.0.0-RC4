@@ -1,0 +1,43 @@
+
+Jorg.exist.storage.io.AbstractVariableByteInput#readUTF()Ljava/lang/String;n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaT T("1*‡
+1n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaU U(¯ı
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaU U(!	
+%0int"9org.exist.storage.io.AbstractVariableByteInput#readInt()I*20
+.org.exist.storage.io.AbstractVariableByteInput2	readInt()ë
+é
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaV V(*
+databyte[]"__id*
+""àÖ
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaX X(	
+%1int"8org.exist.storage.io.AbstractVariableByteInput#read([B)I*20
+.org.exist.storage.io.AbstractVariableByteInput*
+
+databyte[]2read([B)°
+û
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaZ  Z(%
+%2java.nio.charset.Charset"__id*
+""ùö
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaZ Z(
+%3java.lang.String"java.lang.Stringˇ
+¸
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaZ Z(&
+%4"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%3java.lang.String*
+
+databyte[]* 
+
+%2java.nio.charset.Charset"ä
+n
+dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/io/AbstractVariableByteInput.javaZ Z('
+
+%3java.lang.StringB20
+.org.exist.storage.io.AbstractVariableByteInput

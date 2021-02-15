@@ -1,0 +1,21 @@
+
+Gorg.exist.xmldb.AbstractRemoteResource#readFile(Ljava/nio/file/Path;)[Bh
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javañ ñ("5*é
+4h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaô ô(,"z
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaô ô(,
+
+%0byte[]*á
+5h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaô ô(ì
+é
+h
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaô ô(+
+%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+filejava.nio.file.Path*
+4:
+filejava.nio.file.PathB*(
+&org.exist.xmldb.AbstractRemoteResource

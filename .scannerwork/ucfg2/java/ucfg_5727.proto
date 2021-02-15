@@ -1,0 +1,66 @@
+
+6null#newThread(Ljava/lang/Runnable;)Ljava/lang/Thread;j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaO O(#"startingBlock*ÿ
+startingBlockj
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaO# O(5¥
+±
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaN N(
+%6"
+__annotate*
+java.lang.Override*
+
+rjava.lang.Runnableû
+õ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaO3 O(4
+rjava.lang.Runnable"__annotation*
+
+%6*
+1*‰
+1j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP" P(#†
+ù
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP% P(:
+%0java.lang.String"__concat*
+""*
+-Â
+‚
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP= P(D/
+%1)java.util.concurrent.atomic.AtomicInteger"__id*=*;.
+,Lorg/exist/collections/ConcurrencyTest$2993;"	
+counter˛˚
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP= P(V	
+%2int"<java.util.concurrent.atomic.AtomicInteger#getAndIncrement()I*1
+/
+%1)java.util.concurrent.atomic.AtomicInteger2getAndIncrement()∏
+µ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP% P(V
+%3java.lang.String"__concat*
+
+%0java.lang.String*
+	
+%2intôñ
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP P(!
+%4java.lang.Thread"java.lang.ThreadÜ
+É
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP P(W
+%5"@java.lang.Thread#<init>(Ljava/lang/Runnable;Ljava/lang/String;)V*
+
+%4java.lang.Thread*
+
+rjava.lang.Runnable*
+
+%3java.lang.String"Ü
+j
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/collections/ConcurrencyTest.javaP P(X
+
+%4java.lang.Thread:
+rjava.lang.RunnableB0.
+,Lorg/exist/collections/ConcurrencyTest$2993;

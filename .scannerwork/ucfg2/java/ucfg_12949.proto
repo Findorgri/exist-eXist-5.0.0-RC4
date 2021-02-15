@@ -1,0 +1,42 @@
+
+<org.exist.source.BinarySource#getContent()Ljava/lang/String;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java6 6("1*é
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java7 7(Á
+¾
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java7 7(
+
+%0void".org.exist.source.BinarySource#checkEncoding()V*!
+org.exist.source.BinarySource£
+ 
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java8 8(
+%1byte[]"__id*+*)
+org.exist.source.BinarySource"
+data±
+®
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java8  8((
+%2java.lang.String"__id*/*-
+org.exist.source.BinarySource"
+
+encodingŒ‰
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java8 8(
+%3java.lang.String"java.lang.StringÜ
+Ù
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java8 8()
+%4".java.lang.String#<init>([BLjava/lang/String;)V*
+
+%3java.lang.String*
+
+%1byte[]*
+
+%2java.lang.String"y
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/BinarySource.java8 8(*
+
+%3java.lang.StringB!
+org.exist.source.BinarySource

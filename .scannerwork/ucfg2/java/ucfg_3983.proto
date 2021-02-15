@@ -1,0 +1,37 @@
+
+korg.exist.xquery.value.TimeUtils#newXMLGregorianCalendar(IIIIIIII)Ljavax/xml/datatype/XMLGregorianCalendar;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaé  é(7"1*„
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaè è( 
+«
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaè è((
+%0"javax.xml.datatype.DatatypeFactory"__id*1*/"
+ org.exist.xquery.value.TimeUtils"	
+factoryîë
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaè ê(-
+%1'javax.xml.datatype.XMLGregorianCalendar"mjavax.xml.datatype.DatatypeFactory#newXMLGregorianCalendar(IIIIIIII)Ljavax/xml/datatype/XMLGregorianCalendar;**
+(
+%0"javax.xml.datatype.DatatypeFactory*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2!newXMLGregorianCalendar(IIIIIIII)"ï
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaè ê(/
+-
+%1'javax.xml.datatype.XMLGregorianCalendar:
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B$"
+ org.exist.xquery.value.TimeUtils

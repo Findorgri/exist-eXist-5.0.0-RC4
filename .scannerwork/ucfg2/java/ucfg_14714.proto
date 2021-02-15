@@ -1,0 +1,30 @@
+
+Corg.exist.util.Occurrences#compareTo(Lorg/exist/util/Occurrences;)IZ
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Occurrences.javaS S("1*¡
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Occurrences.javaT	 T(«
+¨
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Occurrences.javaT	 T(
+%0java.lang.Comparable"__id*(*&
+org.exist.util.Occurrences"
+term®
+«
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Occurrences.javaT T(
+%1java.lang.Comparable"__id*+*)
+
+oorg.exist.util.Occurrences"
+termú÷
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Occurrences.javaT	 T(	
+%2int"3java.lang.Comparable#compareTo(Ljava/lang/Object;)I*
+
+%0java.lang.Comparable*
+
+%1java.lang.Comparable2compareTo(Ljava/lang/Object;)"d
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Occurrences.javaT T( 
+"":
+oorg.exist.util.OccurrencesB
+org.exist.util.Occurrences

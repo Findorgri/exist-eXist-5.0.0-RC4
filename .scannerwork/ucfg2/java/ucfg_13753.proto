@@ -1,0 +1,57 @@
+
+=org.exist.storage.index.FreeList#toString()Ljava/lang/String;b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaÑ Ñ("4*è
+2b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaà à(òï
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaà à(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+[2append(Ljava/lang/String;)ˇ¸
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaà à(-
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+%2java.lang.StringBuilder*
+""2append(Ljava/lang/Object;)Ä˝
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaâ â(!
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+2
+1*ˆ
+4b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaÖ" Ö(5üú
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaÖ& Ö(3
+%0java.lang.StringBuilder"java.lang.StringBuilder±
+Æ
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaÖ" Ö(5
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderÆ
+´
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaÖ Ö(6
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+2
+1*Õ
+1b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaå å(„‡
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaå å(
+%5java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"~
+b
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/FreeList.javaå å(
+
+%5java.lang.StringB$"
+ org.exist.storage.index.FreeList

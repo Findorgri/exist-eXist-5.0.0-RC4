@@ -1,0 +1,50 @@
+
+:org.exist.source.FileSource#getContent()Ljava/lang/String;[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaw w("1*×
+
+1[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javax x(»
+¸
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javax x(
+
+%0void",org.exist.source.FileSource#checkEncoding()V*
+org.exist.source.FileSource«
+¨
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javay- y(1
+%1java.nio.file.Path"__id*)*'
+org.exist.source.FileSource"
+pathÝ
+Ú
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javay y(2
+%2byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+%1java.nio.file.Pathµ
+²
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javay4 y(<
+%3java.nio.charset.Charset"__id*-*+
+org.exist.source.FileSource"
+
+encodingŠ‡
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javay y(
+%4java.lang.String"java.lang.Stringê
+ç
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javay y(=
+%5"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%4java.lang.String*
+
+%2byte[]* 
+
+%3java.nio.charset.Charset"w
+[
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javay y(>
+
+%4java.lang.StringB
+org.exist.source.FileSource

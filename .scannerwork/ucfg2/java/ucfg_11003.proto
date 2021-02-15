@@ -1,0 +1,16 @@
+
+?org.exist.webdav.ExistResource#getOwnerUser()Ljava/lang/String;p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javaa a("1*Í
+1p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javab b(Æ
+Ã
+p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javab b(
+%0java.lang.String"__id*1*/ 
+org.exist.webdav.ExistResource"
+	ownerUser"Œ
+p
+fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.javab b(
+
+%0java.lang.StringB" 
+org.exist.webdav.ExistResource

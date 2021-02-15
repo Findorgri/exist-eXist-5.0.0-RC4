@@ -1,0 +1,28 @@
+
+jorg.exist.security.internal.RealmImpl#findUsernamesWhereUsernameStarts(Ljava/lang/String;)Ljava/util/List;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaƒ ƒ(8"startingBlock*Õ
+startingBlockg
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaƒ8 ƒ(M´
+±
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java‚ ‚(
+%0"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.Stringž
+›
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaƒF ƒ(L
+prefixjava.lang.String"__annotation*
+
+%0*
+1*ß
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java„ „("q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java„ ‰(
+
+"":
+prefixjava.lang.StringB)'
+%org.exist.security.internal.RealmImpl

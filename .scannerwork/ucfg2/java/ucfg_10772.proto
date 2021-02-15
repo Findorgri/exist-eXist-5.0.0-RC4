@@ -1,0 +1,48 @@
+
+Oorg.exist.backup.ZipArchiveBackupDescriptor#getSymbolicPath()Ljava/lang/String;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaŸ Ÿ(!"1*‡
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java   (Ó
+Ð
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java   (
+%0java.util.zip.ZipFile"__id*<*:-
++org.exist.backup.ZipArchiveBackupDescriptor"	
+archiveçä
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java   ( 
+%1java.lang.String"1java.util.zip.ZipFile#getName()Ljava/lang/String;*
+
+%0java.util.zip.ZipFile2	getName()µ
+²
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java   (&
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+#×
+Ô
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java )  (3
+%3java.util.zip.ZipEntry"__id*?*=-
++org.exist.backup.ZipArchiveBackupDescriptor"
+
+descriptoréæ
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java )  (=
+%4java.lang.String"2java.util.zip.ZipEntry#getName()Ljava/lang/String;*
+
+%3java.util.zip.ZipEntry2	getName()È
+Å
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java   (=
+%5java.lang.String"__concat*
+
+%2java.lang.String*
+
+%4java.lang.String"‰
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java   (>
+
+%5java.lang.StringB/-
++org.exist.backup.ZipArchiveBackupDescriptor

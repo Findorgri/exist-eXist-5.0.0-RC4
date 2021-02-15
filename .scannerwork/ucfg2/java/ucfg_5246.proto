@@ -1,0 +1,71 @@
+
+Torg.exist.xquery.ModuleContext#getURIForPrefix(Ljava/lang/String;)Ljava/lang/String;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¡ ¡(!"startingBlock*ä
+2`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java© ©("}
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java© ©(
+
+urijava.lang.String*×
+3`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java§ §(#ÆÃ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java§ §(+
+%1java.lang.String"Zorg.exist.xquery.ModuleContext#getInheritedNamespace(Ljava/lang/String;)Ljava/lang/String;*" 
+org.exist.xquery.ModuleContext*
+
+prefixjava.lang.String2)getInheritedNamespace(Ljava/lang/String;)ž
+›
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java§ §(+
+urijava.lang.String"__id*
+
+%1java.lang.String*
+2
+1*À
+startingBlock`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¡! ¡(6­
+ª
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java   (
+%2"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.String—
+”
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¡/ ¡(5
+prefixjava.lang.String"__annotation*
+
+%2*
+5*ä
+4`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¤ ¤("}
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¤ ¤(
+
+urijava.lang.String*Ó
+5`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¢ ¢((Â¿
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¢ ¢(0
+%0java.lang.String"Xorg.exist.xquery.ModuleContext#getInScopeNamespace(Ljava/lang/String;)Ljava/lang/String;*" 
+org.exist.xquery.ModuleContext*
+
+prefixjava.lang.String2'getInScopeNamespace(Ljava/lang/String;)ž
+›
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¢ ¢(1
+urijava.lang.String"__id*
+
+%0java.lang.String*
+3
+4*Ñ
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¬ ¬("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¬ ¬(,
+"":
+prefixjava.lang.StringB" 
+org.exist.xquery.ModuleContext

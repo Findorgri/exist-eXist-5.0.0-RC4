@@ -1,0 +1,27 @@
+
+Eorg.exist.security.EffectiveSubject#authenticate(Ljava/lang/Object;)Zc
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.javaQ Q("startingBlock*Ó
+startingBlockc
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.javaQ Q(9µ
+²
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.javaP P(
+%0"
+__annotate*
+java.lang.Override*!
+
+credentialsjava.lang.ObjectŸ
+œ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.javaQ- Q(8
+credentialsjava.lang.Object"__annotation*
+
+%0*
+1*×
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.javaR R("m
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EffectiveSubject.javaR R(
+"":
+credentialsjava.lang.ObjectB'%
+#org.exist.security.EffectiveSubject

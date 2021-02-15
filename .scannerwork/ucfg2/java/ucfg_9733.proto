@@ -1,0 +1,142 @@
+
+Forg.exist.xquery.value.StringValue#getStringValue(Z)Ljava/lang/String;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaì ì( "8"1*÷
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java§ §(Ê„
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java§ §(!
+%15java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"Å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java§ §("
+
+%15java.lang.String*Î
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java† †(˙˜
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java† †("
+%14java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2	append(C)*
+7*±
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaõ) õ(0∫
+∑
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaõB õ(G
+%8java.lang.String"__id*1*/$
+"org.exist.xquery.value.StringValue"
+valueøº
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaõB õ(S
+
+%9char"java.lang.String#charAt(I)C*
+
+%8java.lang.String*
+""2	charAt(I)úô
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaú ú($
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+&#2append(Ljava/lang/String;)“
+œ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaù ù(9
+%11java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+""Ø¨
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaù ù(:
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+%11java.lang.String2append(Ljava/lang/String;)õò
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaû û(#
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+;2append(Ljava/lang/String;)*
+7*
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaò ò(∫
+∑
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaò ò(
+%6java.lang.String"__id*1*/$
+"org.exist.xquery.value.StringValue"
+valueøº
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaò ò($
+
+%7char"java.lang.String#charAt(I)C*
+
+%6java.lang.String*
+""2	charAt(I)*
+4
+5*Â
+7d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaó ó(∫
+∑
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaó  ó(%
+%4java.lang.String"__id*1*/$
+"org.exist.xquery.value.StringValue"
+value¥±
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaó  ó(.	
+%5int"java.lang.String#length()I*
+
+%4java.lang.String2length()*
+2
+6*˝
+8d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaï8 ï(=∫
+∑
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaï8 ï(=
+%0java.lang.String"__id*1*/$
+"org.exist.xquery.value.StringValue"
+value¥±
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaï8 ï(F	
+%1int"java.lang.String#length()I*
+
+%0java.lang.String2length()°û
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaï* ï(7
+%2java.lang.StringBuilder"java.lang.StringBuilder¡
+æ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaï& ï(G
+%3""java.lang.StringBuilder#<init>(I)V*
+
+%2java.lang.StringBuilder*
+	
+%1int∞
+≠
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.javaï ï(H
+bufjava.lang.StringBuilder"__id*
+
+%2java.lang.StringBuilder*
+7*´
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java¶ ¶(ª
+∏
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java¶ ¶(
+%16java.lang.String"__id*1*/$
+"org.exist.xquery.value.StringValue"
+value"Å
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java¶ ¶(
+
+%16java.lang.String:
+""B&$
+"org.exist.xquery.value.StringValue

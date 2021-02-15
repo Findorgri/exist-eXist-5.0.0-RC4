@@ -1,0 +1,27 @@
+
+`org.exist.http.servlets.HttpRequestWrapper#getHeaders(Ljava/lang/String;)Ljava/util/Enumeration;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaç ç(!"startingBlock*à
+startingBlockl
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaç! ç(.·
+´
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaæ æ(
+%0"
+__annotate*
+java.lang.Override*
+
+arg0java.lang.String¡
+ž
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaç) ç(-
+arg0java.lang.String"__annotation*
+
+%0*
+1*é
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaè è("v
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaè è(/
+"":
+arg0java.lang.StringB.,
+*org.exist.http.servlets.HttpRequestWrapper

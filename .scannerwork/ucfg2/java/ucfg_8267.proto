@@ -1,0 +1,76 @@
+
+Morg.exist.backup.ZipWriter#newEntry(Ljava/lang/String;)Ljava/io/OutputStream;Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaN N( "1* 
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP- P(7®
+«
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP9 P(D
+%0java.lang.String"__id*/*-
+org.exist.backup.ZipWriter"
+currentPathþ
+û
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP- P(F
+%1java.lang.String"Korg.exist.backup.ZipWriter#mkRelative(Ljava/lang/String;)Ljava/lang/String;*
+org.exist.backup.ZipWriter*
+
+%0java.lang.String¢
+Ÿ
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP- P(L
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+/·
+´
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP- P(S
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+namejava.lang.String•’
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP# P(+
+%4java.util.zip.ZipEntry"java.util.zip.ZipEntryÓ
+Ð
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP P(U
+%5"2java.util.zip.ZipEntry#<init>(Ljava/lang/String;)V*
+
+%4java.util.zip.ZipEntry*
+
+%3java.lang.String¦
+£
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaP P(V
+entryjava.util.zip.ZipEntry"__id*
+
+%4java.util.zip.ZipEntry³
+°
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaQ Q(#
+%6java.util.zip.ZipOutputStream"__id*'*%
+org.exist.backup.ZipWriter"
+out¤¡
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaQ Q(!
+
+%7void"Ejava.util.zip.ZipOutputStream#putNextEntry(Ljava/util/zip/ZipEntry;)V*%
+#
+%6java.util.zip.ZipOutputStream*!
+
+entryjava.util.zip.ZipEntry2&putNextEntry(Ljava/util/zip/ZipEntry;)³
+°
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaS S(#
+%8java.util.zip.ZipOutputStream"__id*'*%
+org.exist.backup.ZipWriter"
+out"ƒ
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.javaS S(%
+#
+%8java.util.zip.ZipOutputStream:
+namejava.lang.StringB
+org.exist.backup.ZipWriter

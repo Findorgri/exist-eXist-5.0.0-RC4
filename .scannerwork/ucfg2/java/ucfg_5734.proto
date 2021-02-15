@@ -1,0 +1,117 @@
+
+^org.exist.util.CompressedWhitespace#compress(Ljava/lang/CharSequence;)Ljava/lang/CharSequence;c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java ('"30*Ç
+24c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java'$ '(%ÊÇ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java') '(7
+
+%3char"!java.lang.CharSequence#charAt(I)C*
+
+injava.lang.CharSequence*
+""2	charAt(I)*
+26
+15
+21
+1*Ã
+14c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java9  9(!ÊÇ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java9% 9(3
+
+%5char"!java.lang.CharSequence#charAt(I)C*
+
+injava.lang.CharSequence*
+""2	charAt(I)*
+15
+12
+1*À
+15c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java8 8(ÊÇ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java8 8('
+
+%4char"!java.lang.CharSequence#charAt(I)C*
+
+injava.lang.CharSequence*
+""2	charAt(I)*
+14
+12*„
+26c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java% %(ÊÇ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java% %('
+
+%1char"!java.lang.CharSequence#charAt(I)C*
+
+injava.lang.CharSequence*
+""2	charAt(I)²¯
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java& &(&	
+%2int"java.lang.String#indexOf(I)I*	
+\t\n\r *
+""2
+indexOf(I)*
+24
+26
+15
+19
+21
+1*ñ
+29c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java   ("…
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java   (
+
+injava.lang.CharSequence*ñ
+19c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java1 1("…
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java1 1(
+
+injava.lang.CharSequence*¼
+30c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java (¿¼
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java (%	
+%0int" java.lang.CharSequence#length()I*
+
+injava.lang.CharSequence2length()*
+26
+15
+29
+1*ñ
+21c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java+ +(!"…
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java+ +("
+
+injava.lang.CharSequence*§
+12c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java:# :(,²¯
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.java:" :(8	
+%6int"java.lang.String#indexOf(I)I*	
+\t\n\r *
+""2
+indexOf(I)*
+15
+1*Ž
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.javaH( H(-¸µ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.javaH H(')
+%7#org.exist.util.CompressedWhitespace"#org.exist.util.CompressedWhitespaceÓ
+Ð
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.javaH H(.
+%8".org.exist.util.CompressedWhitespace#<init>(J)V*+
+)
+%7#org.exist.util.CompressedWhitespace*
+"""’
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/CompressedWhitespace.javaH H(/+
+)
+%7#org.exist.util.CompressedWhitespace:
+injava.lang.CharSequenceB'"%
+#org.exist.util.CompressedWhitespace

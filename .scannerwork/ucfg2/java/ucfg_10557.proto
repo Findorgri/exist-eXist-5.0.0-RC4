@@ -1,0 +1,38 @@
+
+_org.exist.management.impl.SanityReport#getName(Ljava/lang/String;)Ljavax/management/ObjectName;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaU U($"1*™
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaV V(5 
+«
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaV V(B
+%0java.lang.String"__concat*
+org.exist.management.* 
+
+
+instanceIdjava.lang.String≈
+¬
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaV V(_
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+.tasks:type=SanityReport´®
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaV V(!
+%2javax.management.ObjectName"javax.management.ObjectNameÈ
+Ê
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaV V(`
+%3"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
+!
+%2javax.management.ObjectName*
+
+%1java.lang.String"ç
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaV V(a#
+!
+%2javax.management.ObjectName:
+
+instanceIdjava.lang.StringB*"(
+&org.exist.management.impl.SanityReport

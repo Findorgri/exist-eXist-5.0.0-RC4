@@ -1,0 +1,621 @@
+
+Aorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter#format()Vo
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java· ·("55*Õ
+46o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÉ Ü(Q–
+Õ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÖ( Ü(O
+%16java.lang.String"__concat*ìê
+çA sub-picture must not contain a passive character that is preceded by an active character and that is followed by another active character. *!
+Found at optional-digit-sign.*
+0*á
+13o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÎ$ Î(&è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÎ* Î(6
+%54char"__id*
+""è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÏ+ Ï(9
+%55char"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÔ! Ô(8I
+%56Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÚ! Ú(,I
+%57Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÛ! Û(+I
+%58Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÙ! Ù(6I
+%59Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaı! ı(7I
+%60Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaˆ! ˆ(5I
+%61Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""*
+14
+15
+50*≤
+24o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java—% —()Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java“( “(2I
+%39Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java“( “(HI
+%40Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""î
+ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java“  “(HK
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*K
+I
+%40Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase*
+50*≤
+47o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˝ Å(&Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÄ( Ä(2I
+%14Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÄ( Ä(II
+%15Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""î
+ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÄ  Ä(IK
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*K
+I
+%15Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase*
+50*â
+14o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÚ ˘(&Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˜( ˜(2I
+%50Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˜( ˜(GI
+%51Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""î
+ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˜  ˜(GK
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*K
+I
+%51Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase‹
+Ÿ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java¯  ¯(&
+%52java.lang.String"__id*G*E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+suffix®
+•
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java¯  ¯(,
+%53"__concat*
+
+%52java.lang.String*
+"" 
+«
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java¯  ¯(,E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+suffix"__id*
+
+%53*
+50*“
+15o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÔ Ò(&‹
+Ÿ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java  (&
+%48java.lang.String"__id*G*E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+prefix®
+•
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java  (,
+%49"__concat*
+
+%48java.lang.String*
+"" 
+«
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java  (,E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+prefix"__id*
+
+%49*
+50*≤
+49o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÛ ˜(&Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaˆ( ˆ(2I
+%12Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaˆ( ˆ(JI
+%13Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""î
+ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaˆ  ˆ(JK
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*K
+I
+%13Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase*
+50*Ê
+
+39o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaã •(Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaé! é(8I
+%26Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaè! è(,I
+%27Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaê! ê(+I
+%28Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javañ! ñ(6I
+%29Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaõ! õ(7I
+%30Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaü! ü(5I
+%31Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""*
+50
+40
+43
+0*ﬂ
+
+28o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaß ≈(Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java™! ™(8I
+%33Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java´! ´(,I
+%34Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java¨! ¨(+I
+%35Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaµ! µ(6I
+%36Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java∂! ∂(7I
+%37Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaø! ø(5I
+%38Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""*
+29
+50*—
+29o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaø ¬(U‘
+—
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java¡( ¬(S
+%32java.lang.String"__concat*ìê
+çA sub-picture must not contain a passive character that is preceded by an active character and that is followed by another active character. *%#
+!Found at grouping-separator-sign.*
+0*é
+0 "Ü
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java¢ ¢(	
+implicit return*´
+5o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÌ  Ì('›
+⁄
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÌ  Ì('
+%74java.lang.String"__id*H*F9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"	
+pictureÃ…
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÌ  Ì(1
+%75char"java.lang.String#charAt(I)C*
+
+%74java.lang.String*
+""2	charAt(I)è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java (,
+%76char"__id*
+""è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaã ã(-
+%77char"__id*
+""è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaß ß(0
+%78char"__id*
+""è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java« «(/
+%79char"__id*
+""è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‰ ‰(%
+%80char"__id*
+""è
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÂ Â('
+%81char"__id*
+""*
+13
+28
+39
+7
+20
+0
+45*·
+
+7o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˛ ë(Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÅ! Å(8I
+%68Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÑ! Ñ(,I
+%69Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÖ! Ö(+I
+%70Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÜ! Ü(6I
+%71Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaá! á(7I
+%72Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaà! à(5I
+%73Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""*
+8
+50
+11*à
+8o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaç  ç(&‹
+Ÿ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaç  ç(&
+%64java.lang.String"__id*G*E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+suffix®
+•
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaç  ç(,
+%65"__concat*
+
+%64java.lang.String*
+"" 
+«
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaç  ç(,E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+suffix"__id*
+
+%65Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaé( é(2I
+%66Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaé( é(GI
+%67Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""î
+ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaé  é(GK
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*K
+I
+%67Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase*
+50*°
+50o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÏ Ï(›
+⁄
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÏ  Ï('
+%10java.lang.String"__id*H*F9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"	
+picture¡æ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÏ  Ï(0
+
+%11int"java.lang.String#length()I*
+
+%10java.lang.String2length()*
+5
+0*Œ
+40o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaü ¢(R—
+Œ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java°( ¢(P
+%25java.lang.String"__concat*ìê
+çA sub-picture must not contain a passive character that is preceded by an active character and that is followed by another active character. *" 
+Found at mandatory-digit-sign.*
+0*Ø
+51o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÁ Á(Ã
+…
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÍ Í()H
+%8Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Ã
+…
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÍ Í(AH
+%9Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""ì
+ê
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÍ Í(BK
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*J
+H
+%9Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase*
+50*Ê
+
+20o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java« ‚(Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java !  (8I
+%42Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÀ! À(,I
+%43Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÃ! Ã(+I
+%44Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java’! ’(6I
+%45Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java÷! ÷(7I
+%46Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java◊! ◊(5I
+%47Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""*
+24
+50
+21
+0*≤
+43o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaé î(&Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaì( ì(2I
+%23Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaì( ì(=I
+%24Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""î
+ë
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaì  ì(=K
+phaseBorg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*K
+I
+%24Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase*
+50*Ê
+54o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚K ‚(R‹
+Ÿ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚K ‚(R
+%4java.lang.String"__id*H*F9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"	
+pictureé
+ã
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚k ‚(
+
+%5char"__id*
+""‡
+›
+p
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚\ ‚(Ä
+%6java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+
+
+%5charíè
+p
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚K ‚(Å
+%7boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%4java.lang.String*
+
+%6java.lang.String2"contains(Ljava/lang/CharSequence;)*
+51
+0*–
+21o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java›9 ›(C”
+–
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaﬁ( ﬂ(R
+%41java.lang.String"__concat*ìê
+çA sub-picture must not contain a passive character that is preceded by an active character and that is followed by another active character. *$"
+ Found at decimal-separator-sign.*
+0*Ë
+55o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚ ‚(‹
+Ÿ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚ ‚(
+%0java.lang.String"__id*H*F9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"	
+pictureé
+ã
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚2 ‚(E
+
+%1char"__id*
+""ﬂ
+‹
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚# ‚(F
+%2java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+
+
+%1charëé
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java‚ ‚(G
+%3boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%0java.lang.String*
+
+%2java.lang.String2"contains(Ljava/lang/CharSequence;)*
+51
+54
+0*“
+11o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÅ É(&‹
+Ÿ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÇ  Ç(&
+%62java.lang.String"__id*G*E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+prefix®
+•
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÇ  Ç(,
+%63"__concat*
+
+%62java.lang.String*
+"" 
+«
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÇ  Ç(,E9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter"
+prefix"__id*
+
+%63*
+50*Í
+
+45o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java â(Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÛ! Û(8I
+%17Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÙ! Ù(,I
+%18Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˘! ˘(+I
+%19Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˝! ˝(6I
+%20Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.java˛! ˛(7I
+%21Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""Õ
+ 
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatNumbers.javaÉ! É(5I
+%22Borg.exist.xquery.functions.fn.FnFormatNumbers$Formatter$ParsePhase"__id*
+""*
+46
+47
+49
+50
+0B;9
+7org.exist.xquery.functions.fn.FnFormatNumbers$Formatter

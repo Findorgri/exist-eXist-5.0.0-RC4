@@ -1,0 +1,72 @@
+
+1org.exist.storage.statistics.NodeStats#getSize()If
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javaw w("7"8*ó
+3f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.java{ {(€
+ÿ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.java{ {(.
+%5(org.exist.storage.statistics.NodeStats[]"__id*8*6(
+&org.exist.storage.statistics.NodeStats"
+
+childrenﬂ
+‹
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.java{ {( ,
+%6&org.exist.storage.statistics.NodeStats"
+__arrayGet*0
+.
+%5(org.exist.storage.statistics.NodeStats[]*
+""‰·
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.java{ {(*	
+%7int"1org.exist.storage.statistics.NodeStats#getSize()I*.
+,
+%6&org.exist.storage.statistics.NodeStats2	getSize()*
+4*—
+4f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javaz z(€
+ÿ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javaz  z((.
+%4(org.exist.storage.statistics.NodeStats[]"__id*8*6(
+&org.exist.storage.statistics.NodeStats"
+
+children*
+3
+1*—
+6f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javax x(&€
+ÿ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javay y(.
+%3(org.exist.storage.statistics.NodeStats[]"__id*8*6(
+&org.exist.storage.statistics.NodeStats"
+
+children*
+4
+1*˜
+7f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javax$ x(%Ñ
+Å
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javax$ x(%
+%0"__id*
+	
+%2int*
+6*˜
+8f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javax  x(!Ñ
+Å
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.javax  x(!
+%0"__id*
+	
+%1int*
+6*›
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.java~ ~("p
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/NodeStats.java~ ~(
+""B*(
+&org.exist.storage.statistics.NodeStats

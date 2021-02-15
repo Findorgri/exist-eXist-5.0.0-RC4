@@ -1,0 +1,1859 @@
+
+Yorg.exist.util.Configuration#configureBackend(Ljava/util/Optional;Lorg/w3c/dom/Element;)V^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÄ Ä(!"172*€
+68^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(
+%110"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò7 ò(=
+%111java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configø
+º
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò7 ò(\
+%112java.lang.Object"__mapGet*
+
+%111java.util.HashMap*
+db-connection.buffers*
+67*…
+69^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaó ó(O‹
+Ÿ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaó ó(O
+%109java.lang.Object"__mapSet*
+
+%107java.util.HashMap*
+db-connection.buffers*
+
+%108java.lang.Integer*
+68*©
+170^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaä! ä(8¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaä! ä(^
+%6"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ê
+ç
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaä ä(_
+	dataFilesjava.lang.String"__id*
+
+%6*
+
+169
+161*ô
+171^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÖ Ö(∞
+≠
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÖ Ö(
+%1java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config≥
+∞
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÖ Ö(@
+%2"__mapSet*
+
+%1java.util.HashMap*
+""*
+
+mysqljava.lang.Stringv
+t
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÜ Ü(
+%3"__id*
+""∞
+≠
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÜ@ Ü(F
+%4java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configñ
+ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÜ@ Ü(m
+%5"__mapGet*
+
+%4java.util.HashMap*
+""*
+170*•
+172^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÇ Ç(4¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÇ Ç(\
+%0"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""å
+â
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÇ Ç(]
+mysqljava.lang.String"__id*
+
+%0*
+
+170
+171*ò
+70^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaó ó(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaó ó(
+%107java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configˆ
+Û
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaó5 ó(M
+%108java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+buffersjava.lang.String*
+69*—
+72^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(6ª
+∏
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(H
+%106java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*	
+buffers¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(I
+buffersjava.lang.String"__id*
+
+%106java.lang.String*
+70
+65*⁄
+73^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaé	 é(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaé	 é(
+%104java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config∏
+µ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaé	 é(<
+%105"__mapSet*
+
+%104java.util.HashMap*
+""*
+
+docIdsjava.lang.String*
+72*˛
+74^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaå å(!˚¯
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaå å(P
+%103"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*
+
+conorg.w3c.dom.Element*
+""2 getAttribute(Ljava/lang/String;)è
+å
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaå å(Q
+docIdsjava.lang.String"__id*
+
+%103*
+72
+73*µ
+77^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÑ Ñ(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÑ Ñ(
+%99"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÑE Ñ(K
+%100java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configö
+ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÑE Ñ(s
+%101"__mapGet*
+
+%100java.util.HashMap*
+""*
+74*°
+78^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÉ É(\¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÉ É(\
+%98"__mapSet*
+
+%96java.util.HashMap*
+""*
+
+%97java.lang.Integer*
+77*ö
+79^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÉ É(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÉ É(
+%96java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config˘
+ˆ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÉ> É(Z
+%97java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*!
+
+nodesBufferjava.lang.String*
+78*Ë
+100^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java⁄ ⁄(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java⁄ ⁄(
+%74"__id*
+""*
+95
+98*√
+101^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÿ ÿ(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÿ ÿ(
+%72java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÿ ÿ([
+%73"__mapSet*
+
+%72java.util.HashMap*
+""*
+""*
+100*Ï
+103^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java’+ ’(2˝
+˙
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java’+ ’(K
+%71java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*%
+#
+collectionCachejava.lang.String*
+101*‚
+105_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java”@ ”(ãÚ
+Ô
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java”@ ”(ã
+%70java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%69java.lang.String*
+101*‚
+106`
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java”à ”(âÒÓ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java”P ”(ä
+%69java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*%
+#
+collectionCachejava.lang.String*2 *
+""2substring(II)*
+105*¨
+107^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java”+ ”(/Ω∫
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java”m ”(Ö
+
+%68int"java.lang.String#length()I*%
+#
+collectionCachejava.lang.String2length()*
+106*™
+81^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˛# ˛(:£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˛# ˛(d
+%95"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ì
+ê
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˛ ˛(e
+nodesBufferjava.lang.String"__id*
+
+%95*
+79
+74*‰
+109^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java“ “()Ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java“ “(8
+%67boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*%
+#
+collectionCachejava.lang.String*
+gb2endsWith(Ljava/lang/String;)*
+
+103
+107*≥
+84^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜ ˜(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜ ˜(
+%91"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜N ˜(T
+%92java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configô
+ñ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜N ˜(Ö
+%93"__mapGet*
+
+%92java.util.HashMap*
+""*
+81*°
+85^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaˆ ˆ(g¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaˆ ˆ(g
+%90"__mapSet*
+
+%88java.util.HashMap*
+""*
+
+%89java.lang.Integer*
+84*ú
+86^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaˆ ˆ(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaˆ ˆ(
+%88java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config˚
+¯
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaˆG ˆ(e
+%89java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*#
+!
+collCacheSizejava.lang.String*
+85*¨
+88^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÒ% Ò(<£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÒ% Ò(o
+%87"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ï
+í
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÒ Ò(p!
+collCacheSizejava.lang.String"__id*
+
+%87*
+81
+86*‚
+111_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—@ —(ãÚ
+Ô
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—@ —(ã
+%66java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%65java.lang.String*
+101*‚
+112`
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—à —(âÒÓ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—P —(ä
+%65java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*%
+#
+collectionCachejava.lang.String*2 *
+""2substring(II)*
+111*¨
+113^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—+ —(/Ω∫
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—m —(Ö
+
+%64int"java.lang.String#length()I*%
+#
+collectionCachejava.lang.String2length()*
+112*„
+115^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java– –()ÔÏ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java– –(7
+%63boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*%
+#
+collectionCachejava.lang.String*
+g2endsWith(Ljava/lang/String;)*
+
+113
+109*‚
+117_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaœ9 œ(ÑÚ
+Ô
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaœ9 œ(Ñ
+%62java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%61java.lang.String*
+101*≤
+91^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈ È(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈ È(
+%83"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈB È(H
+%84java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configò
+ï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈB È(m
+%85"__mapGet*
+
+%84java.util.HashMap*
+""*
+88*‚
+118`
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaœÅ œ(ÇÒÓ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaœI œ(É
+%61java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*%
+#
+collectionCachejava.lang.String*2 *
+""2substring(II)*
+117*°
+92^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaË Ë(V¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaË Ë(V
+%82"__mapSet*
+
+%80java.util.HashMap*
+""*
+
+%81java.lang.Integer*
+91*´
+119^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaœ+ œ(/ºπ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaœf œ(~
+
+%60int"java.lang.String#length()I*%
+#
+collectionCachejava.lang.String2length()*
+118*ó
+93^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaË Ë(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaË Ë(
+%80java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configˆ
+Û
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaË; Ë(T
+%81java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+pageSizejava.lang.String*
+92*ß
+95^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java„  „(7£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java„  „(`
+%79"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ê
+ç
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java„ „(a
+pageSizejava.lang.String"__id*
+
+%79*
+93
+88*≥
+98^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java€ €(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java€ €(
+%75"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java€_ €(e
+%76java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configô
+ñ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java€_ €(î
+%77"__mapGet*
+
+%76java.util.HashMap*
+""*
+95*∆
+10^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java° °(·ﬁ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java°& °(9
+%199org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*%
+#
+startupConforg.w3c.dom.NodeList*2 2item(I)ˆ
+Û
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java° °(:
+%200void"Eorg.exist.util.Configuration#configureStartup(Lorg/w3c/dom/Element;)V* 
+org.exist.util.Configuration*
+
+%199org.w3c.dom.Node*
+8*‰
+11^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaü% ü((èå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaü% ü(l
+%197"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+conorg.w3c.dom.Element*
+""2(getElementsByTagName(Ljava/lang/String;)ò
+ï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaü ü(m#
+startupConforg.w3c.dom.NodeList"__id*
+
+%197«ƒ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java† †("
+%198int"!org.w3c.dom.NodeList#getLength()I*%
+#
+startupConforg.w3c.dom.NodeList2getLength()*
+9
+10*∂
+19^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaì ì(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaì ì(
+%189"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaìC ì(I
+%190java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configö
+ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaìC ì(s
+%191"__mapGet*
+
+%190java.util.HashMap*
+""*
+11*‰
+121^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaŒ Œ()Ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaŒ Œ(8
+%59boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*%
+#
+collectionCachejava.lang.String*
+mb2endsWith(Ljava/lang/String;)*
+
+115
+119*|
+0 "u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaø ø(
+implicit return*˘
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩ Ω(‡›
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩ0 Ω(D
+%219org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*$
+"
+
+recoveriesorg.w3c.dom.NodeList*2 2item(I)´
+®
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩ Ω(F
+%220void"Zorg.exist.util.Configuration#configureRecovery(Ljava/util/Optional;Lorg/w3c/dom/Element;)V* 
+org.exist.util.Configuration*
+
+dbHomejava.util.Optional*
+
+%219org.w3c.dom.Node*
+0*‚
+123_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕ9 Õ(ÑÚ
+Ô
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕ9 Õ(Ñ
+%58java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%57java.lang.String*
+101*‡
+2^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∫$ ∫('èå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∫$ ∫(n
+%217"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+conorg.w3c.dom.Element*
+""2(getElementsByTagName(Ljava/lang/String;)ó
+î
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∫ ∫(o"
+
+recoveriesorg.w3c.dom.NodeList"__id*
+
+%217∆√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaº º("
+%218int"!org.w3c.dom.NodeList#getLength()I*$
+"
+
+recoveriesorg.w3c.dom.NodeList2getLength()*
+0
+1*‚
+124`
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕÅ Õ(ÇÒÓ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕI Õ(É
+%57java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*%
+#
+collectionCachejava.lang.String*2 *
+""2substring(II)*
+123*ƒ
+3^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∑ ∑(ﬂ‹
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∑( ∑(;
+%215org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*#
+!
+	watchConforg.w3c.dom.NodeList*2 2item(I)˜
+Ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∑ ∑(=
+%216void"Forg.exist.util.Configuration#configureWatchdog(Lorg/w3c/dom/Element;)V* 
+org.exist.util.Configuration*
+
+%215org.w3c.dom.Node*
+2*´
+125^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕ+ Õ(/ºπ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕf Õ(~
+
+%56int"java.lang.String#length()I*%
+#
+collectionCachejava.lang.String2length()*
+124*ﬁ
+4^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¥# ¥(&èå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¥# ¥(h
+%213"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+conorg.w3c.dom.Element*
+""2(getElementsByTagName(Ljava/lang/String;)ñ
+ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¥ ¥(i!
+	watchConforg.w3c.dom.NodeList"__id*
+
+%213≈¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂ ∂(!
+%214int"!org.w3c.dom.NodeList#getLength()I*#
+!
+	watchConforg.w3c.dom.NodeList2getLength()*
+2
+3* 
+5^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java± ±(„‡
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java±* ±(A
+%211org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*'
+%
+queryPoolConforg.w3c.dom.NodeList*2 2item(I)˘
+ˆ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java± ±(C
+%212void"Horg.exist.util.Configuration#configureXQueryPool(Lorg/w3c/dom/Element;)V* 
+org.exist.util.Configuration*
+
+%211org.w3c.dom.Node*
+4*„
+127^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÃ Ã()ÔÏ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÃ Ã(7
+%55boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*%
+#
+collectionCachejava.lang.String*
+m2endsWith(Ljava/lang/String;)*
+
+125
+121*Ê
+6^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÆ' Æ(*èå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÆ' Æ(h
+%209"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+conorg.w3c.dom.Element*
+""2(getElementsByTagName(Ljava/lang/String;)ö
+ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÆ Æ(i%
+queryPoolConforg.w3c.dom.NodeList"__id*
+
+%209…∆
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∞ ∞(%
+%210int"!org.w3c.dom.NodeList#getLength()I*'
+%
+queryPoolConforg.w3c.dom.NodeList2getLength()*
+4
+5*ø
+7^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java´ ´(ﬁ€
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java´$ ´(6
+%207org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*"
+ 
+poolConforg.w3c.dom.NodeList*2 2item(I)Û
+
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java´ ´(8
+%208void"Borg.exist.util.Configuration#configurePool(Lorg/w3c/dom/Element;)V* 
+org.exist.util.Configuration*
+
+%207org.w3c.dom.Node*
+6*‡
+129^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÀ2 À(}Ò
+Ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÀ2 À(}
+%54java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%53java.lang.String*
+101*‹
+8^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java®" ®(%èå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java®" ®(h
+%205"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+conorg.w3c.dom.Element*
+""2(getElementsByTagName(Ljava/lang/String;)ï
+í
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java® ®(i 
+poolConforg.w3c.dom.NodeList"__id*
+
+%205ƒ¡
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java™ ™( 
+%206int"!org.w3c.dom.NodeList#getLength()I*"
+ 
+poolConforg.w3c.dom.NodeList2getLength()*
+6
+7*—
+9^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java§? §(dïí
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java§C §(b
+%201java.util.ArrayList"java.util.ArrayList©
+¶
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java§? §(d
+%202"java.util.ArrayList#<init>()V*
+
+%201java.util.ArrayList´
+®
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java§ §(e!
+startupTriggersjava.util.List"__id*
+
+%201java.util.ArrayList≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java• •(
+%203java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configø
+º
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java• •(M
+%204"__mapSet*
+
+%203java.util.HashMap*
+""*#
+!
+startupTriggersjava.util.List*
+8*¢
+20^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(gµ
+≤
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(g
+%188"__mapSet*
+
+%186java.util.HashMap*
+""*
+
+%187java.lang.Class*
+19*°
+21^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí í(
+%186java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configˇ
+¸
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaí< í(e
+%187java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class*.
+,
+securityManagerClassNamejava.lang.String*
+20*‰
+23^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaç ç(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaç ç(
+%185"__id*
+""*
+21*æ
+24^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaâ â(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaâ â(
+%181"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaâF â(L
+%182java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configœ
+Ã
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaâF â({
+%183java.lang.Object"__mapGet*
+
+%182java.util.HashMap*)'
+%db-connection.security.password-realm–
+Õ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaâ â({
+%184java.lang.String"__concat*+)
+'db-connection.security.password-realm: *
+
+%183java.lang.Object*
+21*°
+25^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˝. ˝(:‚ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˝. ˝(D
+%173org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*&
+$
+securityConforg.w3c.dom.NodeList*2 2item(I)¶
+£
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˝ ˝(E
+securityorg.w3c.dom.Element"__id*
+
+%173org.w3c.dom.Nodeæ
+ª
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˛' ˛(S
+%174java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*!
+
+securityorg.w3c.dom.Element*	
+class≥
+∞
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˛ ˛(S,
+securityManagerClassNamejava.lang.String"__id*
+
+%174java.lang.String 
+«
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÅ$ Å(\
+%175java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*!
+
+securityorg.w3c.dom.Element*
+password-encoding£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÅ Å(]
+encodingjava.lang.String"__id*
+
+%175java.lang.String≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÇ Ç(
+%176java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configÚ
+Ô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÇ Ç(N
+%177java.lang.Object"__mapSet*
+
+%176java.util.HashMap*,*
+(db-connection.security.password-encoding*
+
+encodingjava.lang.String«
+ƒ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÖ! Ö(V
+%178java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*!
+
+securityorg.w3c.dom.Element*
+password-realm†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÖ Ö(W
+realmjava.lang.String"__id*
+
+%178java.lang.String≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÜ Ü(
+%179java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configÏ
+È
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÜ Ü(H
+%180java.lang.Object"__mapSet*
+
+%179java.util.HashMap*)'
+%db-connection.security.password-realm*
+
+realmjava.lang.String*
+24
+23*„	
+26^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜ ˜(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜ ˜(
+%169java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˜ ˜(F
+%170"__mapSet*
+
+%169java.util.HashMap*
+""*
+""èå
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˘2 ˘(|
+%171"Rorg.w3c.dom.Element#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
+
+conorg.w3c.dom.Element*
+""2(getElementsByTagName(Ljava/lang/String;)ô
+ñ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˘ ˘(}$
+securityConforg.w3c.dom.NodeList"__id*
+
+%171ü
+ú
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java˙ ˙(N,
+securityManagerClassNamejava.lang.String"__id*
+""»≈
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¸ ¸($
+%172int"!org.w3c.dom.NodeList#getLength()I*&
+$
+securityConforg.w3c.dom.NodeList2getLength()*
+25
+21*Ì
+29^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java (Ä
+˝
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java (1
+%168java.lang.Boolean"@java.lang.Boolean#valueOf(Ljava/lang/String;)Ljava/lang/Boolean;*"
+java.lang.Boolean*'
+%
+preserveOnCopyStrjava.lang.String*
+26*ﬂ
+130^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÀz À({Ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÀB À(|
+%53java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*%
+#
+collectionCachejava.lang.String*2 *
+""2substring(II)*
+129*´
+131^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÀ+ À(/ºπ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÀ_ À(w
+
+%52int"java.lang.String#length()I*%
+#
+collectionCachejava.lang.String2length()*
+130*‰
+133^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java   ()Ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java   (8
+%51boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*%
+#
+collectionCachejava.lang.String*
+kb2endsWith(Ljava/lang/String;)*
+
+127
+131*‡
+135^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java…2 …(}Ò
+Ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java…2 …(}
+%50java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+%49java.lang.String*
+101*ﬂ
+136^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java…z …({Ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java…B …(|
+%49java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*%
+#
+collectionCachejava.lang.String*2 *
+""2substring(II)*
+135*´
+137^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java…+ …(/ºπ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java…_ …(w
+
+%48int"java.lang.String#length()I*%
+#
+collectionCachejava.lang.String2length()*
+136*„
+139^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java« «(/ÔÏ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java» »(0
+%47boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*%
+#
+collectionCachejava.lang.String*
+k2endsWith(Ljava/lang/String;)*
+
+137
+133*å
+31^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈ È(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈ È(
+%165java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈ È(R
+%166"__mapSet*
+
+%165java.util.HashMap*
+""*
+""§
+°
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÎ) Î(k
+%167"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ö
+ó
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÎ Î(l%
+preserveOnCopyStrjava.lang.String"__id*
+
+%167*
+26
+29*Û
+34^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java‚ ‚(Ü
+É
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java‚ ‚(7
+%164java.lang.Boolean"@java.lang.Boolean#valueOf(Ljava/lang/String;)Ljava/lang/Boolean;*"
+java.lang.Boolean*-
++
+posixChownRestrictedStrjava.lang.String*
+31*∏
+36^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java›/ ›(F§
+°
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java›/ ›(w
+%163"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""†
+ù
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java› ›(x+
+posixChownRestrictedStrjava.lang.String"__id*
+
+%163*
+31
+34*¢
+38^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java÷ ÷(Xµ
+≤
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java÷ ÷(X
+%161"__mapSet*
+
+%159java.util.HashMap*
+""*
+
+%160java.lang.Short*
+36*í
+39^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java÷ ÷(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java÷ ÷(
+%159java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config
+Ì
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java÷? ÷(W
+%160java.lang.Short"<java.lang.Short#valueOf(Ljava/lang/String;)Ljava/lang/Short;*"
+java.lang.Short*
+
+	diskSpacejava.lang.String*
+38*ˇ
+140^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(-‰·
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(;
+%46java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*%
+#
+collectionCachejava.lang.String2toLowerCase()©
+¶
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(;#
+collectionCachejava.lang.String"__id*
+
+%46java.lang.String*
+139*∞
+141^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¬! ¬(8£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¬! ¬(c
+%45"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ó
+î
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¬ ¬(d#
+collectionCachejava.lang.String"__id*
+
+%45*	
+95
+140*µ
+144^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩ Ω(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩ Ω(
+%41"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩM Ω(S
+%42java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configô
+ñ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaΩM Ω(Ü
+%43"__mapGet*
+
+%42java.util.HashMap*
+""*
+141*£
+145^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaº º(l¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaº º(l
+%40"__mapSet*
+
+%38java.util.HashMap*
+""*
+
+%39java.lang.Integer*
+144*•
+146^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaº º(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaº º(
+%38java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configÇ
+ˇ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaºF º(k
+%39java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer**
+(
+cacheShrinkThresholdjava.lang.String*
+145*ä
+148^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∏# ∏(6õ
+ò
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∏ ∏(V(
+cacheShrinkThresholdjava.lang.String"__id*
+""*
+146*Ê
+149^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≤ ≤(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≤ ≤(
+%31java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configÉ
+Ä
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≤G ≤(j
+%32boolean"?org.exist.util.Configuration#parseBoolean(Ljava/lang/String;Z)Z* "
+org.exist.util.Configuration*#
+!
+checkMaxCachejava.lang.String*
+""™
+ß
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≤ ≤(l
+%33"__mapSet*
+
+%31java.util.HashMap*
+""*
+
+%32booleanw
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≥ ≥(
+%34"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≥N ≥(T
+%35java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configô
+ñ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≥N ≥(ç
+%36"__mapGet*
+
+%35java.util.HashMap*
+""£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ& µ(t
+%37"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ú
+ô
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ µ(u(
+cacheShrinkThresholdjava.lang.String"__id*
+
+%37*
+
+146
+148*π
+41^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java“ “(%∑¥
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java“4 “(F
+%157int"java.lang.String#length()I*
+
+	diskSpacejava.lang.String2length()ÎË
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java“ “(L
+%158java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+	diskSpacejava.lang.String*2 *
+""2substring(II)§
+°
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java“ “(L
+	diskSpacejava.lang.String"__id*
+
+%158java.lang.String*
+39*€
+42^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—- —(6ÍÁ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java—- —(F
+%156boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+	diskSpacejava.lang.String*
+m2endsWith(Ljava/lang/String;)*
+39
+41*€
+43^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java— —(ÍÁ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java— —()
+%155boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+	diskSpacejava.lang.String*
+M2endsWith(Ljava/lang/String;)*
+41
+42*™
+44^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕ Õ(2§
+°
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕ Õ(\
+%154"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""í
+è
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÕ Õ(]
+	diskSpacejava.lang.String"__id*
+
+%154*
+36
+43*∂
+46^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≈ ≈(n…
+∆
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≈ ≈(n
+%149java.lang.String"__concat*$"
+ db-connection.elements.buffers: *
+
+%148java.lang.Object*
+44*‰
+47^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≈ ≈(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≈ ≈(
+%146"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≈@ ≈(F
+%147java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config»
+≈
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java≈@ ≈(n
+%148java.lang.Object"__mapGet*
+
+%147java.util.HashMap*" 
+db-connection.elements.buffers*
+46*“
+48^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(_Â
+‚
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(_
+%145java.lang.Object"__mapSet*
+
+%143java.util.HashMap*" 
+db-connection.elements.buffers*
+
+%144java.lang.Integer*
+47*ü
+49^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ ƒ(
+%143java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config˝
+˙
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaƒ> ƒ(]
+%144java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*$
+"
+elementBuffersjava.lang.String*
+48*É
+150^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaØ Ø(/î
+ë
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaØ Ø(S!
+checkMaxCachejava.lang.String"__id*
+""*
+149*Ø
+151^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¨ ¨(6£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¨ ¨(q
+%30"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ï
+í
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¨ ¨(r!
+checkMaxCachejava.lang.String"__id*
+
+%30*
+
+149
+150*µ
+154^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java£ £(w
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java£ £(
+%26"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java£L £(R
+%27java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configô
+ñ
+_
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java£L £(Å
+%28"__mapGet*
+
+%27java.util.HashMap*
+""*
+151*£
+155^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¢ ¢(`¥
+±
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¢ ¢(`
+%25"__mapSet*
+
+%23java.util.HashMap*
+""*
+
+%24java.lang.Integer*
+154*ô
+156^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¢ ¢(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¢ ¢(
+%23java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configˆ
+Û
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¢E ¢(^
+%24java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+cacheMemjava.lang.String*
+155*µ
+158^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaû û(#µ≤
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaû2 û(C
+
+%21int"java.lang.String#length()I*
+
+cacheMemjava.lang.String2length()ÈÊ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaû û(I
+%22java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+cacheMemjava.lang.String*2 *
+""2substring(II)¢
+ü
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaû û(I
+cacheMemjava.lang.String"__id*
+
+%22java.lang.String*
+156*‹
+159^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaù, ù(4ËÂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaù, ù(D
+%20boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+cacheMemjava.lang.String*
+m2endsWith(Ljava/lang/String;)*
+
+156
+158*·
+51^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaø& ø(=ƒ
+¡
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaø& ø(X
+%142java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+elements_buffers©
+¶
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaø ø(Y"
+elementBuffersjava.lang.String"__id*
+
+%142java.lang.String*
+49
+44*≥
+53^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂ ∂(h∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂ ∂(h
+%137java.lang.String"__concat*!
+db-connection.words.buffers: *
+
+%136java.lang.Object*
+51*·
+54^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂ ∂(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂ ∂(
+%134"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂= ∂(C
+%135java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config≈
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∂= ∂(h
+%136java.lang.Object"__mapGet*
+
+%135java.util.HashMap*
+db-connection.words.buffers*
+53*œ
+55^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ µ(Y‚
+ﬂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ µ(Y
+%133java.lang.Object"__mapSet*
+
+%131java.util.HashMap*
+db-connection.words.buffers*
+
+%132java.lang.Integer*
+54*ú
+56^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ µ(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ µ(
+%131java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config˙
+˜
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaµ; µ(W
+%132java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*!
+
+wordBuffersjava.lang.String*
+55*€
+58^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∞# ∞(:¡
+æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∞# ∞(R
+%130java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+words_buffers¶
+£
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java∞ ∞(S
+wordBuffersjava.lang.String"__id*
+
+%130java.lang.String*
+51
+56*‹
+160^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaù ù(ËÂ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaù ù((
+%19boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+cacheMemjava.lang.String*
+M2endsWith(Ljava/lang/String;)*
+
+158
+159*™
+161^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaô ô(1£
+†
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaô ô(b
+%18"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+""ê
+ç
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaô ô(c
+cacheMemjava.lang.String"__id*
+
+%18*
+
+160
+151*à	
+162^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaï ï(±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaï ï(
+%12java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configÂ‚
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaï5 ï(H
+%13java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+dfjava.nio.file.Path2toAbsolutePath()µ
+≤
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaï ï(I
+%14"__mapSet*
+
+%12java.util.HashMap*
+""*
+
+%13java.nio.file.Pathw
+u
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ ñ(
+%15"__id*
+""±
+Æ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ< ñ(B
+%16java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configò
+ï
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javañ< ñ(d
+%17"__mapGet*
+
+%16java.util.HashMap*
+""*
+161*ö
+167^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaê ê(´
+®
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaê ê(/
+%8java.nio.file.Path"wjava.nio.file.Files#createDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+
+dfjava.nio.file.Path*
+162*‡
+169^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaç ç(/ã
+à
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaç ç(L
+dfjava.nio.file.Path"__id*
+""ﬁ
+€
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaé é(%
+%7boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
+java.nio.file.Files*
+
+dfjava.nio.file.Path*
+
+167
+162*π
+60^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaß ß(tÃ
+…
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaß ß(t
+%125java.lang.String"__concat*'%
+#db-connection.collections.buffers: *
+
+%124java.lang.Object*
+58*Á
+61^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaß ß(x
+v
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaß ß(
+%122"__id*
+""≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaßC ß(I
+%123java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+configÀ
+»
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaßC ß(t
+%124java.lang.Object"__mapGet*
+
+%123java.util.HashMap*%#
+!db-connection.collections.buffers*
+60*’
+62^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¶ ¶(_Ë
+Â
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¶ ¶(_
+%121java.lang.Object"__mapSet*
+
+%119java.util.HashMap*%#
+!db-connection.collections.buffers*
+
+%120java.lang.Integer*
+61*ú
+63^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¶ ¶(≤
+Ø
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¶ ¶(
+%119java.util.HashMap"__id*,**
+org.exist.util.Configuration"
+config˙
+˜
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java¶A ¶(]
+%120java.lang.Integer"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*!
+
+collBuffersjava.lang.String*
+62*‡
+65^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java°# °(:∆
+√
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java°# °(W
+%118java.lang.String"oorg.exist.util.Configuration#getConfigAttributeValue(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/lang/String;* 
+org.exist.util.Configuration*
+
+conorg.w3c.dom.Element*
+collection_buffers¶
+£
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.java° °(X
+collBuffersjava.lang.String"__id*
+
+%118java.lang.String*
+58
+63*≠
+67^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(\¿
+Ω
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaò ò(\
+%113java.lang.String"__concat*
+db-connection.buffers: *
+
+%112java.lang.Object*
+65:
+dbHomejava.util.Optional:
+conorg.w3c.dom.ElementB 
+org.exist.util.Configuration

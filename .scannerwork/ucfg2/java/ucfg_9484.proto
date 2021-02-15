@@ -1,0 +1,120 @@
+
+Yorg.exist.client.security.AutoCompletion#lookupItem(Ljava/lang/String;)Ljava/lang/Object;j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java∏ ∏("10*Å
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java√ √(&"è
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java√ √('!
+
+currentItemjava.lang.Object*∞
+4j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¬+ ¬(?Â‚
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¬@ ¬(V
+%8java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*!
+
+currentItemjava.lang.Object2
+toString()À
+»
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¬+ ¬(`
+%9boolean"dorg.exist.client.security.AutoCompletion#startsWithIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Z*,*
+(org.exist.client.security.AutoCompletion*
+
+%8java.lang.String*
+
+patternjava.lang.String*	
+3
+5
+1*˛
+5j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¿+ ¿(0œ
+Ã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¿+ ¿(0
+%6javax.swing.ComboBoxModel"__id*7*5*
+(org.exist.client.security.AutoCompletion"
+model¸˘
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¿+ ¿(@
+%7java.lang.Object"7javax.swing.ListModel#getElementAt(I)Ljava/lang/Object;*!
+
+%6javax.swing.ComboBoxModel*
+""2getElementAt(I)∞
+≠
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java¿ ¿(A
+currentItemjava.lang.Object"__id*
+
+%7java.lang.Object*	
+4
+5
+1*ñ
+7j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaø ø(œ
+Ã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaø ø(!
+%4javax.swing.ComboBoxModel"__id*7*5*
+(org.exist.client.security.AutoCompletion"
+model «
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaø ø(+	
+%5int" javax.swing.ListModel#getSize()I*!
+
+%4javax.swing.ComboBoxModel2	getSize()*
+5
+1*Ç
+8j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaº º("ê
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaº º( "
+ 
+selectedItemjava.lang.Object*Æ
+9j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaª$ ª(8Ê„
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaª9 ª(P
+%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
+ 
+selectedItemjava.lang.Object2
+toString()À
+»
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaª$ ª(Z
+%3boolean"dorg.exist.client.security.AutoCompletion#startsWithIgnoreCase(Ljava/lang/String;Ljava/lang/String;)Z*,*
+(org.exist.client.security.AutoCompletion*
+
+%2java.lang.String*
+
+patternjava.lang.String*
+7
+8*˝
+10j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaπ$ π()œ
+Ã
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaπ$ π()
+%0javax.swing.ComboBoxModel"__id*7*5*
+(org.exist.client.security.AutoCompletion"
+model¸˘
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaπ$ π(;
+%1java.lang.Object"=javax.swing.ComboBoxModel#getSelectedItem()Ljava/lang/Object;*!
+
+%0javax.swing.ComboBoxModel2getSelectedItem()±
+Æ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.javaπ π(< 
+selectedItemjava.lang.Object"__id*
+
+%1java.lang.Object*
+7
+9*Â
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java» »("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AutoCompletion.java» »(
+"":
+patternjava.lang.StringB,*
+(org.exist.client.security.AutoCompletion

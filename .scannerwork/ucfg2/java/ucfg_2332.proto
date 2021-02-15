@@ -1,0 +1,127 @@
+
+Zorg.exist.repo.ExistRepository#resolveXQueryModule(Ljava/lang/String;)Ljava/nio/file/Path;`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaπ π(#"22*˝
+13`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaÀ À(é
+ã
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaÀ À( 
+sysidjava.lang.String"__id*
+""*
+11*“
+14`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java» »(#"j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java» »(G
+""*˝
+15`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java∆! ∆(%ä
+á
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java∆ ∆(5
+fjava.lang.String"__id*
+""*
+13
+14*Ä
+16`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java¡  ¡("ç
+ä
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java¡ ¡(,
+pkgjava.lang.Package"__id*
+""*
+13
+15*à
+18`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaº º($ñ
+ì
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaº º($
+urijava.net.URI"__id*
+
+%0java.net.URI*
+16
+1*—
+1`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaÿ ÿ("j
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaÿ ÿ(
+""*Â
+7`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java– –(5"~
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java– –(5
+
+%6java.nio.file.Path*ÿ
+8`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java– –(4Î
+Ë
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java– –(4
+%6java.nio.file.Path";java.nio.file.Paths#get(Ljava/net/URI;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%4java.net.URI*
+7*‚
+9`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaœ œ(-†
+ù
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaœ œ(-
+sysidjava.lang.String"__id*
+
+%3java.lang.StringáÑ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java–) –(,
+%4java.net.URI"java.net.URI»
+≈
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java–% –(3
+%5"(java.net.URI#<init>(Ljava/lang/String;)V*
+
+%4java.net.URI*
+
+sysidjava.lang.String*
+8*≈
+21`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaº º(#áÑ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaº º(
+%0java.net.URI"java.net.URIÃ
+…
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaº º($
+%1"(java.net.URI#<init>(Ljava/lang/String;)V*
+
+%0java.net.URI*
+
+	namespacejava.lang.String*
+18*€
+10`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaœ œ(ÌÍ
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaœ œ(-
+%3java.lang.String":javax.xml.transform.Source#getSystemId()Ljava/lang/String;*#
+!
+srcjavax.xml.transform.Source2getSystemId()*
+9*˜
+22`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java∫ ∫(à
+Ö
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java∫ ∫(
+urijava.net.URI"__id*
+""*
+21*å
+11`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaÕ Õ(Kñ
+ì
+`
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaÕ Õ(K!
+srcjavax.xml.transform.Source"__id*
+""*
+16
+10
+1:
+	namespacejava.lang.StringB" 
+org.exist.repo.ExistRepository

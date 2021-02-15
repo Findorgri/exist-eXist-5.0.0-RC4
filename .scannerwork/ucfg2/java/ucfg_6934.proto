@@ -1,0 +1,17 @@
+
+>org.exist.management.impl.Lock#getLockMode()Ljava/lang/String;^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java9 9("1*•
+1^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java: :(³
+°
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java: :(
+%0java.lang.String"__id*0*. 
+org.exist.management.impl.Lock"
+
+lockMode"z
+^
+TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java: :(
+
+%0java.lang.StringB" 
+org.exist.management.impl.Lock

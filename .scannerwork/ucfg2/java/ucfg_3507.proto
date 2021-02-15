@@ -1,0 +1,159 @@
+
+Äorg.exist.extensions.exquery.restxq.impl.xquery.RegistryFunctionsTest#documentToString(Lorg/w3c/dom/Document;)Ljava/lang/String;™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaz z(#"7*ÿ
+2¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÑ Ñ(ûõ
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÑ Ñ( 
+%17java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+swjava.io.Writer2
+toString()*
+1*¶
+3¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÉ6 É(8ÏÈ
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÉ É(9
+%16void"djavax.xml.transform.Transformer#transform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)V*0
+.
+transformerjavax.xml.transform.Transformer**
+(
+%14!javax.xml.transform.dom.DOMSource*"
+ 
+srjavax.xml.transform.Result2Ctransform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)*
+2*é
+4¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÇ Ç(3å
+â
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÇ Ç(3 
+srjavax.xml.transform.Result"__id*0
+.
+%12'javax.xml.transform.stream.StreamResultˇ¸
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÉ& É(/(
+%14!javax.xml.transform.dom.DOMSource"!javax.xml.transform.dom.DOMSource√
+¿
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÉ" É(4
+%15"=javax.xml.transform.dom.DOMSource#<init>(Lorg/w3c/dom/Node;)V**
+(
+%14!javax.xml.transform.dom.DOMSource*
+
+docorg.w3c.dom.Document*
+3*˛
+5¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÅ Å(0Ì
+Í
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÅ Å(0
+swjava.io.Writer"__id*
+
+%10java.io.StringWriterãà
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÇ" Ç(..
+%12'javax.xml.transform.stream.StreamResult"'javax.xml.transform.stream.StreamResult∆
+√
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÇ Ç(2
+%13"Ajavax.xml.transform.stream.StreamResult#<init>(Ljava/io/Writer;)V*0
+.
+%12'javax.xml.transform.stream.StreamResult*
+
+swjava.io.Writer*
+4*ö
+6¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÅ Å(0Â‚
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÅ" Å(.
+%10java.io.StringWriter"java.io.StringWriter¯
+ı
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÅ Å(0
+%11"java.io.StringWriter#<init>()V*
+
+%10java.io.StringWriter*
+5*™
+7™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java{( {(:Ë
+Â
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java{( {(H,
+%0&javax.xml.transform.TransformerFactory"\javax.xml.transform.TransformerFactory#newInstance()Ljavax/xml/transform/TransformerFactory;**"(
+&javax.xml.transform.TransformerFactoryÛ
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java{( {(Y%
+%1javax.xml.transform.Transformer"Xjavax.xml.transform.TransformerFactory#newTransformer()Ljavax/xml/transform/Transformer;*.
+,
+%0&javax.xml.transform.TransformerFactory2newTransformer()è
+å
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java{ {(Z.
+transformerjavax.xml.transform.Transformer"__id*'
+%
+%1javax.xml.transform.Transformer÷
+”
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java|& |(E
+%2java.lang.String"__id*
+""§°
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java| |(M
+
+%3void"Xjavax.xml.transform.Transformer#setOutputProperty(Ljava/lang/String;Ljava/lang/String;)V*0
+.
+transformerjavax.xml.transform.Transformer*
+
+%2java.lang.String*
+yes27setOutputProperty(Ljava/lang/String;Ljava/lang/String;)÷
+”
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java}& }(7
+%4java.lang.String"__id*
+""§°
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java} }(?
+
+%5void"Xjavax.xml.transform.Transformer#setOutputProperty(Ljava/lang/String;Ljava/lang/String;)V*0
+.
+transformerjavax.xml.transform.Transformer*
+
+%4java.lang.String*
+xml27setOutputProperty(Ljava/lang/String;Ljava/lang/String;)÷
+”
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java~& ~(9
+%6java.lang.String"__id*
+""¶£
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java~ ~(C
+
+%7void"Xjavax.xml.transform.Transformer#setOutputProperty(Ljava/lang/String;Ljava/lang/String;)V*0
+.
+transformerjavax.xml.transform.Transformer*
+
+%6java.lang.String*	
+UTF-827setOutputProperty(Ljava/lang/String;Ljava/lang/String;)÷
+”
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java& (7
+%8java.lang.String"__id*
+""§°
+™
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.java (?
+
+%9void"Xjavax.xml.transform.Transformer#setOutputProperty(Ljava/lang/String;Ljava/lang/String;)V*0
+.
+transformerjavax.xml.transform.Transformer*
+
+%8java.lang.String*
+yes27setOutputProperty(Ljava/lang/String;Ljava/lang/String;)*
+6*ˇ
+1¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÑ Ñ(!" 
+¨
+üC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/test/java/org/exist/extensions/exquery/restxq/impl/xquery/RegistryFunctionsTest.javaÑ Ñ(!
+
+%17java.lang.String:
+docorg.w3c.dom.DocumentBIG
+Eorg.exist.extensions.exquery.restxq.impl.xquery.RegistryFunctionsTest

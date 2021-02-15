@@ -1,0 +1,69 @@
+
+Zorg.exist.xmldb.RemoteXPathQueryService#getNamespace(Ljava/lang/String;)Ljava/lang/String;i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÄ Ä("startingBlock*³
+2i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ? Å(K”
+‘
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ? Å(]
+%2java.lang.String"__id*
+""¦
+£
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ? Å(]
+%1java.lang.Object"__id*
+
+%2java.lang.String*
+1* 
+3i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ6 Å(<ª
+§
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ6 Å(<
+%1java.lang.Object"__id*
+
+prefixjava.lang.String*
+1*Û
+startingBlocki
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÄ Ä(3¶
+³
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÃ Ã(
+%4"
+__annotate*
+java.lang.Override*
+
+prefixjava.lang.String 
+
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÄ, Ä(2
+prefixjava.lang.String"__annotation*
+
+%4*
+4*Æ
+4i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ Å( Í
+Ê
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ Å( 
+%0java.util.Map"__id*B*@)
+'org.exist.xmldb.RemoteXPathQueryService"
+namespaceMappings*
+2
+3*º
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ Å(^Á
+¾
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ Å(^
+%3java.lang.String"__mapGet*
+
+%0java.util.Map*
+
+%1java.lang.Object"…
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.javaÅ Å(_
+
+%3java.lang.String:
+prefixjava.lang.StringB+)
+'org.exist.xmldb.RemoteXPathQueryService

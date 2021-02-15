@@ -1,0 +1,136 @@
+
+ org.exist.config.ConfigurationDocumentTrigger#migrateIdAttribute(Ljava/lang/SecurityManager;Lorg/xml/sax/Attributes;Lorg/exist/config/ConfigurationDocumentTrigger$PrincipalType;)Lorg/xml/sax/Attributes;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaÚ Ú()"7*Ω
+2o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaÇ Ç(¡
+æ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaÇ Ç("
+newAttrsorg.xml.sax.Attributes"__id*!
+
+attrsorg.xml.sax.Attributes*
+1*Ω
+3o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaˇ ˇ( ¡
+æ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaˇ ˇ( "
+newAttrsorg.xml.sax.Attributes"__id*!
+
+attrsorg.xml.sax.Attributes*
+1*Î
+4o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java¸. ¸(3¬ø
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java¸ ¸(-(
+%4"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImplè
+å
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java¸ ¸(4
+%5"Dorg.xml.sax.helpers.AttributesImpl#<init>(Lorg/xml/sax/Attributes;)V**
+(
+%4"org.xml.sax.helpers.AttributesImpl*!
+
+attrsorg.xml.sax.Attributes 
+«
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java¸ ¸(4"
+newAttrsorg.xml.sax.Attributes"__id**
+(
+%4"org.xml.sax.helpers.AttributesImplö
+ó
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˝F ˝(M
+%6java.lang.String"__id*
+""ìê
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˝4 ˝(N	
+%7int"4org.xml.sax.Attributes#getIndex(Ljava/lang/String;)I*$
+"
+newAttrsorg.xml.sax.Attributes*
+
+%6java.lang.String2getIndex(Ljava/lang/String;)Ê„
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˝P ˝(`
+%8java.lang.String".java.lang.Integer#toString()Ljava/lang/String;*
+
+newIdjava.lang.Integer2
+toString()Ø¨
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˝ ˝(a
+
+%9void"Aorg.xml.sax.helpers.AttributesImpl#setValue(ILjava/lang/String;)V*$
+"
+newAttrsorg.xml.sax.Attributes*
+	
+%7int*
+
+%8java.lang.String2setValue(ILjava/lang/String;)*
+1*ƒ
+5o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˘ ˘(&‰
+·
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˘ ˘(6	
+%2int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+strIdjava.lang.String†
+ù
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˘ ˘(7
+idjava.lang.Integer"__id*
+	
+%2intáÑ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˙" ˙(=
+%3java.lang.Integer"morg.exist.config.ConfigurationDocumentTrigger$PrincipalType#migrateId(Ljava/lang/Integer;)Ljava/lang/Integer;*N
+L
+principalType;org.exist.config.ConfigurationDocumentTrigger$PrincipalType*
+
+idjava.lang.Integer2migrateId(Ljava/lang/Integer;)±
+Æ
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˙ ˙(>
+newIdjava.lang.Integer"__id*
+
+%3java.lang.Integer*
+3
+4*•
+7o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaÙ Ù(¶
+£
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaˆ ˆ(""
+newAttrsorg.xml.sax.Attributes"__id*
+""ö
+ó
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˜, ˜(3
+%0java.lang.String"__id*
+""Æ´
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˜ ˜(4
+%1java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*!
+
+attrsorg.xml.sax.Attributes*
+
+%0java.lang.String2getValue(Ljava/lang/String;)Ø
+¨
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java˜ ˜(5
+strIdjava.lang.String"__id*
+
+%1java.lang.String*
+2
+5*é
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaÖ Ö("ó
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaÖ Ö($
+"
+newAttrsorg.xml.sax.Attributes:
+smjava.lang.SecurityManager:
+attrsorg.xml.sax.Attributes:L
+principalType;org.exist.config.ConfigurationDocumentTrigger$PrincipalTypeB1/
+-org.exist.config.ConfigurationDocumentTrigger

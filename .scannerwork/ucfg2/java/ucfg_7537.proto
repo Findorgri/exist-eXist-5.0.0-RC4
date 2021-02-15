@@ -1,0 +1,14 @@
+
+Gorg.exist.management.impl.SystemInfo#getSvnRevision()Ljava/lang/String;d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.java4 4( "1*ñ
+1d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.java5 5(‚ÿ
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.java5 5(
+%0java.lang.String"Eorg.exist.management.impl.SystemInfo#getGitCommit()Ljava/lang/String;*(&
+$org.exist.management.impl.SystemInfo2getGitCommit()"€
+d
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.java5 5(
+
+%0java.lang.StringB(&
+$org.exist.management.impl.SystemInfo

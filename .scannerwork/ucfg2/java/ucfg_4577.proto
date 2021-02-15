@@ -1,0 +1,84 @@
+
+&org.exist.http.Response#getContent()[BW
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javaZ Z("6*°
+2W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[L [(S§
+°
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[L [(S
+%7java.lang.String"__id*(*&
+org.exist.http.Response"	
+content•
+¢
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[] [(e
+%8java.lang.String"__id*)*'
+org.exist.http.Response"
+
+encodingÌÍ
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[L [(f
+%3byte[]"/java.lang.String#getBytes(Ljava/lang/String;)[B*
+
+%7java.lang.String*
+
+%8java.lang.String2getBytes(Ljava/lang/String;)
+}
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[L [(f
+%1byte[]"__id*
+
+%3byte[]*
+1*Ë
+3W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[D [(HÑ
+Å
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[D [(H
+%1byte[]"__id*
+
+%6
+<nulltype>*
+1*Ö
+4W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[4 [(A†
+ù
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[4 [(A
+%5byte[]"__id*.*,
+org.exist.http.Response"
+binaryContent
+}
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[4 [(A
+%1byte[]"__id*
+
+%5byte[]*
+1*á
+5W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[ [()†
+ù
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[ [()
+%4byte[]"__id*.*,
+org.exist.http.Response"
+binaryContent*
+3
+4*ã
+6W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[	 [(§
+°
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[	 [(
+%0java.lang.String"__id*(*&
+org.exist.http.Response"	
+content*
+2
+5*«
+1W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[ [(g"i
+W
+MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.java[ [(g
+
+%1byte[]B
+org.exist.http.Response

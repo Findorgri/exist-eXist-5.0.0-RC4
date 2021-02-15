@@ -1,0 +1,66 @@
+
+ùorg.exist.security.realm.oauth.ServiceFacebook$FBSchemaType#valueOfNamespace(Ljava/lang/String;)Lorg/exist/security/realm/oauth/ServiceFacebook$FBSchemaType;ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.javaß  ß(0"5*Ω
+2ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java® ®($È
+Ê
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java® ®($I
+
+schemaType;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType"__id*
+""∂
+≥
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java® ®($I
+
+schemaType;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType"
+__arrayGet*E
+C
+%1=org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType[]*
+""*
+4
+1*Ì
+3ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java™ ™(""⁄
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java™ ™(#K
+I
+
+schemaType;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType*•
+4ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java© ©(„‡
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java© ©()
+%2java.lang.String"\org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType#getNamespace()Ljava/lang/String;*K
+I
+
+schemaType;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType2getNamespace()§°
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java© ©(;
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+	namespacejava.lang.String2equals(Ljava/lang/Object;)*
+2
+3*ó
+5ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java®' ®(3·
+ﬁ
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java®' ®(3A
+%0;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType"__id*
+""õ
+ò
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java®' ®(<C
+%1=org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType[]"Çorg.exist.security.realm.oauth.ServiceFacebook$FBSchemaType#values()[Lorg/exist/security/realm/oauth/ServiceFacebook$FBSchemaType;*?"=
+;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType*
+2*®
+1ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java≠ ≠("ï
+ä
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/ServiceFacebook.java≠	 ≠(
+"":
+	namespacejava.lang.StringB?"=
+;org.exist.security.realm.oauth.ServiceFacebook$FBSchemaType

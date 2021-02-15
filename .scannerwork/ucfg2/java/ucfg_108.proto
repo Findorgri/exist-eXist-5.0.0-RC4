@@ -1,0 +1,40 @@
+
+4org.exist.storage.CreateBinaryLoggable#getLogSize()If
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaD D("1*¦
+
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaE E(Å
+Â
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaE E(
+%0java.nio.file.Path"__id*8*6(
+&org.exist.storage.CreateBinaryLoggable"
+
+originalìé
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaE E(,
+%1java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
+
+%0java.nio.file.Path2toAbsolutePath()ÜÙ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaE E(7
+%2java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
+
+%1java.nio.file.Path2
+toString()™
+–
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaEA E(W
+%3java.nio.charset.Charset"__id*
+""”‘
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaE E(X
+%4byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+%2java.lang.String* 
+
+%3java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)"p
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/CreateBinaryLoggable.javaE E(`
+""B*(
+&org.exist.storage.CreateBinaryLoggable

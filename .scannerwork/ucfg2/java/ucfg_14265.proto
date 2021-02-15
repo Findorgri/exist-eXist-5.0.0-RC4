@@ -1,0 +1,65 @@
+
+?org.exist.xquery.value.NumericValue#equals(Ljava/lang/Object;)Zc
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javac c("startingBlock*×
+3c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javai i(J"m
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javai i(J
+""*Æ
+startingBlockc
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javac c(+­
+ª
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javab b(
+%3"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object—
+”
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javac' c(*
+objjava.lang.Object"__annotation*
+
+%3*
+6
+7*·
+4c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javai i( ÇÄ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javai i(I
+%2"Sorg.exist.xquery.value.NumericValue#compareTo(LCollator;LComparison;LAtomicValue;)Z*'%
+#org.exist.xquery.value.NumericValue*
+""*
+""*
+
+objjava.lang.Object2.compareTo(LCollator;LComparison;LAtomicValue;)*
+3*½
+6c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javag g(ÔÑ
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javag0 g(>
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()óð
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javag g(?
+%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""*
+
+%0java.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+4
+1*×
+7c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javae e("m
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javae e(
+""*×
+1c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javam m("m
+c
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/NumericValue.javam m(
+"":
+objjava.lang.ObjectB'%
+#org.exist.xquery.value.NumericValue

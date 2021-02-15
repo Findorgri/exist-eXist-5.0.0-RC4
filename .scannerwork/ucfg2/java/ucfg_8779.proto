@@ -1,0 +1,49 @@
+
+Borg.exist.dom.persistent.DocumentImpl#toString()Ljava/lang/String;g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java½	 ½	("4*’
+2g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	Q ¿	(Už
+›
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	Q ¿	(U
+%2java.lang.String"__id*
+
+%4
+<nulltype>*
+1*™
+3g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	, ¿	(>™–
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	, ¿	(@
+%5org.w3c.dom.Element"Oorg.exist.dom.persistent.DocumentImpl#getDocumentElement()Lorg/w3c/dom/Element;*)'
+%org.exist.dom.persistent.DocumentImpl2getDocumentElement()âß
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	, ¿	(N
+%3java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+%5org.w3c.dom.Element2getNodeName()¤
+¡
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	, ¿	(N
+%2java.lang.String"__id*
+
+%3java.lang.String*
+1*ô
+4g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¾	 ¾	(áÞ
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¾	 ¾	(
+%0"8org.exist.dom.persistent.DocumentImpl#getURI()LXmldbURI;*)'
+%org.exist.dom.persistent.DocumentImpl2getURI()™–
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¿	 ¿	(!
+%1org.w3c.dom.Element"Oorg.exist.dom.persistent.DocumentImpl#getDocumentElement()Lorg/w3c/dom/Element;*)'
+%org.exist.dom.persistent.DocumentImpl2getDocumentElement()*
+2
+3*ß
+1g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¾	 ¿	(V"q
+g
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java¾	 ¿	(]
+""B)'
+%org.exist.dom.persistent.DocumentImpl

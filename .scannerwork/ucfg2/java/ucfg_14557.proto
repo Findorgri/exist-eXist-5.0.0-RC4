@@ -1,0 +1,66 @@
+
+6null#newThread(Ljava/lang/Runnable;)Ljava/lang/Thread;Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.javaƒ ƒ(#"startingBlock*»
+startingBlockŠ
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.javaƒ# ƒ(5Õ
+Ò
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java‚ ‚(
+%6"
+__annotate*
+java.lang.Override*
+
+rjava.lang.Runnable¿
+¼
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.javaƒ3 ƒ(4
+rjava.lang.Runnable"__annotation*
+
+%6*
+1*ð
+1Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„" „(#Á
+¾
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„% „(:
+%0java.lang.String"__concat*
+""*
+-Š
+‡
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„= „(D/
+%1)java.util.concurrent.atomic.AtomicInteger"__id*A*?2
+0Lorg/exist/indexing/lucene/ConcurrencyTest$4316;"	
+counterŸœ
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„= „(V	
+%2int"<java.util.concurrent.atomic.AtomicInteger#getAndIncrement()I*1
+/
+%1)java.util.concurrent.atomic.AtomicInteger2getAndIncrement()Ù
+Ö
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„% „(V
+%3java.lang.String"__concat*
+
+%0java.lang.String*
+	
+%2intº·
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„ „(!
+%4java.lang.Thread"java.lang.Thread§
+¤
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„ „(W
+%5"@java.lang.Thread#<init>(Ljava/lang/Runnable;Ljava/lang/String;)V*
+
+%4java.lang.Thread*
+
+rjava.lang.Runnable*
+
+%3java.lang.String"§
+Š
+~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/test/src/org/exist/indexing/lucene/ConcurrencyTest.java„ „(X
+
+%4java.lang.Thread:
+rjava.lang.RunnableB42
+0Lorg/exist/indexing/lucene/ConcurrencyTest$4316;

@@ -1,0 +1,200 @@
+
+jorg.exist.xquery.modules.file.Directory#getHumanSize(Ljava/lang/Long;Ljava/lang/String;)Ljava/lang/String;|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java° °("17*Í
+2|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÊ Ê( Â
+¿
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÊ Ê(G
+%13long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""»
+¸
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÊ Ê(N
+%14java.lang.String"__concat*
+
+%13long*
+GBÁ
+¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÊ Ê(N
+	humanSizejava.lang.String"__id*
+
+%14java.lang.String*
+1*Í
+3|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÈ È( Â
+¿
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÈ È(@
+%11long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""»
+¸
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÈ È(G
+%12java.lang.String"__concat*
+
+%11long*
+MBÁ
+¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÈ È(G
+	humanSizejava.lang.String"__id*
+
+%12java.lang.String*
+1*
+16|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaµ µ(×
+Ô
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaµ& µ(8
+
+%1long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+
+sizeLongjava.lang.Longé
+æ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaµ µ(9
+%2java.lang.String",java.lang.Long#toString(J)Ljava/lang/String;*"
+java.lang.Long*
+
+
+%1longÀ
+½
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaµ µ(9
+	humanSizejava.lang.String"__id*
+
+%2java.lang.String*
+1*¨
+17|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java± ±( ¯
+¬
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java± ±(!
+	humanSizejava.lang.String"__id*
+n/aÔÑ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java² ²(,	
+%0int"java.lang.String#length()I* 
+
+
+sizeStringjava.lang.String2length()*
+2
+3
+16
+6
+7
+11
+12
+1*Ë
+6|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÃ Ã( Á
+¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÃ Ã(>
+
+%9long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""º
+·
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÃ Ã(E
+%10java.lang.String"__concat*
+
+
+%9long*
+MBÁ
+¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÃ Ã(E
+	humanSizejava.lang.String"__id*
+
+%10java.lang.String*
+1*É
+7|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÁ Á( Á
+¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÁ Á(5
+
+%7long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""¹
+¶
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÁ Á(<
+%8java.lang.String"__concat*
+
+
+%7long*
+KBÀ
+½
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÁ Á(<
+	humanSizejava.lang.String"__id*
+
+%8java.lang.String*
+1*Ê
+11|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java¼ ¼( Á
+¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java¼ ¼(5
+
+%5long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""¹
+¶
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java¼ ¼(<
+%6java.lang.String"__concat*
+
+
+%5long*
+KBÀ
+½
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.java¼ ¼(<
+	humanSizejava.lang.String"__id*
+
+%6java.lang.String*
+1*
+12|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaº º( ×
+Ô
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaº* º(<
+
+%3long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+
+sizeLongjava.lang.Longé
+æ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaº º(=
+%4java.lang.String",java.lang.Long#toString(J)Ljava/lang/String;*"
+java.lang.Long*
+
+
+%3longÀ
+½
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaº º(=
+	humanSizejava.lang.String"__id*
+
+%4java.lang.String*
+1*£
+1|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÍ Í("Ÿ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/Directory.javaÍ Í(
+
+	humanSizejava.lang.String:
+sizeLongjava.lang.Long:
+
+sizeStringjava.lang.StringB+)
+'org.exist.xquery.modules.file.Directory

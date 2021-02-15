@@ -1,0 +1,60 @@
+
+Xorg.exist.storage.DataBackup$Callback#newEntry(Ljava/lang/String;)Ljava/io/OutputStream;^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÅ Å($"startingBlock*∂
+startingBlock^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÅ$ Å(7©
+¶
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÄ Ä(
+%5"
+__annotate*
+java.lang.Override*
+
+namejava.lang.Stringì
+ê
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÅ2 Å(6
+namejava.lang.String"__annotation*
+
+%5*
+1*ô
+
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÇ Ç(√
+¿
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÇ Ç(#
+%0java.util.zip.ZipOutputStream"__id*3*1'
+%org.exist.storage.DataBackup$Callback"
+zoutôñ
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÇ" Ç(*
+%1java.util.zip.ZipEntry"java.util.zip.ZipEntryŸ
+÷
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÇ Ç(0
+%2"2java.util.zip.ZipEntry#<init>(Ljava/lang/String;)V*
+
+%1java.util.zip.ZipEntry*
+
+namejava.lang.String•¢
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÇ Ç(1
+
+%3void"Ejava.util.zip.ZipOutputStream#putNextEntry(Ljava/util/zip/ZipEntry;)V*%
+#
+%0java.util.zip.ZipOutputStream*
+
+%1java.util.zip.ZipEntry2&putNextEntry(Ljava/util/zip/ZipEntry;)√
+¿
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÉ É(#
+%4java.util.zip.ZipOutputStream"__id*3*1'
+%org.exist.storage.DataBackup$Callback"
+zout"á
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javaÉ É(%
+#
+%4java.util.zip.ZipOutputStream:
+namejava.lang.StringB)'
+%org.exist.storage.DataBackup$Callback

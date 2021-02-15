@@ -1,0 +1,66 @@
+
+Torg.exist.dom.persistent.NodeProxy#toJavaObject(Ljava/lang/Class;)Ljava/lang/Object;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaú ú("startingBlock*ã
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaş ş(ôñ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaş ş( 
+%2org.w3c.dom.Node">org.exist.dom.persistent.NodeProxy#getNode()Lorg/w3c/dom/Node;*&$
+"org.exist.dom.persistent.NodeProxy2	getNode()"€
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaş ş(!
+
+%2org.w3c.dom.Node*Ê
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaú ú(4°
+­
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaù ù(
+%4"
+__annotate*
+java.lang.Override*
+
+targetjava.lang.Classš
+—
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaú- ú(3
+targetjava.lang.Class"__annotation*
+
+%4*
+6*ì
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaı ı(øõ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaı ı(5
+%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+targetjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*
+2
+1*ú
+5d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaü ü("
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaü ü(&$
+"org.exist.dom.persistent.NodeProxy*ì
+6d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaû û(øõ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaû û(3
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+targetjava.lang.Class*
+""2#isAssignableFrom(Ljava/lang/Class;)*
+4
+5*Ş
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java€2 €(@‚ÿ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java€2 €(B
+%3java.lang.String"Eorg.exist.dom.persistent.NodeProxy#getStringValue()Ljava/lang/String;*&$
+"org.exist.dom.persistent.NodeProxy2getStringValue()"n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java (*
+"":
+targetjava.lang.ClassB&$
+"org.exist.dom.persistent.NodeProxy

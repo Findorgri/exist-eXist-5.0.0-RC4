@@ -1,0 +1,113 @@
+
+eorg.exist.security.MessageDigester#calculate(Ljava/lang/String;Ljava/lang/String;Z)Ljava/lang/String;b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaB B(""10*ü
+2b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.java^ ^("â
+Ü
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.java^ ^(0
+%11java.lang.String"Gorg.exist.security.MessageDigester#byteArrayToHex([B)Ljava/lang/String;*&"$
+"org.exist.security.MessageDigester*
+
+
+digestDatabyte[]§
+°
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.java^ ^(0
+digestjava.lang.String"__id*
+
+%11java.lang.String*
+1*Á
+3b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaY& Y(9ëé
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.java[ [(
+%9java.lang.String"java.lang.Stringæ
+ª
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.java[ [(3
+%10",java.lang.String#<init>(Ljava/lang/String;)V*
+
+%9java.lang.String*
+""£
+†
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.java[ [(3
+digestjava.lang.String"__id*
+
+%9java.lang.String*
+1*ä
+4b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaR R(
+øº
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaR R(%
+%6byte[]"java.lang.String#getBytes()[B*
+
+messagejava.lang.String2
+getBytes()›⁄
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaR R('
+
+%7void"'java.security.MessageDigest#update([B)V*#
+!
+mdjava.security.MessageDigest*
+
+%6byte[]2
+update([B)Ã…
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaS" S(-
+%8byte[]"&java.security.MessageDigest#digest()[B*#
+!
+mdjava.security.MessageDigest2digest()ì
+ê
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaS S(.
+
+digestDatabyte[]"__id*
+
+%8byte[]ë
+é
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaV V(
+digestjava.lang.String"__id*
+""*
+2
+3*§
+5b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaH H(5µ
+≤
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaH H(5!
+mdjava.security.MessageDigest"__id*#
+!
+%0java.security.MessageDigest*
+4*ï
+9b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaH H(¶
+£
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaH H(5!
+%0java.security.MessageDigest"Xjava.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;*"
+java.security.MessageDigest*
+
+	algorithmjava.lang.String*
+5*à
+10b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaF F( ò
+ï
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaF F(!!
+mdjava.security.MessageDigest"__id*
+""*
+9*Ï
+1b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaa a("Ç
+b
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/MessageDigester.javaa a(
+
+digestjava.lang.String:
+messagejava.lang.String:
+	algorithmjava.lang.String:
+""B&"$
+"org.exist.security.MessageDigester

@@ -1,0 +1,23 @@
+
+Yorg.exist.xquery.util.ExpressionDumper#display(C)Lorg/exist/xquery/util/ExpressionDumper;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javai i(#"1*Ž
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaj j(Á
+¾
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaj j(
+%0java.io.PrintWriter"__id*3*1(
+&org.exist.xquery.util.ExpressionDumper"
+outÅÂ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaj j(
+
+%1void"java.io.PrintWriter#print(C)V*
+
+%0java.io.PrintWriter*
+""2print(C)"”
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javak k(*(
+&org.exist.xquery.util.ExpressionDumper:
+""B*(
+&org.exist.xquery.util.ExpressionDumper

@@ -1,0 +1,17 @@
+
+=org.exist.TestUtils#resolveHamletSample()Ljava/nio/file/Path;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaî î(*"1*Ô
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaï ï('ø
+õ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaï ï(5
+%0java.nio.file.Path"Torg.exist.TestUtils#resolveShakespeareSample(Ljava/lang/String;)Ljava/nio/file/Path;*"
+org.exist.TestUtils*
+
+hamlet.xml"x
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaï ï(6
+
+%0java.nio.file.PathB"
+org.exist.TestUtils

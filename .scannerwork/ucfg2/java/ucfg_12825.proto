@@ -1,0 +1,27 @@
+
+Corg.exist.source.StringSource#getInputStream()Ljava/io/InputStream;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaW W(%"1*ú
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaX, X(0≠
+™
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaX, X(0
+%0java.lang.String"__id*+*)
+org.exist.source.StringSource"
+dataê
+ç
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaX: X(?
+%1java.nio.charset.Charset"__id*
+""ãà
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaX, X(@
+%2byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+%0java.lang.String* 
+
+%1java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)"g
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/StringSource.javaX X(B
+""B!
+org.exist.source.StringSource

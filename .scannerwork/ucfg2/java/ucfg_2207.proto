@@ -1,0 +1,35 @@
+
+Oorg.exist.xquery.modules.mail.SendEmailFunction$Mail#getTo(I)Ljava/lang/String;„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java´
+ ´
+("1*ê
+1„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java¶
+ ¶
+(è
+å
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java¶
+ ¶
+(
+%0java.util.List"__id*@*>6
+4org.exist.xquery.modules.mail.SendEmailFunction$Mail"
+toÎ
+Ë
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java¶
+ ¶
+( 
+%1java.lang.String"
+__arrayGet*
+
+%0java.util.List*
+"""¡
+„
+xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java¶
+ ¶
+(!
+
+%1java.lang.String:
+""B86
+4org.exist.xquery.modules.mail.SendEmailFunction$Mail

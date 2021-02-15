@@ -1,0 +1,16 @@
+
+Eorg.exist.storage.txn.Txn#getState()Lorg/exist/storage/txn/Txn$State;Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.javaH H("1*ù
+1Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.javaI I(µ
+≤
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.javaI I(%
+%0org.exist.storage.txn.Txn$State"__id*(*&
+org.exist.storage.txn.Txn"
+state"Ñ
+Y
+OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.javaI I('
+%
+%0org.exist.storage.txn.Txn$StateB
+org.exist.storage.txn.Txn

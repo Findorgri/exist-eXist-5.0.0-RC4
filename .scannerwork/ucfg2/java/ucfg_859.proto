@@ -1,0 +1,131 @@
+
+~org.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getFormParam(Ljava/lang/String;)Ljava/lang/Object;²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java­ ­("startingBlock*Î
+2²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÄ Ä('Á
+¾
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÄ Ä(,
+%7java.lang.Object"‚org.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getGetParameters(Ljava/lang/String;)Ljava/lang/Object;*OM
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter*
+
+keyjava.lang.String"Ï
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÄ Ä(-
+
+%7java.lang.Object*•
+3²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÁ Á(&"Ú
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÁ Á('#
+!
+formFieldValuesjava.util.List*»
+startingBlock²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java­ ­(0ý
+ú
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¬ ¬(
+%8"
+__annotate*
+java.lang.Override*
+
+keyjava.lang.Stringç
+ä
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java­, ­(/
+keyjava.lang.String"__annotation*
+
+%8*
+15
+11
+1*Ï
+15²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¯ ¯(#Á
+¾
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¯ ¯((
+%0java.lang.Object"‚org.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getGetParameters(Ljava/lang/String;)Ljava/lang/Object;*OM
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter*
+
+keyjava.lang.String"Ï
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¯ ¯()
+
+%0java.lang.Object*€
+4²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¿1 ¿(;´
+±
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¿1 ¿(;
+%5java.util.Map"__id*_*]M
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter"
+
+formFieldsŠ
+‡
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¿1 ¿(D
+%6java.util.List"__mapGet*
+
+%5java.util.Map*
+
+keyjava.lang.Stringù
+ö
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¿ ¿(E!
+formFieldValuesjava.util.List"__id*
+
+%6java.util.List*
+2
+3*ô
+5²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java· ·(6´
+±
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java· ·(6]M
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter"
+
+formFields"__id*
+
+%3java.util.Map*
+4*ú
+8²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¶ ¶(<ö
+ó
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¶ ¶(<
+injava.io.InputStream"__id*
+
+%2java.io.InputStreamÁ
+¾
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java·! ·(6
+%3java.util.Map"ƒorg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#extractFormFields(Ljava/io/InputStream;)Ljava/util/Map;*OM
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter*
+
+injava.io.InputStream*
+5*é
+9²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¶+ ¶(9©¦
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java¶+ ¶(;
+%2java.io.InputStream"qorg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getInputStream()Ljava/io/InputStream;*OM
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter2getInputStream()*
+8*ø
+11²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java³ ³(´
+±
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java³ ³(
+%1java.util.Map"__id*_*]M
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter"
+
+formFields*
+4
+9*ø
+1²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÈ È("½
+²
+¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÈ È(
+"":
+keyjava.lang.StringBOM
+Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter

@@ -1,0 +1,99 @@
+
+?org.exist.storage.serializers.Serializer#getHighlightingMode()Ij
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¸ ¸(""8*ð
+2j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÀ À( ˆ
+…
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÀ À( 	
+%7int"__id*
+"""t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÀ À(!
+""*ð
+3j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¿ ¿(öó
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¿ ¿(&
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+attributes*
+
+optionjava.lang.String2equals(Ljava/lang/Object;)*
+2
+1*ð
+4j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¾ ¾(ˆ
+…
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¾ ¾(	
+%5int"__id*
+"""t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¾ ¾(
+""*î
+5j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java½ ½(ôñ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java½ ½($
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+elements*
+
+optionjava.lang.String2equals(Ljava/lang/Object;)*
+3
+4*ð
+6j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¼ ¼(ˆ
+…
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¼ ¼(	
+%3int"__id*
+"""t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¼ ¼(
+""*é
+7j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java» »($ïì
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java» »(3
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+all*
+
+optionjava.lang.String2equals(Ljava/lang/Object;)*
+5
+6*ã
+8j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaº º(Ú×
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaº º(=
+%0"lorg.exist.storage.serializers.Serializer#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*,*
+(org.exist.storage.serializers.Serializer*
+""*
+
+elements21getProperty(Ljava/lang/String;Ljava/lang/String;)™
+–
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java¹ º(>
+optionjava.lang.String"__id*
+
+%0ðí
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java» »(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+both*
+
+optionjava.lang.String2equals(Ljava/lang/Object;)*
+6
+7*ð
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÂ Â(ˆ
+…
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÂ Â(	
+%8int"__id*
+"""t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÂ Â(
+""B,*
+(org.exist.storage.serializers.Serializer

@@ -1,0 +1,107 @@
+
+Åorg.exist.client.LabelledBooleanEditor#getTableCellEditorComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZII)Ljava/awt/Component;f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java0 0(0"startingBlock*´
+startingBlockg
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java00 0(ì¥
+±
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java/ /(
+%9"
+__annotate*
+java.lang.Override*
+
+tablejavax.swing.JTableû
+õ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java0> 0(C
+tablejavax.swing.JTable"__annotation*
+
+%9≥
+∞
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java/ /(
+%10"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.Objectù
+ö
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java0R 0(W
+valuejava.lang.Object"__annotation*
+
+%10*
+1*¥
+1f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java14 1(9üú
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java2% 2(.
+%0javax.swing.JCheckBox"javax.swing.JCheckBoxÂ
+‚
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java2! 2(I
+%1"Cjavax.swing.JCheckBox#<init>(Ljava/lang/String;Ljavax/swing/Icon;)V*
+
+%0javax.swing.JCheckBox*
+""*
+""±
+Æ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java2 2(J
+chkBoxjavax.swing.JCheckBox"__id*
+
+%0javax.swing.JCheckBoxÑ
+Å
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java4& 4(9	
+%2int"__id*
+""˘ˆ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java4 4(:
+
+%3void"5javax.swing.AbstractButton#setHorizontalAlignment(I)V*!
+
+chkBoxjavax.swing.JCheckBox*
+	
+%2int2setHorizontalAlignment(I)Ñ
+Å
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java5) 5(=	
+%4int"__id*
+""ˇ¸
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java5 5(>
+
+%5void"8javax.swing.AbstractButton#setHorizontalTextPosition(I)V*!
+
+chkBoxjavax.swing.JCheckBox*
+	
+%4int2setHorizontalTextPosition(I)œÃ
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java7% 7(33
+%6-Lorg/exist/client/LabelledBooleanEditor$1983;"-Lorg/exist/client/LabelledBooleanEditor$1983;ƒ
+¡
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java7! =(	
+%7"java.lang.Object#<init>()V*5
+3
+%6-Lorg/exist/client/LabelledBooleanEditor$1983;’“
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java7 =(
+
+
+%8void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*!
+
+chkBoxjavax.swing.JCheckBox*5
+3
+%6-Lorg/exist/client/LabelledBooleanEditor$1983;22addActionListener(Ljava/awt/event/ActionListener;)"ã
+f
+\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/LabelledBooleanEditor.java? ?(!
+
+chkBoxjavax.swing.JCheckBox:
+tablejavax.swing.JTable:
+valuejava.lang.Object:
+"":
+"":
+""B*(
+&org.exist.client.LabelledBooleanEditor

@@ -1,0 +1,47 @@
+
+?org.exist.webdav.MiltonDocument#getCreateDate()Ljava/util/Date;s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaô ô("3*£
+2s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaû" û(&ûõ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaû û(!
+%0java.util.Date"java.util.DateÀ
+»
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaû û('
+%1"java.util.Date#<init>(J)V*
+
+%0java.util.Date*
+
+timejava.lang.Long¥
+±
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaû û('
+
+createDatejava.util.Date"__id*
+
+%0java.util.Date*
+1*»
+3s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaö ö(§
+°
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaö ö(
+
+createDatejava.util.Date"__id*
+""û
+õ
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.javaú ú(4
+timejava.lang.Long"__id*
+""*
+2
+1*ê
+1s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.java° °("ï
+s
+gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonDocument.java° °(
+
+
+createDatejava.util.DateB#!
+org.exist.webdav.MiltonDocument

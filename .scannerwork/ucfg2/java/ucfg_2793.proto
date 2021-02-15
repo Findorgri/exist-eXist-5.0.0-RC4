@@ -1,0 +1,77 @@
+
+Dorg.exist.xquery.value.AbstractSequence#toString()Ljava/lang/String;g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javap p("16*Ú
+3g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.java} }(""É
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.java} }("
+
+%6java.lang.String*Œ
+15g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javar r(:≥
+∞
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javar r(:
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderùö
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javas s(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+(2append(Ljava/lang/String;)*	
+5
+7
+9*‹
+4g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.java} }(ËÂ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.java} }(!
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()*
+3*”
+16g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javar& r(9§°
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javar* r(7
+%0java.lang.StringBuilder"java.lang.StringBuilder∂
+≥
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javar& r(9
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder*
+15*ë
+5g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.java| |(ùö
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.java| |(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+)2append(Ljava/lang/String;)*
+4*ˇ
+7g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javay y((ÖÇ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javay y((
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*	
+5
+7
+9*í
+9g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaw w(ûõ
+g
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaw w($
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+, 2append(Ljava/lang/String;)*
+7B+)
+'org.exist.xquery.value.AbstractSequence

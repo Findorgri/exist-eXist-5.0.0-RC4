@@ -1,0 +1,30 @@
+
+Corg.exist.management.Cache#getAllInstancesQuery()Ljava/lang/String;Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java$ $(-"1*ß
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java% %(&£
+ 
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java% %(,
+%0java.lang.String"__concat*
+org.exist.management.*
+*º
+·
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java% %(J
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+:type=CacheManager.Cache,¢
+Ÿ
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java% %(P
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+*"v
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java% %(Q
+
+%2java.lang.StringB"
+org.exist.management.Cache

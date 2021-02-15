@@ -1,0 +1,34 @@
+
+0org.exist.util.UTF8#encoded(Ljava/lang/String;)IU
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¡ ¡( "8"10*“
+7U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¬ ¬(±®
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¬ ¬(
+
+%1char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)*
+8*‹
+8U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaª ª(¦£
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.javaª ª("	
+%0int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+7
+1*¼
+10U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¤ ¤("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¤ ¤(
+""*»
+1U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¹	 ¹("_
+U
+IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/UTF8.java¹ ¹(
+"":
+strjava.lang.StringB"
+org.exist.util.UTF8

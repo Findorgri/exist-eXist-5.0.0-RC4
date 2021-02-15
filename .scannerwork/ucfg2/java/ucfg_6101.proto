@@ -1,0 +1,232 @@
+
+torg.exist.util.OrderedLinkedList#add(Lorg/exist/util/OrderedLinkedList$Node;)Lorg/exist/util/OrderedLinkedList$Node;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaG G("12*¼
+2`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javab b(Ï
+Ì
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javab b(."
+ org.exist.util.OrderedLinkedList"
+header"__id*2
+0
+newNode%org.exist.util.OrderedLinkedList$Node*
+1*ñ
+3`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java_ _(Ø
+Õ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java_ _(7
+-
+node%org.exist.util.OrderedLinkedList$Node"
+prev"__id*2
+0
+newNode%org.exist.util.OrderedLinkedList$NodeØ
+Õ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java` `(:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+next"__id*/
+-
+node%org.exist.util.OrderedLinkedList$NodeË
+È
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaa a(,
+%10%org.exist.util.OrderedLinkedList$Node"__id*0*."
+ org.exist.util.OrderedLinkedList"
+header*
+2
+1*œ
+4`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java^ ^(Ö
+Ó
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java^ ^(+
+%9%org.exist.util.OrderedLinkedList$Node"__id*<*:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+prevÖ
+Ó
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java^ ^(5
++
+%9%org.exist.util.OrderedLinkedList$Node"
+next"__id*2
+0
+newNode%org.exist.util.OrderedLinkedList$Node*
+3*õ
+5`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java\ \(	Ó
+Ð
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java\ \(+
+%7%org.exist.util.OrderedLinkedList$Node"__id*9*7
+-
+node%org.exist.util.OrderedLinkedList$Node"
+prevÖ
+Ó
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java\ \(:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+prev"__id*-
++
+%7%org.exist.util.OrderedLinkedList$NodeÖ
+Ó
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java] ](+
+%8%org.exist.util.OrderedLinkedList$Node"__id*<*:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+prev*
+3
+4*Œ
+6`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaY
+ Y(Ó
+Ð
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaY
+ Y(+
+%6%org.exist.util.OrderedLinkedList$Node"__id*9*7
+-
+node%org.exist.util.OrderedLinkedList$Node"
+nextÉ
+Æ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaY Y(-
+node%org.exist.util.OrderedLinkedList$Node"__id*-
++
+%6%org.exist.util.OrderedLinkedList$Node*
+9*„
+7`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaT T(Ø
+Õ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaT T(7
+-
+node%org.exist.util.OrderedLinkedList$Node"
+next"__id*2
+0
+newNode%org.exist.util.OrderedLinkedList$NodeØ
+Õ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaU U(:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+prev"__id*/
+-
+node%org.exist.util.OrderedLinkedList$NodeÍ
+Ê
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaV V(,"
+ org.exist.util.OrderedLinkedList"
+last"__id*2
+0
+newNode%org.exist.util.OrderedLinkedList$Node"–
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaW W(2
+0
+newNode%org.exist.util.OrderedLinkedList$Node*Ã
+8`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaR R(Ó
+Ð
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaR R(+
+%5%org.exist.util.OrderedLinkedList$Node"__id*9*7
+-
+node%org.exist.util.OrderedLinkedList$Node"
+next*
+6
+7*Ô
+9`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaQ	 Q(äá
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaQ	 Q( 	
+%4int"Yorg.exist.util.OrderedLinkedList$Node#compareTo(Lorg/exist/util/OrderedLinkedList$Node;)I*2
+0
+newNode%org.exist.util.OrderedLinkedList$Node*/
+-
+node%org.exist.util.OrderedLinkedList$Node22compareTo(Lorg/exist/util/OrderedLinkedList$Node;)*
+5
+8*„
+10`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaP P(Ê
+Ç
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaP P(+
+%3%org.exist.util.OrderedLinkedList$Node"__id*0*."
+ org.exist.util.OrderedLinkedList"
+headerÉ
+Æ
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaP P(-
+node%org.exist.util.OrderedLinkedList$Node"__id*-
++
+%3%org.exist.util.OrderedLinkedList$Node*
+9*±
+11`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaL L(Ï
+Ì
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaL L(."
+ org.exist.util.OrderedLinkedList"
+header"__id*2
+0
+newNode%org.exist.util.OrderedLinkedList$NodeÊ
+Ç
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaM M(+
+%1%org.exist.util.OrderedLinkedList$Node"__id*0*."
+ org.exist.util.OrderedLinkedList"
+headerÈ
+Å
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaM M(,"
+ org.exist.util.OrderedLinkedList"
+last"__id*-
++
+%1%org.exist.util.OrderedLinkedList$NodeÊ
+Ç
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaN
+ N(+
+%2%org.exist.util.OrderedLinkedList$Node"__id*0*."
+ org.exist.util.OrderedLinkedList"
+header"‘
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaN N(-
++
+%2%org.exist.util.OrderedLinkedList$Node*¡
+12`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaH H(	¯
+¬
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaH H(:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+next"__id*
+""¯
+¬
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaI I(:
+0
+newNode%org.exist.util.OrderedLinkedList$Node"
+prev"__id*
+""Ê
+Ç
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javaK K(+
+%0%org.exist.util.OrderedLinkedList$Node"__id*0*."
+ org.exist.util.OrderedLinkedList"
+header*
+10
+11*þ
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javac c("–
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.javac c(2
+0
+newNode%org.exist.util.OrderedLinkedList$Node:0
+newNode%org.exist.util.OrderedLinkedList$NodeB$"
+ org.exist.util.OrderedLinkedList

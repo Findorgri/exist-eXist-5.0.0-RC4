@@ -1,0 +1,17 @@
+
+=org.exist.storage.lock.FileLock#getFile()Ljava/nio/file/Path;a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÐ Ð("1*£
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÑ Ñ(¹
+¶
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÑ Ñ(
+%0java.nio.file.Path"__id*1*/!
+org.exist.storage.lock.FileLock"
+
+lockFile"
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÑ Ñ(
+
+%0java.nio.file.PathB#!
+org.exist.storage.lock.FileLock

@@ -1,0 +1,24 @@
+
+Qorg.exist.dom.persistent.ProcessingInstructionImpl#getBaseURI()Ljava/lang/String;r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javat t("2"1*õ
+2r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaw w("|
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javaw w('
+""*”
+1r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javay y(#š—
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javay y(%
+%0org.w3c.dom.Document"9org.w3c.dom.Node#getOwnerDocument()Lorg/w3c/dom/Document;*64
+2org.exist.dom.persistent.ProcessingInstructionImpl2getOwnerDocument()ìé
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javay y(2
+%1java.lang.String"/org.w3c.dom.Node#getBaseURI()Ljava/lang/String;*
+
+%0org.w3c.dom.Document2getBaseURI()"Ž
+r
+hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ProcessingInstructionImpl.javay y(3
+
+%1java.lang.StringB64
+2org.exist.dom.persistent.ProcessingInstructionImpl

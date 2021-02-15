@@ -1,0 +1,50 @@
+
+Norg.exist.xquery.value.DurationValue#monthsValueSigned()Ljava/math/BigInteger;f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÞ Þ(*"3*ƒ
+2f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaá á(ãà
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaá á(
+%3java.math.BigInteger"3java.math.BigInteger#negate()Ljava/math/BigInteger;*
+
+xjava.math.BigInteger2negate()ª
+§
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaá á(
+xjava.math.BigInteger"__id*
+
+%3java.math.BigInteger*
+1*Í
+3f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaß ß("Š‡
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaß ß($
+%0java.math.BigInteger"Horg.exist.xquery.value.DurationValue#monthsValue()Ljava/math/BigInteger;*(&
+$org.exist.xquery.value.DurationValue2monthsValue()ª
+§
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaß ß(%
+xjava.math.BigInteger"__id*
+
+%0java.math.BigIntegerÌ
+É
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaà à(!
+%1javax.xml.datatype.Duration"__id*6*4&
+$org.exist.xquery.value.DurationValue"
+
+durationÎË
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaà à(	
+%2int"&javax.xml.datatype.Duration#getSign()I*#
+!
+%1javax.xml.datatype.Duration2	getSign()*
+2
+1*ó
+1f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaã ã("…
+f
+ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaã ã(
+
+xjava.math.BigIntegerB(&
+$org.exist.xquery.value.DurationValue

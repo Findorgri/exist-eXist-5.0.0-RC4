@@ -1,0 +1,48 @@
+
+Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¢ ¢("startingBlock*È
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¢ ¢(*¯
+¬
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¡ ¡(
+%3"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String™
+–
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¢% ¢()
+namejava.lang.String"__annotation*
+
+%3*
+1*´
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¤ ¤(Ê
+Ç
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¤ ¤(
+
+%0void"+org.exist.config.ConfigurationImpl#cache()V*&$
+"org.exist.config.ConfigurationImpl·
+´
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¦ ¦(
+%1java.util.Map"__id*1*/$
+"org.exist.config.ConfigurationImpl"
+props¾
+»
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¦ ¦(
+%2java.lang.String"__mapGet*
+
+%1java.util.Map*
+
+namejava.lang.String"€
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¦ ¦(
+
+%2java.lang.String:
+namejava.lang.StringB&$
+"org.exist.config.ConfigurationImpl

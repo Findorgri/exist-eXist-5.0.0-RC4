@@ -1,0 +1,124 @@
+
+]org.exist.fluent.QueryService#presub(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∂ ∂("4"5*ˆ
+2q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaª ª(
+¯ı
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaªD ª(T
+%5java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*$
+"
+matcherjava.util.regex.Matcher*22group(I)„
+‡
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaª3 ª(U	
+%6int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+%5java.lang.String¬
+ø
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaª, ª(X
+%7java.lang.Object"
+__arrayGet*
+
+paramsjava.lang.Object[]*
+""”–
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaª" ª(o
+%8java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%7java.lang.Object*
+\\*
+\\\\29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)“œ
+r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaª" ª(É
+%9java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%8java.lang.String*
+$*
+\\$29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)ß§
+r
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaª ª(Ñ
+%10java.util.regex.Matcher"njava.util.regex.Matcher#appendReplacement(Ljava/lang/StringBuffer;Ljava/lang/String;)Ljava/util/regex/Matcher;*$
+"
+matcherjava.util.regex.Matcher*
+
+bufjava.lang.StringBuffer*
+
+%9java.lang.String2=appendReplacement(Ljava/lang/StringBuffer;Ljava/lang/String;)*
+3*’
+3q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∫ ∫(‘—
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∫ ∫(
+%4boolean"java.util.regex.Matcher#find()Z*$
+"
+matcherjava.util.regex.Matcher2find()*
+2
+1*‡
+
+4q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∏ ∏('¨©
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∏ ∏(%
+%0java.lang.StringBuffer"java.lang.StringBufferæ
+ª
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∏ ∏('
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBufferª
+∏
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∏ ∏((
+bufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer£
+†
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaπ π(#
+%2java.util.regex.Pattern"__id*
+"" «
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaπ π(2
+%3java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%2java.util.regex.Pattern*
+
+queryjava.lang.String2!matcher(Ljava/lang/CharSequence;)¡
+æ
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaπ π(3"
+matcherjava.util.regex.Matcher"__id*
+
+%3java.util.regex.Matcher*
+3*â
+5q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∑ ∑(""ê
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java∑ ∑(#
+
+queryjava.lang.String*÷
+1q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaΩ Ω(	ÿ’
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaΩ Ω(
+%11java.lang.StringBuffer"Tjava.util.regex.Matcher#appendTail(Ljava/lang/StringBuffer;)Ljava/lang/StringBuffer;*$
+"
+matcherjava.util.regex.Matcher*
+
+bufjava.lang.StringBuffer2$appendTail(Ljava/lang/StringBuffer;)ÒÓ
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaæ	 æ(
+%12java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"é
+q
+eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaæ æ(
+
+%12java.lang.String:
+queryjava.lang.String:
+paramsjava.lang.Object[]B!
+org.exist.fluent.QueryService

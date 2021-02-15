@@ -1,0 +1,68 @@
+
+Qorg.exist.storage.IndexSpec#getNamespaceMap(Lorg/w3c/dom/Element;)Ljava/util/Map;]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java≤  ≤(/"3*ç
+2]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaµ µ($£
+†
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaµ µ($
+elemorg.w3c.dom.Element"__id*
+
+parentorg.w3c.dom.Node*
+1*Ï
+3]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java≥ ≥( ﬁ€
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java≥ ≥(0
+%0org.w3c.dom.Node"2org.w3c.dom.Node#getParentNode()Lorg/w3c/dom/Node;*
+
+elemorg.w3c.dom.Element2getParentNode()û
+õ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java≥ ≥(1
+parentorg.w3c.dom.Node"__id*
+
+%0org.w3c.dom.Node*
+2
+1*ˆ
+1]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java∂, ∂(;éã
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java∂0 ∂(9
+%1java.util.HashMap"java.util.HashMap†
+ù
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java∂, ∂(;
+%2"java.util.HashMap#<init>()V*
+
+%1java.util.HashMapù
+ö
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java∂ ∂(<
+mapjava.util.HashMap"__id*
+
+%1java.util.HashMapü
+ú
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java∑ ∑()
+%3"__mapSet*
+
+mapjava.util.HashMap*
+xml*
+""û
+õ
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.java∏ ∏("
+
+%4void"Rorg.exist.storage.IndexSpec#getNamespaceMap(Lorg/w3c/dom/Element;Ljava/util/Map;)V*
+org.exist.storage.IndexSpec*
+
+elemorg.w3c.dom.Element*
+
+mapjava.util.HashMap"{
+]
+QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaπ π(
+
+mapjava.util.HashMap:
+elemorg.w3c.dom.ElementB
+org.exist.storage.IndexSpec

@@ -1,0 +1,56 @@
+
+Korg.exist.xquery.value.BinaryValue#conversionPreference(Ljava/lang/Class;)Id
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java… …(#"startingBlock*Ÿ
+2d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.javaÀ À("n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.javaÀ À(
+""*Â
+3d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java #  (,ÒÓ
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java #  (C
+%1boolean"/java.lang.Class#isInstance(Ljava/lang/Object;)Z*
+
+	javaClassjava.lang.Class*
+""2isInstance(Ljava/lang/Object;)*
+2
+1*–
+startingBlockd
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java…# …(7≥
+∞
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java» »(
+%3"
+__annotate*
+java.lang.Override*
+
+	javaClassjava.lang.Classù
+ö
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java…- …(6
+	javaClassjava.lang.Class"__annotation*
+
+%3*
+4*≥
+4d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java   (øº
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.java   (
+%0boolean"java.lang.Class#isArray()Z*
+
+	javaClassjava.lang.Class2	isArray()*
+3
+1*›
+1d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.javaŒ Œ(Å
+
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.javaŒ Œ( 	
+%2int"__id*
+"""n
+d
+XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValue.javaŒ Œ(!
+"":
+	javaClassjava.lang.ClassB&$
+"org.exist.xquery.value.BinaryValue

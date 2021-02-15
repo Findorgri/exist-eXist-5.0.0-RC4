@@ -1,0 +1,22 @@
+
+`org.exist.fluent.Database#login(Ljava/lang/String;Ljava/lang/String;)Lorg/exist/fluent/Database;m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Database.javaâ â("1*Œ
+1m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Database.javaé é(®«
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Database.javaé é(
+%0org.exist.fluent.Database"org.exist.fluent.DatabaseÑ
+Î
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Database.javaé	 é(
+%1",org.exist.fluent.Database#<init>(LSubject;)V*!
+
+%0org.exist.fluent.Database*
+"""’
+m
+aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Database.javaé é(!
+
+%0org.exist.fluent.Database:
+usernamejava.lang.String:
+passwordjava.lang.StringB"
+org.exist.fluent.Database

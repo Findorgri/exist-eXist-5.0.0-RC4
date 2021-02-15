@@ -1,0 +1,21 @@
+
+Forg.exist.storage.StartupLockingTest$LockCountListener#isRegistered()Zk
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/StartupLockingTest.java¯ ¯(#"1*Ë
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/StartupLockingTest.java° °(ó
+ð
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/StartupLockingTest.java° °(/
+%0)java.util.concurrent.atomic.AtomicBoolean"__id*J*H8
+6org.exist.storage.StartupLockingTest$LockCountListener"
+
+registeredëè
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/StartupLockingTest.java° °(#
+%1boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*1
+/
+%0)java.util.concurrent.atomic.AtomicBoolean2get()"u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/StartupLockingTest.java° °($
+""B:8
+6org.exist.storage.StartupLockingTest$LockCountListener

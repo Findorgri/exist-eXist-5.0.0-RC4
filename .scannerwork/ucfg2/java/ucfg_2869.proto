@@ -1,0 +1,27 @@
+
+4org.exist.storage.index.BFile$BFileHeader#write([B)I_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java´ ´("startingBlock*£
+startingBlock_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java´ ´(*Ÿ
+œ
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java³ ³(
+%0"
+__annotate*
+java.lang.Override*
+
+bufbyte[]‰
+†
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java´& ´()
+bufbyte[]"__annotation*
+
+%0*
+1*Ï
+1_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaµ µ($"i
+_
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java¶ ¶(/
+"":
+bufbyte[]B-+
+)org.exist.storage.index.BFile$BFileHeader

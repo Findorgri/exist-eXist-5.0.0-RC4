@@ -1,0 +1,34 @@
+
+Borg.exist.xmldb.LocalCollection#listResources()[Ljava/lang/String;a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÈ È(!"1*°	
+1a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÉ$ É((ÌÉ
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÉ$ É(=
+%0"1org.exist.xmldb.LocalCollection#read()LFunctionE;*#!
+org.exist.xmldb.LocalCollection2read()‘
+Ž
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÉ Ù(
+	resourcesjava.util.List"__id*
+""°­
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÜ, Ü(<	
+%1int"java.util.List#size()I*
+
+	resourcesjava.util.List2size()”‘
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÜ! Ü(=
+%2java.lang.String[]"java.lang.String[]™–
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÜ Ü(>
+%3java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+	resourcesjava.util.List*
+
+%2java.lang.String[]2toArray([Ljava/lang/Object;)"
+a
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaÜ Ü(?
+
+%3java.lang.String[]B#!
+org.exist.xmldb.LocalCollection

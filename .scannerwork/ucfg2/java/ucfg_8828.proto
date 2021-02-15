@@ -1,0 +1,21 @@
+
+Dorg.exist.security.UUIDGenerator#getUUIDversion4()Ljava/lang/String;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UUIDGenerator.java< <(("1*ó
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UUIDGenerator.java= =(¼
+¹
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UUIDGenerator.java= =( 
+%0java.util.UUID"+java.util.UUID#randomUUID()Ljava/util/UUID;*"
+java.util.UUIDÎË
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UUIDGenerator.java= =(+
+%1java.lang.String"+java.util.UUID#toString()Ljava/lang/String;*
+
+%0java.util.UUID2
+toString()"|
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/UUIDGenerator.java= =(,
+
+%1java.lang.StringB$""
+ org.exist.security.UUIDGenerator

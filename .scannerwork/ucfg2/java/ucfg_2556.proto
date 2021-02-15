@@ -1,0 +1,231 @@
+
+:org.exist.xquery.modules.sql.SQLUtils#sqlTypeToXMLType(I)Ix
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaI I(&"1*É
+13x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javam o("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javan n(&
+""*É
+14x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javai k("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaj j(%
+""*É
+15x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javae g("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaf f(%
+""*É
+16x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaa c("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javab b(&
+""*É
+17x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.java] _("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.java^ ^(,
+""*É
+18x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaY [("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaZ Z("
+""*É
+19x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaU W("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaV V(,
+""*∑
+1x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaK K(ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaM M(	
+%0int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaQ Q(	
+%1int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaU U(	
+%2int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaY Y(	
+%3int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.java] ](	
+%4int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaa a(	
+%5int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javae e(	
+%6int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javai i(	
+%7int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javam m(	
+%8int"__id*
+""ñ
+ì
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaq q(	
+%9int"__id*
+""ó
+î
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javau u(
+
+%10int"__id*
+""ó
+î
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javay y("
+
+%11int"__id*
+""ó
+î
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.java} }(
+
+%12int"__id*
+""ô
+ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaÅ Å(
+
+%13int"__id*
+""ô
+ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaÖ Ö(
+
+%14int"__id*
+""ô
+ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaâ â(
+
+%15int"__id*
+""ô
+ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaç ç(
+
+%16int"__id*
+""ô
+ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaë ë(
+
+%17int"__id*
+""ô
+ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaï ï( 
+
+%18int"__id*
+""*H
+13
+14
+15
+16
+17
+18
+19
+2
+3
+4
+5
+6
+7
+8
+9
+20
+10
+21
+11
+12*Ü
+2z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaô õ("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaö ö('
+""*Ü
+3z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaï ó("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javañ ñ(&
+""*Ü
+4z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaë ì("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaí í(#
+""*Ü
+5z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaç è("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaé é(%
+""*Ü
+6z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaâ ã("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaä ä(&
+""*Ü
+7z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaÖ á("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaÜ Ü("
+""*Ü
+8z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaÅ É("Ñ
+z
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaÇ Ç("
+""*Ç
+9x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.java} ("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.java~ ~(%
+""*É
+20x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaQ S("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaR R("
+""*É
+10x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javay {("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaz z(%
+""*É
+21x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaM O("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaN N(#
+""*É
+11x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javau w("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javav v($
+""*É
+12x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javaq s("Ç
+x
+nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLUtils.javar r(%
+"":
+""B)"'
+%org.exist.xquery.modules.sql.SQLUtils

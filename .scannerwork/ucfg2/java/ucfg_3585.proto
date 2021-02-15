@@ -1,0 +1,20 @@
+
+Corg.exist.dom.persistent.AVLTreeNodeSet$InorderTraversal#hasNext()Zi
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java³ ³("1*ÿ
+1i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java´ ´(Ô
+Ñ
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java´ ´(
+%0java.util.Deque"__id*G*E:
+8org.exist.dom.persistent.AVLTreeNodeSet$InorderTraversal"
+nodesÂ¿
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java´ ´(#
+%1boolean"java.util.Collection#isEmpty()Z*
+
+%0java.util.Deque2	isEmpty()"s
+i
+]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java´ ´($
+""B<:
+8org.exist.dom.persistent.AVLTreeNodeSet$InorderTraversal

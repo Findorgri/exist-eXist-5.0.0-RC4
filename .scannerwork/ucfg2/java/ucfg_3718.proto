@@ -1,0 +1,31 @@
+
+Forg.exist.fluent.Source$9#createInputSource()Lorg/xml/sax/InputSource;k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaò ò(*"1*ç
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaô, ô(3¢ü
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaô ô(+
+%0java.io.StringReader"java.io.StringReaderŒ
+À
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaô ô(4
+%1"0java.io.StringReader#<init>(Ljava/lang/String;)V*
+
+%0java.io.StringReader*
+""®•
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaô ô(
+%2org.xml.sax.InputSource"org.xml.sax.InputSourceË
+Â
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaô ô(5
+%3"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V*
+
+%2org.xml.sax.InputSource*
+
+%0java.io.StringReader"é
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaô ô(6
+
+%2org.xml.sax.InputSourceB
+org.exist.fluent.Source$9

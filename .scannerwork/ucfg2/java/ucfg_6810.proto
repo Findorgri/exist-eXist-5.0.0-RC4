@@ -1,0 +1,21 @@
+
+'org.exist.xmldb.FullXmldbURI#getPort()I^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÓ Ó("1*ª
+1^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÔ Ô(¯
+¬
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÔ Ô(
+%0java.net.URI"__id*0*.
+org.exist.xmldb.FullXmldbURI"
+
+wrappedURI¨¥
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÔ Ô(#	
+%1int"java.net.URI#getPort()I*
+
+%0java.net.URI2	getPort()"h
+^
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÔ Ô($
+""B 
+org.exist.xmldb.FullXmldbURI

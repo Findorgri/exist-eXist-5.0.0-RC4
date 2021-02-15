@@ -1,0 +1,83 @@
+
+Corg.exist.debuggee.dbgp.packets.Source#toString()Ljava/lang/String;|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaÛ Û("3*­
+
+2|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaá á(Á¾
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaá á(!
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+fileURI = '2append(Ljava/lang/String;)Ø
+Õ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaâ â(
+%5java.lang.String"__id*7*5(
+&org.exist.debuggee.dbgp.packets.Source"	
+fileURIÊÇ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaâ â(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+
+%5java.lang.String2append(Ljava/lang/String;)¸µ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaã ã(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+' 2append(Ljava/lang/String;)*
+1*þ	
+3|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaÝ Ý(.¹¶
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaÝ Ý(,
+%0java.lang.StringBuilder"java.lang.StringBuilderË
+È
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaÝ Ý(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderÍ
+Ê
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaÝ Ý(/#
+responsejava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder½º
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaÞ Þ(
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*	
+source 2append(Ljava/lang/String;)Ø
+Õ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaà à(
+%3java.lang.String"__id*7*5(
+&org.exist.debuggee.dbgp.packets.Source"	
+fileURI*
+2
+1*Ã
+1|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaæ æ(
+Ÿœ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaæ æ((
+%8"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)‚ÿ
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaè	 è(
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+responsejava.lang.StringBuilder2
+toString()"˜
+|
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Source.javaè è(
+
+%9java.lang.StringB*(
+&org.exist.debuggee.dbgp.packets.Source

@@ -1,0 +1,124 @@
+
+gorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter#toString()Ljava/lang/String;¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaK K("4*›
+2¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaP P(¶
+³
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaP P(
+%8javax.xml.namespace.QName"__id*X*VL
+Jorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter"
+name´±
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaP P(!
+%9java.lang.String"6javax.xml.namespace.QName#toString()Ljava/lang/String;*!
+
+%8javax.xml.namespace.QName2
+toString()î
+ë
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaP P(!
+strjava.lang.String"__id*
+
+%9java.lang.String*
+1*ž
+3¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN N(¶
+³
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN N(
+%2javax.xml.namespace.QName"__id*X*VL
+Jorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter"
+name¶³
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN N("
+%3java.lang.String"7javax.xml.namespace.QName#getPrefix()Ljava/lang/String;*!
+
+%2javax.xml.namespace.QName2getPrefix()ø
+õ
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN N((
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+:¶
+³
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN+ N(/
+%5javax.xml.namespace.QName"__id*X*VL
+Jorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter"
+name¼¹
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN+ N(>
+%6java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*!
+
+%5javax.xml.namespace.QName2getLocalPart()‹
+ˆ
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN N(>
+%7java.lang.String"__concat*
+
+%4java.lang.String*
+
+%6java.lang.Stringî
+ë
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaN N(>
+strjava.lang.String"__id*
+
+%7java.lang.String*
+1*Ž
+4¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaL L(Ü
+Ù
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaL L(
+strjava.lang.String"__id*
+""¶
+³
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaM M(
+%0javax.xml.namespace.QName"__id*X*VL
+Jorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter"
+name¶³
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaM M(
+%1java.lang.String"7javax.xml.namespace.QName#getPrefix()Ljava/lang/String;*!
+
+%0javax.xml.namespace.QName2getPrefix()*
+2
+3*€
+1¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaR R(…‚
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaR R('
+
+%10int"^org.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter#getArgumentCount()I*NL
+Jorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter2getArgumentCount()í
+ê
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaR R('
+%11java.lang.String"__concat*
+#*
+
+
+%10intŽ
+‹
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaR R('
+%12java.lang.String"__concat*
+
+strjava.lang.String*
+
+%11java.lang.Stringï
+ì
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaR R('
+strjava.lang.String"__id*
+
+%12java.lang.String"Í
+¯
+¤C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/FunctionSignatureAdapter.javaT T(
+
+strjava.lang.StringBNL
+Jorg.exist.extensions.exquery.restxq.impl.adapters.FunctionSignatureAdapter

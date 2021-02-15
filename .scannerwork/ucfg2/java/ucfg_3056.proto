@@ -1,0 +1,28 @@
+
+Uorg.exist.http.servlets.HttpRequestWrapper#getParameterNames()Ljava/util/Enumeration;l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaœ œ(("1*≤
+1l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java– –(»
+≈
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java–' –(-
+%0java.util.Map"__id*:*8,
+*org.exist.http.servlets.HttpRequestWrapper"
+paramsŒÀ
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java–' –(6
+%1java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%0java.util.Map2keySet()í
+è
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java– –(7
+%2java.util.Enumeration"Pjava.util.Collections#enumeration(Ljava/util/Collection;)Ljava/util/Enumeration;*"
+java.util.Collections*
+
+%1java.util.Set"ç
+l
+`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.java– –(8
+
+%2java.util.EnumerationB.,
+*org.exist.http.servlets.HttpRequestWrapper

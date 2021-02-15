@@ -1,0 +1,16 @@
+
+Lorg.exist.dom.persistent.SymbolTableTest#createTempDir()Ljava/nio/file/Path;o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/SymbolTableTest.javaÕ Õ(%"1*¬
+1o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/SymbolTableTest.javaŒ Œ(ª
+∏
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/SymbolTableTest.javaŒ Œ(A
+%0java.nio.file.Path"wjava.nio.file.Files#createTempDirectory(Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+exist-symbolTableTest"ç
+o
+cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/dom/persistent/SymbolTableTest.javaŒ Œ(B
+
+%0java.nio.file.PathB,"*
+(org.exist.dom.persistent.SymbolTableTest

@@ -1,0 +1,32 @@
+
+\org.exist.util.FileUtils#resolve(Ljava/util/Optional;Ljava/lang/String;)Ljava/nio/file/Path;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÑ Ñ("1*É
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÖ Ö(êç
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÖ Ö(0
+%0java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
+
+parentjava.util.Optional*
+""2"map(Ljava/util/function/Function;)É
+Ä
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÖ8 Ö(H
+%1java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+childjava.lang.Stringéã
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÖ Ö(I
+%2java.nio.file.Path"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%0java.util.Optional*
+
+%1java.nio.file.Path2orElse(Ljava/lang/Object;)"x
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.javaÖ Ö(J
+
+%2java.nio.file.Path:
+parentjava.util.Optional:
+childjava.lang.StringB"
+org.exist.util.FileUtils

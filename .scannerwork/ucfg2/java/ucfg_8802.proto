@@ -1,0 +1,27 @@
+
+Xorg.exist.dom.persistent.TextImpl#replaceWholeText(Ljava/lang/String;)Lorg/w3c/dom/Text;c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÇ Ç( "startingBlock*À
+startingBlockc
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÇ  Ç(6±
+Æ
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÅ Å(
+%0"
+__annotate*
+java.lang.Override*
+
+contentjava.lang.Stringõ
+ò
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÇ. Ç(5
+contentjava.lang.String"__annotation*
+
+%0*
+1*◊
+1c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÉ É("m
+c
+WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaÉ É(
+"":
+contentjava.lang.StringB%#
+!org.exist.dom.persistent.TextImpl

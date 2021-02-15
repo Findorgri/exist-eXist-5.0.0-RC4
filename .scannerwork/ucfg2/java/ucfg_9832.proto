@@ -1,0 +1,42 @@
+
+7org.exist.storage.journal.Lsn#dump(J)Ljava/lang/String;]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java= =("1*¿
+1]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java>	 >(Ê
+Ç
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java>	 >(
+
+%0long"/org.exist.storage.journal.Lsn#getFileNumber(J)J*!"
+org.exist.storage.journal.Lsn*
+""š
+—
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java>	 >("
+%1java.lang.String"__concat*
+
+
+%0long*
+, Æ
+Ã
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java>% >(3
+
+%2long"+org.exist.storage.journal.Lsn#getOffset(J)J*!"
+org.exist.storage.journal.Lsn*
+""¬
+©
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java>	 >(3
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+
+%2long"y
+]
+SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java> >(4
+
+%3java.lang.String:
+""B!"
+org.exist.storage.journal.Lsn

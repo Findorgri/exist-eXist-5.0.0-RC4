@@ -1,0 +1,64 @@
+
+Lorg.exist.TestUtils#getExistHomeFile(Ljava/lang/String;)Ljava/util/Optional;Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java¢! ¢(1"3* 
+2Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java• •(Ó
+Î
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java• •($
+%4java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+pathjava.nio.file.Path"x
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java• •(%
+
+%4java.util.Optional*¸	
+3Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java£ £(& 
+«
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java£ £((
+%0java.util.Optional"6org.exist.TestUtils#getEXistHome()Ljava/util/Optional;*"
+org.exist.TestUtilsñì
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java£ £(H
+%1java.nio.file.Path"Mjava.util.Optional#orElseGet(Ljava/util/function/Supplier;)Ljava/lang/Object;*
+
+%0java.util.Optional*
+""2(orElseGet(Ljava/util/function/Supplier;)ñì
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java£ £(Z
+%2java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
+
+%1java.nio.file.Path*
+
+fileNamejava.lang.String2resolve(Ljava/lang/String;)ù
+ö
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java£ £([
+pathjava.nio.file.Path"__id*
+
+%2java.nio.file.PathÛ
+
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java§ §(
+%3boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
+java.nio.file.Files*
+
+pathjava.nio.file.Path*
+2
+1*ù
+1Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaß ß(¡
+æ
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaß ß(#
+%5java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
+java.util.Optional"x
+Z
+NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaß ß($
+
+%5java.util.Optional:
+fileNamejava.lang.StringB"
+org.exist.TestUtils

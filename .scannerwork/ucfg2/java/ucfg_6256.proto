@@ -1,0 +1,80 @@
+
+@org.exist.xmldb.concurrent.action.ComplexUpdateAction#execute()Zz
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaH H("3"1*Ó
+3z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaK K(ù
+ö
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaK K(
+%0"Korg.exist.xmldb.concurrent.action.ComplexUpdateAction#query(LCollection;I)V*97
+5org.exist.xmldb.concurrent.action.ComplexUpdateAction*
+""*
+""•
+¢
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaN N(
+%1java.lang.String"__id*
+""¡
+æ
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaN N(
+%2"]org.exist.xmldb.concurrent.action.ComplexUpdateAction#update(LCollection;Ljava/lang/String;)V*97
+5org.exist.xmldb.concurrent.action.ComplexUpdateAction*
+""*
+
+%1java.lang.StringØ
+¨
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaQ R(<
+%3java.lang.String"__concat*PN
+L<xu:modifications xmlns:xu=\"http://www.xmldb.org/xupdate\" version=\"1.0\">*:8
+6<xu:update select=\"//USER-SESSION-DATA[1]/@version\">√
+¿
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaQ R(F
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""‡
+›
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaQ S(%
+%5java.lang.String"__concat*
+
+%4java.lang.String*#!
+</xu:update></xu:modifications>¬
+ø
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaP S(&!
+versionUpdatejava.lang.String"__id*
+
+%5java.lang.StringÃ
+…
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaT T(
+%6"]org.exist.xmldb.concurrent.action.ComplexUpdateAction#update(LCollection;Ljava/lang/String;)V*97
+5org.exist.xmldb.concurrent.action.ComplexUpdateAction*
+""*#
+!
+versionUpdatejava.lang.String•
+¢
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaU U(
+%7java.lang.String"__id*
+""¡
+æ
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaU U(
+%8"]org.exist.xmldb.concurrent.action.ComplexUpdateAction#update(LCollection;Ljava/lang/String;)V*97
+5org.exist.xmldb.concurrent.action.ComplexUpdateAction*
+""*
+
+%7java.lang.String*
+3
+1*Ü
+1z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaW	 W("Ñ
+z
+pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/action/ComplexUpdateAction.javaW W(
+""B97
+5org.exist.xmldb.concurrent.action.ComplexUpdateAction

@@ -1,0 +1,21 @@
+
+Dorg.exist.xmldb.LocalBinaryResource#readFile(Ljava/nio/file/Path;)[Be
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java÷ ÷("5*ã
+4e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaù ù(,"w
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaù ù(,
+
+%0byte[]*Û
+5e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaù ù(é
+æ
+e
+YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaù ù(+
+%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+filejava.nio.file.Path*
+4:
+filejava.nio.file.PathB'%
+#org.exist.xmldb.LocalBinaryResource

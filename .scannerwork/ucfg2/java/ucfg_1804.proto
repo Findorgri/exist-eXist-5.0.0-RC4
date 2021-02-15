@@ -1,0 +1,17 @@
+
+Yorg.exist.security.realm.activedirectory.ContextFactory#getSearchBase()Ljava/lang/String;ú
+ëC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java5 5("1*Ó
+1ú
+ëC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java6	 6(ç
+ä
+ú
+ëC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java6	 6(
+%0java.lang.String"__id*K*I9
+7org.exist.security.realm.activedirectory.ContextFactory"
+
+searchBase"π
+ú
+ëC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ContextFactory.java6 6(
+
+%0java.lang.StringB;9
+7org.exist.security.realm.activedirectory.ContextFactory

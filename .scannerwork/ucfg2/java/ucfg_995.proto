@@ -1,0 +1,9 @@
+
+Morg.exist.xquery.modules.ngram.NGramModule#getDescription()Ljava/lang/String;ƒ
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramModule.javaB B( "1*Ã
+1ƒ
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramModule.javaC C(<"·
+ƒ
+yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/NGramModule.javaC C(=/-
++A module for NGram-based indexed searching.B.,
+*org.exist.xquery.modules.ngram.NGramModule

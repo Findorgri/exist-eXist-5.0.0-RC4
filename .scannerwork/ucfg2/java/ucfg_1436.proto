@@ -1,0 +1,17 @@
+
+@org.exist.storage.DataBackup#getLastBackup()Ljava/util/Optional;\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javau u('"1*“
+1\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javav v(³
+°
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javav v(
+%0java.util.Optional"__id*0*.
+org.exist.storage.DataBackup"
+
+lastBackup"z
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/DataBackup.javav v(
+
+%0java.util.OptionalB 
+org.exist.storage.DataBackup

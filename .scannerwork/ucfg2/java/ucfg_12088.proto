@@ -1,0 +1,39 @@
+
+korg.exist.util.XMLReaderPool#getReaderProperty(Lorg/xml/sax/XMLReader;Ljava/lang/String;)Ljava/lang/Object;\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javag g($"8*Ü
+2\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javak k(6ù
+ö
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javak k(6
+objectjava.lang.Object"__id*
+
+%0java.lang.Object*
+1*ñ
+7\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javak k(≠™
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javak k(6
+%0java.lang.Object"Gorg.xml.sax.XMLReader#getProperty(Ljava/lang/String;)Ljava/lang/Object;*$
+"
+	xmlReaderorg.xml.sax.XMLReader*"
+ 
+propertyNamejava.lang.String2getProperty(Ljava/lang/String;)*
+2*Ù
+8\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javai i(ã
+à
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javai i(
+objectjava.lang.Object"__id*
+""*
+7*ﬂ
+1\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javas s("|
+\
+RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLReaderPool.javas s(
+
+objectjava.lang.Object:"
+	xmlReaderorg.xml.sax.XMLReader: 
+propertyNamejava.lang.StringB 
+org.exist.util.XMLReaderPool

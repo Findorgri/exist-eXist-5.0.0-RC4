@@ -1,0 +1,59 @@
+
+Norg.exist.indexing.lucene.XMLToQuery#hasElementContent(Lorg/w3c/dom/Element;)Z€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java³ ³(%"6*×
+2€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java¹ ¹(‚ÿ
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java¹ ¹(*
+%3org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getNextSibling()Á
+¾
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java¹ ¹(*
+childorg.w3c.dom.Node"__id*
+
+%3org.w3c.dom.Node*
+4
+1*”
+3€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java· ·("‹
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java· ·(
+""*•
+4€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java¶ ¶(àÝ
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java¶ ¶(#
+%1short"org.w3c.dom.Node#getNodeType()S*
+
+childorg.w3c.dom.Node2getNodeType()¡
+ž
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java¶' ¶(8
+%2short"__id*
+""*
+2
+3*×
+6€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java´ ´(‚ÿ
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java´ ´()
+%0org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
+
+rootorg.w3c.dom.Element2getFirstChild()Á
+¾
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java´ ´(*
+childorg.w3c.dom.Node"__id*
+
+%0org.w3c.dom.Node*
+4
+1*”
+1€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java» »("‹
+€
+tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/XMLToQuery.java» »(
+"":
+rootorg.w3c.dom.ElementB(&
+$org.exist.indexing.lucene.XMLToQuery

@@ -1,0 +1,74 @@
+
+Gorg.exist.fluent.Source#urlToFilename(Ljava/net/URL;)Ljava/lang/String;k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaé é($"6*ß
+2k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaí í(½º
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaí) í(6	
+%3int"java.lang.String#length()I*
+
+pathjava.lang.String2length()ú÷
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaí í(7
+%4java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+pathjava.lang.String*
+""*
+	
+%3int2substring(II)ª
+§
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaí í(7
+pathjava.lang.String"__id*
+
+%4java.lang.String*
+1*Ë
+3k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaì
+ ì(ÐÍ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaì
+ ì(	
+%2int" java.lang.String#lastIndexOf(I)I*
+
+pathjava.lang.String*
+/2lastIndexOf(I)*
+2
+1*ç
+4k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaë1 ë(5"u
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaë* ë(6
+""*¸
+5k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaë ë(½º
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaë ë(#	
+%1int"java.lang.String#length()I*
+
+pathjava.lang.String2length()*
+3
+4*ü
+6k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaê ê(ÔÑ
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaê ê(
+%0java.lang.String"(java.net.URL#getPath()Ljava/lang/String;*
+
+urljava.net.URL2	getPath()ª
+§
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaê ê(
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+4
+5*ü
+1k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaî	 î("‰
+k
+_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaî î(
+
+pathjava.lang.String:
+urljava.net.URLB"
+org.exist.fluent.Source

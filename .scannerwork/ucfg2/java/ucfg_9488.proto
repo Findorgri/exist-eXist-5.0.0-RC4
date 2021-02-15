@@ -1,0 +1,25 @@
+
+Worg.exist.client.security.BasicPermissionsTableModel#getColumnClass(I)Ljava/lang/Class;t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/BasicPermissionsTableModel.java: :("1*≠
+1t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/BasicPermissionsTableModel.java; ;(›
+⁄
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/BasicPermissionsTableModel.java; ;(
+%0java.lang.Class[]"__id*C*A6
+4org.exist.client.security.BasicPermissionsTableModel"
+typesø
+º
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/BasicPermissionsTableModel.java; ;(!
+%1java.lang.Class"
+__arrayGet*
+
+%0java.lang.Class[]*
+"""è
+t
+jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/BasicPermissionsTableModel.java; ;("
+
+%1java.lang.Class:
+""B86
+4org.exist.client.security.BasicPermissionsTableModel

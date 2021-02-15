@@ -1,0 +1,121 @@
+
+Borg.exist.storage.txn.TransactionManager#uncommittedTransaction()Ij
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java› ›(&"9*û
+2j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java§ §(„
+
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java§ §(
+%11"__id*
+""*
+1*Ó
+4j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java   (4›
+˜
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java   (4
+entryjava.util.Map$Entry"__id*
+""¸
+µ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java   (4
+entryjava.util.Map$Entry"
+__arrayGet*
+
+%3java.util.Set*
+""*	
+2
+6
+1*Å
+
+5j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢ ¢(ƒ
+€
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢ ¢(
+%5"__id*
+""ßÜ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢G ¢(U
+%6java.lang.Long".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2getKey()Ø
+Õ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢ ¢(U
+%7java.lang.String"__concat*-+
+)Found an uncommitted transaction with id *
+
+%6java.lang.LongÇ
+Ä
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢ ¢(p
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+. Pending operations: ‰†
+k
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢s ¢(ƒ9
+%93org.exist.storage.txn.TransactionManager$TxnCounter"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2
+getValue()µ
+²
+k
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¢ ¢(‹
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+""*
+4*‚
+6j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¡ ¡(ˆ…
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java¡ ¡( 9
+%43org.exist.storage.txn.TransactionManager$TxnCounter"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2
+getValue()*
+4
+5*”
+7j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java 7  (CÊ
+Ç
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java 7  (C
+%2java.util.Map"__id*>*<*
+(org.exist.storage.txn.TransactionManager"
+transactionsÐÍ
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java 7  (N
+%3java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
+
+%2java.util.Map2
+entrySet()*
+4*å
+8j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaž ž("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaž ž(
+""*
+9j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.javaœ œ(Ê
+Ç
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java (
+%0java.util.Map"__id*>*<*
+(org.exist.storage.txn.TransactionManager"
+transactionsº·
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java ("
+%1boolean"java.util.Map#isEmpty()Z*
+
+%0java.util.Map2	isEmpty()*
+7
+8*å
+1j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java© ©("t
+j
+^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/TransactionManager.java© ©(
+""B,*
+(org.exist.storage.txn.TransactionManager

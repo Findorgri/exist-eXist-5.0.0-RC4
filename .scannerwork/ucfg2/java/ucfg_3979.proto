@@ -1,0 +1,24 @@
+
+forg.exist.xquery.value.TimeUtils#newDurationYearMonth(Ljava/lang/String;)Ljavax/xml/datatype/Duration;`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java~ ~(("1*¡
+1`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java (È
+Å
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java ((
+%0"javax.xml.datatype.DatatypeFactory"__id*1*/"
+ org.exist.xquery.value.TimeUtils"	
+factoryäá
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java (1!
+%1javax.xml.datatype.Duration"hjavax.xml.datatype.DatatypeFactory#newDurationYearMonth(Ljava/lang/String;)Ljavax/xml/datatype/Duration;**
+(
+%0"javax.xml.datatype.DatatypeFactory*
+
+arg0java.lang.String2(newDurationYearMonth(Ljava/lang/String;)"‡
+`
+VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.java (2#
+!
+%1javax.xml.datatype.Duration:
+arg0java.lang.StringB$"
+ org.exist.xquery.value.TimeUtils

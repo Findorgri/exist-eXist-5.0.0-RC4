@@ -1,0 +1,61 @@
+
+=org.exist.plugin.Utils#fileCanContainClasses(Ljava/io/File;)ZV
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java   (/"7*‘
+3V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java' '(®«
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java' '(%
+%4boolean"java.io.File#isDirectory()Z*
+
+filejava.io.File2isDirectory()*
+1*¿
+5V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java& &(Ù
+Ö
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java& &("
+%3boolean"1org.exist.plugin.Utils#isZip(Ljava/lang/String;)Z*"
+org.exist.plugin.Utils*
+
+fileNamejava.lang.String*
+3
+1*Â
+6V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java% %(Ù
+Ö
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java% %("
+%2boolean"1org.exist.plugin.Utils#isJar(Ljava/lang/String;)Z*"
+org.exist.plugin.Utils*
+
+fileNamejava.lang.String*	
+3
+5
+1*é
+7V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java! !( À½
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java"! "(/
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()™
+–
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java" "(0
+fileNamejava.lang.String"__id*
+
+%0java.lang.String¤¡
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java$ $(
+%1boolean"java.io.File#exists()Z*
+
+filejava.io.File2exists()*
+6
+1*½
+1V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java* *("`
+V
+LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java* *(
+"":
+filejava.io.FileB"
+org.exist.plugin.Utils

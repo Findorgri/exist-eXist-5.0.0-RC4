@@ -1,0 +1,24 @@
+
+\org.exist.source.AbstractSource#guessXQueryEncoding(Ljava/io/InputStream;)Ljava/lang/String;_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/AbstractSource.javaa" a(5"4*Û
+4_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/AbstractSource.javab2 b(6†ù
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/AbstractSource.javab< b(M
+%0java.io.InputStreamReader"java.io.InputStreamReader‰
+·
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/AbstractSource.javab8 b(Q
+%1"8java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V*!
+
+%0java.io.InputStreamReader*
+
+isjava.io.InputStream*
+1*œ
+1_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/AbstractSource.javai i("i
+_
+UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/AbstractSource.javai i(%
+"":
+isjava.io.InputStreamB#"!
+org.exist.source.AbstractSource

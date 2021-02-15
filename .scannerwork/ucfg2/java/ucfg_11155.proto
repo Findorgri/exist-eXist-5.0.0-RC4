@@ -1,0 +1,80 @@
+
+iorg.exist.util.io.Resource#generateFile(Ljava/lang/String;Ljava/lang/String;Ljava/io/File;)Ljava/io/File;Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaY Y("4*Ü
+2Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java^ ^(ü
+ú
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java^ ^(
+
+%3long"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""*
+1*Ø
+4Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaZ Z(è
+å
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaZ Z( 
+%0java.security.SecureRandom"__id*
+""π∂
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaZ Z("
+
+%1long"java.util.Random#nextLong()J*"
+ 
+%0java.security.SecureRandom2
+nextLong()x
+v
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java[ [(
+
+%2long"__id*
+""*
+2
+1*¡	
+1Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java` `(¡
+æ
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java`* `(:
+%4java.lang.String",java.lang.Long#toString(J)Ljava/lang/String;*"
+java.lang.Long*
+""π
+∂
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java`! `(:
+%5java.lang.String"__concat*
+
+prefixjava.lang.String*
+
+%4java.lang.Stringπ
+∂
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java`! `(C
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+suffixjava.lang.Stringùö
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java` `( 
+%7org.exist.util.io.Resource"org.exist.util.io.ResourceÄ
+˝
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java` `(D
+%8"Dorg.exist.util.io.Resource#<init>(Ljava/io/File;Ljava/lang/String;)V*"
+ 
+%7org.exist.util.io.Resource*
+
+dirjava.io.File*
+
+%6java.lang.String"Ä
+Z
+PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java` `(E"
+ 
+%7org.exist.util.io.Resource:
+prefixjava.lang.String:
+suffixjava.lang.String:
+dirjava.io.FileB"
+org.exist.util.io.Resource

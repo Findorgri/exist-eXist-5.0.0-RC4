@@ -1,0 +1,37 @@
+
+Aorg.exist.xquery.util.NumberFormatter#getDay(I)Ljava/lang/String;e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java: :("1*¨	
+1e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java; ;(÷
+”
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java; ;( 
+%0java.time.DayOfWeek".java.time.DayOfWeek#of(I)Ljava/time/DayOfWeek;*"
+java.time.DayOfWeek*
+""ö
+ó
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java;0 ;(> 
+%1java.time.format.TextStyle"__id*
+""ø
+º
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java;@ ;(F
+%2java.util.Locale"__id*5*3'
+%org.exist.xquery.util.NumberFormatter"
+localeÉÄ
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java; ;(G
+%3java.lang.String"djava.time.DayOfWeek#getDisplayName(Ljava/time/format/TextStyle;Ljava/util/Locale;)Ljava/lang/String;*
+
+%0java.time.DayOfWeek*"
+ 
+%1java.time.format.TextStyle*
+
+%2java.util.Locale2>getDisplayName(Ljava/time/format/TextStyle;Ljava/util/Locale;)"Å
+e
+[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java; ;(H
+
+%3java.lang.String:
+""B)'
+%org.exist.xquery.util.NumberFormatter
