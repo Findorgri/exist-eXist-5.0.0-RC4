@@ -1,66 +1,0 @@
-
-Aorg.exist.xquery.value.DoubleValue#compareTo(Ljava/lang/Object;)Id
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÕ Õ("startingBlock*ì
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚF Ú(O|
-z
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚF Ú(X
-%2"__id*
-
-%4*
-1*ì
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚ1 Ú(:|
-z
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚ1 Ú(C
-%2"__id*
-
-%3*
-1*Å
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÕ Õ((¬
-©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÔ Ô(
-%5"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object–
-“
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÕ& Õ('
-ojava.lang.Object"__annotation*
-
-%5*
-4
-5*Ê
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚ Ú(ÖÓ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚ Ú(	
-%1int"-org.exist.xquery.value.DoubleValue#getType()I*&$
-"org.exist.xquery.value.DoubleValue2	getType()*
-2
-3*•
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaØ Ø(¹
-¶
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaØ Ø(E	
-%0int"java.lang.Double#compare(DD)I*"
-java.lang.Double*
-""*
-"""n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaØ Ø(F
-""*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚ Ú(Y"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaÚ Ú(Y
-"":
-ojava.lang.ObjectB&$
-"org.exist.xquery.value.DoubleValue

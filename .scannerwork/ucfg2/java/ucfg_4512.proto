@@ -1,109 +1,0 @@
-
-:org.exist.xquery.NameTest#matchesName(Lorg/w3c/dom/Node;)ZY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaX X("14*Ø
-13Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaZ Z(ËÂ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaZ Z(P
-%1":org.exist.xquery.NameTest#matchesName(Lorg/w3c/dom/Node;)Z*
-org.exist.xquery.NameTest*
-""2matchesName(Lorg/w3c/dom/Node;)"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaZ Z(Q
-""*ú
-2Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javao o(÷”
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javao6 o(J
-%7java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
-
-otherorg.w3c.dom.Node2getLocalName()"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javao o(L
-""*≠
-14Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaY Y(∏µ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaY Y(
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-otherorg.w3c.dom.Node2getNodeType()*
-13
-4
-9
-11
-1*ß
-3Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javam m(·ﬁ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javam6 m(`
-%6java.lang.String"?org.w3c.dom.ProcessingInstruction#getTarget()Ljava/lang/String;*
-
-otherorg.w3c.dom.Node2getTarget()"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javam m(b
-""*õ
-4Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javal l(∏µ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javal l(#
-%4short"org.w3c.dom.Node#getNodeType()S*
-
-otherorg.w3c.dom.Node2getNodeType()x
-v
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javal' l(G
-%5short"__id*
-""*
-2
-3*√
-6Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javag g("c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javag g(
-""*é
-8Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javad d(&Ñ
-Å
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javad d(2
-%3java.lang.String"__id*
-""õ
-ò
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javad d(2
-otherNsjava.lang.String"__id*
-
-%3java.lang.String*	
-4
-6
-1*È
-9Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javab b("‹Ÿ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javab b(4
-%2java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
-
-otherorg.w3c.dom.Node2getNamespaceURI()õ
-ò
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javab b(5
-otherNsjava.lang.String"__id*
-
-%2java.lang.String*
-4
-6
-8
-1*ƒ
-11Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java^ ^("c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.java^ ^(
-""*√
-1Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javas s("c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javas s(
-"":
-otherorg.w3c.dom.NodeB
-org.exist.xquery.NameTest

@@ -1,35 +1,0 @@
-
-?org.exist.storage.cache.GClockCache#get(LCacheable;)LCacheable;c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javap
- p("startingBlock*§
-startingBlockc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javap p(Ÿ
-œ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javao o(
-
-%1"
-__annotate*
-java.lang.Override*
-	
-itemT‰
-†
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javap p(	
-itemT"__annotation*
-
-%1*
-1*Ì
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaq	 q(òï
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaq	 q(
-%0"?org.exist.storage.cache.GClockCache#get(LCacheable;)LCacheable;*'%
-#org.exist.storage.cache.GClockCache*
-""2get(LCacheable;)"m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/cache/GClockCache.javaq q(
-
-%0:	
-itemTB'%
-#org.exist.storage.cache.GClockCache

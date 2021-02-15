@@ -1,46 +1,0 @@
-
-7org.exist.xquery.value.DayTimeDurationValue#getValue()Dk
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaL L("4*Ö
-2k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaQ. Q(/ÇÄ
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaQ. Q(=
-%3double"java.lang.Number#doubleValue()D*
-
-njava.lang.Number2doubleValue()”
-‘
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaQ. Q(=
-%1double"__id*
-
-%3double*
-1*‰
-3k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaQ* Q(+‘
-Ž
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaQ* Q(+
-%1double"__id*
-	
-%2int*
-1*Ã
-4k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaM M(°
-­
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaP+ P(D0
-%0*javax.xml.datatype.DatatypeConstants$Field"__id*
-""•
-’
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaP P(F
-njava.lang.Number"__id*
-""*
-2
-3*ç
-1k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaQ Q(>"u
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DayTimeDurationValue.javaR R(*
-""B/-
-+org.exist.xquery.value.DayTimeDurationValue

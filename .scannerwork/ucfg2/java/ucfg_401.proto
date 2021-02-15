@@ -1,138 +1,0 @@
-
-?org.exist.util.XMLString#normalize(I)Lorg/exist/util/XMLString;X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javap p($"21"22*‚
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaó ó("Ä
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaó ó("
- 
-copyorg.exist.util.XMLString*∆
-14X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java}" }(.õ
-ò
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java}/ }(5
-%4char[]"__id*(*&
-org.exist.util.XMLString"
-value_Ω
-∫
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java}" }(L
-%5boolean")org.exist.util.XMLString#isWhiteSpace(C)Z*"
-org.exist.util.XMLString*
-""*
-14
-12*é
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÖ Ö(û
-õ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÖ Ö(
-%12char[]"__id*(*&
-org.exist.util.XMLString"
-value_*
-2
-4
-5
-7*ﬂ
-16X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java| |(u
-s
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java| |((	
-%3int"__id*
-""*
-14
-12*Ä
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaë î(û
-õ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaí$ í(*
-%10char[]"__id*(*&
-org.exist.util.XMLString"
-value_ıÚ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaí í(.
-%11org.exist.util.XMLString"<org.exist.util.XMLString#append(C)Lorg/exist/util/XMLString;*"
- 
-copyorg.exist.util.XMLString*
-""2	append(C)*
-2
-4*›
-7Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaç ç( Û
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaç ç(,
-%9org.exist.util.XMLString"<org.exist.util.XMLString#append(C)Lorg/exist/util/XMLString;*"
- 
-copyorg.exist.util.XMLString*
- 2	append(C)*
-2
-4*∆
-19X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javau" u(.õ
-ò
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javau/ u(5
-%1char[]"__id*(*&
-org.exist.util.XMLString"
-value_Ω
-∫
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javau" u(>
-%2boolean")org.exist.util.XMLString#isWhiteSpace(C)Z*"
-org.exist.util.XMLString*
-""*
-16
-19*ﬂ
-21X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javat t(u
-s
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javat t('	
-%0int"__id*
-""*
-16
-19*ÿ
-22X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javar r("x
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javar r(
-org.exist.util.XMLString*Á
-11Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÇ1 Ç(8ôñ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÇ' Ç(0
-%7org.exist.util.XMLString"org.exist.util.XMLString¥
-±
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÇ# Ç(9
-%8"#org.exist.util.XMLString#<init>(I)V* 
-
-%7org.exist.util.XMLString*
-""©
-¶
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÇ Ç(: 
-copyorg.exist.util.XMLString"__id* 
-
-%7org.exist.util.XMLString*
-2
-4*‚
-12Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÅ Å(w
-u
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÅ Å(	
-%6int"__id*
-""*
-11
-1*€
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaô ô("z
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaô ô(
-org.exist.util.XMLString:
-""B
-org.exist.util.XMLString

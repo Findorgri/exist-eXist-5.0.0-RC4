@@ -1,16 +1,0 @@
-
-Korg.exist.debugger.model.BreakpointImpl#getHitCondition()Ljava/lang/String;{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/model/BreakpointImpl.javak k("1*ú
-1{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/model/BreakpointImpl.javal	 l(Ý
-Ú
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/model/BreakpointImpl.javal	 l(
-%0java.lang.String"__id*=*;)
-'org.exist.debugger.model.BreakpointImpl"
-hitCondition"—
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debugger/model/BreakpointImpl.javal l(
-
-%0java.lang.StringB+)
-'org.exist.debugger.model.BreakpointImpl

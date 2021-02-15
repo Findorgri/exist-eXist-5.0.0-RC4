@@ -1,19 +1,0 @@
-
-.org.exist.fluent.Node#name()Ljava/lang/String;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java– –("1*Â
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java—	 —(åâ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java—	 —(
-%0org.w3c.dom.Node"4org.exist.fluent.Node#getDOMNode()Lorg/w3c/dom/Node;*
-org.exist.fluent.Node2getDOMNode()áÞ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java—	 —(#
-%1java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-%0org.w3c.dom.Node2getNodeName()"…
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java— —($
-
-%1java.lang.StringB
-org.exist.fluent.Node

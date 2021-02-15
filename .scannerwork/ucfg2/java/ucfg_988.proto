@@ -1,44 +1,0 @@
-
-7org.exist.debuggee.dbgp.packets.StdErr#commandBytes()[Bz
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaE E("1*³
-
-1z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaF F(·
-´
-z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaF G(
-
-%0java.lang.String"__concat*
-
-stderr*
- -i Ø
-Õ
-z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaH H($
-%1java.lang.Short"__id*:*8(
-&org.exist.debuggee.dbgp.packets.StdErr"
-
-outputGoes†
-ƒ
-z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaH H(%
-%2java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-
-%1java.lang.Shortª
-§
-z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaF H(&
-commandjava.lang.String"__id*
-""×Ô
-z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaJ	 J(
-%3byte[]"java.lang.String#getBytes()[B*
-
-commandjava.lang.String2
-getBytes()"Œ
-z
-pC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StdErr.javaJ J(
-
-%3byte[]B*(
-&org.exist.debuggee.dbgp.packets.StdErr

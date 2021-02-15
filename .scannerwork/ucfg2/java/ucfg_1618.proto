@@ -1,217 +1,0 @@
-
-?org.exist.xmldb.LocalXMLResource#getContent()Ljava/lang/Object;`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javan n("44*¨
-13b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaè è(∏
-µ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaè è(
-%12java.nio.file.Path"__id*.*,"
- org.exist.xmldb.LocalXMLResource"
-file*
-7
-11*¢
-35`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javax x(≥
-∞
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javax) x(-
-%7org.w3c.dom.Node"__id*.*,"
- org.exist.xmldb.LocalXMLResource"
-root*
-34*õ
-38`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javau u(>©
-¶
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javau u(>
-writerjava.io.StringWriter"__id*
-
-%4java.io.StringWriterÄ˝
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javavK v(Z
-%6java.util.Properties"Forg.exist.xmldb.LocalXMLResource#getProperties()Ljava/util/Properties;*$"
- org.exist.xmldb.LocalXMLResource2getProperties()*
-35*≤
-39`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javau, u(>óî
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javau0 u(<
-%4java.io.StringWriter"java.io.StringWriter©
-¶
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javau, u(>
-%5"java.io.StringWriter#<init>()V*
-
-%4java.io.StringWriter*
-38*÷
-17b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaà à(2"l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaà à(2
-""*ü
-29`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java} }(∑
-¥
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java} }(
-%10java.lang.String"__id*1*/"
- org.exist.xmldb.LocalXMLResource"	
-content"}
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java} }(
-
-%10java.lang.String*÷
-19b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaÜ Ü(E"l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaÜ Ü(E
-""*Õ
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java¢ ¢(¶
-£
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java¢ π(/"
- org.exist.xmldb.LocalXMLResource"	
-content"__id*
-""π
-∂
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java∫ ∫(
-%18java.lang.String"__id*1*/"
- org.exist.xmldb.LocalXMLResource"	
-content"
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.java∫ ∫(
-
-%18java.lang.String*Õ
-4b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaö ö(7¶
-£
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaö ö(7/"
- org.exist.xmldb.LocalXMLResource"	
-content"__id*
-""π
-∂
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaõ õ(
-%17java.lang.String"__id*1*/"
- org.exist.xmldb.LocalXMLResource"	
-content"
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaõ õ(
-
-%17java.lang.String*≥
-5b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaö ö(!ƒ
-¡
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaö+ ö(6
-%16org.xml.sax.InputSource"__id*5*3"
- org.exist.xmldb.LocalXMLResource"
-inputSource*
-4*∂
-7b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaò ò(ƒ
-¡
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaò ò(
-%15org.xml.sax.InputSource"__id*5*3"
- org.exist.xmldb.LocalXMLResource"
-inputSource*
-5
-1*Æ
-41`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javat# t('≥
-∞
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javat# t('
-%3org.w3c.dom.Node"__id*.*,"
- org.exist.xmldb.LocalXMLResource"
-root*
-13
-39
-17
-19*•
-30`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javay y(/∂
-≥
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javay y(//"
- org.exist.xmldb.LocalXMLResource"	
-content"__id*
-
-%8java.lang.String*
-29*Æ
-42`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javat t(≥
-∞
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javat t(
-%2org.w3c.dom.Node"__id*.*,"
- org.exist.xmldb.LocalXMLResource"
-root*
-13
-17
-19
-41*ù
-43`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javap p(∂
-≥
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javap p(
-%1java.lang.String"__id*1*/"
- org.exist.xmldb.LocalXMLResource"	
-content"|
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javap p(
-
-%1java.lang.String*Œ
-10b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaë ë(0¶
-£
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaë ë(0/"
- org.exist.xmldb.LocalXMLResource"	
-content"__id*
-""π
-∂
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaí í(
-%14java.lang.String"__id*1*/"
- org.exist.xmldb.LocalXMLResource"	
-content"
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaí í(
-
-%14java.lang.String*©
-44`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javao o(∂
-≥
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javao o(
-%0java.lang.String"__id*1*/"
- org.exist.xmldb.LocalXMLResource"	
-content*
-42
-43*©
-11b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaë ë(!∏
-µ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaë+ ë(/
-%13java.nio.file.Path"__id*.*,"
- org.exist.xmldb.LocalXMLResource"
-file*
-10*Õ
-34`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javay y($ﬁ€
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javay y(/
-%8java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
-
-writerjava.io.StringWriter2
-toString()*
-30B$"
- org.exist.xmldb.LocalXMLResource

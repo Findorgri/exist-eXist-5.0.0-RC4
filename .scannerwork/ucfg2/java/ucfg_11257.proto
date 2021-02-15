@@ -1,1562 +1,0 @@
-
-Borg.exist.client.ClientFrame#createMenuBar()Ljavax/swing/JMenuBar;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaï ï(""1*Úú
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javañ! ñ(/ïí
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javañ% ñ(-
-%0javax.swing.JMenuBar"javax.swing.JMenuBarß
-§
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javañ! ñ(/
-%1"javax.swing.JMenuBar#<init>()V*
-
-%0javax.swing.JMenuBar®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javañ ñ(0
-menubarjavax.swing.JMenuBar"__id*
-
-%0javax.swing.JMenuBarèå
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaò# ò((
-%2javax.swing.JMenu"javax.swing.JMenuª
-∏
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaò ò(N
-%3"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
-
-%2javax.swing.JMenu*
-""£
-†
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaò ò(O
-fileMenujavax.swing.JMenu"__id*
-
-%2javax.swing.JMenu{
-y
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaô ô(*	
-%4int"__id*
-""Ÿ÷
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaô ô(+
-
-%5void"*javax.swing.AbstractButton#setMnemonic(I)V*
-
-fileMenujavax.swing.JMenu*
-	
-%4int2setMnemonic(I)úô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaö ö(
-%6javax.swing.JMenu"@javax.swing.JMenuBar#add(Ljavax/swing/JMenu;)Ljavax/swing/JMenu;*!
-
-menubarjavax.swing.JMenuBar*
-
-fileMenujavax.swing.JMenu2add(Ljavax/swing/JMenu;){
-y
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaúM ú(Z	
-%7int"__id*
-""óî
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaú ú(&
-%8javax.swing.JMenuItem"javax.swing.JMenuItem—
-Œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaú ú([
-%9"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%8javax.swing.JMenuItem*
-""*
-	
-%7intß
-§
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaú ú(\
-itemjavax.swing.JMenuItem"__id*
-
-%8javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaù3 ù(@
-
-%10int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaû û(+
-%11java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaû û(D
-
-%12int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%11java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaù û(E
-%13javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%10int*
-
-
-%12intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaù û(F
-%14void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%13javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaü ü(2
-%15void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java† †(
-%16javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¢C ¢(P
-
-%17int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¢ ¢(
-%18javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¢ ¢(Q
-%19"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%18javax.swing.JMenuItem*
-""*
-
-
-%17int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¢ ¢(Q
-itemjavax.swing.JMenuItem"__id*
-
-%18javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java£3 £(@
-
-%20int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java§ §(+
-%21java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java§ §(D
-
-%22int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%21java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java£ §(E
-%23javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%20int*
-
-
-%22intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java£ §(F
-%24void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%23javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java• •(9
-%25void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¶ ¶(
-%26javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java®C ®(P
-
-%27int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java® ®(
-%28javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java® ®(Q
-%29"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%28javax.swing.JMenuItem*
-""*
-
-
-%27int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java® ®(Q
-itemjavax.swing.JMenuItem"__id*
-
-%28javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java©3 ©(@
-
-%30int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java™ ™(+
-%31java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java™ ™(D
-
-%32int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%31java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java© ™(E
-%33javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%30int*
-
-
-%32intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java© ™(F
-%34void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%33javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java´ ´(6
-%35void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¨ ¨(
-%36javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)ƒ¡
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≠ ≠(
-%37void"!javax.swing.JMenu#addSeparator()V*
-
-fileMenujavax.swing.JMenu2addSeparator()òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaØ Ø(
-%38javax.swing.JMenuItem"javax.swing.JMenuItem≈
-¬
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaØ Ø(B
-%39"1javax.swing.JMenuItem#<init>(Ljavax/swing/Icon;)V*
-
-%38javax.swing.JMenuItem*
-""®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaØ Ø(B
-itemjavax.swing.JMenuItem"__id*
-
-%38javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∞3 ∞(@
-
-%40int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java± ±(+
-%41java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java± ±(D
-
-%42int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%41java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∞ ±(E
-%43javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%40int*
-
-
-%42intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∞ ±(F
-%44void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%43javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≤ ≤(2
-%45void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≥ ≥(
-%46javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaµC µ(P
-
-%47int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaµ µ(
-%48javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaµ µ(Q
-%49"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%48javax.swing.JMenuItem*
-""*
-
-
-%47int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaµ µ(Q
-itemjavax.swing.JMenuItem"__id*
-
-%48javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∂3 ∂(@
-
-%50int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∑ ∑(+
-%51java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∑ ∑(D
-
-%52int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%51java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∂ ∑(E
-%53javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%50int*
-
-
-%52intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∂ ∑(F
-%54void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%53javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∏ ∏(0
-%55void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaπ π(
-%56javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaªC ª(P
-
-%57int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaª ª(
-%58javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaª ª(Q
-%59"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%58javax.swing.JMenuItem*
-""*
-
-
-%57int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaª ª(Q
-itemjavax.swing.JMenuItem"__id*
-
-%58javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaº3 º(@
-
-%60int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaΩ Ω(+
-%61java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaΩ Ω(D
-
-%62int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%61java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaº Ω(E
-%63javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%60int*
-
-
-%62intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaº Ω(F
-%64void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%63javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaæ æ(0
-%65void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaø ø(
-%66javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¡C ¡(P
-
-%67int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¡ ¡(
-%68javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¡ ¡(Q
-%69"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%68javax.swing.JMenuItem*
-""*
-
-
-%67int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¡ ¡(Q
-itemjavax.swing.JMenuItem"__id*
-
-%68javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¬3 ¬(@
-
-%70int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java√ √(+
-%71java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java√ √(D
-
-%72int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%71java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¬ √(E
-%73javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%70int*
-
-
-%72intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¬ √(F
-%74void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%73javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaƒ ƒ(2
-%75void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≈ ≈(
-%76javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«C «(P
-
-%77int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java« «(
-%78javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java« «(Q
-%79"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%78javax.swing.JMenuItem*
-""*
-
-
-%77int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java« «(Q
-itemjavax.swing.JMenuItem"__id*
-
-%78javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java»3 »(@
-
-%80int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java… …(+
-%81java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java… …(D
-
-%82int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%81java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java» …(E
-%83javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%80int*
-
-
-%82intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java» …(F
-%84void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%83javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java   (2
-%85void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÀ À(
-%86javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)ƒ¡
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÕ Õ(
-%87void"!javax.swing.JMenu#addSeparator()V*
-
-fileMenujavax.swing.JMenu2addSeparator()|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaœC œ(P
-
-%88int"__id*
-""òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaœ œ(
-%89javax.swing.JMenuItem"javax.swing.JMenuItem‘
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaœ œ(Q
-%90"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%89javax.swing.JMenuItem*
-""*
-
-
-%88int®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaœ œ(Q
-itemjavax.swing.JMenuItem"__id*
-
-%89javax.swing.JMenuItem|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java–3 –(@
-
-%91int"__id*
-"" 
-«
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java— —(+
-%92java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java— —(D
-
-%93int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%92java.awt.Toolkit2getMenuShortcutKeyMask()˜
-Ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java– —(E
-%94javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-
-%91int*
-
-
-%93intöó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java– —(F
-%95void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%94javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java“ “(3
-%96void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)®•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java” ”(
-%97javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)òï
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’ ’(
-%98javax.swing.JMenuItem"javax.swing.JMenuItem≈
-¬
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’ ’(B
-%99"1javax.swing.JMenuItem#<init>(Ljavax/swing/Icon;)V*
-
-%98javax.swing.JMenuItem*
-""®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’ ’(B
-itemjavax.swing.JMenuItem"__id*
-
-%98javax.swing.JMenuItem}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java÷3 ÷(@
-%100int"__id*
-""À
-»
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java◊ ◊(+
-%101java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit“œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java◊ ◊(D
-%102int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%101java.awt.Toolkit2getMenuShortcutKeyMask()˙
-˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java÷ ◊(E
-%103javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-%100int*
-
-%102intúô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java÷ ◊(F
-%104void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%103javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÿ ﬁ(
-
-%105void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)©¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaﬂ ﬂ(
-%106javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)≈¬
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java· ·(
-%107void"!javax.swing.JMenu#addSeparator()V*
-
-fileMenujavax.swing.JMenu2addSeparator()}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‚C ‚(P
-%108int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‚ ‚(
-%109javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‚ ‚(Q
-%110"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%109javax.swing.JMenuItem*
-""*
-
-%108int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‚ ‚(Q
-itemjavax.swing.JMenuItem"__id*
-
-%109javax.swing.JMenuItem}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java„3 „(@
-%111int"__id*
-""À
-»
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‰ ‰(+
-%112java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit“œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‰ ‰(D
-%113int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%112java.awt.Toolkit2getMenuShortcutKeyMask()˙
-˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java„ ‰(E
-%114javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-%111int*
-
-%113intúô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java„ ‰(F
-%115void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%114javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÂ Â(,
-%116void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)©¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÊ Ê(
-%117javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-fileMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)ëé
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaË$ Ë()
-%118javax.swing.JMenu"javax.swing.JMenuø
-º
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaË  Ë(O
-%119"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
-
-%118javax.swing.JMenu*
-""¶
-£
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaË Ë(P
-	toolsMenujavax.swing.JMenu"__id*
-
-%118javax.swing.JMenu}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÈ È(+
-%120int"__id*
-""ﬁ€
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÈ È(,
-%121void"*javax.swing.AbstractButton#setMnemonic(I)V* 
-
-	toolsMenujavax.swing.JMenu*
-
-%120int2setMnemonic(I)üú
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÍ Í(
-%122javax.swing.JMenu"@javax.swing.JMenuBar#add(Ljavax/swing/JMenu;)Ljavax/swing/JMenu;*!
-
-menubarjavax.swing.JMenuBar* 
-
-	toolsMenujavax.swing.JMenu2add(Ljavax/swing/JMenu;)}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÏC Ï(P
-%123int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÏ Ï(
-%124javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÏ Ï(Q
-%125"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%124javax.swing.JMenuItem*
-""*
-
-%123int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÏ Ï(Q
-itemjavax.swing.JMenuItem"__id*
-
-%124javax.swing.JMenuItem}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÌ3 Ì(@
-%126int"__id*
-""À
-»
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÓ Ó(+
-%127java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit“œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÓ Ó(D
-%128int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%127java.awt.Toolkit2getMenuShortcutKeyMask()˙
-˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÌ Ó(E
-%129javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-%126int*
-
-%128intúô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÌ Ó(F
-%130void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%129javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÔ Ô(0
-%131void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java (
-%132javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)∆√
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÚ Ú( 
-%133void"!javax.swing.JMenu#addSeparator()V* 
-
-	toolsMenujavax.swing.JMenu2addSeparator()}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÙC Ù(P
-%134int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÙ Ù(
-%135javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÙ Ù(Q
-%136"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%135javax.swing.JMenuItem*
-""*
-
-%134int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÙ Ù(Q
-itemjavax.swing.JMenuItem"__id*
-
-%135javax.swing.JMenuItem}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaı3 ı(@
-%137int"__id*
-""À
-»
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaˆ ˆ(+
-%138java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit“œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaˆ ˆ(D
-%139int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%138java.awt.Toolkit2getMenuShortcutKeyMask()˙
-˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaı ˆ(E
-%140javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-%137int*
-
-%139intúô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaı ˆ(F
-%141void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%140javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java˜ ˜(5
-%142void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¯ ¯(
-%143javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÖC Ö(P
-%144int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÖ Ö(
-%145javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÖ Ö(Q
-%146"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%145javax.swing.JMenuItem*
-""*
-
-%144int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÖ Ö(Q
-itemjavax.swing.JMenuItem"__id*
-
-%145javax.swing.JMenuItem}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÜ3 Ü(@
-%147int"__id*
-""À
-»
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaá á(+
-%148java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
-java.awt.Toolkit“œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaá á(D
-%149int"*java.awt.Toolkit#getMenuShortcutKeyMask()I*
-
-%148java.awt.Toolkit2getMenuShortcutKeyMask()˙
-˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÜ á(E
-%150javax.swing.KeyStroke"=javax.swing.KeyStroke#getKeyStroke(II)Ljavax/swing/KeyStroke;*"
-javax.swing.KeyStroke*
-
-%147int*
-
-%149intúô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÜ á(F
-%151void">javax.swing.JMenuItem#setAccelerator(Ljavax/swing/KeyStroke;)V*
-
-itemjavax.swing.JMenuItem*
-
-%150javax.swing.KeyStroke2'setAccelerator(Ljavax/swing/KeyStroke;)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaà à(8
-%152void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaâ â(
-%153javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)∆√
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaã ã( 
-%154void"!javax.swing.JMenu#addSeparator()V* 
-
-	toolsMenujavax.swing.JMenu2addSeparator()ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaç ç(
-%155javax.swing.JMenuItem"javax.swing.JMenuItem«
-ƒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaç ç(C
-%156"1javax.swing.JMenuItem#<init>(Ljavax/swing/Icon;)V*
-
-%155javax.swing.JMenuItem*
-""©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaç ç(C
-itemjavax.swing.JMenuItem"__id*
-
-%155javax.swing.JMenuItemûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaé ï(
-
-%157void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javañ ñ(
-%158javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaò ò(
-%159javax.swing.JMenuItem"javax.swing.JMenuItem«
-ƒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaò ò(C
-%160"1javax.swing.JMenuItem#<init>(Ljavax/swing/Icon;)V*
-
-%159javax.swing.JMenuItem*
-""©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaò ò(C
-itemjavax.swing.JMenuItem"__id*
-
-%159javax.swing.JMenuItemûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaô †(
-
-%161void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java° °(
-%162javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)∆√
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java£ £( 
-%163void"!javax.swing.JMenu#addSeparator()V* 
-
-	toolsMenujavax.swing.JMenu2addSeparator()}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java•C •(P
-%164int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java• •(
-%165javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java• •(Q
-%166"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%165javax.swing.JMenuItem*
-""*
-
-%164int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java• •(Q
-itemjavax.swing.JMenuItem"__id*
-
-%165javax.swing.JMenuItemûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¶ ¶(2
-%167void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaß ß(
-%168javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java©C ©(P
-%169int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java© ©(
-%170javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java© ©(Q
-%171"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%170javax.swing.JMenuItem*
-""*
-
-%169int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java© ©(Q
-itemjavax.swing.JMenuItem"__id*
-
-%170javax.swing.JMenuItemûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java™ ™(3
-%172void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java´ ´(
-%173javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;* 
-
-	toolsMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)ëé
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≠& ≠(+
-%174javax.swing.JMenu"javax.swing.JMenuø
-º
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≠" ≠(Q
-%175"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
-
-%174javax.swing.JMenu*
-""®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≠ ≠(R 
-connectMenujavax.swing.JMenu"__id*
-
-%174javax.swing.JMenu}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÆ  Æ(-
-%176int"__id*
-""‡›
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÆ Æ(.
-%177void"*javax.swing.AbstractButton#setMnemonic(I)V*"
- 
-connectMenujavax.swing.JMenu*
-
-%176int2setMnemonic(I)°û
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaØ Ø( 
-%178javax.swing.JMenu"@javax.swing.JMenuBar#add(Ljavax/swing/JMenu;)Ljavax/swing/JMenu;*!
-
-menubarjavax.swing.JMenuBar*"
- 
-connectMenujavax.swing.JMenu2add(Ljavax/swing/JMenu;)}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java±C ±(P
-%179int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java± ±(
-%180javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java± ±(Q
-%181"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%180javax.swing.JMenuItem*
-""*
-
-%179int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java± ±(Q
-itemjavax.swing.JMenuItem"__id*
-
-%180javax.swing.JMenuItemûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≤ µ(
-
-%182void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)¨©
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∂ ∂(
-%183javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*"
- 
-connectMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaπC π(P
-%184int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaπ π(
-%185javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaπ π(Q
-%186"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%185javax.swing.JMenuItem*
-""*
-
-%184int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaπ π(Q
-itemjavax.swing.JMenuItem"__id*
-
-%185javax.swing.JMenuItemÙÒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java∫ ∫(A
-%187":javax.swing.JComponent#setToolTipText(Ljava/lang/String;)V*
-
-itemjavax.swing.JMenuItem*
-""2"setToolTipText(Ljava/lang/String;)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaª ø(
-
-%188void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)¨©
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java¿ ¿(
-%189javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*"
- 
-connectMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)ëé
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java√& √(+
-%190javax.swing.JMenu"javax.swing.JMenuø
-º
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java√" √(Q
-%191"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
-
-%190javax.swing.JMenu*
-""®
-•
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java√ √(R 
-optionsMenujavax.swing.JMenu"__id*
-
-%190javax.swing.JMenu}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaƒ  ƒ(-
-%192int"__id*
-""‡›
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaƒ ƒ(.
-%193void"*javax.swing.AbstractButton#setMnemonic(I)V*"
- 
-optionsMenujavax.swing.JMenu*
-
-%192int2setMnemonic(I)°û
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java≈ ≈( 
-%194javax.swing.JMenu"@javax.swing.JMenuBar#add(Ljavax/swing/JMenu;)Ljavax/swing/JMenu;*!
-
-menubarjavax.swing.JMenuBar*"
- 
-optionsMenujavax.swing.JMenu2add(Ljavax/swing/JMenu;)π
-∂
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«k «(u
-%195java.util.Properties"__id*0*.
-org.exist.client.ClientFrame"
-
-propertiesç
-ä
-`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«Ç «(ì
-%196java.lang.String"__id*
-""£†
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«k «(î
-%197java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
-
-%195java.util.Properties*
-
-%196java.lang.String2getProperty(Ljava/lang/String;)‰·
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«^ «(ï
-%198boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-yes*
-
-%197java.lang.String2equals(Ljava/lang/Object;)©¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«& «(7%
-%199javax.swing.JCheckBoxMenuItem"javax.swing.JCheckBoxMenuItemÏ
-È
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java«" «(ñ
-%200":javax.swing.JCheckBoxMenuItem#<init>(Ljava/lang/String;Z)V*'
-%
-%199javax.swing.JCheckBoxMenuItem*
-""*
-
-%198booleanª
-∏
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java« «(ó&
-checkjavax.swing.JCheckBoxMenuItem"__id*'
-%
-%199javax.swing.JCheckBoxMenuItemß§
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java» “(
-
-%201void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*(
-&
-checkjavax.swing.JCheckBoxMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)µ≤
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java” ”(
-%202javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*"
- 
-optionsMenujavax.swing.JMenu*(
-&
-checkjavax.swing.JCheckBoxMenuItem2add(Ljavax/swing/JMenuItem;)π
-∂
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’Y ’(c
-%203java.util.Properties"__id*0*.
-org.exist.client.ClientFrame"
-
-properties˝˙
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’Y ’(ë
-%204"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
-
-%203java.util.Properties*
-""2getProperty(Ljava/lang/String;)…∆
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’L ’(í
-%205",java.lang.String#equals(Ljava/lang/Object;)Z*
-yes*
-
-%2042equals(Ljava/lang/Object;)©¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’ ’(%%
-%206javax.swing.JCheckBoxMenuItem"javax.swing.JCheckBoxMenuItemÙ
-Ò
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’ ’(ì
-%207"Kjavax.swing.JCheckBoxMenuItem#<init>(Ljava/lang/String;Ljavax/swing/Icon;)V*'
-%
-%206javax.swing.JCheckBoxMenuItem*
-""*
-
-%205ª
-∏
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java’ ’(ì&
-checkjavax.swing.JCheckBoxMenuItem"__id*'
-%
-%206javax.swing.JCheckBoxMenuItemß§
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java÷ ‡(
-
-%208void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*(
-&
-checkjavax.swing.JCheckBoxMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)µ≤
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java· ·(
-%209javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*"
- 
-optionsMenujavax.swing.JMenu*(
-&
-checkjavax.swing.JCheckBoxMenuItem2add(Ljavax/swing/JMenuItem;)ëé
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‰# ‰((
-%210javax.swing.JMenu"javax.swing.JMenuø
-º
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‰ ‰(N
-%211"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
-
-%210javax.swing.JMenu*
-""•
-¢
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java‰ ‰(O
-HelpMenujavax.swing.JMenu"__id*
-
-%210javax.swing.JMenu}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÂ Â(*
-%212int"__id*
-""›⁄
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÂ Â(+
-%213void"*javax.swing.AbstractButton#setMnemonic(I)V*
-
-HelpMenujavax.swing.JMenu*
-
-%212int2setMnemonic(I)ûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÊ Ê(
-%214javax.swing.JMenu"@javax.swing.JMenuBar#add(Ljavax/swing/JMenu;)Ljavax/swing/JMenu;*!
-
-menubarjavax.swing.JMenuBar*
-
-HelpMenujavax.swing.JMenu2add(Ljavax/swing/JMenu;)}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaËC Ë(P
-%215int"__id*
-""ôñ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaË Ë(
-%216javax.swing.JMenuItem"javax.swing.JMenuItem◊
-‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaË Ë(Q
-%217"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
-
-%216javax.swing.JMenuItem*
-""*
-
-%215int©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaË Ë(Q
-itemjavax.swing.JMenuItem"__id*
-
-%216javax.swing.JMenuItemûõ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÈ È(2
-%218void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-itemjavax.swing.JMenuItem*
-""22addActionListener(Ljava/awt/event/ActionListener;)©¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÍ Í(
-%219javax.swing.JMenuItem"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
-
-HelpMenujavax.swing.JMenu*
-
-itemjavax.swing.JMenuItem2add(Ljavax/swing/JMenuItem;)"É
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.javaÏ Ï(!
-
-menubarjavax.swing.JMenuBarB 
-org.exist.client.ClientFrame

@@ -1,146 +1,0 @@
-
-‡org.exist.xmlrpc.RpcConnection#parseLocalExt(Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;ZLjava/util/Date;Ljava/util/Date;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaã ã( "startingBlock*ð
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä] ä(^ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä] ä(^	
-%3int"__id*
-	
-%5int*
-1*ð
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaäY ä(Zƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaäY ä(Z	
-%3int"__id*
-	
-%4int*
-1*þ
-startingBlocka
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaã  ã(¿°
-­
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaâ â(
-%7"
-__annotate*
-java.lang.Override*
-
-	localFilejava.lang.Stringš
-—
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaã. ã(7
-	localFilejava.lang.String"__annotation*
-
-%7®
-«
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaâ â(
-%8"
-__annotate*
-java.lang.Override*
-
-docNamejava.lang.String˜
-•
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaãF ã(M
-docNamejava.lang.String"__annotation*
-
-%8¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaâ â(
-%9"
-__annotate*
-java.lang.Override*
-
-mimeTypejava.lang.String™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaãs ã({
-mimeTypejava.lang.String"__annotation*
-
-%9­
-ª
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaâ â(
-%10"
-__annotate*
-java.lang.Override*
-
-createdjava.util.Date™
-–
-b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaã¢ ã(©
-createdjava.util.Date"__annotation*
-
-%10®
-«
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaâ â(
-%11"
-__annotate*
-java.lang.Override*
-
-modifiedjava.util.Dateš
-—
-b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaã¶ ã(¾
-modifiedjava.util.Date"__annotation*
-
-%11*
-5
-6*ó
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä? ä(@ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä? ä(@	
-%0int"__id*
-	
-%2int*
-2
-3*ó
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä; ä(<ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä; ä(<	
-%0int"__id*
-	
-%1int*
-2
-3*”
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä` ä(gÀ½
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä ä(r
-%6boolean"‡org.exist.xmlrpc.RpcConnection#parseLocalExt(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;ILjava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-	localFilejava.lang.String*
-
-docNamejava.lang.String*
-	
-%0int*
-
-mimeTypejava.lang.String*
-	
-%3int*
-
-createdjava.util.Date*
-
-modifiedjava.util.Date2gparseLocalExt(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;ILjava/util/Date;Ljava/util/Date;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaä ä(s
-"":
-	localFilejava.lang.String:
-docNamejava.lang.String:
-"":
-mimeTypejava.lang.String:
-"":
-createdjava.util.Date:
-modifiedjava.util.DateB" 
-org.exist.xmlrpc.RpcConnection

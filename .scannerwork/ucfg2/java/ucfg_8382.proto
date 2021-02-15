@@ -1,32 +1,0 @@
-
-Horg.exist.util.io.FastByteArrayOutputStream#toString()Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java¨ ¨("1*”	
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaª ª(%ýú
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaª ª('
-%0byte[]";org.exist.util.io.FastByteArrayOutputStream#toByteArray()[B*/-
-+org.exist.util.io.FastByteArrayOutputStream2toByteArray()õ
-ò
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaª) ª(A
-%1java.nio.charset.Charset"Cjava.nio.charset.Charset#defaultCharset()Ljava/nio/charset/Charset;*"
-java.nio.charset.Charsetœ™
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaª ª(
-%2java.lang.String"java.lang.Stringü
-ù
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaª ª(B
-%3"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
-
-%2java.lang.String*
-
-%0byte[]* 
-
-%1java.nio.charset.Charset"‰
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaª ª(C
-
-%2java.lang.StringB/-
-+org.exist.util.io.FastByteArrayOutputStream

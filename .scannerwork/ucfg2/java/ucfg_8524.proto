@@ -1,98 +1,0 @@
-
-7org.exist.client.security.UserDialog#isValidPassword()Zf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÍ Í(#"5*Ý
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÏ Ï("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÏ Ï(
-""*õ	
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ[ Î(fÎ
-Ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ[ Î(f 
-%6javax.swing.JPasswordField"__id*9*7&
-$org.exist.client.security.UserDialog"
-txtPasswordêç
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ[ Î(p
-%7java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*"
- 
-%6javax.swing.JPasswordField2	getText()Ö
-Ó
-g
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎx Î(Š 
-%8javax.swing.JPasswordField"__id*@*>&
-$org.exist.client.security.UserDialog"
-txtPasswordConfirmëè
-g
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎx Î(”
-%9java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*"
- 
-%8javax.swing.JPasswordField2	getText()ú÷
-g
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ[ Î(•
-%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%7java.lang.String*
-
-%9java.lang.String2equals(Ljava/lang/Object;)*
-2
-1*Œ
-
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ" Î(.Ì
-É
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ" Î(.
-%1java.util.regex.Pattern"__id*:*8&
-$org.exist.client.security.UserDialog"
-PTN_PASSWORDÎ
-Ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ7 Î(B 
-%2javax.swing.JPasswordField"__id*9*7&
-$org.exist.client.security.UserDialog"
-txtPasswordêç
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ7 Î(L
-%3java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*"
- 
-%2javax.swing.JPasswordField2	getText()¼¹
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ" Î(M
-%4java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%1java.util.regex.Pattern*
-
-%3java.lang.String2!matcher(Ljava/lang/CharSequence;)ÊÇ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ" Î(W
-%5boolean""java.util.regex.Matcher#matches()Z*
-
-%4java.util.regex.Matcher2	matches()*
-3
-1*Ä
-5f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ Î(Î
-Ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÎ Î( 
-%0javax.swing.JPasswordField"__id*9*7&
-$org.exist.client.security.UserDialog"
-txtPassword*
-4
-1*®
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÒ Ò(Î
-Ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÒ Ò(d
-%11void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
-javax.swing.JOptionPane*(&
-$org.exist.client.security.UserDialog*97
-5Passwords do not match or are less than 3 characters."p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÓ Ó(
-""B(&
-$org.exist.client.security.UserDialog

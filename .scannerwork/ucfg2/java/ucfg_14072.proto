@@ -1,16 +1,0 @@
-
-Oorg.exist.xquery.modules.cache.CacheConfig#getMaximumSize()Ljava/util/Optional;}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheConfig.java7 7(("1*†
-1}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheConfig.java8 8(ã
-à
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheConfig.java8 8(
-%0java.util.Optional"__id*?*=,
-*org.exist.xquery.modules.cache.CacheConfig"
-maximumSize"›
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/cache/CacheConfig.java8 8(
-
-%0java.util.OptionalB.,
-*org.exist.xquery.modules.cache.CacheConfig

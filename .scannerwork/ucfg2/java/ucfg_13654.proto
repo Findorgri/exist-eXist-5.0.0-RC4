@@ -1,17 +1,0 @@
-
-borg.exist.security.realm.ldap.AbstractLDAPPrincipalRestrictionList#getPrincipals()Ljava/util/List;œ
-‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/AbstractLDAPPrincipalRestrictionList.java% %(%"1*õ
-1œ
-‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/AbstractLDAPPrincipalRestrictionList.java& &(–
-“
-œ
-‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/AbstractLDAPPrincipalRestrictionList.java& &(
-%0java.util.List"__id*V*TD
-Borg.exist.security.realm.ldap.AbstractLDAPPrincipalRestrictionList"
-
-principals"·
-œ
-‘C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/AbstractLDAPPrincipalRestrictionList.java& &(
-
-%0java.util.ListBFD
-Borg.exist.security.realm.ldap.AbstractLDAPPrincipalRestrictionList

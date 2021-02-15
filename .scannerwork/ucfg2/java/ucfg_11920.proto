@@ -1,101 +1,0 @@
-
-Éorg.exist.xquery.value.GYearValue#stripCalendar(Ljavax/xml/datatype/XMLGregorianCalendar;)Ljavax/xml/datatype/XMLGregorianCalendar;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java4( 4(5"1*ª
-1a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java5* 5(2Å˛
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java5* 5(:
-%0java.lang.Object"Ajavax.xml.datatype.XMLGregorianCalendar#clone()Ljava/lang/Object;*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar2clone()ª
-∏
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java5 5(:3
-calendar'javax.xml.datatype.XMLGregorianCalendar"__id*
-
-%0java.lang.Object~
-|
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java6 6(;	
-%1int"__id*
-""˘ˆ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java6 6(<
-
-%2void"4javax.xml.datatype.XMLGregorianCalendar#setMonth(I)V*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar*
-	
-%1int2setMonth(I)~
-|
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java7 7(9	
-%3int"__id*
-""ıÚ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java7 7(:
-
-%4void"2javax.xml.datatype.XMLGregorianCalendar#setDay(I)V*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar*
-	
-%3int2	setDay(I)~
-|
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java8 8(:	
-%5int"__id*
-""˜Ù
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java8 8(;
-
-%6void"3javax.xml.datatype.XMLGregorianCalendar#setHour(I)V*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar*
-	
-%5int2
-setHour(I)~
-|
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java9 9(<	
-%7int"__id*
-""˚¯
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java9 9(=
-
-%8void"5javax.xml.datatype.XMLGregorianCalendar#setMinute(I)V*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar*
-	
-%7int2setMinute(I)~
-|
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java: :(<	
-%9int"__id*
-""¸˘
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java: :(=
-%10void"5javax.xml.datatype.XMLGregorianCalendar#setSecond(I)V*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar*
-	
-%9int2setSecond(I)
-}
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java;  ;(A
-
-%11int"__id*
-""áÑ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java; ;(B
-%12void":javax.xml.datatype.XMLGregorianCalendar#setMillisecond(I)V*5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar*
-
-
-%11int2setMillisecond(I)"ö
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/GYearValue.java< <(5
-3
-calendar'javax.xml.datatype.XMLGregorianCalendar:3
-calendar'javax.xml.datatype.XMLGregorianCalendarB%"#
-!org.exist.xquery.value.GYearValue

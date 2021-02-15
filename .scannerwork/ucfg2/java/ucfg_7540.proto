@@ -1,43 +1,0 @@
-
-Korg.exist.management.impl.SystemInfo#getDefaultEncoding()Ljava/lang/String;d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaC C($"5*Ï
-3d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaE E(%"Ä
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaE E(%
-
-%3java.lang.String*ó
-4d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaD D(J¥
-±
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaD D(J 
-isrjava.io.InputStreamReader"__id*!
-
-%1java.io.InputStreamReaderÔÏ
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaE E($
-%3java.lang.String"9java.io.InputStreamReader#getEncoding()Ljava/lang/String;*"
- 
-isrjava.io.InputStreamReader2getEncoding()*
-3*ó
-5d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaD@ D(Fí
-è
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaD@ D(I
-%0java.io.InputStream"__id*
-""•¢
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaD. D(?
-%1java.io.InputStreamReader"java.io.InputStreamReaderÈ
-Ê
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SystemInfo.javaD* D(J
-%2"8java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V*!
-
-%1java.io.InputStreamReader*
-
-%0java.io.InputStream*
-4B(&
-$org.exist.management.impl.SystemInfo

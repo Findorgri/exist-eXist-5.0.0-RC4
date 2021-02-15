@@ -1,123 +1,0 @@
-
-borg.exist.xquery.functions.util.NodeXPath#nodeToXPath(Lorg/w3c/dom/Node;)Ljava/lang/StringBuilder;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javag g(!"5*∞
-3i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javan n(Ì
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javan n("
-%6org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*#
-!
-attrsorg.w3c.dom.NamedNodeMap*
-""2item(I)®
-•
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javan n(#
-attrorg.w3c.dom.Node"__id*
-
-%6org.w3c.dom.Node¢ü
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javao o(
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xpathjava.lang.StringBuilder*
-[@2append(Ljava/lang/String;)◊‘
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javao o(2
-%8java.lang.String"_org.exist.xquery.functions.util.NodeXPath#getFullNodeName(Lorg/w3c/dom/Node;)Ljava/lang/String;*-+
-)org.exist.xquery.functions.util.NodeXPath*
-
-attrorg.w3c.dom.Node2#getFullNodeName(Lorg/w3c/dom/Node;)±Æ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javao o(3
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%7java.lang.StringBuilder*
-
-%8java.lang.String2append(Ljava/lang/String;)§°
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javao o(D
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%9java.lang.StringBuilder*
-
- eq \"2append(Ljava/lang/String;)Ê„
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javaoL o(_
-%11java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
-
-attrorg.w3c.dom.Node2getNodeValue()¥±
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javao o(`
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%10java.lang.StringBuilder*
-
-%11java.lang.String2append(Ljava/lang/String;)¢ü
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javao o(n
-%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%12java.lang.StringBuilder*
-\"]2append(Ljava/lang/String;)*
-4*À
-4i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javal l(“œ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javal l(&	
-%5int"%org.w3c.dom.NamedNodeMap#getLength()I*#
-!
-attrsorg.w3c.dom.NamedNodeMap2getLength()*
-3
-1*˚
-5i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javai0 i(3‘—
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javai6 i(H
-%0java.lang.String"_org.exist.xquery.functions.util.NodeXPath#getFullNodeName(Lorg/w3c/dom/Node;)Ljava/lang/String;*-+
-)org.exist.xquery.functions.util.NodeXPath*
-
-norg.w3c.dom.Node2#getFullNodeName(Lorg/w3c/dom/Node;)±
-Æ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javai0 i(H
-%1java.lang.String"__concat*
-/*
-
-%0java.lang.String¶£
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javai" i(/
-%2java.lang.StringBuilder"java.lang.StringBuilder‰
-·
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javai i(I
-%3"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
-
-%2java.lang.StringBuilder*
-
-%1java.lang.String∑
-¥
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javai i(J 
-xpathjava.lang.StringBuilder"__id*
-
-%2java.lang.StringBuilderÙÒ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javak k(.
-%4org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
-
-norg.w3c.dom.Node2getAttributes()π
-∂
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javak k(/!
-attrsorg.w3c.dom.NamedNodeMap"__id* 
-
-%4org.w3c.dom.NamedNodeMap*
-4*Ä
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javar	 r("è
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/NodeXPath.javar r("
- 
-xpathjava.lang.StringBuilder:
-norg.w3c.dom.NodeB-+
-)org.exist.xquery.functions.util.NodeXPath

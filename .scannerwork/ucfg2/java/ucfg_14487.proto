@@ -1,28 +1,0 @@
-
-]org.exist.security.internal.RealmImpl#findAllGroupMembers(Ljava/lang/String;)Ljava/util/List;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java« «(+"startingBlock*Û
-startingBlockg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java«+ «(C·
-´
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaª ª(
-%0"
-__annotate*
-java.lang.Override*
-
-	groupNamejava.lang.String¡
-ž
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java«9 «(B
-	groupNamejava.lang.String"__annotation*
-
-%0*
-1*ß
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java¬ ¬("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.java¬ ²(
-
-"":
-	groupNamejava.lang.StringB)'
-%org.exist.security.internal.RealmImpl

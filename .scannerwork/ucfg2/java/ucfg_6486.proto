@@ -1,56 +1,0 @@
-
-Vorg.exist.config.ConfigurationImpl#getPropertyLong(Ljava/lang/String;)Ljava/lang/Long;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÈ È("startingBlock*Ù
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaË Ë("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaË Ë(
-""*×
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÉ É((¼¹
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÉ É(.
-%0java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
-"org.exist.config.ConfigurationImpl*
-
-namejava.lang.String2getProperty(Ljava/lang/String;)¤
-¡
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÉ É(/
-valuejava.lang.String"__id*
-
-%0java.lang.String*
-2
-1*È
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÈ È(2¯
-¬
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÇ Ç(
-%2"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String™
-–
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÈ- È(1
-namejava.lang.String"__annotation*
-
-%2*
-3*Ø
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÍ Í(ì
-é
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÍ Í("
-%1java.lang.Long":java.lang.Long#valueOf(Ljava/lang/String;)Ljava/lang/Long;*"
-java.lang.Long*
-
-valuejava.lang.String"~
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÍ Í(#
-
-%1java.lang.Long:
-namejava.lang.StringB&$
-"org.exist.config.ConfigurationImpl

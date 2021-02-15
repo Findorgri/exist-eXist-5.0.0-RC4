@@ -1,16 +1,0 @@
-
-9org.exist.xquery.Function#isCalledAs(Ljava/lang/String;)Z[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java¡ ¡("1*£
-1[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java¢ ¢(ÙÖ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java¢ ¢(E
-%0",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	localNamejava.lang.String*
-""2equals(Ljava/lang/Object;)"e
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Function.java¢ ¢(F
-"":
-	localNamejava.lang.StringB
-org.exist.xquery.Function

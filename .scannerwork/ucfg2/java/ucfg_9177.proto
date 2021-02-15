@@ -1,28 +1,0 @@
-
-;null#valueWithDefault(Ljava/lang/String;)Ljava/lang/String;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java» »(*"startingBlock*Á
-startingBlocki
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java»* »(?º
-π
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java» »(
-%0"
-__annotate*
-java.lang.Override*"
- 
-defaultValuejava.lang.String¶
-£
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java»2 »(> 
-defaultValuejava.lang.String"__annotation*
-
-%0*
-1*Ä
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java»H »(T"è
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java»A »(U"
- 
-defaultValuejava.lang.String: 
-defaultValuejava.lang.StringB!
-Lorg/exist/fluent/Item$10160;

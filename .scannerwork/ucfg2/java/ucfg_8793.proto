@@ -1,32 +1,0 @@
-
-1org.exist.test.ExistWebServer#isLocalPortFree(I)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.java≤ ≤(#"4*Ÿ
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaµ µ("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.javaµ µ(
-""*Æ
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.java¥ ¥(*Ω∫
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.java¥ ¥(*
-
-%2void"java.net.ServerSocket#close()V*
-
-%0java.net.ServerSocket2close()*
-2*…
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.java¥ ¥(!ùö
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.java¥ ¥(
-%0java.net.ServerSocket"java.net.ServerSocket∏
-µ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/test/ExistWebServer.java¥ ¥("
-%1" java.net.ServerSocket#<init>(I)V*
-
-%0java.net.ServerSocket*
-""*
-3:
-""B!
-org.exist.test.ExistWebServer

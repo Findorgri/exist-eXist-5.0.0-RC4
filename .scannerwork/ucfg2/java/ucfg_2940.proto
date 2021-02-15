@@ -1,87 +1,0 @@
-
-Jorg.exist.storage.index.BFile$SinglePage#printContents()Ljava/lang/String;_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java† †($"6*ù
-3_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java§ §(Û
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java§ §(#
-%2java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-[2	append(C)Û
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java§ §(-
-%3java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-""2	append(I)ïí
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java§ §(:
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%3java.lang.StringBuilder*
-, 2append(Ljava/lang/String;)Û
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java§ §(M
-%5java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*
-
-%4java.lang.StringBuilder*
-""2	append(I)∞
-≠
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java•A •(E
-%6byte[]"__id*6*4*
-(org.exist.storage.index.BFile$SinglePage"
-datañì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java¶ ¶($
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-, 2append(Ljava/lang/String;)Û
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java¶ ¶(0
-%8java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*
-
-%7java.lang.StringBuilder*
-""2	append(I)ÚÔ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java¶ ¶(<
-%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
-
-%8java.lang.StringBuilder*
-]2	append(C)*
-3
-1*Í
-6_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java°& °(9úô
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java°* °(7
-%0java.lang.StringBuilder"java.lang.StringBuilderÆ
-´
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java°& °(9
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder´
-®
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java° °(:
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-3
-1*∆
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java© ©(·ﬁ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java© ©(!
-%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"|
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java© ©("
-
-%10java.lang.StringB,*
-(org.exist.storage.index.BFile$SinglePage

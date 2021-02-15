@@ -1,11 +1,0 @@
-
-Lorg.exist.util.DirectoryScanner#match(Ljava/lang/String;Ljava/lang/String;)Z_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/DirectoryScanner.javaA  A(%"1*Ï
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/DirectoryScanner.javaB B("i
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/DirectoryScanner.javaB B(6
-"":
-patternjava.lang.String:
-namejava.lang.StringB#"!
-org.exist.util.DirectoryScanner

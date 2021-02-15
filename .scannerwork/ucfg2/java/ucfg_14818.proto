@@ -1,436 +1,0 @@
-
-Porg.exist.launcher.ConfigurationDialog#saveConfig(Ljava/awt/event/ActionEvent;)Vh
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÔ Ô("50"51*ﬁ
-46h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˜ ˜(5µ
-≤
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˜ ˜(5"
-
-propertiesjava.util.Properties"__id*
-
-%2java.util.Properties 
-«
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java¯1 ¯(:
-%4javax.swing.JSpinner"__id*9*7(
-&org.exist.launcher.ConfigurationDialog"
-	maxMemory‚ﬂ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java¯1 ¯(E
-%5java.lang.Object"1javax.swing.JSpinner#getValue()Ljava/lang/Object;*
-
-%4javax.swing.JSpinner2
-getValue()*
-45*’
-24h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ Ö(Nﬁ€
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ Ö(N
-%28java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*
-port*
-
-%27java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-23* 
-47h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˜$ ˜(4üú
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˜( ˜(2
-%2java.util.Properties"java.util.Properties±
-Æ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˜$ ˜(4
-%3"java.util.Properties#<init>()V*
-
-%2java.util.Properties*
-46*”
-25h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ/ Ö(M‹Ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ/ Ö(M
-%27java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-%26java.lang.Object2
-toString()*
-24*®
-26h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ Ö( 
-«
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ/ Ö(7
-%25javax.swing.JSpinner"__id*8*6(
-&org.exist.launcher.ConfigurationDialog"
-
-httpPort‰·
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÖ/ Ö(B
-%26java.lang.Object"1javax.swing.JSpinner#getValue()Ljava/lang/Object;*
-
-%25javax.swing.JSpinner2
-getValue()*
-25*‚
-49h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaı ı("r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaı ı(
-""*£
-27h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÑ Ñ(¨
-©
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÑ Ñ("
-%24void"
-__mapClear*$
-"
-
-propertiesjava.util.Properties*
-26*€
-50h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÙ Ù(‡
-›
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÙ Ù(
-%1boolean"6org.exist.launcher.ConfigurationDialog#checkDataDir()Z**(
-&org.exist.launcher.ConfigurationDialog*
-47
-49*¡
-51h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÒ Ò(‹Ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÒ Ò(
-
-%0void"java.awt.Dialog#setVisible(Z)V**(
-&org.exist.launcher.ConfigurationDialog*
-""2setVisible(Z)"r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÚ Ú(
-""*„
-30h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÄ Ä(@·ﬁ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÄ Ä(@
-%23java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*	
-dataDir*
-
-%22java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-27
-17
-11
-0*¥
-31h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÄ Ä(À
-»
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÄ. Ä(5
-%21javax.swing.JTextField"__id*7*5(
-&org.exist.launcher.ConfigurationDialog"	
-dataDirÔÏ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÄ. Ä(?
-%22java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
-
-%21javax.swing.JTextField2	getText()*
-30*Ä
-10h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaê ë(xá
-Ñ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaí í(/
-
-%42int"__id*
-""*
-9
-0*‡
-32h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ ˇ(\ÈÊ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ ˇ(\
-%20java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*
-collectionCache*
-
-%19java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-31*Ÿ
-11h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaê ê(#’
-“
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaê< ë(+
-%38java.lang.String"__concat*0.
-,Database needs to be restarted to apply the *
-new settings.á
-Ñ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaë@ ë(Y
-
-%39int"__id*
-""á
-Ñ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaë[ ë(v
-
-%40int"__id*
-""ˆ
-Û
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaê ë(w
-
-%41int"fjavax.swing.JOptionPane#showConfirmDialog(Ljava/awt/Component;Ljava/lang/Object;Ljava/lang/String;II)I*"
-javax.swing.JOptionPane**(
-&org.exist.launcher.ConfigurationDialog*
-
-%38java.lang.String*
-Confirm restart*
-
-
-%39int*
-
-
-%40int*
-10*”
-33h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ6 ˇ([‹Ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ6 ˇ([
-%19java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-%18java.lang.Object2
-toString()*
-32*Ø
-34h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ ˇ(—
-Œ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ6 ˇ(E
-%17javax.swing.JSpinner"__id*?*=(
-&org.exist.launcher.ConfigurationDialog"
-collectionCache‰·
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaˇ6 ˇ(P
-%18java.lang.Object"1javax.swing.JSpinner#getValue()Ljava/lang/Object;*
-
-%17javax.swing.JSpinner2
-getValue()*
-33*⁄
-35h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛ ˛(P„‡
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛ ˛(P
-%16java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*
-	cacheSize*
-
-%15java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-34*”
-36h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛0 ˛(O‹Ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛0 ˛(O
-%15java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-%14java.lang.Object2
-toString()*
-35*©
-37h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛ ˛(À
-»
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛0 ˛(9
-%13javax.swing.JSpinner"__id*9*7(
-&org.exist.launcher.ConfigurationDialog"
-	cacheSize‰·
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˛0 ˛(D
-%14java.lang.Object"1javax.swing.JSpinner#getValue()Ljava/lang/Object;*
-
-%13javax.swing.JSpinner2
-getValue()*
-36*«
-15h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaé é(—
-Œ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaé é("
-%36java.util.function.Consumer"__id*8*6(
-&org.exist.launcher.ConfigurationDialog"
-
-callback˝˙
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaé é(%
-%37void"7java.util.function.Consumer#accept(Ljava/lang/Object;)V*$
-"
-%36java.util.function.Consumer*
-""2accept(Ljava/lang/Object;)*
-0*£
-38h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˝ ˝(¨
-©
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˝ ˝(
-%12void"
-__mapClear*$
-"
-
-propertiesjava.util.Properties*
-37*‘
-16h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaç ç(›⁄
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaç ç(!
-%35void"java.awt.Dialog#setVisible(Z)V**(
-&org.exist.launcher.ConfigurationDialog*
-""2setVisible(Z)*
-15*ö
-17h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaã ã(# 
-«
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaå å(
-%33javax.swing.JButton"__id*9*7(
-&org.exist.launcher.ConfigurationDialog"
-	btnCancel÷”
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaå å(*
-%34void"%javax.swing.JComponent#setVisible(Z)V*
-
-%33javax.swing.JButton*
-""2setVisible(Z)*
-16*Ü
-0 "
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java£ £(
-implicit return*∆
-8h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javañ ñ(—
-Œ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javañ ñ("
-%44java.util.function.Consumer"__id*8*6(
-&org.exist.launcher.ConfigurationDialog"
-
-callback˝˙
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javañ ñ()
-%45void"7java.util.function.Consumer#accept(Ljava/lang/Object;)V*$
-"
-%44java.util.function.Consumer*
-""2accept(Ljava/lang/Object;)*
-0*“
-9h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaì ì(#›⁄
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaï ï(%
-%43void"java.awt.Dialog#setVisible(Z)V**(
-&org.exist.launcher.ConfigurationDialog*
-""2setVisible(Z)*
-8*€
-41h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘ ˘(Q‰·
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘ ˘(Q
-%11java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*
-
-memory.min*
-
-%10java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-38*“
-42h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘1 ˘(P€ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘1 ˘(P
-%10java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-%9java.lang.Object2
-toString()*
-41*¶
-43h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘ ˘( 
-«
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘1 ˘(:
-%8javax.swing.JSpinner"__id*9*7(
-&org.exist.launcher.ConfigurationDialog"
-	minMemory‚ﬂ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java˘1 ˘(E
-%9java.lang.Object"1javax.swing.JSpinner#getValue()Ljava/lang/Object;*
-
-%8javax.swing.JSpinner2
-getValue()*
-42*‡
-21h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ Ü(Q‚ﬂ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ Ü(Q
-%32java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*
-
-port.ssl*
-
-%31java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-17
-11
-0*Ÿ
-44h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java¯ ¯(Q‚ﬂ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java¯ ¯(Q
-%7java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*$
-"
-
-propertiesjava.util.Properties*
-
-memory.max*
-
-%6java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-43*”
-22h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ3 Ü(P‹Ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ3 Ü(P
-%31java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-%30java.lang.Object2
-toString()*
-21*—
-45h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java¯1 ¯(P⁄◊
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.java¯1 ¯(P
-%6java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-%5java.lang.Object2
-toString()*
-44*ß
-23h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ Ü(…
-∆
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ3 Ü(:
-%29javax.swing.JSpinner"__id*7*5(
-&org.exist.launcher.ConfigurationDialog"	
-sslPort‰·
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ConfigurationDialog.javaÜ3 Ü(E
-%30java.lang.Object"1javax.swing.JSpinner#getValue()Ljava/lang/Object;*
-
-%29javax.swing.JSpinner2
-getValue()*
-22:!
-evtjava.awt.event.ActionEventB*(
-&org.exist.launcher.ConfigurationDialog

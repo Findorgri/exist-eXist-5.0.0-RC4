@@ -1,40 +1,0 @@
-
-Rorg.exist.xmlrpc.RpcConnection#toProperties(Ljava/util/Map;)Ljava/util/Properties;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÛ Û(#"1*¬
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ& Ü(6—”
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ* Ü(4
-%0java.util.Properties"java.util.Properties©
-¦
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ& Ü(6
-%1"java.util.Properties#<init>()V*
-
-%0java.util.Properties­
-ª
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÜ Ü(7"
-
-propertiesjava.util.Properties"__id*
-
-%0java.util.PropertiesÃ
-À
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÝ Ý(%
-
-%2void"__mapSetAll*$
-"
-
-propertiesjava.util.Properties*
-
-
-parametersjava.util.Map"ˆ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÞ Þ($
-"
-
-propertiesjava.util.Properties:
-
-parametersjava.util.MapB" 
-org.exist.xmlrpc.RpcConnection

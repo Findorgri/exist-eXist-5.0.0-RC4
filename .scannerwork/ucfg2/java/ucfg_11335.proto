@@ -1,77 +1,0 @@
-
-,org.exist.xquery.value.Type#getSuperType(I)I]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÇ Ç(""6*ﬁ
-2]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaâ â(u
-s
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaâ â(
-%4"__id*
-""·
-ﬁ
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaâO â(c
-%5java.lang.String"<org.exist.xquery.value.Type#getTypeName(I)Ljava/lang/String;*"
-org.exist.xquery.value.Type*
-""íè
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaâi â(r
-%6java.lang.Throwable"java.lang.Throwable§
-°
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaâe â(t
-%7"java.lang.Throwable#<init>()V*
-
-%6java.lang.Throwablez
-x
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaä ä(	
-%8int"__id*
-"""g
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaä ä(
-""*Ë
-3]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaá á((|
-z
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaá á((
-%3int[]"__id*
-""*
-2
-1*«
-4]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÑ Ñ(z
-x
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÑ Ñ(	
-%2int"__id*
-"""g
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÑ Ñ(
-""*Ê
-5]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÉ É(&z
-x
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÉ* É(.	
-%1int"__id*
-""*
-3
-4*Ê
-6]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÉ É(z
-x
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaÉ É(	
-%0int"__id*
-""*
-4
-5*À
-1]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaç ç("g
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Type.javaç ç(
-"":
-""B"
-org.exist.xquery.value.Type

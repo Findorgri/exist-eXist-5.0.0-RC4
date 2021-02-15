@@ -1,13 +1,0 @@
-
-2org.exist.source.DBSource#path()Ljava/lang/String;Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java? ?("1*“
-1Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java@ @(ÍÊ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java@ @( 
-%0"5org.exist.source.DBSource#getDocumentPath()LXmldbURI;*
-org.exist.source.DBSource2getDocumentPath()"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/DBSource.java@ @(,
-""B
-org.exist.source.DBSource

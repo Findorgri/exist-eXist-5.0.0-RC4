@@ -1,42 +1,0 @@
-
-Qorg.exist.dom.persistent.XMLUtil#readFile(Ljava/nio/file/Path;)Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaí í('"startingBlock*È
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaí' í(8±
-®
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaì ì(
-%2"
-__annotate*
-java.lang.Deprecated*
-
-filejava.nio.file.Path™
-–
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaí3 í(7
-filejava.nio.file.Path"__annotation*
-
-%2*
-1*Ô
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaî î(•
-’
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaî î(#
-%0java.nio.charset.Charset"__id*
-""Ò
-Ï
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaî î($
-%1java.lang.String"korg.exist.dom.persistent.XMLUtil#readFile(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/lang/String;*$""
- org.exist.dom.persistent.XMLUtil*
-
-filejava.nio.file.Path* 
-
-%0java.nio.charset.Charset"~
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaî î(%
-
-%1java.lang.String:
-filejava.nio.file.PathB$""
- org.exist.dom.persistent.XMLUtil

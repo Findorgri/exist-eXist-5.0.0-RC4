@@ -1,52 +1,0 @@
-
-borg.exist.util.TimestampedReference#setIfExpired(JLjava/util/function/Supplier;)Ljava/lang/Object;c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaS S(#"startingBlock*ú
-2c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaU U(%ØÕ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaU U(+
-%0V"3java.util.function.Supplier#get()Ljava/lang/Object;*)
-'
-supplierjava.util.function.Supplier2get()¯
-¬
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaU U(+4%
-#org.exist.util.TimestampedReference"
-	reference"__id*	
-
-%0V*
-1*Ü
-startingBlockc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaS# S(U³
-°
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaS S(
-%2"
-__annotate*
-
-Nullable*)
-'
-supplierjava.util.function.Supplier§
-¤
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaSL S(T'
-supplierjava.util.function.Supplier"__annotation*
-
-%2*
-2
-1*Œ
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaX X(¯
-¬
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaX X(
-%1V"__id*6*4%
-#org.exist.util.TimestampedReference"
-	reference"p
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TimestampedReference.javaX X(	
-
-%1V:
-"":'
-supplierjava.util.function.SupplierB'%
-#org.exist.util.TimestampedReference

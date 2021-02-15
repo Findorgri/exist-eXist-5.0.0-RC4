@@ -1,40 +1,0 @@
-
-8org.exist.xquery.value.AnyURIValue#toURI()Ljava/net/URI;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java• •("6*ç
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —(("|
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —((
-
-%2java.net.URI*È
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —('‹ˆ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —(
-%2java.net.URI"java.net.URIÉ
-Æ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —('
-%3"(java.net.URI#<init>(Ljava/lang/String;)V*
-
-%2java.net.URI*
-
-%1java.lang.String*
-4*À
-6d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —(!¸
-µ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java—" —(%
-%0java.lang.String"__id*/*-$
-"org.exist.xquery.value.AnyURIValue"
-uri”
-‘
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java— —(&
-%1java.lang.String"Oorg.exist.xquery.value.AnyURIValue#escape(Ljava/lang/String;)Ljava/lang/String;*&"$
-"org.exist.xquery.value.AnyURIValue*
-
-%0java.lang.String*
-5B&$
-"org.exist.xquery.value.AnyURIValue

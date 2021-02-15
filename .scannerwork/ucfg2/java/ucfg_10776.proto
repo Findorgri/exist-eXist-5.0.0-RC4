@@ -1,33 +1,0 @@
-
-Norg.exist.backup.ZipArchiveBackupDescriptor#getParentDir()Ljava/nio/file/Path;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaË Ë("1*Â	
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÌ Ì(Ó
-Ð
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÌ Ì( 
-%0java.util.zip.ZipFile"__id*<*:-
-+org.exist.backup.ZipArchiveBackupDescriptor"	
-archiveçä
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÌ Ì(*
-%1java.lang.String"1java.util.zip.ZipFile#getName()Ljava/lang/String;*
-
-%0java.util.zip.ZipFile2	getName()“
-
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÌ Ì(+
-%2java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-%1java.lang.Stringéæ
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÌ Ì(7
-%3java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
-
-%2java.nio.file.Path2getParent()"‹
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.javaÌ Ì(8
-
-%3java.nio.file.PathB/-
-+org.exist.backup.ZipArchiveBackupDescriptor

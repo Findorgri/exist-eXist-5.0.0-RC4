@@ -1,82 +1,0 @@
-
-6org.exist.dom.QName#getStringValue()Ljava/lang/String;U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÇ Ç( "4*ﬂ
-2U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(ù
-ö
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(
-%3java.lang.String"__id*#*!
-org.exist.dom.QName"
-prefixs
-q
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(!
-
-%4char"__id*
-""§
-°
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(!
-%5java.lang.String"__concat*
-
-%3java.lang.String*
-
-
-%4char†
-ù
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ$ Ñ(-
-%6java.lang.String"__id*&*$
-org.exist.dom.QName"
-	localPart∞
-≠
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(-
-%7java.lang.String"__concat*
-
-%5java.lang.String*
-
-%6java.lang.String"q
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÑ Ñ(.
-
-%7java.lang.String*™
-3U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÉ É($ù
-ö
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÉ É($
-%1java.lang.String"__id*#*!
-org.exist.dom.QName"
-prefix•¢
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÉ É(-	
-%2int"java.lang.String#length()I*
-
-%1java.lang.String2length()*
-2
-1*Ç
-4U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÉ É(ù
-ö
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÉ É(
-%0java.lang.String"__id*#*!
-org.exist.dom.QName"
-prefix*
-3
-1*
-1U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÜ Ü(†
-ù
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÜ Ü(
-%8java.lang.String"__id*&*$
-org.exist.dom.QName"
-	localPart"q
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaÜ Ü(
-
-%8java.lang.StringB
-org.exist.dom.QName

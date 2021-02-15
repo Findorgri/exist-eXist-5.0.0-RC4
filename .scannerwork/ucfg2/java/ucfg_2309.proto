@@ -1,63 +1,0 @@
-
-worg.exist.management.Cache#getName(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljavax/management/ObjectName;Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java( ((%"1*ö
-1Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(5æ
-ª
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(B
-%0java.lang.String"__concat*
-org.exist.management.* 
-
-
-instanceIdjava.lang.Stringø
-º
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(e
-%1java.lang.String"__concat*
-
-%0java.lang.String*" 
-:type=CacheManager.Cache,name=º
-π
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(q
-%2java.lang.String"__concat*
-
-%1java.lang.String*
-
-	cacheNamejava.lang.StringÆ
-´
-[
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(Ç
-%3java.lang.String"__concat*
-
-%2java.lang.String*
-,cache-type=Ω
-∫
-[
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(é
-%4java.lang.String"__concat*
-
-%3java.lang.String*
-
-	cacheTypejava.lang.Stringüú
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(!
-%5javax.management.ObjectName"javax.management.ObjectNameﬁ
-€
-[
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(è
-%6"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
-!
-%5javax.management.ObjectName*
-
-%4java.lang.String"Ç
-[
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/Cache.java) )(ê#
-!
-%5javax.management.ObjectName:
-
-instanceIdjava.lang.String:
-	cacheNamejava.lang.String:
-	cacheTypejava.lang.StringB"
-org.exist.management.Cache

@@ -1,27 +1,0 @@
-
-Sorg.exist.dom.persistent.AttrImpl#getUserData(Ljava/lang/String;)Ljava/lang/Object;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java± ±("startingBlock*Ã
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java± ±(/­
-ª
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java° °(
-%0"
-__annotate*
-java.lang.Override*
-
-keyjava.lang.String—
-”
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java±+ ±(.
-keyjava.lang.String"__annotation*
-
-%0*
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java² ²("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java² ²(
-"":
-keyjava.lang.StringB%#
-!org.exist.dom.persistent.AttrImpl

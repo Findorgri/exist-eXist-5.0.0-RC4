@@ -1,28 +1,0 @@
-
-Forg.exist.dom.persistent.SymbolTable#getSymbol(Lorg/w3c/dom/Element;)Sf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java­ ­('"1*ø
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java® ®('î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java® ®(';
-%05org.exist.dom.persistent.SymbolTable$SymbolCollection"__id*>*<&
-$org.exist.dom.persistent.SymbolTable"
-localNameSymbolsèå
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java®. ®(D
-%1java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;* 
-
-elementorg.w3c.dom.Element2getLocalName()¼¹
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java® ®(E	
-%2int"Porg.exist.dom.persistent.SymbolTable$SymbolCollection#getId(Ljava/lang/String;)I*=
-;
-%05org.exist.dom.persistent.SymbolTable$SymbolCollection*
-
-%1java.lang.String2getId(Ljava/lang/String;)"p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java® ®(F
-"":
-elementorg.w3c.dom.ElementB(&
-$org.exist.dom.persistent.SymbolTable

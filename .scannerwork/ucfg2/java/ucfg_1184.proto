@@ -1,48 +1,0 @@
-
-Iorg.exist.xmldb.RemoteResourceSet$NewResourceIterator#hasMoreResources()Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java¼ ¼('"4*ý
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½/ ½(2Î
-Ë
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½5 ½(>
-%4java.util.List"__id*H*F7
-5org.exist.xmldb.RemoteResourceSet$NewResourceIterator"
-	resources«¨
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½5 ½(E	
-%5int"java.util.List#size()I*
-
-%4java.util.List2size()Ž
-‹
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½/ ½(E
-%1boolean"__id*
-
-%3boolean*
-1*þ
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½' ½(,Ž
-‹
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½' ½(,
-%1boolean"__id*
-
-%2boolean*
-1*Á
-4c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½ ½(Î
-Ë
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½ ½(
-%0java.util.List"__id*H*F7
-5org.exist.xmldb.RemoteResourceSet$NewResourceIterator"
-	resources*
-2
-3*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½ ½(F"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceSet.java½ ½(F
-""B97
-5org.exist.xmldb.RemoteResourceSet$NewResourceIterator

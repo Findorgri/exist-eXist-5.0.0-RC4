@@ -1,24 +1,0 @@
-
-Porg.exist.xquery.modules.mail.SendEmailFunction$Mail#getFrom()Ljava/lang/String;Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaô
- ô
-("1*ù
-1Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaõ
- õ
-(Ï
-È
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaõ
- õ
-(
-%0java.lang.String"__id*B*@6
-4org.exist.xquery.modules.mail.SendEmailFunction$Mail"
-from"°
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaõ
- õ
-(
-
-%0java.lang.StringB86
-4org.exist.xquery.modules.mail.SendEmailFunction$Mail

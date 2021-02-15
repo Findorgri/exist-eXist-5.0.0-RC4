@@ -1,20 +1,0 @@
-
-0org.exist.xquery.value.IntegerValue#getDouble()De
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java¼ ¼("1*ë
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java½ ½(À
-½
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java½ ½(
-%0java.math.BigInteger"__id*2*0%
-#org.exist.xquery.value.IntegerValue"
-valueÊÇ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java½ ½("
-%1double"#java.math.BigInteger#doubleValue()D*
-
-%0java.math.BigInteger2doubleValue()"o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java½ ½(#
-""B'%
-#org.exist.xquery.value.IntegerValue

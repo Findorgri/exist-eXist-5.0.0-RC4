@@ -1,120 +1,0 @@
-
-Norg.exist.dom.persistent.ElementImpl#getAttributes()Lorg/w3c/dom/NamedNodeMap;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÆ Æ(%"22*£
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaƒ8 ƒ(9÷”
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaƒ8 ƒ(@
-%8java.util.Map$Entry"+java.util.Iterator#next()Ljava/lang/Object;*
-
-ijava.util.Iterator2next()¨
-©
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaƒ ƒ(A
-entryjava.util.Map$Entry"__id*
-
-%8java.util.Map$Entry›⁄
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java≈& ≈(4
-%9java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
-
-entryjava.util.Map$Entry2getKey()ß
-§
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java≈ ≈(5
-prefixjava.lang.String"__id*
-
-%9java.lang.String‚ﬂ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java∆" ∆(2
-%10java.lang.String"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
-
-entryjava.util.Map$Entry2
-getValue()§
-°
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java∆ ∆(3
-nsjava.lang.String"__id*
-
-%10java.lang.Stringí
-è
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java«N «(j
-%11java.lang.String"__id*
-""*
-3*µ
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java√= √(>øº
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java√= √(H
-%7boolean"java.util.Iterator#hasNext()Z*
-
-ijava.util.Iterator2	hasNext()*
-2
-1*ã
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java√ √(%«
-ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java√ √(%
-%4java.util.Map"__id*?*=&
-$org.exist.dom.persistent.ElementImpl"
-namespaceMappingsÃ…
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java√ √(0
-%5java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
-
-%4java.util.Map2
-entrySet()÷”
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java√ √(;
-%6java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*
-
-%5java.util.Set2
-iterator()¶
-£
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¬ √(;
-ijava.util.Iterator"__id*
-
-%6java.util.Iterator*
-3*‡
-16f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaµ' µ(4ËÂ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaµ' µ(6	
-%1int"5org.exist.dom.persistent.ElementImpl#getChildCount()I*(&
-$org.exist.dom.persistent.ElementImpl2getChildCount()*
-5
-11*˙
-5f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¡ ¡($ÑÅ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¡ ¡(&
-%3boolean"Aorg.exist.dom.persistent.ElementImpl#declaresNamespacePrefixes()Z*(&
-$org.exist.dom.persistent.ElementImpl2declaresNamespacePrefixes()*
-4
-1*‰
-22f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaØH Ø(UÏÈ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java∞ ∞(
-%0boolean"5org.exist.dom.persistent.ElementImpl#hasAttributes()Z*(&
-$org.exist.dom.persistent.ElementImpl2hasAttributes()*
-5
-16*˛
-11f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java∏- ∏(1Ü
-É
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java∏- ∏(@
-%2short"__id*
-""*
-5
-11*›
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÕ Õ("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÕ Õ(
-""B(&
-$org.exist.dom.persistent.ElementImpl

@@ -1,35 +1,0 @@
-
-Forg.exist.dom.persistent.ExtArrayNodeSet$CollectionIterator#hasNext()Zj
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.java‰ ‰($"3*œ
-2j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ' Š(/Þ
-Û
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ' Š(/
-%1java.util.Iterator"__id*M*K=
-;org.exist.dom.persistent.ExtArrayNodeSet$CollectionIterator"
-
-iteratorÄÁ
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ' Š(9
-%2boolean"java.util.Iterator#hasNext()Z*
-
-%1java.util.Iterator2	hasNext()*
-1*Ø
-3j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ Š(Þ
-Û
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ Š(
-%0java.util.Iterator"__id*M*K=
-;org.exist.dom.persistent.ExtArrayNodeSet$CollectionIterator"
-
-iterator*
-2
-1*å
-1j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ Š(:"t
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ExtArrayNodeSet.javaŠ Š(:
-""B?=
-;org.exist.dom.persistent.ExtArrayNodeSet$CollectionIterator

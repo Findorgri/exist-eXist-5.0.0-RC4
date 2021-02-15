@@ -1,23 +1,0 @@
-
-Corg.exist.source.FileSource#getEncoding()Ljava/nio/charset/Charset;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.java} }("1*×
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.java~ ~(»
-¸
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.java~ ~(
-
-%0void",org.exist.source.FileSource#checkEncoding()V*
-org.exist.source.FileSourceµ
-²
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.java (
-%1java.nio.charset.Charset"__id*-*+
-org.exist.source.FileSource"
-
-encoding"
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.java ( 
-
-%1java.nio.charset.CharsetB
-org.exist.source.FileSource

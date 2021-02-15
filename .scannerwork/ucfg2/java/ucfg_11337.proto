@@ -1,29 +1,0 @@
-
-Qorg.exist.indexing.lucene.PlainTextIndexConfig#getFloatValue(Ljava/lang/String;)Fˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java, ,("7"1*”
-5ˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java2 2(þ
-û
-ˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java2 2(0
-%1float"/java.lang.Float#parseFloat(Ljava/lang/String;)F*"
-java.lang.Float*
-
-valuejava.lang.String*
-1*õ
-7ˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java0 0("ÜÙ
-ˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java0 0(+	
-%0int"java.lang.String#length()I*
-
-valuejava.lang.String2length()*
-5
-1*¤
-1ˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java: :("“
-ˆ
-~C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/PlainTextIndexConfig.java: :(
-"":
-valuejava.lang.StringB20
-.org.exist.indexing.lucene.PlainTextIndexConfig

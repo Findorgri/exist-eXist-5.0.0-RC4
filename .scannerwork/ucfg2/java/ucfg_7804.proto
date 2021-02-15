@@ -1,85 +1,0 @@
-
-2org.exist.xquery.Step#toString()Ljava/lang/String;W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaö ö("10*ﬂ
-3W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.java• •(¯ı
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.java• •(.
-%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-3
-1*¸
-6W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.java¢ ¢(ïí
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.java¢ ¢(&
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-
-node()2append(Ljava/lang/String;)*
-3
-1*ﬂ
-7W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.java† †(¯ı
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.java† †(-
-%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-3
-1*¯
-8W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaû û(ëé
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaû û(
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-::2append(Ljava/lang/String;)*
-6
-7*‹
-9W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaù ù(¯ı
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaù ù(<
-%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-8*Œ
-10W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaõ% õ(8îë
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaõ) õ(6
-%0java.lang.StringBuilder"java.lang.StringBuilder¶
-£
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaõ% õ(8
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder¶
-£
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaõ õ(9!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-8
-9*Ø
-1W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaß ß(€ÿ
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaß ß( 
-%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"s
-W
-KC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Step.javaß ß(!
-
-%7java.lang.StringB
-org.exist.xquery.Step

@@ -1,38 +1,0 @@
-
-Rorg.exist.dom.persistent.NodeProxy#contains(Lorg/exist/dom/persistent/NodeProxy;)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÊ Ê("startingBlock*Ù
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÌ Ì("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÌ Ì(
-""*ñ
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÊ Ê(2Â
-¿
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÉ É(
-%1"
-__annotate*
-java.lang.Override*-
-+
-proxy"org.exist.dom.persistent.NodeProxy¬
-©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÊ, Ê(1+
-proxy"org.exist.dom.persistent.NodeProxy"__annotation*
-
-%1*
-2
-1*¿
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÎ Î(ãà
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÎ! Î(2
-%0"6org.exist.dom.persistent.NodeProxy#getNodeId()LNodeId;*-
-+
-proxy"org.exist.dom.persistent.NodeProxy2getNodeId()"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÎ Î(4
-"":+
-proxy"org.exist.dom.persistent.NodeProxyB&$
-"org.exist.dom.persistent.NodeProxy

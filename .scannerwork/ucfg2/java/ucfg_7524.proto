@@ -1,22 +1,0 @@
-
-+org.exist.TestUtils#readHamletSampleXml()[BZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java° °(,"1*ü
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java± ±(Ñ
-Î
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java± ±(-
-%0java.nio.file.Path"=org.exist.TestUtils#resolveHamletSample()Ljava/nio/file/Path;*"
-org.exist.TestUtilsØ
-Õ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java± ±(.
-%1byte[]"4org.exist.TestUtils#readFile(Ljava/nio/file/Path;)[B*"
-org.exist.TestUtils*
-
-%0java.nio.file.Path"l
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java± ±(/
-
-%1byte[]B"
-org.exist.TestUtils

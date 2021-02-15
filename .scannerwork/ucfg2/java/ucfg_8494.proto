@@ -1,17 +1,0 @@
-
-;org.exist.client.Connection#getPassword()Ljava/lang/String;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaO O("1*‰
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaP P(­
-ª
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaP P(
-%0java.lang.String"__id*-*+
-org.exist.client.Connection"
-
-password"w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaP P(
-
-%0java.lang.StringB
-org.exist.client.Connection

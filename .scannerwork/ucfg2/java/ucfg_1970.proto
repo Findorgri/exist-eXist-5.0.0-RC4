@@ -1,35 +1,0 @@
-
-`org.exist.dom.persistent.ElementImpl#getNamespaceForPrefix(Ljava/lang/String;)Ljava/lang/String;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java»
- »
-('"1*ÿ
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¼
- ¼
-( Ç
-Ä
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¼
- ¼
-( 
-%0java.util.Map"__id*?*=&
-$org.exist.dom.persistent.ElementImpl"
-namespaceMappingsÂ
-¿
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¼
- ¼
-(,
-%1java.lang.String"__mapGet*
-
-%0java.util.Map*
-
-prefixjava.lang.String"‚
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java¼
- ¼
-(-
-
-%1java.lang.String:
-prefixjava.lang.StringB(&
-$org.exist.dom.persistent.ElementImpl

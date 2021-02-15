@@ -1,455 +1,0 @@
-
-Xorg.exist.indexing.lucene.LuceneIndexConfig#parse(Lorg/w3c/dom/Element;Ljava/util/Map;)VÖ
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javam m("39*Û
-24á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaè\ è(eµ
-≤
-à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaèm è(á
-%18java.lang.String"__id*
-""§°
-à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaè\ è(à
-%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	localNamejava.lang.String*
-
-%18java.lang.String2equals(Ljava/lang/Object;)*
-23*ı
-25á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaã ∂(¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaèE è(W
-%16java.lang.String"__id*
-""£†
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaè4 è(X
-%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	localNamejava.lang.String*
-
-%16java.lang.String2equals(Ljava/lang/Object;)*
-24
-23*¥
-26á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaà à((Á
-‰
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaà- à(N
-%14"`org.exist.indexing.lucene.LuceneIndexConfig#parseQName(Ljava/lang/String;Ljava/util/Map;)LQName;*/"-
-+org.exist.indexing.lucene.LuceneIndexConfig*
-
-	qnameAttrjava.lang.String*
-
-
-namespacesjava.util.Map¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaàP à(X
-%15java.lang.String"__id*
-""*
-1*°
-27á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÜ/ Ü(>∫∑
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÜ3 Ü(<
-%12java.util.TreeMap"java.util.TreeMapÕ
- 
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÜ/ Ü(>
-%13"java.util.TreeMap#<init>()V*
-
-%12java.util.TreeMap*
-26*¯
-30á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÄ ä(¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÅ5 Å(?
-%10java.lang.String"__id*
-""”–
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÅ Å(@
-%11java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*&
-$
-configElementorg.w3c.dom.Element*
-
-%10java.lang.String2 getAttribute(Ljava/lang/String;)Õ
- 
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÅ Å(A
-	qnameAttrjava.lang.String"__id*
-
-%11java.lang.String*
-26
-27
-0*¨
-31Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java} }((‰
-·
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java}- }(N
-%8"`org.exist.indexing.lucene.LuceneIndexConfig#parseQName(Ljava/lang/String;Ljava/util/Map;)LQName;*/"-
-+org.exist.indexing.lucene.LuceneIndexConfig*
-
-	qnameAttrjava.lang.String*
-
-
-namespacesjava.util.Map±
-Æ
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java}P }(X
-%9java.lang.String"__id*
-""*
-1*ò
-32Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java{/ {(>∑¥
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java{3 {(<
-%6java.util.TreeMap"java.util.TreeMap…
-∆
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java{/ {(>
-%7"java.util.TreeMap#<init>()V*
-
-%6java.util.TreeMap*
-31*ó
-12á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java¢( ¢(-Å
-˛
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java¢( ¢(B
-%34float"/java.lang.Float#parseFloat(Ljava/lang/String;)F*"
-java.lang.Float*
-
-boostStrjava.lang.String*
-8*Ï
-35Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javau (±
-Æ
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javav5 v(?
-%4java.lang.String"__id*
-""œÃ
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javav v(@
-%5java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*&
-$
-configElementorg.w3c.dom.Element*
-
-%4java.lang.String2 getAttribute(Ljava/lang/String;) 
-«
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javav v(A
-	qnameAttrjava.lang.String"__id*
-
-%5java.lang.String*
-31
-32
-0*©
-13á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaü ü((√¿
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java†4 †(W
-%33java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*&
-$
-configElementorg.w3c.dom.Element*	
-boost2 getAttribute(Ljava/lang/String;)Ã
-…
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java† †(X
-boostStrjava.lang.String"__id*
-
-%33java.lang.String*
-12*Á
-36Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaq) q(.ÉÄ
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaq) q(=
-%3java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
-
-childorg.w3c.dom.Node2getLocalName() 
-«
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaq q(>
-	localNamejava.lang.String"__id*
-
-%3java.lang.String*
-2
-1*˚
-14á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaúI ú(iı
-Ú
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaúI ú(u
-%31java.lang.String"__concat*" 
-Lucene configuration element '*
-
-	localNamejava.lang.StringÌ
-Í
-à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaúI ú(ï
-%32java.lang.String"__concat*
-
-%31java.lang.String*
- needs an attribute 'qname'*
-0*¶
-37Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javap p(Â‚
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javap p(#
-%1short"org.w3c.dom.Node#getNodeType()S*
-
-childorg.w3c.dom.Node2getNodeType()¶
-£
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javap' p(8
-%2short"__id*
-""*
-36
-1*™
-15á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaö1 ö(>√¿
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaö1 ö(T
-%30java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*&
-$
-configElementorg.w3c.dom.Element*	
-qname2 getAttribute(Ljava/lang/String;)…
-∆
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaö ö(U
-qnamejava.lang.String"__id*
-
-%30java.lang.String*
-13
-14*Ì
-16á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaó( ó(9Ê
-„
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaó( ó(E
-%28java.lang.String"__concat*
-Lucene module: *
-
-	localNamejava.lang.StringÓ
-Î
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaó( ó(g
-%29java.lang.String"__concat*
-
-%28java.lang.String*!
- can not be used on attribute*
-0*Ë
-39Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javan n(áÑ
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javan n()
-%0org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
-
-rootorg.w3c.dom.Element2getFirstChild()∆
-√
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javan n(*
-childorg.w3c.dom.Node"__id*
-
-%0org.w3c.dom.Node*
-37
-0*©
-17á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaï5 ï(Dé
-ã
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaï5 ï(F
-%27boolean">org.exist.indexing.lucene.LuceneIndexConfig#isAttributeNode()Z*/-
-+org.exist.indexing.lucene.LuceneIndexConfig*
-15
-16*Ó
-19á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaî( î(9Ê
-„
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaî( î(E
-%25java.lang.String"__concat*
-Lucene module: *
-
-	localNamejava.lang.StringÔ
-Ï
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaî( î(h
-%26java.lang.String"__concat*
-
-%25java.lang.String*" 
- can only be used on attribute*
-0*ß
-0 "ü
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaº º(
-implicit return*Ô
-1á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java∫ ∫(äá
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java∫ ∫(*
-%48org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
-
-childorg.w3c.dom.Node2getNextSibling()…
-∆
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java∫ ∫(*
-childorg.w3c.dom.Node"__id*
-
-%48org.w3c.dom.Node*
-37
-0*ª
-2Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javas( s(-‘
-—
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javas s(.$
-configElementorg.w3c.dom.Element"__id*
-
-childorg.w3c.dom.Node≤
-Ø
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javau u(+
-%42java.lang.String"__id*
-""¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaÄ Ä(+
-%43java.lang.String"__id*
-""¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaã ã(7
-%44java.lang.String"__id*
-""¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaå å(5
-%45java.lang.String"__id*
-""¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaç ç(-
-%46java.lang.String"__id*
-""¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaé é(/
-%47java.lang.String"__id*
-""*
-35
-25
-30
-1*Ø
-3á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java¥ ¥(&äá
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java¥6 ¥(C@
-%409org.exist.indexing.lucene.LuceneIndexConfig$MatchAttrData"9org.exist.indexing.lucene.LuceneIndexConfig$MatchAttrDataç
-ä
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java¥2 ¥(c
-%41"iorg.exist.indexing.lucene.LuceneIndexConfig$MatchAttrData#<init>(Ljava/lang/String;Ljava/lang/String;FZ)V*B
-@
-%409org.exist.indexing.lucene.LuceneIndexConfig$MatchAttrData*
-
-qnamejava.lang.String*
-
-valuejava.lang.String*
-""*
-""*
-1*˙
-6á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java≠M ≠(mı
-Ú
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java≠M ≠(y
-%38java.lang.String"__concat*" 
-Lucene configuration element '*
-
-	localNamejava.lang.StringÌ
-Í
-à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java≠M ≠(ô
-%39java.lang.String"__concat*
-
-%38java.lang.String*
- needs an attribute 'value'*
-0*ß
-7á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java´( ´(5√¿
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java´( ´(K
-%37java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*&
-$
-configElementorg.w3c.dom.Element*	
-value2 getAttribute(Ljava/lang/String;)…
-∆
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java´  ´(K
-valuejava.lang.String"__id*
-
-%37java.lang.String*
-3
-6*Œ
-8á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java©+ ©(/∂
-≥
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java© ©(0
-valuejava.lang.String"__id*
-""*
-3
-7*≠
-20á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaí. í(=é
-ã
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaí. í(?
-%24boolean">org.exist.indexing.lucene.LuceneIndexConfig#isAttributeNode()Z*/-
-+org.exist.indexing.lucene.LuceneIndexConfig*
-15
-17
-19*˚
-22á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaêd ê(mµ
-≤
-à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaêu ê(è
-%22java.lang.String"__id*
-""§°
-à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaêd ê(ê
-%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	localNamejava.lang.String*
-
-%22java.lang.String2equals(Ljava/lang/Object;)*
-15
-17
-20*˛
-23à
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaè è(â¥
-±
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaêG ê(_
-%20java.lang.String"__id*
-""£†
-á
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaê6 ê(`
-%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	localNamejava.lang.String*
-
-%20java.lang.String2equals(Ljava/lang/Object;)*
-15
-17
-20
-22:
-rootorg.w3c.dom.Element:
-
-namespacesjava.util.MapB/-
-+org.exist.indexing.lucene.LuceneIndexConfig

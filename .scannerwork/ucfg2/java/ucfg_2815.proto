@@ -1,51 +1,0 @@
-
-@org.exist.xquery.FilteredExpression#toString()Ljava/lang/String;e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java® ®("5*˚
-3e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java¨ ¨(ÜÉ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java¨ ¨(*
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-3
-1*é
-5e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java©% ©(8¢ü
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java©) ©(6
-%0java.lang.StringBuilder"java.lang.StringBuilder¥
-±
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java©% ©(8
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder¥
-±
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java© ©(9!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÜÉ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.java™ ™(,
-%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-3
-1*⁄
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.javaÆ Æ(ÈÊ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.javaÆ Æ( 
-%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"Å
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FilteredExpression.javaÆ Æ(!
-
-%4java.lang.StringB'%
-#org.exist.xquery.FilteredExpression

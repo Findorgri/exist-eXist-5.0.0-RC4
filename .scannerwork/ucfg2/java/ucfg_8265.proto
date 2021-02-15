@@ -1,34 +1,0 @@
-
-8org.exist.backup.ZipWriter#newContents()Ljava/io/Writer;Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java: :("1*ù
-1Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java< <(%‘Ž
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java< <(#
-%0java.io.StringWriter"java.io.StringWriter£
- 
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java< <(%
-%1"java.io.StringWriter#<init>()V*
-
-%0java.io.StringWriter¯
-¬
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java< <(%*
-org.exist.backup.ZipWriter"
-
-contents"__id*
-
-%0java.io.StringWriter¯
-¬
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java= =(
-%2java.io.StringWriter"__id*,**
-org.exist.backup.ZipWriter"
-
-contents"z
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipWriter.java= =(
-
-%2java.io.StringWriterB
-org.exist.backup.ZipWriter

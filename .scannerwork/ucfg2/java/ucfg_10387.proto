@@ -1,296 +1,0 @@
-
-$org.exist.client.QueryDialog#open()V^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÖ Ö("15*å
-13^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaí í(ËÂ
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaíx í(ç
-%23java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
-
-filejava.nio.file.Path2toAbsolutePath()|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaìA ì(Z
-
-%24int"__id*
-""∂
-≥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaí ì([
-%25"mjavax.swing.JOptionPane#showInternalMessageDialog(Ljava/awt/Component;Ljava/lang/Object;Ljava/lang/String;I)V*"
-javax.swing.JOptionPane* 
-org.exist.client.QueryDialog*
-""*
-""*
-
-
-%24int*
-11*ˇ
-14^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaé% é(,ÙÒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaé% é(B
-%14java.io.File"<javax.swing.JFileChooser#getCurrentDirectory()Ljava/io/File;*%
-#
-chooserjavax.swing.JFileChooser2getCurrentDirectory() «
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaé% é(K
-%15java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*
-
-%14java.io.File2toPath()©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaé é(L!
-selectedDirjava.nio.file.Path"__id*
-
-%15java.nio.file.Path∏
-µ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaè è(
-%16java.util.Properties"__id*0*.
-org.exist.client.QueryDialog"
-
-propertiesÓÎ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaè2 è(N
-%17java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*#
-!
-selectedDirjava.nio.file.Path2toAbsolutePath()÷”
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaè2 è(Y
-%18java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
-
-%17java.nio.file.Path2
-toString()‘—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaè è(Z
-%19java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*
-
-%16java.util.Properties*
-working-dir*
-
-%18java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/String;)ÏÈ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaê ê(7
-%20java.io.File"8javax.swing.JFileChooser#getSelectedFile()Ljava/io/File;*%
-#
-chooserjavax.swing.JFileChooser2getSelectedFile() «
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaê ê(@
-%21java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*
-
-%20java.io.File2toPath()¢
-ü
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaê ê(A
-filejava.nio.file.Path"__id*
-
-%21java.nio.file.Path·
-ﬁ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaë ë('
-%22boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
-java.nio.file.Files*
-
-filejava.nio.file.Path*
-13
-11*»
-15^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÜ Ü()∑
-¥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÜ Ü()
-%0java.util.Properties"__id*0*.
-org.exist.client.QueryDialog"
-
-properties„
-‡
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÜE Ü(c
-%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-
-user.dir—Œ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÜ Ü(d
-%2java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
-
-%0java.util.Properties*
-working-dir*
-
-%1java.lang.String21getProperty(Ljava/lang/String;Ljava/lang/String;)†
-ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÜ Ü(e
-workDirjava.lang.String"__id*
-
-%2java.lang.Stringùö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaá) á(5
-%3javax.swing.JFileChooser"javax.swing.JFileChooserØ
-¨
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaá% á(7
-%4""javax.swing.JFileChooser#<init>()V* 
-
-%3javax.swing.JFileChooser∞
-≠
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaá á(8#
-chooserjavax.swing.JFileChooser"__id* 
-
-%3javax.swing.JFileChooserâ
-Ü
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaà$ à(6
-%5java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-workDirjava.lang.String»≈
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaà$ à(?
-%6java.io.File")java.nio.file.Path#toFile()Ljava/io/File;*
-
-%5java.nio.file.Path2toFile()êç
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaà à(@
-
-%7void"=javax.swing.JFileChooser#setCurrentDirectory(Ljava/io/File;)V*%
-#
-chooserjavax.swing.JFileChooser*
-
-%6java.io.File2#setCurrentDirectory(Ljava/io/File;)ÚÔ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaâ â(/
-
-%8void"5javax.swing.JFileChooser#setMultiSelectionEnabled(Z)V*%
-#
-chooserjavax.swing.JFileChooser*
-""2setMultiSelectionEnabled(Z){
-y
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaä% ä(<	
-%9int"__id*
-""Ì
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaä ä(=
-%10void"1javax.swing.JFileChooser#setFileSelectionMode(I)V*%
-#
-chooserjavax.swing.JFileChooser*
-	
-%9int2setFileSelectionMode(I)Ø¨
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaã ã(T
-%11"Vjavax.swing.JFileChooser#addChoosableFileFilter(Ljavax/swing/filechooser/FileFilter;)V*%
-#
-chooserjavax.swing.JFileChooser*
-""2<addChoosableFileFilter(Ljavax/swing/filechooser/FileFilter;)Ω∫
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaç ç(R
-%12"Ljavax.swing.JFileChooser#showDialog(Ljava/awt/Component;Ljava/lang/String;)I*%
-#
-chooserjavax.swing.JFileChooser* 
-org.exist.client.QueryDialog*
-""22showDialog(Ljava/awt/Component;Ljava/lang/String;)|
-z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaçV ç(q
-
-%13int"__id*
-""*
-14
-0*À
-4^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaù ù(‡›
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaù ù(,
-%32java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()*
-0*ﬂ
-5^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaõ õ(ÙÒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaõ õ($
-%31java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-\n2	append(C)*
-8*ï
-6^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaö ö(™ß
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaö ö($
-%30java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-linejava.lang.String2append(Ljava/lang/String;)*
-5*å
-7^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaô ô(0û
-õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaô ô(0
-linejava.lang.String"__id*
-
-%29java.lang.String*
-4
-6*Ã
-8^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaô ô(%·ﬁ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaô ô(0
-%29java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*"
- 
-readerjava.io.BufferedReader2
-readLine()*
-7*§
-9^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaó ó(>´
-®
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaó ó(>
-bufjava.lang.StringBuilder"__id* 
-
-%27java.lang.StringBuilderã
-à
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaò ò(
-linejava.lang.String"__id*
-""*
-8*È
-10^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javañ ñ(L¨
-©
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javañ ñ(L 
-readerjava.io.BufferedReader"__id*
-
-%26java.io.BufferedReaderúô
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaó. ó(;
-%27java.lang.StringBuilder"java.lang.StringBuilderØ
-¨
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaó* ó(=
-%28"!java.lang.StringBuilder#<init>()V* 
-
-%27java.lang.StringBuilder*
-9*|
-0 "u
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.java£ £(
-implicit return*˚
-11^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javañ/ ñ(4é
-ã
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javañ/ ñ(L
-%26java.io.BufferedReader"Sjava.nio.file.Files#newBufferedReader(Ljava/nio/file/Path;)Ljava/io/BufferedReader;*"
-java.nio.file.Files*
-
-filejava.nio.file.Path*
-10B 
-org.exist.client.QueryDialog

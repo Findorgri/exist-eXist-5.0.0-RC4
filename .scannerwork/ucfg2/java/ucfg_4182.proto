@@ -1,18 +1,0 @@
-
-Sorg.exist.xmlrpc.RpcConnection#formatErrorMsg(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaŸ Ÿ(#"1*Î
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java   (èå
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java   (/
-%0java.lang.String"eorg.exist.xmlrpc.RpcConnection#formatErrorMsg(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*" 
-org.exist.xmlrpc.RpcConnection*	
-error*
-
-messagejava.lang.String24formatErrorMsg(Ljava/lang/String;Ljava/lang/String;)"|
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java   (0
-
-%0java.lang.String:
-messagejava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

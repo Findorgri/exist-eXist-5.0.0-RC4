@@ -1,36 +1,0 @@
-
-org.exist.backup.restore.RestoreHandler#getAttr(Lorg/xml/sax/Attributes;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java” ”("3*ü
-2i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java— —("‹
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java— —(
-
-fallbackjava.lang.String*Î
-3i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java• •(!©¦
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java• •(0
-%0java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;* 
-
-attsorg.xml.sax.Attributes*
-
-namejava.lang.String2getValue(Ljava/lang/String;)©
-¦
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java• •(1
-valuejava.lang.String"__id*
-
-%0java.lang.String*
-2
-1*ù
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java™ ™("ˆ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/restore/RestoreHandler.java™ ™(
-
-valuejava.lang.String:
-attsorg.xml.sax.Attributes:
-namejava.lang.String:
-fallbackjava.lang.StringB+)
-'org.exist.backup.restore.RestoreHandler

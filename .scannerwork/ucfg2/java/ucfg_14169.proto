@@ -1,73 +1,0 @@
-
-2org.exist.xquery.value.DurationValue#getSeconds()Df
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÑ Ñ("4*Á
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü( ¬ø
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü(.
-%6double"java.lang.Number#doubleValue()D*
-
-njava.lang.Number2doubleValue()Ã
-…
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ1 Ü(9!
-%7javax.xml.datatype.Duration"__id*6*4&
-$org.exist.xquery.value.DurationValue"
-
-durationŒÀ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ1 Ü(C	
-%8int"&javax.xml.datatype.Duration#getSign()I*#
-!
-%7javax.xml.datatype.Duration2	getSign()è
-å
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü(C
-%3double"__id*
-
-%5double*
-1*ˇ
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü(å
-â
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü(
-%3double"__id*
-	
-%4int*
-1*í
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÖ Ö(!Ã
-…
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÖ Ö(!!
-%0javax.xml.datatype.Duration"__id*6*4&
-$org.exist.xquery.value.DurationValue"
-
-duration´
-®
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÖ+ Ö(D0
-%1*javax.xml.datatype.DatatypeConstants$Field"__id*
-""˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÖ Ö(E
-%2java.lang.Number"djavax.xml.datatype.Duration#getField(Ljavax/xml/datatype/DatatypeConstants$Field;)Ljava/lang/Number;*#
-!
-%0javax.xml.datatype.Duration*2
-0
-%1*javax.xml.datatype.DatatypeConstants$Field26getField(Ljavax/xml/datatype/DatatypeConstants$Field;)¢
-ü
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÖ Ö(F
-njava.lang.Number"__id*
-
-%2java.lang.Number*
-2
-3*›
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü(D"p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaÜ Ü(D
-""B(&
-$org.exist.xquery.value.DurationValue

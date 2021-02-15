@@ -1,42 +1,0 @@
-
-Šorg.exist.dom.persistent.DocumentImpl#createProcessingInstruction(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/ProcessingInstruction;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÓ! Ó(<"startingBlock*©
-startingBlockg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÓ< Ó(d´
-±
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÒ Ò(
-%0"
-__annotate*
-java.lang.Override*
-
-targetjava.lang.Stringž
-›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÓJ Ó(P
-targetjava.lang.String"__annotation*
-
-%0²
-¯
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÒ Ò(
-%1"
-__annotate*
-java.lang.Override*
-
-datajava.lang.Stringœ
-™
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÓ_ Ó(c
-datajava.lang.String"__annotation*
-
-%1*
-1*ß
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÕ^ Õ(d"q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java× ×(%
-"":
-targetjava.lang.String:
-datajava.lang.StringB)'
-%org.exist.dom.persistent.DocumentImpl

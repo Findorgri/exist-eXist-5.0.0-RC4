@@ -1,129 +1,0 @@
-
-Aorg.exist.http.RESTServiceTest#parseResponse(Ljava/lang/String;)Ie
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java‰ ‰("1*≥$
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÂ) Â(9í
-è
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÂ) Â(G(
-%0"javax.xml.parsers.SAXParserFactory"Tjavax.xml.parsers.SAXParserFactory#newInstance()Ljavax/xml/parsers/SAXParserFactory;*&"$
-"javax.xml.parsers.SAXParserFactoryÀ
-»
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÂ Â(H-
-factory"javax.xml.parsers.SAXParserFactory"__id**
-(
-%0"javax.xml.parsers.SAXParserFactoryˇ¸
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÊ Ê('
-
-%1void"8javax.xml.parsers.SAXParserFactory#setNamespaceAware(Z)V*/
--
-factory"javax.xml.parsers.SAXParserFactory*
-""2setNamespaceAware(Z)úô
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÁ4 Á(@
-%2java.io.StringReader"java.io.StringReader‹
-Ÿ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÁ0 Á(F
-%3"0java.io.StringReader#<init>(Ljava/lang/String;)V*
-
-%2java.io.StringReader*
-
-datajava.lang.String¢ü
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÁ$ Á(/
-%4org.xml.sax.InputSource"org.xml.sax.InputSource‚
-ﬂ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÁ  Á(G
-%5"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V*
-
-%4org.xml.sax.InputSource*
-
-%2java.io.StringReader±
-Æ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÁ Á(H
-srcorg.xml.sax.InputSource"__id*
-
-%4org.xml.sax.InputSourceûõ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaË! Ë(7!
-%6javax.xml.parsers.SAXParser"Njavax.xml.parsers.SAXParserFactory#newSAXParser()Ljavax/xml/parsers/SAXParser;*/
--
-factory"javax.xml.parsers.SAXParserFactory2newSAXParser()º
-π
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaË Ë(8%
-parserjavax.xml.parsers.SAXParser"__id*#
-!
-%6javax.xml.parsers.SAXParserÉÄ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÈ! È(6
-%7org.xml.sax.XMLReader"Ajavax.xml.parsers.SAXParser#getXMLReader()Lorg/xml/sax/XMLReader;*'
-%
-parserjavax.xml.parsers.SAXParser2getXMLReader()∞
-≠
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÈ È(7
-readerorg.xml.sax.XMLReader"__id*
-
-%7org.xml.sax.XMLReaderîë
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÎ Î()
-%8"Forg.xml.sax.XMLReader#setContentHandler(Lorg/xml/sax/ContentHandler;)V*!
-
-readerorg.xml.sax.XMLReader*
-""2/setContentHandler(Lorg/xml/sax/ContentHandler;)ñì
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÏ Ï(
-
-%9void"7org.xml.sax.XMLReader#parse(Lorg/xml/sax/InputSource;)V*!
-
-readerorg.xml.sax.XMLReader* 
-
-srcorg.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)ï
-í
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÓ Ó(3
-docorg.w3c.dom.Document"__id*
-""˚¯
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java (5
-%10org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()´
-®
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.java (6
-rootorg.w3c.dom.Element"__id*
-
-%10org.w3c.dom.Element¥±
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÒ Ò(L
-%11"Zorg.w3c.dom.Element#getAttributeNS(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
-
-rootorg.w3c.dom.Element*
-""*
-hits24getAttributeNS(Ljava/lang/String;Ljava/lang/String;)ì
-ê
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÒ Ò(M
-hitsjava.lang.String"__id*
-
-%11⁄
-◊
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÚ Ú(%
-
-%12int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
-java.lang.Integer*
-
-hitsjava.lang.String"o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/RESTServiceTest.javaÚ Ú(&
-"":
-datajava.lang.StringB" 
-org.exist.http.RESTServiceTest

@@ -1,21 +1,0 @@
-
-8org.exist.debuggee.dbgp.packets.StepOut#commandBytes()[B{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepOut.java8 8("1*ô
-1{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepOut.java9 9(!´
-®
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepOut.java9 9(0
-commandjava.lang.String"__id*
-""ÿ’
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepOut.java;	 ;(
-%0byte[]"java.lang.String#getBytes()[B*
-
-commandjava.lang.String2
-getBytes()"ç
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepOut.java; ;(
-
-%0byte[]B+)
-'org.exist.debuggee.dbgp.packets.StepOut

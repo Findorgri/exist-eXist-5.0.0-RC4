@@ -1,16 +1,0 @@
-
-8org.exist.http.jaxb.Result#getStart()Ljava/lang/Integer;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java¡ ¡("1*Š
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java¢ ¢(«
-¨
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java¢ ¢(
-%0java.lang.Integer"__id*)*'
-org.exist.http.jaxb.Result"
-start"y
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.java¢ ¢(
-
-%0java.lang.IntegerB
-org.exist.http.jaxb.Result

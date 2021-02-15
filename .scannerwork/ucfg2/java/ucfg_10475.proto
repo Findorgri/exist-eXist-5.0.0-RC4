@@ -1,76 +1,0 @@
-
-morg.exist.http.servlets.RedirectorServlet$ModifiableRequestWrapper#getParameterNames()Ljava/util/Enumeration;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÑ Ñ(,"5*É
-2k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÓ Ó(!—
-”
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÓ Ó(!
-keyjava.lang.String"__id*
-""´
-±
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÓ Ó(!
-keyjava.lang.String"
-__arrayGet*
-
-%3java.util.Set*
-""*
-3
-1*ú
-3k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÔ Ô(‚ÿ
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÔ Ô(!
-
-%4void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
-
-vjava.util.Vector*
-
-keyjava.lang.String2addElement(Ljava/lang/Object;)*
-2*¬
-4k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÓ$ Ó(/ä
-á
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÓ$ Ó(/
-%2java.util.Map"__id*W*UD
-Borg.exist.http.servlets.RedirectorServlet$ModifiableRequestWrapper"
-addedParamsÍÊ
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÓ$ Ó(8
-%3java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
-
-%2java.util.Map2keySet()*
-2*ë
-5k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÒ% Ò(3š—
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÒ) Ò(1
-%0java.util.Vector"java.util.Vector¬
-©
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÒ% Ò(3
-%1"java.util.Vector#<init>()V*
-
-%0java.util.Vector§
-¤
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÒ Ò(4
-vjava.util.Vector"__id*
-
-%0java.util.Vector*
-4*è
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÖ Ö(æã
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÖ Ö(
-%5java.util.Enumeration"2java.util.Vector#elements()Ljava/util/Enumeration;*
-
-vjava.util.Vector2
-elements()"Œ
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/RedirectorServlet.javaÖ Ö( 
-
-%5java.util.EnumerationBFD
-Borg.exist.http.servlets.RedirectorServlet$ModifiableRequestWrapper

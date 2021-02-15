@@ -1,58 +1,0 @@
-
-Gorg.exist.dom.persistent.AttrImpl#getAttributeType(I)Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaã ã()"1*◊
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaô ö("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaö ö(
-""*⁄
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javañ ó("p
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaó ó(	
-CDATA*€
-4c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaì î( "q
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaî î( 
-
-IDREFS*⁄
-5c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaê ë("p
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaë ë(	
-IDREF*◊
-6c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaç é("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaé é(
-ID*Ö
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaå å(Ä
-~
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaç ç(	
-%0int"__id*
-""Ä
-~
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaê ê(	
-%1int"__id*
-""Ä
-~
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaì ì( 	
-%2int"__id*
-""Ä
-~
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javañ ñ(	
-%3int"__id*
-""*
-2
-3
-4
-5
-6:
-""B%"#
-!org.exist.dom.persistent.AttrImpl

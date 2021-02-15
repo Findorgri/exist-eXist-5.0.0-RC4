@@ -1,81 +1,0 @@
-
-Borg.exist.dom.memtree.NodeImpl#getNamespaceURI()Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÆ Æ(!"1*Ñ
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÔ Õ("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÕ Õ(
-""*ñ
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÑ Ò(;‹
-ˆ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÒ Ò(:
-%7java.lang.String"__id*
-"""|
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÒ Ò(;
-
-%7java.lang.String*æ
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÎ Î( "
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÎ Î(!
-
-nsUrijava.lang.String*Ñ
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÌ Ì("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÌ Ì( 
-""*Ô
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÈ Ï(ÍÊ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÊ% Ê(/
-%4"0org.exist.dom.memtree.NodeImpl#getQName()LQName;*" 
-org.exist.dom.memtree.NodeImpl2
-getQName()Ž
-‹
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÊ Ê(B
-nsUrijava.lang.String"__id*
-""‹
-ˆ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaË  Ë(8
-%5java.lang.String"__id*
-""õò
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaË Ë(9
-%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-nsUrijava.lang.String*
-
-%5java.lang.String2equals(Ljava/lang/Object;)*
-4
-5*Ê
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÇ Ç(ÔÑ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÇ Ç(
-%0short"-org.exist.dom.memtree.NodeImpl#getNodeType()S*" 
-org.exist.dom.memtree.NodeImpl2getNodeType()
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÈ È("
-%1short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÉ É($
-%2short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÑ Ñ((
-%3short"__id*
-""*	
-2
-3
-6B" 
-org.exist.dom.memtree.NodeImpl

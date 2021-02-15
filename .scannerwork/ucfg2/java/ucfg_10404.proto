@@ -1,23 +1,0 @@
-
-Xorg.exist.client.security.AccessControlEntryDialog#isValidGroupName(Ljava/lang/String;)Zt
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.javaÄ Ä($"1*È
-1t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.javaÅ Å(ﬂ
-‹
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.javaÅ Å(
-%0java.util.Set"__id*I*G4
-2org.exist.client.security.AccessControlEntryDialog"
-allGroupNamesãà
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.javaÅ Å(0
-%1boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
-
-%0java.util.Set*
-
-	groupNamejava.lang.String2contains(Ljava/lang/Object;)"~
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/AccessControlEntryDialog.javaÅ Å(1
-"":
-	groupNamejava.lang.StringB64
-2org.exist.client.security.AccessControlEntryDialog

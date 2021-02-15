@@ -1,43 +1,0 @@
-
-Uorg.exist.util.XMLString#append(Lorg/exist/util/XMLString;)Lorg/exist/util/XMLString;X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java[ [(!"1*Ù
-1X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java\ \(¼
-¹
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java\ \(/
-
-%0void"+org.exist.util.XMLString#ensureCapacity(I)V*
-org.exist.util.XMLString*
-""¢
-Ÿ
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java] ](%
-%1char[]"__id*/*-
-!
-otherorg.exist.util.XMLString"
-value_›
-˜
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java]5 ](;
-%2char[]"__id*(*&
-org.exist.util.XMLString"
-value_ý
-ú
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java] ](T
-
-%3void"Djava.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V*"
-java.lang.System*
-
-%1char[]*
-""*
-
-%2char[]*
-""*
-"""x
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java_ _(
-org.exist.util.XMLString:!
-otherorg.exist.util.XMLStringB
-org.exist.util.XMLString

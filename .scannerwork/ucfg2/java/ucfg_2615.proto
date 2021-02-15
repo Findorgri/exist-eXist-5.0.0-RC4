@@ -1,30 +1,0 @@
-
-Vorg.exist.util.PropertiesBuilder#propertiesBuilder()Lorg/exist/util/PropertiesBuilder;`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java#$ #(5"1*ä
-1`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java$% $(5—”
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java$) $(3
-%0java.util.Properties"java.util.Properties©
-¦
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java$% $(5
-%1"java.util.Properties#<init>()V*
-
-%0java.util.Properties¯¬
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java$ $($&
-%2 org.exist.util.PropertiesBuilder" org.exist.util.PropertiesBuilderõ
-ò
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java$ $(6
-%3"@org.exist.util.PropertiesBuilder#<init>(Ljava/util/Properties;)V*(
-&
-%2 org.exist.util.PropertiesBuilder*
-
-%0java.util.Properties"Œ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java$ $(7(
-&
-%2 org.exist.util.PropertiesBuilderB$""
- org.exist.util.PropertiesBuilder

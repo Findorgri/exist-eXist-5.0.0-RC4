@@ -1,50 +1,0 @@
-
-9org.exist.fluent.NamespaceMap#equals(Ljava/lang/Object;)Zq
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaÕ Õ( "startingBlock*ó
-2q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaÖ+ Ö(0"{
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaÖ$ Ö(1
-""*ì
-startingBlockq
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaÕ  Õ(*¹
-¶
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaÕ Õ(
-
-%3"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object£
- 
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.javaÕ( Õ()
-ojava.lang.Object"__annotation*
-
-%3*
-2
-1*ê
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java×	 ×(ÿü
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java×	 ×(
-%0java.util.Map"=org.exist.fluent.NamespaceMap#getCombinedMap()Ljava/util/Map;*!
-org.exist.fluent.NamespaceMap2getCombinedMap()õò
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java×! ×(D
-%1java.util.Map"=org.exist.fluent.NamespaceMap#getCombinedMap()Ljava/util/Map;*
-
-ojava.lang.Object2getCombinedMap()ú÷
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java×	 ×(E
-%2boolean")java.util.Map#equals(Ljava/lang/Object;)Z*
-
-%0java.util.Map*
-
-%1java.util.Map2equals(Ljava/lang/Object;)"{
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/NamespaceMap.java× ×(F
-"":
-ojava.lang.ObjectB!
-org.exist.fluent.NamespaceMap

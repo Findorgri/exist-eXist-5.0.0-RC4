@@ -1,76 +1,0 @@
-
-@org.exist.xquery.value.DurationValue#equals(Ljava/lang/Object;)Zf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javañ ñ("startingBlock*à
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaõ õ(Ã
-…
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaõ õ(!
-%2javax.xml.datatype.Duration"__id*6*4&
-$org.exist.xquery.value.DurationValue"
-
-durationΩ
-∫
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaõ# õ(A!
-%3javax.xml.datatype.Duration"__id*'*%
-
-objjava.lang.Object"
-
-durationôñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaõ õ(B
-%4boolean"7javax.xml.datatype.Duration#equals(Ljava/lang/Object;)Z*#
-!
-%2javax.xml.datatype.Duration*#
-!
-%3javax.xml.datatype.Duration2equals(Ljava/lang/Object;)"p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaõ õ(C
-""*∆
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaö ö(◊‘
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaö1 ö(?
-%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-objjava.lang.Object2
-getClass()ˆÛ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaö ö(@
-%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-""*
-
-%0java.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
-2
-1*œ
-startingBlockf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javañ ñ(%∞
-≠
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaï ï(
-%5"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Objectö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javañ! ñ($
-objjava.lang.Object"__annotation*
-
-%5*
-3
-4*›
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaò ò("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaò ò(
-""*›
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaù ù("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DurationValue.javaù ù(
-"":
-objjava.lang.ObjectB(&
-$org.exist.xquery.value.DurationValue

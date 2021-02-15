@@ -1,84 +1,0 @@
-
-7org.exist.client.security.UserDialog#isValidUsername()Zf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÄ Ä(#"3*Ý
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÆ Æ("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÆ Æ(
-""*‰
-
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÅ Å(Ì
-É
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÅ Å(
-%0java.util.regex.Pattern"__id*:*8&
-$org.exist.client.security.UserDialog"
-PTN_USERNAMEÊ
-Ç
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÅ  Å(+
-%1javax.swing.JTextField"__id*9*7&
-$org.exist.client.security.UserDialog"
-txtUsernameëè
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÅ  Å(5
-%2java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
-
-%1javax.swing.JTextField2	getText()¼¹
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÅ Å(6
-%3java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Pattern*
-
-%2java.lang.String2!matcher(Ljava/lang/CharSequence;)ÊÇ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÅ Å(@
-%4boolean""java.util.regex.Matcher#matches()Z*
-
-%3java.util.regex.Matcher2	matches()*
-2
-1*Í
-
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÉ É(Ì
-É
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÉY É(e
-%5java.util.regex.Pattern"__id*:*8&
-$org.exist.client.security.UserDialog"
-PTN_USERNAMEæã
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÉY É(p
-%6java.lang.String"4java.util.regex.Pattern#toString()Ljava/lang/String;*
-
-%5java.util.regex.Pattern2
-toString()Õ
-Ò
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÉ, É(p
-%7java.lang.String"__concat*,*
-(Username must be at least 3 characters (*
-
-%6java.lang.String®
-«
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÉ, É(v
-%8java.lang.String"__concat*
-
-%7java.lang.String*
-)¬
-©
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÉ É(w
-
-%9void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
-javax.swing.JOptionPane*(&
-$org.exist.client.security.UserDialog*
-
-%8java.lang.String"p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÊ Ê(
-""B(&
-$org.exist.client.security.UserDialog

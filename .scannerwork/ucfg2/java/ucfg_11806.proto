@@ -1,69 +1,0 @@
-
-Sorg.exist.util.LongLinkedList#removeFirst()Lorg/exist/util/LongLinkedList$ListItem;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaG G("3*Ù
-2]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaK K(Ä
-Á
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaK K(,
-%4&org.exist.util.LongLinkedList$ListItem"__id*,**
-org.exist.util.LongLinkedList"
-first¨
-¥
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaK K(6
-,
-%4&org.exist.util.LongLinkedList$ListItem"
-prev"__id*
-""*
-1*¤
-
-3]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaH H( Ä
-Á
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaH H( ,
-%0&org.exist.util.LongLinkedList$ListItem"__id*,**
-org.exist.util.LongLinkedList"
-firstÈ
-Å
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaH H(!.
-temp&org.exist.util.LongLinkedList$ListItem"__id*.
-,
-%0&org.exist.util.LongLinkedList$ListItemÄ
-Á
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaI I(,
-%1&org.exist.util.LongLinkedList$ListItem"__id*,**
-org.exist.util.LongLinkedList"
-firstÐ
-Í
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaI I(,
-%2&org.exist.util.LongLinkedList$ListItem"__id*8*6
-,
-%1&org.exist.util.LongLinkedList$ListItem"
-nextÄ
-Á
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaI I(*
-org.exist.util.LongLinkedList"
-first"__id*.
-,
-%2&org.exist.util.LongLinkedList$ListItemÄ
-Á
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaJ J(,
-%3&org.exist.util.LongLinkedList$ListItem"__id*,**
-org.exist.util.LongLinkedList"
-first*
-2
-1*ö
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaL L("‘
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaL L(0
-.
-temp&org.exist.util.LongLinkedList$ListItemB!
-org.exist.util.LongLinkedList

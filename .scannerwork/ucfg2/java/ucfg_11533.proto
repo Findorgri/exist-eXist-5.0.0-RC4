@@ -1,37 +1,0 @@
-
-<org.exist.debuggee.dbgp.packets.FeatureGet#responseBytes()[B~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.java6 6("1*õ
-1~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.java7 7(#€
-ÿ
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.java; ;(
-%0java.lang.String"__id*8*6,
-*org.exist.debuggee.dbgp.packets.FeatureGet"
-name¥±
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.java< <('
-%1java.lang.String"Qorg.exist.debuggee.dbgp.packets.FeatureGet#getSupportedString()Ljava/lang/String;*.,
-*org.exist.debuggee.dbgp.packets.FeatureGet2getSupportedString()‹
-Ÿ
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.java> >(	
-%2java.lang.String"__id*9*7,
-*org.exist.debuggee.dbgp.packets.FeatureGet"
-valueØ
-¨
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.java7 ?(
-responsejava.lang.String"__id*
-""‹Ÿ
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.javaA	 A(
-%3byte[]"java.lang.String#getBytes()[B*
-
-responsejava.lang.String2
-getBytes()"ê
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/FeatureGet.javaA A(
-
-%3byte[]B.,
-*org.exist.debuggee.dbgp.packets.FeatureGet

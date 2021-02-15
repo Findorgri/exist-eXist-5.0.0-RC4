@@ -1,296 +1,0 @@
-
-\org.exist.xquery.util.HTTPUtils#printStackTraceHTML(Ljava/lang/Throwable;)Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaV V(,"12*”
-3_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javab b(q™ß
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javab b(q
-%34java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-%29java.lang.String2append(Ljava/lang/String;)öó
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javac c(
-%35java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*	
-</td>2append(Ljava/lang/String;)öó
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javad d(
-%36java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*	
-</tr>2append(Ljava/lang/String;)*
-9
-1*Å
-4_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javabF b(M∆
-√
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javabW b(_"
-%32java.lang.StackTraceElement"
-__arrayGet*(
-&
-tracejava.lang.StackTraceElement[]*
-""’“
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javabW b(o
-
-%33int",java.lang.StackTraceElement#getLineNumber()I*$
-"
-%32java.lang.StackTraceElement2getLineNumber()”
-–
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javabF b(p
-%31java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
-java.lang.Integer*
-
-
-%33intû
-õ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javabF b(p
-%29java.lang.String"__id*
-
-%31java.lang.String*
-3*ä
-5_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javab6 b(Cû
-õ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javab6 b(C
-%29java.lang.String"__id*
-
-%30java.lang.String*
-3*É
-6_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java` `(y™ß
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java` `(y
-%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%17java.lang.StringBuilder*
-
-%20java.lang.String2append(Ljava/lang/String;)õò
-`
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java` `(â
-%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%24java.lang.StringBuilder*	
-</td>2append(Ljava/lang/String;)®•
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaa a(-
-%26java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<td class=\"line\">2append(Ljava/lang/String;)∆
-√
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javab b("
-%27java.lang.StackTraceElement"
-__arrayGet*(
-&
-tracejava.lang.StackTraceElement[]*
-""’“
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javab b(/
-
-%28int",java.lang.StackTraceElement#getLineNumber()I*$
-"
-%27java.lang.StackTraceElement2getLineNumber()*
-4
-5*≈
-7_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`b `(g∆
-√
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`b `(j"
-%23java.lang.StackTraceElement"
-__arrayGet*(
-&
-tracejava.lang.StackTraceElement[]*
-""ÔÏ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`b `(x
-%22java.lang.String";java.lang.StackTraceElement#getFileName()Ljava/lang/String;*$
-"
-%23java.lang.StackTraceElement2getFileName()û
-õ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`b `(x
-%20java.lang.String"__id*
-
-%22java.lang.String*
-6*ä
-8_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`V `(_û
-õ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`V `(_
-%20java.lang.String"__id*
-
-%21java.lang.String*
-6*–
-9_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java] ](òï
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java] ](
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<tr>2append(Ljava/lang/String;)®•
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java^ ^(.
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<td class=\"class\">2append(Ljava/lang/String;)≈
-¬
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java^6 ^(>!
-%8java.lang.StackTraceElement"
-__arrayGet*(
-&
-tracejava.lang.StackTraceElement[]*
-""ÔÏ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java^6 ^(M
-%9java.lang.String"<java.lang.StackTraceElement#getClassName()Ljava/lang/String;*#
-!
-%8java.lang.StackTraceElement2getClassName()®•
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java^ ^(N
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%7java.lang.StringBuilder*
-
-%9java.lang.String2append(Ljava/lang/String;)öó
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java^ ^(^
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%10java.lang.StringBuilder*	
-</td>2append(Ljava/lang/String;)™ß
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java_ _(/
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<td class=\"method\">2append(Ljava/lang/String;)∆
-√
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java_7 _(?"
-%13java.lang.StackTraceElement"
-__arrayGet*(
-&
-tracejava.lang.StackTraceElement[]*
-""Û
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java_7 _(O
-%14java.lang.String"=java.lang.StackTraceElement#getMethodName()Ljava/lang/String;*$
-"
-%13java.lang.StackTraceElement2getMethodName()™ß
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java_ _(P
-%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%12java.lang.StringBuilder*
-
-%14java.lang.String2append(Ljava/lang/String;)öó
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java_ _(`
-%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%15java.lang.StringBuilder*	
-</td>2append(Ljava/lang/String;)®•
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java` `(-
-%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<td class=\"file\">2append(Ljava/lang/String;)∆
-√
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`5 `(="
-%18java.lang.StackTraceElement"
-__arrayGet*(
-&
-tracejava.lang.StackTraceElement[]*
-""ÔÏ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java`5 `(K
-%19java.lang.String";java.lang.StackTraceElement#getFileName()Ljava/lang/String;*$
-"
-%18java.lang.StackTraceElement2getFileName()*
-7
-8*Û
-12_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaW" W(5úô
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaW& W(3
-%0java.lang.StringBuilder"java.lang.StringBuilderÆ
-´
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaW" W(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder´
-®
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaW W(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder˘ˆ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaX* X(;#
-%2java.lang.StackTraceElement[]"Ajava.lang.Throwable#getStackTrace()[Ljava/lang/StackTraceElement;*
-
-ejava.lang.Throwable2getStackTrace()π
-∂
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaX X(<&
-tracejava.lang.StackTraceElement[]"__id*%
-#
-%2java.lang.StackTraceElement[]¨©
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaY Y(.
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<table id=\"javatrace\">2append(Ljava/lang/String;)∏µ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaZ Z(:
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*(&
-$<caption>Java Stack Trace:</caption>2append(Ljava/lang/String;)„‡
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.java[ [(e
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*SQ
-O<tr><th>Class Name</th><th>Method Name</th><th>File Name</th><th>Line</th></tr>2append(Ljava/lang/String;)*
-9
-1*Ê
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaf f(ùö
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javaf f(
-%37java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-</table>2append(Ljava/lang/String;)·ﬁ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javag g(
-%38java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"|
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/HTTPUtils.javag g(
-
-%38java.lang.String:
-ejava.lang.ThrowableB#"!
-org.exist.xquery.util.HTTPUtils

@@ -1,36 +1,0 @@
-
-€org.exist.config.annotation.ConfigurationFieldSettings$SettingKey#extractValueFromSettings(Ljava/lang/String;)Ljava/lang/String;v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java4 4(."1*ˆ
-1v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5 5(Â¿
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5( 5(0
-%0java.lang.String"\org.exist.config.annotation.ConfigurationFieldSettings$SettingKey#getKey()Ljava/lang/String;*EC
-Aorg.exist.config.annotation.ConfigurationFieldSettings$SettingKey2getKey()ÆÃ
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5( 5(9	
-%1int"java.lang.String#length()I*
-
-%0java.lang.String2length()¡
-ž
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5< 5(I
-%2java.lang.String"__id*
-""ÆÃ
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5< 5(R	
-%3int"java.lang.String#length()I*
-
-%2java.lang.String2length()ú÷
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5 5(S
-%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-settingsjava.lang.String*
-""2substring(I)"’
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/annotation/ConfigurationFieldSettings.java5 5(T
-
-%4java.lang.String:
-settingsjava.lang.StringBEC
-Aorg.exist.config.annotation.ConfigurationFieldSettings$SettingKey

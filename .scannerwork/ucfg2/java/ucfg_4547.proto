@@ -1,53 +1,0 @@
-
-<org.exist.xmldb.DatabaseImpl#acceptsURI(Ljava/lang/String;)Z^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŠ Š("startingBlock*Í
-3^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‘ ‘(("h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‘ ‘((
-""*é
-startingBlock^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŠ Š(/ª
-§
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaˆ ˆ(
-%1"
-__annotate*
-java.lang.Deprecated*
-
-urijava.lang.String¨
-¥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‰ ‰(
-%2"
-__annotate*
-java.lang.Override*
-
-urijava.lang.Stringš
-—
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.javaŠ+ Š(.
-urijava.lang.String"__annotation*
-
-%1*
-
-%2*
-5*Ü
-4^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (eñî
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java‘ ‘('
-%0"<org.exist.xmldb.DatabaseImpl#acceptsURI(Ljava/lang/String;)Z* 
-org.exist.xmldb.DatabaseImpl*
-""2acceptsURI(Ljava/lang/String;)*
-3*þ
-5^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (H“
-
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseImpl.java (H 
-newURIStringjava.lang.String"__id*
-""*
-4:
-urijava.lang.StringB 
-org.exist.xmldb.DatabaseImpl

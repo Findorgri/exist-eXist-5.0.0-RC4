@@ -1,31 +1,0 @@
-
-:org.exist.storage.md.MetaImpl#getValue()Ljava/lang/Object;Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaL L("5*û
-3Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaO O("ê
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaO O(
-""*Ì
-5Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaN N(◊
-‘
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaN0 N(5
-%0java.lang.String"__id*,**
-org.exist.storage.md.MetaImpl"
-value*
-3
-1*ä
-1Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaS	 S(◊
-‘
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaS	 S(
-%1java.lang.String"__id*,**
-org.exist.storage.md.MetaImpl"
-value"¢
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/metadata/sleepycat/src/main/java/org/exist/storage/md/MetaImpl.javaS S(
-
-%1java.lang.StringB!
-org.exist.storage.md.MetaImpl

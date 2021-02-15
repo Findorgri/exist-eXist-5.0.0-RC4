@@ -1,26 +1,0 @@
-
-:org.exist.dom.persistent.AbstractArrayNodeSet#getLength()Io
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java” ”("3*î
-2o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java— —(òï
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java— —(
-
-%1void"5org.exist.dom.persistent.AbstractArrayNodeSet#sort()V*1/
--org.exist.dom.persistent.AbstractArrayNodeSet2sort()*
-1*ü
-3o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java• •(ýú
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java• •(
-%0boolean"9org.exist.dom.persistent.AbstractArrayNodeSet#isSorted()Z*1/
--org.exist.dom.persistent.AbstractArrayNodeSet2
-isSorted()*
-2
-1*ï
-1o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java™ ™("y
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AbstractArrayNodeSet.java™ ™(
-""B1/
--org.exist.dom.persistent.AbstractArrayNodeSet

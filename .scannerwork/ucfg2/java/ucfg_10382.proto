@@ -1,46 +1,0 @@
-
->org.exist.launcher.SplashScreen#compareTo(Ljava/lang/Object;)Ia
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÑ Ñ("startingBlock*Ú
-2a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÖ$ Ö(%Ñ
-Å
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÖ# Ö(%	
-%0int"__id*
-	
-%2int*
-1*Ú
-3a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÖ Ö( Ñ
-Å
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÖ Ö( 	
-%0int"__id*
-	
-%1int*
-1*ƒ
-startingBlocka
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÑ Ñ(&≠
-™
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÉ É(
-%3"
-__annotate*
-java.lang.Override*
-
-otherjava.lang.Objectó
-î
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÑ  Ñ(%
-otherjava.lang.Object"__annotation*
-
-%3*
-2
-3*”
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÖ Ö(&"k
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/SplashScreen.javaÖ Ö(&
-"":
-otherjava.lang.ObjectB#!
-org.exist.launcher.SplashScreen

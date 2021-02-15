@@ -1,54 +1,0 @@
-
-<org.exist.xmlrpc.RpcConnection#parse([BLjava/lang/String;I)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù	 ù	("startingBlock*ü
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù	 ù	(H 
-
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaø	 ø	(
-%1"
-__annotate*
-java.lang.Override*
-
-xmlbyte[]Š
-‡
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù	  ù	(#
-xmlbyte[]"__annotation*
-
-%1³
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaø	 ø	(
-%2"
-__annotate*
-java.lang.Override*"
- 
-documentPathjava.lang.String
-š
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù	, ù	(8 
-documentPathjava.lang.String"__annotation*
-
-%2*
-1*Õ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú	 ú	(þ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú	 ú	(>
-%0boolean"\org.exist.xmlrpc.RpcConnection#parse([BLjava/lang/String;ILjava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-xmlbyte[]*"
- 
-documentPathjava.lang.String*
-""*
-""*
-""2<parse([BLjava/lang/String;ILjava/util/Date;Ljava/util/Date;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú	 ú	(?
-"":
-xmlbyte[]: 
-documentPathjava.lang.String:
-""B" 
-org.exist.xmlrpc.RpcConnection

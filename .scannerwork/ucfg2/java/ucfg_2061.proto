@@ -1,25 +1,0 @@
-
-Borg.exist.dom.memtree.ElementImpl#getNamespaceMap()Ljava/util/Map;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java† †(."1*Ý
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‡ ‡(”‘
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‡# ‡(:
-%0java.util.HashMap"java.util.HashMap¦
-£
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‡ ‡(<
-%1"java.util.HashMap#<init>()V*
-
-%0java.util.HashMap´±
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‡ ‡(=
-%2java.util.Map"Qorg.exist.dom.memtree.ElementImpl#getNamespaceMap(Ljava/util/Map;)Ljava/util/Map;*%#
-!org.exist.dom.memtree.ElementImpl*
-
-%0java.util.HashMap2 getNamespaceMap(Ljava/util/Map;)"|
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‡ ‡(>
-
-%2java.util.MapB%#
-!org.exist.dom.memtree.ElementImpl

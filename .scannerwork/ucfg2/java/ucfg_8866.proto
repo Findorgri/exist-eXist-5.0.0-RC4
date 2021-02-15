@@ -1,35 +1,0 @@
-
-Jorg.exist.management.impl.DiskUsage#getName()Ljavax/management/ObjectName;c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaL L("1*ä
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaM M(%¿
-¼
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaM& M(0
-%0java.lang.String"__id*7*5%
-#org.exist.management.impl.DiskUsage"
-
-instanceId–
-“
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaM M(1
-%1java.lang.String"Qorg.exist.management.impl.DiskUsage#getName(Ljava/lang/String;)Ljava/lang/String;*'"%
-#org.exist.management.impl.DiskUsage*
-
-%0java.lang.String¨¥
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaM M(!
-%2javax.management.ObjectName"javax.management.ObjectNameæ
-ã
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaM M(2
-%3"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
-!
-%2javax.management.ObjectName*
-
-%1java.lang.String"Š
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/DiskUsage.javaM M(3#
-!
-%2javax.management.ObjectNameB'%
-#org.exist.management.impl.DiskUsage

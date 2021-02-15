@@ -1,470 +1,0 @@
-
-#org.exist.http.Descriptor#<init>()VY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaY Y("57*π
-46Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javakI k(e—Œ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javakI k(e
-%11java.lang.Package"/java.lang.Class#getPackage()Ljava/lang/Package;*
-
-%10java.lang.Class2getPackage()*
-45*˘
-24[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÖJ Ö(Tèå
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÖ$ Ö(U
-%31java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*
-
-%30org.w3c.dom.Element*
-
-filtered2 getAttribute(Ljava/lang/String;)*
-23*™
-47Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javak k(q
-o
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javak k(
-%9"__id*
-""œÃ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javakI k(X
-%10java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-org.exist.http.Descriptor2
-getClass()*
-46*ô
-25[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÑ Ñ(Dª
-∏
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÑ Ñ(D2
-org.exist.http.Descriptor"
-bufWriteReplayLog"__id*
-
-%29java.io.BufferedWriterÒÓ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÖ$ Ö(<
-%30org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()*
-24*à
-48Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javai i(?ú
-ô
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javai i(?
-isjava.io.InputStream"__id*
-
-%8java.io.InputStream*
-47
-44*∏
-26[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÉ É(I¢
-ü
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÉ É(I
-logFilejava.nio.file.Path"__id*
-
-%28java.nio.file.Path©
-¶
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÑ$ Ñ(D
-%29java.io.BufferedWriter"njava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;*"
-java.nio.file.Files*
-
-logFilejava.nio.file.Path*
-25*Å
-49Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javai i(%Ñ
-Å
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javai: i(>
-%7java.lang.String"__id*
-""íè
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javai i(?
-%8java.io.InputStream"Ljava.lang.Class#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
-""*
-
-%7java.lang.String2'getResourceAsStream(Ljava/lang/String;)*
-48*Ó
-27[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÉ% É(*Ñ
-Å
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÉ% É(H
-%28java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-request-replay-log.txt*
-26*Õ
-29[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÇ Ç(Zﬂ‹
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÇ Ç(Z
-%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-true*
-
-%26java.lang.String2equals(Ljava/lang/Object;)*
-27
-20*º
-51Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javab b(,ú
-ô
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javab b(,
-isjava.io.InputStream"__id*
-
-%4java.io.InputStreamq
-o
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javac c(
-%5"__id*
-""æ
-ª
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javac c(<
-%6java.lang.String"__concat*!
-Reading Descriptor from file *
-
-fjava.nio.file.Path*
-49
-40*ˇ
-52Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javab b(ó
-î
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javab b(,
-%4java.io.InputStream"hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;*"
-java.nio.file.Files*
-
-fjava.nio.file.Path*
-51*É
-30[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÇD Ç(Xôñ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÇ Ç(Y
-%26java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*
-
-%25org.w3c.dom.Element*
-request-replay-log2 getAttribute(Ljava/lang/String;)*
-29*Æ
-53Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java` `(q
-o
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java` `(
-%2"__id*
-""œ
-Ã
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java` `(M
-%3java.lang.String"__concat*20
-.Giving up unable to read descriptor file from *
-
-fjava.nio.file.Path*
-49
-40*Â
-31Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java (7â
-Ü
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java (7
-docorg.w3c.dom.Document"__id*
-""ÒÓ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÇ Ç(6
-%25org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()*
-30*Ã
-55Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java^ ^(<Ö
-Ç
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java^ ^(<
-fjava.nio.file.Path"__id*
-""ÿ
-’
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java_ _($
-%1boolean"5java.nio.file.Files#isReadable(Ljava/nio/file/Path;)Z*"
-java.nio.file.Files*
-
-fjava.nio.file.Path*
-52
-53*‘
-11[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaì ì(4Ë
-Â
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaì ì(5
-%40void"?org.exist.http.Descriptor#configureMaps(Lorg/w3c/dom/Element;)V*
-org.exist.http.Descriptor*
-
-%39org.w3c.dom.Node*
-2
-0*Û
-33Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java} }(ãà
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java} }(
-%24void"7org.xml.sax.XMLReader#parse(Lorg/xml/sax/InputSource;)V*!
-
-readerorg.xml.sax.XMLReader* 
-
-srcorg.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)*
-31*Ò
-34Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java{ {(8âÜ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java| |(-
-%23"Forg.xml.sax.XMLReader#setContentHandler(Lorg/xml/sax/ContentHandler;)V*!
-
-readerorg.xml.sax.XMLReader*
-""2/setContentHandler(Lorg/xml/sax/ContentHandler;)*
-33*Ï
-56Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java^ ^(.Ñ
-Å
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java^6 ^(:
-%0java.lang.String"__id*
-""*
-55*¿
-12[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaì ì(÷”
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaì( ì(4
-%39org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*
-
-mapsorg.w3c.dom.NodeList*2 2item(I)*
-11*ç
-35Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaz z(;•
-¢
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaz z(;
-readerorg.xml.sax.XMLReader"__id*
-
-%22org.xml.sax.XMLReader*
-34*Ô
-57Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaZ Z(á
-Ñ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaZ Z(
-isjava.io.InputStream"__id*
-""*
-56*î
-36Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javay y(<±
-Æ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javay y(<%
-parserjavax.xml.parsers.SAXParser"__id*$
-"
-%21javax.xml.parsers.SAXParser¯ı
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaz% z(:
-%22org.xml.sax.XMLReader"Ajavax.xml.parsers.SAXParser#getXMLReader()Lorg/xml/sax/XMLReader;*'
-%
-parserjavax.xml.parsers.SAXParser2getXMLReader()*
-35*“
-14[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaë ë(C£
-†
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaë ë(C
-mapsorg.w3c.dom.NodeList"__id*
-
-%37org.w3c.dom.NodeListºπ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaí í( 
-
-%38int"!org.w3c.dom.NodeList#getLength()I*
-
-mapsorg.w3c.dom.NodeList2getLength()*
-
-2
-0
-12*§
-37Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javax x(8¶
-£
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javax x(8
-srcorg.xml.sax.InputSource"__id* 
-
-%19org.xml.sax.InputSourceìê
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javay% y(;"
-%21javax.xml.parsers.SAXParser"Njavax.xml.parsers.SAXParserFactory#newSAXParser()Ljavax/xml/parsers/SAXParser;*/
--
-factory"javax.xml.parsers.SAXParserFactory2newSAXParser()*
-36*è
-15[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaë" ë(%•¢
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaë" ë(B
-%37org.w3c.dom.NodeList"Sorg.w3c.dom.Document#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
-
-docorg.w3c.dom.Document*
-maps2(getElementsByTagName(Ljava/lang/String;)*
-14*ﬁ
-38Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javax4 x(6óî
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javax( x(3
-%19org.xml.sax.InputSource"org.xml.sax.InputSource‹
-Ÿ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javax$ x(7
-%20"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V* 
-
-%19org.xml.sax.InputSource*
-
-isjava.io.InputStream*
-37*ﬂ
-16[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaç+ ç(Pı
-Ú
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaç ç(Q
-%36void"Lorg.exist.http.Descriptor#configureAllowSourceXQuery(Lorg/w3c/dom/Element;)V*
-org.exist.http.Descriptor*
-
-%35org.w3c.dom.Node*
-15*ü
-39Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javau u(L¿
-Ω
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javau u(L-
-factory"javax.xml.parsers.SAXParserFactory"__id*+
-)
-%17"javax.xml.parsers.SAXParserFactoryÙÒ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javav v(+
-%18void"8javax.xml.parsers.SAXParserFactory#setNamespaceAware(Z)V*/
--
-factory"javax.xml.parsers.SAXParserFactory*
-""2setNamespaceAware(Z)*
-38*œ
-17[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaç ç(*Â‚
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaç5 ç(P
-%35org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*-
-+
-allowsourcexqueriesorg.w3c.dom.NodeList*2 2item(I)*
-16*Ó
-19[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaã ã(Z≤
-Ø
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaã ã(Z+
-allowsourcexqueriesorg.w3c.dom.NodeList"__id*
-
-%33org.w3c.dom.NodeListÀ»
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaå å(/
-
-%34int"!org.w3c.dom.NodeList#getLength()I*-
-+
-allowsourcexqueriesorg.w3c.dom.NodeList2getLength()*
-15
-17*y
-0 "r
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaß ß(
-implicit return*ô
-2[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java° °(±Æ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.java° °(
-%50void"java.io.InputStream#close()V*
-
-isjava.io.InputStream2close()*
-0*Ô
-40Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javau- u(=á
-Ñ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javau- u(K)
-%17"javax.xml.parsers.SAXParserFactory"Tjavax.xml.parsers.SAXParserFactory#newInstance()Ljavax/xml/parsers/SAXParserFactory;*&"$
-"javax.xml.parsers.SAXParserFactory*
-39*ƒ
-41Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javan n("c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javan n(
-""*Ã
-42Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javam m(‰
-·
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javam m(
-%16java.lang.String"__concat*EC
-AGiving up unable to read descriptor.xml file from classloader in *
-
-%15java.lang.Package*
-41*ó
-20[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaã1 ã(4≠™
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaã1 ã(Y
-%33org.w3c.dom.NodeList"Sorg.w3c.dom.Document#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*
-
-docorg.w3c.dom.Document*
-allow-source2(getElementsByTagName(Ljava/lang/String;)*
-19*π
-43Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javamc m(—Œ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javamc m(
-%15java.lang.Package"/java.lang.Class#getPackage()Ljava/lang/Package;*
-
-%14java.lang.Class2getPackage()*
-42*´
-44Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javam m(r
-p
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javam m(
-%13"__id*
-""œÃ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javamc m(r
-%14java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-org.exist.http.Descriptor2
-getClass()*
-43* 
-22[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaá' á(-‡›
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaá' á(:
-%32boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-true*
-
-attrjava.lang.String2equals(Ljava/lang/Object;)*
-20*≤
-45Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javak k(e 
-«
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javak k(e
-%12java.lang.String"__concat*+)
-'Reading Descriptor from classloader in *
-
-%11java.lang.Package*
-40*â
-23[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÖ Ö(Võ
-ò
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Descriptor.javaÖ Ö(V
-attrjava.lang.String"__id*
-
-%31java.lang.String*
-20
-22B
-org.exist.http.Descriptor

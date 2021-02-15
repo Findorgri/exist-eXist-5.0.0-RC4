@@ -1,28 +1,0 @@
-
-Torg.exist.collections.triggers.CSVExtractingTrigger$Extraction#mustMatchAttribute()Zu
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java£ £()"3*ò
-2u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java¤1 ¤(5ð
-í
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java¤1 ¤(D
-%1java.lang.String"__id*V*T@
->org.exist.collections.triggers.CSVExtractingTrigger$Extraction"
-matchAttrValue*
-1*ô
-3u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java¤ ¤(ï
-ì
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java¤ ¤(%
-%0java.lang.String"__id*U*S@
->org.exist.collections.triggers.CSVExtractingTrigger$Extraction"
-matchAttrName*
-2
-1*û
-1u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java¤ ¤(N"
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java¤ ¤(N
-""BB@
->org.exist.collections.triggers.CSVExtractingTrigger$Extraction

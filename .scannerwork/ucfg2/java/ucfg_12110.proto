@@ -1,16 +1,0 @@
-
-gorg.exist.util.io.ByteBufferInputStreamTest$TestableByteBufferAccessor#getBuffer()Ljava/nio/ByteBuffer;r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/ByteBufferInputStreamTest.javaÿ ÿ(#"1*û
-1r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/ByteBufferInputStreamTest.java€ €(í
-ê
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/ByteBufferInputStreamTest.java€ €(
-%0java.nio.ByteBuffer"__id*S*QH
-Forg.exist.util.io.ByteBufferInputStreamTest$TestableByteBufferAccessor"
-buf"‘
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/io/ByteBufferInputStreamTest.java€ €(
-
-%0java.nio.ByteBufferBJH
-Forg.exist.util.io.ByteBufferInputStreamTest$TestableByteBufferAccessor

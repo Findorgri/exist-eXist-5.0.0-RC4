@@ -1,84 +1,0 @@
-
-Gorg.exist.xquery.Option#tokenize(Ljava/lang/String;)[Ljava/lang/String;W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaL L(#"5"6*Ù
-3W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaS S(ﬁ€
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaS S(
-%6java.lang.String"7java.util.StringTokenizer#nextToken()Ljava/lang/String;*"
- 
-tokjava.util.StringTokenizer2nextToken()Ø
-¨
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaS S(
-%7"
-__arraySet*
-
-itemsjava.lang.String[]*
-""*
-
-%6java.lang.String*
-4*≥
-4W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaR R(Ã…
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaR R($
-%5boolean"*java.util.StringTokenizer#hasMoreTokens()Z*"
- 
-tokjava.util.StringTokenizer2hasMoreTokens()*
-3
-1*ñ	
-5W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaP2 P(:òï
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaP" P(1
-%1java.util.StringTokenizer"java.util.StringTokenizer˚
-¯
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaP P(F
-%2"Gjava.util.StringTokenizer#<init>(Ljava/lang/String;Ljava/lang/String;)V*!
-
-%1java.util.StringTokenizer*
-
-contentsjava.lang.String*	
- \r\t\nß
-§
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaP P(G 
-tokjava.util.StringTokenizer"__id*!
-
-%1java.util.StringTokenizerƒ¡
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaQ$ Q(5	
-%3int"(java.util.StringTokenizer#countTokens()I*"
- 
-tokjava.util.StringTokenizer2countTokens()äá
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaQ Q(6
-%4java.lang.String[]"java.lang.String[]õ
-ò
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaQ Q(7
-itemsjava.lang.String[]"__id*
-
-%4java.lang.String[]*
-4*⁄
-6W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaN N(Ñ
-Å
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaN N(
-%0java.lang.String[]"__id*
-"""u
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaN N(
-
-%0java.lang.String[]*÷
-1W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaU	 U("x
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Option.javaU U(
-
-itemsjava.lang.String[]:
-contentsjava.lang.StringB"
-org.exist.xquery.Option

@@ -1,32 +1,0 @@
-
-:org.exist.xmlrpc.RpcConnection#remove(Ljava/lang/String;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú ú("startingBlock*Ì
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú ú(4³
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaù ù(
-%1"
-__annotate*
-java.lang.Override*"
- 
-documentPathjava.lang.String
-š
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaú' ú(3 
-documentPathjava.lang.String"__annotation*
-
-%1*
-1*Ã
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû û(ïì
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû û(9
-%0":org.exist.xmlrpc.RpcConnection#remove(Ljava/lang/String;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-""2remove(Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû û(:
-"": 
-documentPathjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

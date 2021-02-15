@@ -1,22 +1,0 @@
-
-Vorg.exist.security.realm.ldap.LDAPRealm#checkGroupRestrictionList(Ljava/lang/String;)ZÇ
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaß ß(-"1*¢
-1Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java®) ®(=ß§
-Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java®) ®(?
-%0"Rorg.exist.security.realm.ldap.LDAPRealm#ensureContextFactory()LLdapContextFactory;*+)
-'org.exist.security.realm.ldap.LDAPRealm2ensureContextFactory()›
-⁄
-Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java© ©(P
-%1"worg.exist.security.realm.ldap.LDAPRealm#checkPrincipalRestrictionList(Ljava/lang/String;LAbstractLDAPSearchPrincipal;)Z*+)
-'org.exist.security.realm.ldap.LDAPRealm*
-
-	groupnamejava.lang.String*
-"""ç
-Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java© ©(Q
-"":
-	groupnamejava.lang.StringB+)
-'org.exist.security.realm.ldap.LDAPRealm

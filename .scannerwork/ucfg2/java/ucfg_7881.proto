@@ -1,98 +1,0 @@
-
-)org.exist.dom.memtree.NodeImpl#getType()I`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaà à("10"1*Ñ
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaû ü(!"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaü ü(!
-""*Ñ
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaø ù(*"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaù ù(*
-""*Ñ
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaõ ö(!"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaö ö(!
-""*Ñ
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ó(&"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaó ó(&
-""*Ñ
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaï ð($"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javað ð($
-""*Ñ
-7`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaì í(3"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaí í(3
-""*Ñ
-8`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaé ê($"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaê ê($
-""*Ñ
-9`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaæ ç(%"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaç ç(%
-""*Ò
-10`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaã ã("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaã ã(!
-""*Ý	
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaå å(ÔÑ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaå å(
-%0short"-org.exist.dom.memtree.NodeImpl#getNodeType()S*" 
-org.exist.dom.memtree.NodeImpl2getNodeType()
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaæ æ(#
-%1short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaé é("
-%2short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaì ì(1
-%3short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaï ï("
-%4short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò($
-%5short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaõ õ(
-%6short"__id*
-""
-}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaø ø((
-%7short"__id*
-""*
-2
-3
-4
-5
-6
-7
-8
-9B" 
-org.exist.dom.memtree.NodeImpl

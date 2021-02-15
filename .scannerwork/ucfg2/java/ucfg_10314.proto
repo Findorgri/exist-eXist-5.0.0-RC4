@@ -1,14 +1,0 @@
-
-=org.exist.dom.persistent.AttrImpl#getName()Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaþ þ("1*Ô
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÿ ÿ(èå
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÿ ÿ(
-%0java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*%#
-!org.exist.dom.persistent.AttrImpl2getNodeName()"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÿ ÿ(
-
-%0java.lang.StringB%#
-!org.exist.dom.persistent.AttrImpl

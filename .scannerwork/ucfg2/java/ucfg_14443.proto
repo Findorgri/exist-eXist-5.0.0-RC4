@@ -1,24 +1,0 @@
-
-Xorg.exist.xmldb.XmldbURI#trimFromBeginning(Ljava/lang/String;)Lorg/exist/xmldb/XmldbURI;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaé é(%"1*Ä
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaê ê( 
-Œ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaê! ê(=
-%0org.exist.xmldb.XmldbURI"Rorg.exist.xmldb.XmldbURI#xmldbUriFor(Ljava/lang/String;)Lorg/exist/xmldb/XmldbURI;*"
-org.exist.xmldb.XmldbURI*
-
-stringjava.lang.StringÐÍ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaê ê(>
-%1org.exist.xmldb.XmldbURI"`org.exist.xmldb.XmldbURI#trimFromBeginning(Lorg/exist/xmldb/XmldbURI;)Lorg/exist/xmldb/XmldbURI;*
-org.exist.xmldb.XmldbURI* 
-
-%0org.exist.xmldb.XmldbURI2-trimFromBeginning(Lorg/exist/xmldb/XmldbURI;)"~
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaê ê(? 
-
-%1org.exist.xmldb.XmldbURI:
-stringjava.lang.StringB
-org.exist.xmldb.XmldbURI

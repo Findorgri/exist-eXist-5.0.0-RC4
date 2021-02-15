@@ -1,55 +1,0 @@
-
-lorg.exist.dom.memtree.ElementImpl#getAttributeNodeNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Attr;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaΩ Ω(""startingBlock*◊
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaŒ2 Œ(:"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaŒ Œ(A
-""*≤
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaΩ" Ω(U∂
-≥
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaº º(
-%0"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String†
-ù
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaΩ0 Ω(< 
-namespaceURIjava.lang.String"__annotation*
-
-%0≥
-∞
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaº º(
-%1"
-__annotate*
-java.lang.Override*
-
-	localNamejava.lang.Stringù
-ö
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaΩK Ω(T
-	localNamejava.lang.String"__annotation*
-
-%1*
-
-3
-10
-1*ÿ
-10c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java√) √(1"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java√ √(:
-""*◊
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‘ ‘("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‘ ‘(
-"": 
-namespaceURIjava.lang.String:
-	localNamejava.lang.StringB%#
-!org.exist.dom.memtree.ElementImpl

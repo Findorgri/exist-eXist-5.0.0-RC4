@@ -1,28 +1,0 @@
-
-Yorg.exist.client.InteractiveClient#getExistIcon(Ljava/lang/Class;)Ljavax/swing/ImageIcon;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java   (("1*Ü
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ) À(.úô
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ) À([
-%0java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
-
-clazzjava.lang.Class*!
-/org/exist/client/icons/x.png2getResource(Ljava/lang/String;)ùö
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ À((
-%1javax.swing.ImageIcon"javax.swing.ImageIcon”
-–
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ À(\
-%2"-javax.swing.ImageIcon#<init>(Ljava/net/URL;)V*
-
-%1javax.swing.ImageIcon*
-
-%0java.net.URL"Ö
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÀ À(]
-
-%1javax.swing.ImageIcon:
-clazzjava.lang.ClassB&"$
-"org.exist.client.InteractiveClient

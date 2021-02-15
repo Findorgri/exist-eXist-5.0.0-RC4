@@ -1,16 +1,0 @@
-
-Worg.exist.security.realm.activedirectory.ActiveDirectoryRealm#getId()Ljava/lang/String;¢
-—C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ActiveDirectoryRealm.javaZ Z("1*þ
-1¢
-—C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ActiveDirectoryRealm.java[	 [(‘
-Ž
-¢
-—C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ActiveDirectoryRealm.java[	 [(
-%0java.lang.String"__id*I*G?
-=org.exist.security.realm.activedirectory.ActiveDirectoryRealm"
-ID"¿
-¢
-—C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/activedirectory/src/org/exist/security/realm/activedirectory/ActiveDirectoryRealm.java[ [(
-
-%0java.lang.StringBA?
-=org.exist.security.realm.activedirectory.ActiveDirectoryRealm

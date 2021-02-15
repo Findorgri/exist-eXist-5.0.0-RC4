@@ -1,9 +1,0 @@
-
-Worg.exist.xquery.functions.transform.TransformModule#getDescription()Ljava/lang/String;t
-jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/TransformModule.java7 7("1*¦
-1t
-jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/TransformModule.java8	 8(9"ª
-t
-jC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/TransformModule.java8 8(:20
-.A module for dealing with XSL transformations.B86
-4org.exist.xquery.functions.transform.TransformModule

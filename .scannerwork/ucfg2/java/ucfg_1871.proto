@@ -1,47 +1,0 @@
-
-%null#getBuffer()Ljava/nio/ByteBuffer;j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javao o('"3*£
-2j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaq q(Ö
-Ó
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaq q(
-%1java.nio.MappedByteBuffer"__id*>*<3
-1Lorg/exist/xquery/value/BinaryValueFromFile$3892;"
-bufþû
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaq q(2
-%2java.nio.ByteBuffer";java.nio.ByteBuffer#asReadOnlyBuffer()Ljava/nio/ByteBuffer;*!
-
-%1java.nio.MappedByteBuffer2asReadOnlyBuffer()Ò
-Ï
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaq q(2>3
-1Lorg/exist/xquery/value/BinaryValueFromFile$3892;"
-roBuf"__id*
-
-%2java.nio.ByteBuffer*
-1*Ì
-3j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javap p(Ò
-Ï
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javap p(
-%0java.nio.ByteBuffer"__id*@*>3
-1Lorg/exist/xquery/value/BinaryValueFromFile$3892;"
-roBuf*
-2
-1*Ð
-1j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javas s(Ò
-Ï
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javas s(
-%3java.nio.ByteBuffer"__id*@*>3
-1Lorg/exist/xquery/value/BinaryValueFromFile$3892;"
-roBuf"‰
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javas s(
-
-%3java.nio.ByteBufferB53
-1Lorg/exist/xquery/value/BinaryValueFromFile$3892;

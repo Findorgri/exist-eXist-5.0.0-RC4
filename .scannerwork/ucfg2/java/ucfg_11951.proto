@@ -1,64 +1,0 @@
-
-Sorg.exist.collections.CollectionConfiguration#triggerRegistered(Ljava/lang/Class;)Zo
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaÝ Ý($"7*ï
-2o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaæ æ("y
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaæ æ(
-""*º
-3o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaå å(»
-¸
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaå å(]
-%3"aorg.exist.collections.CollectionConfiguration#hasTriggerProxy(Ljava/util/List;Ljava/lang/Class;)Z*1/
--org.exist.collections.CollectionConfiguration*
-""*!
-
-triggerClassjava.lang.Class*
-2
-1*ˆ
-4o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaä ä("‰†
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaä ä(A
-%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-""*!
-
-triggerClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
-3
-1*ï
-5o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaà à("y
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaà à(
-""*º
-6o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaß ß(»
-¸
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaß ß([
-%1"aorg.exist.collections.CollectionConfiguration#hasTriggerProxy(Ljava/util/List;Ljava/lang/Class;)Z*1/
--org.exist.collections.CollectionConfiguration*
-""*!
-
-triggerClassjava.lang.Class*
-4
-5*ˆ
-7o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaÞ Þ( ‰†
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaÞ Þ(?
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-""*!
-
-triggerClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
-4
-6*ï
-1o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaê ê("y
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionConfiguration.javaê ê(
-"":
-triggerClassjava.lang.ClassB1/
--org.exist.collections.CollectionConfiguration

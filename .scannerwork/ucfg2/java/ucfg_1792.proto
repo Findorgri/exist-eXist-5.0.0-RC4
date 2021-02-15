@@ -1,116 +1,0 @@
-
-3org.exist.source.URLSource#path()Ljava/lang/String;Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaE E("7*¡
-2Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaJ
- J(¢
-ü
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaJ
- J(
-%8java.net.URL"__id*'*%
-org.exist.source.URLSource"
-url¬ø
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaJ
- J(
-%9java.lang.String"(java.net.URL#getFile()Ljava/lang/String;*
-
-%8java.net.URL2	getFile()"v
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaJ J(
-
-%9java.lang.String*Õ
-3Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaHc H(n„‡
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaHc H({
-%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-	127.0.0.1*
-
-hostjava.lang.String2equals(Ljava/lang/Object;)*
-2
-1*Õ
-4Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaHG H(R„‡
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaHG H(_
-%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-	localhost*
-
-hostjava.lang.String2equals(Ljava/lang/Object;)*
-2
-3*ñ
-5Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaH1 H(5¨©
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaH1 H(>	
-%5int"java.lang.String#length()I*
-
-hostjava.lang.String2length()*
-2
-4*Á
-
-7Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaF F(¢
-ü
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaF F(
-%0java.net.URL"__id*'*%
-org.exist.source.URLSource"
-url «
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaF F(+
-%1java.lang.String",java.net.URL#getProtocol()Ljava/lang/String;*
-
-%0java.net.URL2getProtocol()ù
-ö
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaF F(,
-protocoljava.lang.String"__id*
-
-%1java.lang.String¢
-ü
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaG G(
-%2java.net.URL"__id*'*%
-org.exist.source.URLSource"
-url¬ø
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaG G(#
-%3java.lang.String"(java.net.URL#getHost()Ljava/lang/String;*
-
-%2java.net.URL2	getHost()ô
-ñ
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaG G($
-hostjava.lang.String"__id*
-
-%3java.lang.String‚ﬂ
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaH H(
-%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-protocoljava.lang.String*
-file2equals(Ljava/lang/Object;)*	
-2
-5
-1*”
-1Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaL	 L(£
-†
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaL	 L(
-%10java.net.URL"__id*'*%
-org.exist.source.URLSource"
-url“œ
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaL	 L(
-%11java.lang.String"/java.net.URL#toExternalForm()Ljava/lang/String;*
-
-%10java.net.URL2toExternalForm()"w
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaL L(
-
-%11java.lang.StringB
-org.exist.source.URLSource

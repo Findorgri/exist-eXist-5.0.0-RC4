@@ -1,21 +1,0 @@
-
-9org.exist.debuggee.dbgp.packets.StepInto#commandBytes()[B|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepInto.java8 8("1*ù
-1|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepInto.java9 9("¨
-©
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepInto.java9 9(1
-commandjava.lang.String"__id*
-""Ÿ÷
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepInto.java;	 ;(
-%0byte[]"java.lang.String#getBytes()[B*
-
-commandjava.lang.String2
-getBytes()"é
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StepInto.java; ;(
-
-%0byte[]B,*
-(org.exist.debuggee.dbgp.packets.StepInto

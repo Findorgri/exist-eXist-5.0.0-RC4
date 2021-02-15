@@ -1,21 +1,0 @@
-
-*org.exist.xmldb.FullXmldbURI#isAbsolute()Z^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÝ Ý("1*´
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(¯
-¬
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(
-%0java.net.URI"__id*0*.
-org.exist.xmldb.FullXmldbURI"
-
-wrappedURI²¯
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(&
-%1boolean"java.net.URI#isAbsolute()Z*
-
-%0java.net.URI2isAbsolute()"h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ('
-""B 
-org.exist.xmldb.FullXmldbURI

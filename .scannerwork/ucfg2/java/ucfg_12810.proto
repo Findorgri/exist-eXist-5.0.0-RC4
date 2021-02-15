@@ -1,64 +1,0 @@
-
-Jorg.exist.config.ConfigurationDocumentTrigger#findName()Ljava/lang/String;o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaé é("14*“
-2o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaü ü(ÒÓ
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaü ü("
-%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*!
-
-namejava.lang.StringBuilder2
-toString()Ÿ÷
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaü ü()
-%5java.lang.String")java.lang.String#trim()Ljava/lang/String;*
-
-%4java.lang.String2trim()"ã
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaü ü(*
-
-%5java.lang.String*¨
-14o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaè è(¨©
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaê' ê(4
-%0java.lang.StringBuilder"java.lang.StringBuilderæ
-ª
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaê# ê(6
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderº
-π
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaê ê(7
-namejava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-3
-5*÷
-3o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaû û(◊‘
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaû û(	
-%3int")java.lang.AbstractStringBuilder#length()I*!
-
-namejava.lang.StringBuilder2length()*
-2
-1*ç
-5o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaö ö(éã
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.javaö ö(4
-%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*!
-
-namejava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-3
-5*Ô
-1o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java° °("y
-o
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationDocumentTrigger.java° °(
-""B1/
--org.exist.config.ConfigurationDocumentTrigger

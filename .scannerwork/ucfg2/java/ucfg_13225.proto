@@ -1,49 +1,0 @@
-
-horg.exist.xmlrpc.RpcServlet$FilteredServletConfig#getInitParameter(Ljava/lang/String;)Ljava/lang/String;]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java» »(&"startingBlock*À
-2]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java   ("g
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java   (2
-""*Õ
-3]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java… …(!€
-ÿ
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java… …(!"
-%0java.util.function.Predicate"__id*M*K3
-1org.exist.xmlrpc.RpcServlet$FilteredServletConfig"
-parameterPredicateÇˇ
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java… …()
-%1boolean"6java.util.function.Predicate#test(Ljava/lang/Object;)Z*$
-"
-%0java.util.function.Predicate*
-
-sjava.lang.String2test(Ljava/lang/Object;)*
-2
-1*≠
-startingBlock]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java»& »(6•
-¢
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java« «(
-%2"
-__annotate*
-java.lang.Override*
-
-sjava.lang.Stringè
-å
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.java»4 »(5
-sjava.lang.String"__annotation*
-
-%2*
-3*À
-1]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.javaÃ Ã("g
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcServlet.javaÃ Ã(
-"":
-sjava.lang.StringB53
-1org.exist.xmlrpc.RpcServlet$FilteredServletConfig

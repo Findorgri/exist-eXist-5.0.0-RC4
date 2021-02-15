@@ -1,91 +1,0 @@
-
-Corg.exist.storage.statistics.DataGuide#toString()Ljava/lang/String;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javal l("5*Î
-2f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javaq q(š
-—
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javaq q(
-pathjava.lang.StringBuilder"__id*
-""»
-¸
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javaq q(
-pathjava.lang.StringBuilder"
-__arrayGet*
-
-pathsjava.util.List*
-""*
-3
-1*µ
-3f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javar r(ÄÁ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javar r(
-%6java.lang.StringBuilder"Qjava.lang.StringBuilder#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*!
-
-pathjava.lang.StringBuilder2 append(Ljava/lang/CharSequence;)ûø
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javas s(
-%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-\n2	append(C)*
-2*Ù
-5f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javam* m(H›˜
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javam. m(F
-%0java.util.ArrayList"java.util.ArrayList­
-ª
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javam* m(H
-%1"java.util.ArrayList#<init>()V*
-
-%0java.util.ArrayList§
-¤
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javam m(I
-pathsjava.util.List"__id*
-
-%0java.util.ArrayList£ 
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javan n(#
-%2java.lang.StringBuilder"java.lang.StringBuilderµ
-²
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javan n(%
-%3"!java.lang.StringBuilder#<init>()V*
-
-%2java.lang.StringBuilder£ 
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javap& p(3
-%4java.lang.StringBuilder"java.lang.StringBuilderµ
-²
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javap" p(5
-%5"!java.lang.StringBuilder#<init>()V*
-
-%4java.lang.StringBuilder²
-¯
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javap p(6
-bufjava.lang.StringBuilder"__id*
-
-%4java.lang.StringBuilder*
-2*Ú
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javau u(çä
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javau u(
-%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"‚
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/statistics/DataGuide.javau u(
-
-%8java.lang.StringB*(
-&org.exist.storage.statistics.DataGuide

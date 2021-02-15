@@ -1,21 +1,0 @@
-
-\org.exist.fluent.DataUtils#toDate(Ljavax/xml/datatype/XMLGregorianCalendar;)Ljava/util/Date;l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java4 4("1*£
-1l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java5	 5(¾»
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java5	 5('!
-%0java.util.GregorianCalendar"Zjavax.xml.datatype.XMLGregorianCalendar#toGregorianCalendar()Ljava/util/GregorianCalendar;*5
-3
-dateTime'javax.xml.datatype.XMLGregorianCalendar2toGregorianCalendar()åâ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java5	 5(1
-%1java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*#
-!
-%0java.util.GregorianCalendar2	getTime()"†
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/DataUtils.java5 5(2
-
-%1java.util.Date:3
-dateTime'javax.xml.datatype.XMLGregorianCalendarB"
-org.exist.fluent.DataUtils

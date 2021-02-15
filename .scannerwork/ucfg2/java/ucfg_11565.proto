@@ -1,26 +1,0 @@
-
-Gorg.exist.backup.FileSystemBackupDescriptor#getName()Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java“ “("1*™
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java• •(Ó
-Ð
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java•# •(-
-%0java.nio.file.Path"__id*?*=-
-+org.exist.backup.FileSystemBackupDescriptor"
-
-descriptoréæ
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java•# •(9
-%1java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
-
-%0java.nio.file.Path2getParent()éæ
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java•# •(E
-%2java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
-
-%1java.nio.file.Path2getParent()"w
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java• •(I
-""B/-
-+org.exist.backup.FileSystemBackupDescriptor

@@ -1,70 +1,0 @@
-
-Korg.exist.stax.EmbeddedXMLStreamReader#getNamespaceURI(I)Ljava/lang/String;h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaè è(!"4*á
-2h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaë ë("r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaë ë(
-""*ð
-3h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaê ê(Å
-Â
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaê ê("
-%1java.util.List"__id*:*8(
-&org.exist.stax.EmbeddedXMLStreamReader"
-
-namespaces°­
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaê ê()	
-%2int"java.util.List#size()I*
-
-%1java.util.List2size()*
-2
-1*Û
-4h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaé é(ã
-à
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaé é(
-
-%0void"<org.exist.stax.EmbeddedXMLStreamReader#readNamespaceDecls()V**(
-&org.exist.stax.EmbeddedXMLStreamReader*
-2
-3*Ø
-1h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaí í((Å
-Â
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaí í((
-%3java.util.List"__id*:*8(
-&org.exist.stax.EmbeddedXMLStreamReader"
-
-namespaces³
-°
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaí í(/
-%4java.lang.String[]"
-__arrayGet*
-
-%3java.util.List*
-""«
-¨
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaí í(0
-decljava.lang.String[]"__id*
-
-%4java.lang.String[]µ
-²
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaî î(
-%5java.lang.String"
-__arrayGet*
-
-decljava.lang.String[]*2"„
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaî î(
-
-%5java.lang.String:
-""B*(
-&org.exist.stax.EmbeddedXMLStreamReader

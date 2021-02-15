@@ -1,42 +1,0 @@
-
-Mnull#let(Ljava/lang/String;Ljava/lang/Object;)Lorg/exist/fluent/QueryService;o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV  V(#"startingBlock*Í
-startingBlocko
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV# V(=¹
-¶
-o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV V(
-%0"
-__annotate*
-java.lang.Override*
-
-varjava.lang.String£
- 
-o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV+ V(.
-varjava.lang.String"__annotation*
-
-%0»
-¸
-o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV V(
-%1"
-__annotate*
-java.lang.Override*
-
-valuejava.lang.Object¥
-¢
-o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV7 V(<
-valuejava.lang.Object"__annotation*
-
-%1*
-1*’
-1o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaVF V(J"›
-o
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaV? V(K(&
-$Lorg/exist/fluent/QueryService$2527;:
-varjava.lang.String:
-valuejava.lang.ObjectB(&
-$Lorg/exist/fluent/QueryService$2527;

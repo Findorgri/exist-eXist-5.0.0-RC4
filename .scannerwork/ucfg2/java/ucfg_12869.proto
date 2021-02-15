@@ -1,205 +1,0 @@
-
-@org.exist.xquery.NodeTypeTest#createDocument()Ljava/lang/String;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java∫ ∫($"1*îS
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaª ª(1°û
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaª" ª(/
-%0java.lang.StringBuilder"java.lang.StringBuilder≥
-∞
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaª ª(1
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder∏
-µ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaª ª(2&
-xmlDocumentjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÀ»
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaº º(B
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*.,
-*<?xml version=\"1.0\" encoding=\"UTF-8\"?>2append(Ljava/lang/String;)÷”
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaΩ Ω(M
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*97
-5<page partition=\"home\" path=\"/\" version=\"live\">2append(Ljava/lang/String;)≠™
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaæ æ($
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-    <header>2append(Ljava/lang/String;)ŒÀ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaø ø(E
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*1/
--        <renderer>home_dreispaltig</renderer>2append(Ljava/lang/String;)¡æ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java¿ ¿(8
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*$"
-         <layout>default</layout>2append(Ljava/lang/String;)Ω∫
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java¡ ¡(4
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder* 
-        <type>default</type>2append(Ljava/lang/String;)≤Ø
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java¬ ¬()
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        <publish>2append(Ljava/lang/String;)—Œ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java√ √(H
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*42
-0            <from>2005/06/06 10:53:40 GMT</from>2append(Ljava/lang/String;)”–
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaƒ ƒ(I
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*53
-1            <to>292278994/08/17 07:12:55 GMT</to>2append(Ljava/lang/String;)¥±
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java≈ ≈(*
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        </publish>2append(Ljava/lang/String;)¥±
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java∆ ∆(*
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        <security>2append(Ljava/lang/String;)¿Ω
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java« «(6
-%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*" 
-            <owner>www</owner>2append(Ljava/lang/String;)˜Ù
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java» »(m
-%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*YW
-U            <permission id=\"system:manage\" type=\"role\">system:editor</permission>2append(Ljava/lang/String;)ÙÒ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java… …(j
-%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*VT
-R            <permission id=\"system:read\" type=\"role\">system:guest</permission>2append(Ljava/lang/String;)˛˚
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java   (t
-%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*`^
-\            <permission id=\"system:translate\" type=\"role\">system:translator</permission>2append(Ljava/lang/String;)˚¯
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaÀ À(q
-%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*][
-Y            <permission id=\"system:publish\" type=\"role\">system:publisher</permission>2append(Ljava/lang/String;)ˆÛ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaÃ Ã(l
-%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*XV
-T            <permission id=\"system:write\" type=\"role\">system:editor</permission>2append(Ljava/lang/String;)µ≤
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaÕ Õ(+
-%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        </security>2append(Ljava/lang/String;)µ≤
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaŒ Œ(+
-%20java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        <keywords/>2append(Ljava/lang/String;)Õ 
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaœ œ(C
-%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*/-
-+        <title language=\"de\">Home</title>2append(Ljava/lang/String;)Õ 
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java– –(C
-%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*/-
-+        <title language=\"fr\">Home</title>2append(Ljava/lang/String;)Õ 
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java— —(C
-%23java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*/-
-+        <title language=\"it\">Home</title>2append(Ljava/lang/String;)¥±
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java“ “(*
-%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        <modified>2append(Ljava/lang/String;)“œ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java” ”(H
-%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*42
-0            <date>2005/06/06 10:53:40 GMT</date>2append(Ljava/lang/String;)«ƒ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java‘ ‘(=
-%26java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*)'
-%            <user>markus.jauss</user>2append(Ljava/lang/String;)µ≤
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java’ ’(+
-%27java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-        </modified>2append(Ljava/lang/String;)Ø¨
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java÷ ÷(%
-%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-    </header>2append(Ljava/lang/String;)≠™
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.java◊ ◊(#
-%29java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*
-    <body/>2append(Ljava/lang/String;)©¶
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaÿ ÿ(
-%30java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-xmlDocumentjava.lang.StringBuilder*	
-</page>2append(Ljava/lang/String;)ÓÎ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaŸ	 Ÿ(
-%31java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*(
-&
-xmlDocumentjava.lang.StringBuilder2
-toString()"Å
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xquery/NodeTypeTest.javaŸ Ÿ( 
-
-%31java.lang.StringB!
-org.exist.xquery.NodeTypeTest

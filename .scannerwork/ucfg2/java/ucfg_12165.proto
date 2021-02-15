@@ -1,38 +1,0 @@
-
-Forg.exist.xquery.TypeTest#matches(Ljavax/xml/stream/XMLStreamReader;)ZY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java ("startingBlock*À
-startingBlockY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java (8∂
-≥
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java~ ~(
-%2"
-__annotate*
-java.lang.Override*,
-*
-reader javax.xml.stream.XMLStreamReader†
-ù
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java1 (7*
-reader javax.xml.stream.XMLStreamReader"__annotation*
-
-%2*
-1*Ç
-1[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaÄ Ä(€ÿ
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaÄ Ä(2	
-%0int"0javax.xml.stream.XMLStreamReader#getEventType()I*,
-*
-reader javax.xml.stream.XMLStreamReader2getEventType()⁄◊
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaÄ Ä(3
-%1boolean"+org.exist.xquery.TypeTest#isOfEventType(I)Z*
-org.exist.xquery.TypeTest*
-	
-%0int2isOfEventType(I)"e
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaÄ Ä(4
-"":*
-reader javax.xml.stream.XMLStreamReaderB
-org.exist.xquery.TypeTest

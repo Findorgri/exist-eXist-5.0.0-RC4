@@ -1,76 +1,0 @@
-
-[org.exist.http.urlrewrite.RewriteConfig$Mapping#match(Ljava/lang/String;)Ljava/lang/String;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java† †("3*²
-
-2i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰ ‰(Õ
-Ò
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰& ‰(-
-%4java.util.regex.Matcher"__id*@*>1
-/org.exist.http.urlrewrite.RewriteConfig$Mapping"	
-matcherÅÂ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰& ‰(5	
-%5int" java.util.regex.Matcher#start()I*
-
-%4java.util.regex.Matcher2start()Õ
-Ò
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰7 ‰(>
-%6java.util.regex.Matcher"__id*@*>1
-/org.exist.http.urlrewrite.RewriteConfig$Mapping"	
-matcherÁ¾
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰7 ‰(D	
-%7int"java.util.regex.Matcher#end()I*
-
-%6java.util.regex.Matcher2end()ýú
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰ ‰(E
-%8java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-pathjava.lang.String*
-	
-%5int*
-	
-%7int2substring(II)"…
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‰ ‰(F
-
-%8java.lang.String*º
-3i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‡ ‡(Õ
-Ò
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‡ ‡(
-%0java.util.regex.Matcher"__id*@*>1
-/org.exist.http.urlrewrite.RewriteConfig$Mapping"	
-matcher½º
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‡ ‡(
-%1java.util.regex.Matcher"Pjava.util.regex.Matcher#reset(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Matcher*
-
-pathjava.lang.String2reset(Ljava/lang/CharSequence;)Õ
-Ò
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.javaˆ ˆ(
-%2java.util.regex.Matcher"__id*@*>1
-/org.exist.http.urlrewrite.RewriteConfig$Mapping"	
-matcherÑÎ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.javaˆ ˆ(#
-%3boolean"$java.util.regex.Matcher#lookingAt()Z*
-
-%2java.util.regex.Matcher2lookingAt()*
-2
-1*ã
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‹ ‹("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/RewriteConfig.java‹ ‹(
-"":
-pathjava.lang.StringB31
-/org.exist.http.urlrewrite.RewriteConfig$Mapping

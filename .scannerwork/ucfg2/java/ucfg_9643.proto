@@ -1,16 +1,0 @@
-
-Qorg.exist.storage.lock.LockTable$LockModeOwner#getOwnerThread()Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.java¡ ¡($"1*´
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.java¢ ¢(Ê
-Ç
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.java¢ ¢(
-%0java.lang.String"__id*C*A0
-.org.exist.storage.lock.LockTable$LockModeOwner"
-ownerThread"~
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.java¢ ¢(
-
-%0java.lang.StringB20
-.org.exist.storage.lock.LockTable$LockModeOwner

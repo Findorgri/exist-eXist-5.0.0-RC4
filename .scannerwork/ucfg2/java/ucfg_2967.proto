@@ -1,66 +1,0 @@
-
-Rorg.exist.xquery.modules.httpclient.DBFile#getConnection()Ljava/net/URLConnection;}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java3 3($"14*ô
-14}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java4	 4(æ
-ã
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java4	 4(
-%0java.net.URLConnection"__id*>*<,
-*org.exist.xquery.modules.httpclient.DBFile"
-
-connection*
-6
-1*ð
-4}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java; ;(&æ
-ã
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java; ;(&<,
-*org.exist.xquery.modules.httpclient.DBFile"
-
-connection"__id*
-
-%3java.net.URLConnection*
-1*À
-5}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java: :(d³
-°
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java: :(d
-urljava.net.URL"__id*
-
-%1java.net.URL€ý
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java; ;(&
-%3java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
-
-urljava.net.URL2openConnection()*
-4*
-6}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java: :(b¤¡
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java: :(
-%1java.net.URL"java.net.URLÐ
-Í
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.java: :(c
-%2"(java.net.URL#<init>(Ljava/lang/String;)V*
-
-%1java.net.URL*
-""*
-5*
-1}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaA A(æ
-ã
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaA A(
-%4java.net.URLConnection"__id*>*<,
-*org.exist.xquery.modules.httpclient.DBFile"
-
-connection"Ÿ
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaA A(
-
-%4java.net.URLConnectionB.,
-*org.exist.xquery.modules.httpclient.DBFile

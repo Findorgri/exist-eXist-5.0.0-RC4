@@ -1,20 +1,0 @@
-
-9org.exist.xquery.AnyNodeTest#matches(Lorg/w3c/dom/Node;)Z\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.java9 9("1*ƒ
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.java: :(º·
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.java: :("
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-nodeorg.w3c.dom.Node2getNodeType(){
-y
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.java:& :(9
-%1short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.java: :(;
-"":
-nodeorg.w3c.dom.NodeB 
-org.exist.xquery.AnyNodeTest

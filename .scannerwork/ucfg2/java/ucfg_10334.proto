@@ -1,34 +1,0 @@
-
-@org.exist.dom.persistent.AttrImpl#getBaseURI()Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaü ü("3*Ç
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÿ ÿ(ÛØ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÿ ÿ(!
-%1java.lang.String"/org.w3c.dom.Node#getBaseURI()Ljava/lang/String;*
-
-eorg.w3c.dom.Element2getBaseURI()"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÿ ÿ("
-
-%1java.lang.String*¢
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaı ı()‡„
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaı ı(+
-%0org.w3c.dom.Element"Horg.exist.dom.persistent.AttrImpl#getOwnerElement()Lorg/w3c/dom/Element;*%#
-!org.exist.dom.persistent.AttrImpl2getOwnerElement()¥
-¢
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaı ı(,
-eorg.w3c.dom.Element"__id*
-
-%0org.w3c.dom.Element*
-2
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java ("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java (
-""B%#
-!org.exist.dom.persistent.AttrImpl

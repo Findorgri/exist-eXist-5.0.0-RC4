@@ -1,26 +1,0 @@
-
-Forg.exist.TestUtils#readFile(Ljava/nio/file/Path;Ljava/lang/String;)[BZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÅ Å(!"1*»
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÇ Ç(ùö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÇ Ç(3
-%0java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*!
-
-	directoryjava.nio.file.Path*
-
-filenamejava.lang.String2resolve(Ljava/lang/String;)ÿ
-’
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÇ Ç(4
-%1byte[]"4org.exist.TestUtils#readFile(Ljava/nio/file/Path;)[B*"
-org.exist.TestUtils*
-
-%0java.nio.file.Path"l
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÇ Ç(5
-
-%1byte[]:
-	directoryjava.nio.file.Path:
-filenamejava.lang.StringB"
-org.exist.TestUtils

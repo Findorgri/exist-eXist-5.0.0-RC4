@@ -1,48 +1,0 @@
-
-Borg.exist.util.Heap#compare(Ljava/lang/Object;Ljava/lang/Object;)IS
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java< <("3*£
-2S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java> >(ÈÊ
-S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java> >(*	
-%1int"3java.lang.Comparable#compareTo(Ljava/lang/Object;)I*
-
-ajava.lang.Object*
-
-bjava.lang.Object2compareTo(Ljava/lang/Object;)"]
-S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java> >(+
-""*Ä
-3S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java= =(ù
-ö
-S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java= =(
-%0java.util.Comparator"__id*!*
-org.exist.util.Heap"
-cmp_*
-2
-1*Å
-1S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java@ @(ù
-ö
-S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java@ @(
-%2java.util.Comparator"__id*!*
-org.exist.util.Heap"
-cmp_ß§
-S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java@ @( 	
-%3int"Cjava.util.Comparator#compare(Ljava/lang/Object;Ljava/lang/Object;)I*
-
-%2java.util.Comparator*
-
-ajava.lang.Object*
-
-bjava.lang.Object2-compare(Ljava/lang/Object;Ljava/lang/Object;)"]
-S
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Heap.java@ @(!
-"":
-ajava.lang.Object:
-bjava.lang.ObjectB
-org.exist.util.Heap

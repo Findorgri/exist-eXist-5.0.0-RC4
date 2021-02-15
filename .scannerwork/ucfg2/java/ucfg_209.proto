@@ -1,51 +1,0 @@
-
-org.exist.dom.persistent.NodeProxy#parentWithChild(Lorg/exist/dom/persistent/NodeProxy;ZZI)Lorg/exist/dom/persistent/NodeProxy;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java• •($"startingBlock*Ó
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java•$ ¶(7¬
-ø
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java§ §(
-%3"
-__annotate*
-java.lang.Override*-
-+
-proxy"org.exist.dom.persistent.NodeProxy¨
-©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.java•5 •(:+
-proxy"org.exist.dom.persistent.NodeProxy"__annotation*
-
-%3*
-1*ê
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaß ß(˜Ù
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaß ß(7
-%0"Corg.exist.dom.persistent.NodeProxy#getOwnerDocument()LDocumentImpl;*-
-+
-proxy"org.exist.dom.persistent.NodeProxy2getOwnerDocument()„‡
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaß9 ß(J
-%1"6org.exist.dom.persistent.NodeProxy#getNodeId()LNodeId;*-
-+
-proxy"org.exist.dom.persistent.NodeProxy2getNodeId()‘—
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaß ß(f
-%2"porg.exist.dom.persistent.NodeProxy#parentWithChild(LDocumentImpl;LNodeId;ZZ)Lorg/exist/dom/persistent/NodeProxy;*&$
-"org.exist.dom.persistent.NodeProxy*
-
-%0*
-
-%1*
-""*
-""2)parentWithChild(LDocumentImpl;LNodeId;ZZ)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaß ß(g
-
-%2:+
-proxy"org.exist.dom.persistent.NodeProxy:
-"":
-"":
-""B&$
-"org.exist.dom.persistent.NodeProxy

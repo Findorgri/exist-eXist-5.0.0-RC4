@@ -1,59 +1,0 @@
-
-Rorg.exist.xmldb.RemoteCollection#getProperty(Ljava/lang/String;)Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java¾ ¾("startingBlock*Õ
-2b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaÀ À("l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaÀ À(
-""*±
-3b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java¿ ¿(¿
-¼
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java¿ ¿(
-%0java.util.Properties"__id*4*2"
- org.exist.xmldb.RemoteCollection"
-
-properties*
-2
-1*Ê
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java¾ ¾(4±
-®
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java½ ½(
-%3"
-__annotate*
-java.lang.Override*
-
-propertyjava.lang.String›
-˜
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.java¾+ ¾(3
-propertyjava.lang.String"__annotation*
-
-%3*
-3*ó
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaÂ Â("¿
-¼
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaÂ Â("
-%1java.util.Properties"__id*4*2"
- org.exist.xmldb.RemoteCollection"
-
-propertiesÇ
-Ä
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaÂ Â(0
-%2java.lang.Object"__mapGet*
-
-%1java.util.Properties*
-
-propertyjava.lang.String"~
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteCollection.javaÂ Â(1
-
-%2java.lang.Object:
-propertyjava.lang.StringB$"
- org.exist.xmldb.RemoteCollection

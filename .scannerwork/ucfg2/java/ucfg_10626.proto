@@ -1,65 +1,0 @@
-
-gorg.exist.xquery.functions.system.LibFunction#libFolders(Ljava/nio/file/Path;)Ljava/util/stream/Stream;m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java7 7(#"3*Â
-2m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java; ;(ò
-ï
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java;1 ;(;
-%1java.lang.String"__id*
-""¨©
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java; ;(<
-%2java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*#
-!
-contextRootjava.nio.file.Path*
-
-%1java.lang.String2resolve(Ljava/lang/String;)ì
-ê
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java; ;(=
-%3java.util.stream.Stream"Gjava.util.stream.Stream#of(Ljava/lang/Object;)Ljava/util/stream/Stream;*"
-java.util.stream.Stream*
-
-%2java.nio.file.Path"ê
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java; ;(>
-
-%3java.util.stream.Stream*®
-3m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java9 9(´
-®
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java9 9(#
-%0boolean"Porg.exist.xquery.functions.system.LibFunction#isInWarFile(Ljava/nio/file/Path;)Z*1/
--org.exist.xquery.functions.system.LibFunction*#
-!
-contextRootjava.nio.file.Path*
-2
-1*Â
-1m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java? ?(ö
-ó
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java?! ?($
-%4java.lang.String[]"__id*
-""ä
-á
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java? ?(%
-%5java.util.stream.Stream"Ejava.util.Arrays#stream([Ljava/lang/Object;)Ljava/util/stream/Stream;*"
-java.util.Arrays*
-
-%4java.lang.String[]≥∞
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java? @(.
-%6java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*
-
-%5java.util.stream.Stream*
-""2"map(Ljava/util/function/Function;)"ê
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.java? @(/
-
-%6java.util.stream.Stream:!
-contextRootjava.nio.file.PathB1/
--org.exist.xquery.functions.system.LibFunction

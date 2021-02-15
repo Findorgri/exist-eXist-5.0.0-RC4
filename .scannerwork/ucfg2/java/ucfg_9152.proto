@@ -1,56 +1,0 @@
-
-1org.exist.fluent.Item#equals(Ljava/lang/Object;)Zg
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java2 2( "startingBlock*à
-13g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java3# 3(("q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java3 3()
-""*ß
-3g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java: <(="q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java: <(=
-""*Ð
-startingBlockg
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java2  2(*¯
-¬
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java2 2(
-
-%0"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object™
-–
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java2( 2()
-ojava.lang.Object"__annotation*
-
-%0*
-13
-12*à
-11g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java5% 5()"q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java5 5(*
-""*¦
-12g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java4 4(ª
-§
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.java4 4(
-thatorg.exist.fluent.Item"__id*
-
-ojava.lang.Object*
-
-3
-11
-1*ß
-1g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.javaA	 A("q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Item.javaA A(
-"":
-ojava.lang.ObjectB
-org.exist.fluent.Item

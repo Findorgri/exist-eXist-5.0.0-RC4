@@ -1,35 +1,0 @@
-
-Morg.exist.management.impl.BinaryValues#getName()Ljavax/management/ObjectName;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java5 5("1*ˇ
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java6 6(%≈
-¬
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java6& 6(0
-%0java.lang.String"__id*:*8(
-&org.exist.management.impl.BinaryValues"
-
-instanceIdü
-ú
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java6 6(1
-%1java.lang.String"Torg.exist.management.impl.BinaryValues#getName(Ljava/lang/String;)Ljava/lang/String;**"(
-&org.exist.management.impl.BinaryValues*
-
-%0java.lang.String´®
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java6 6(!
-%2javax.management.ObjectName"javax.management.ObjectNameÈ
-Ê
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java6 6(2
-%3"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
-!
-%2javax.management.ObjectName*
-
-%1java.lang.String"ç
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/BinaryValues.java6 6(3#
-!
-%2javax.management.ObjectNameB*(
-&org.exist.management.impl.BinaryValues

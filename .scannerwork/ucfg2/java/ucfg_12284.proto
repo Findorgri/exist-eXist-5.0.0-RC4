@@ -1,26 +1,0 @@
-
-Morg.exist.scheduler.ScheduledJobInfo#getTriggerExpression()Ljava/lang/String;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.javaŠ Š(&"2"4"1*Ÿ
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.javaŽ Ž(¿
-¼
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.javaŽ Ž(O
-%0".java.lang.String#valueOf([C)Ljava/lang/String;*"
-java.lang.String*
-"""p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.javaŽ Ž(P
-
-%0*Ý
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.javaŒ! Œ(("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.javaŒ Œ(>
-""*Ý
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.java‘ ‘("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/ScheduledJobInfo.java‘ ‘(
-""B(&
-$org.exist.scheduler.ScheduledJobInfo

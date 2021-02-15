@@ -1,99 +1,0 @@
-
-7org.exist.IndexerTest2#executeQuery()Ljava/lang/String;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javak k("22*£
-13[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javap p(Iíè
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javaq) q(3
-%5java.util.Properties"java.util.Properties§
-°
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javaq% q(5
-%6"java.util.Properties#<init>()V*
-
-%5java.util.Properties*
-12*æ
-2[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.java{ {(÷”
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.java{ {(!
-%9java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;*
-
-outjava.io.StringWriter2
-toString()*
-1*
-14[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javao o(LÜ
-É
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javap; p(A
-%4java.lang.String"__id*
-""*
-13*ã
-16[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javan n(;°
-û
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javan n(;
-outjava.io.StringWriter"__id*
-
-%2java.io.StringWriter*
-14*£
-17[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javam m(gíè
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javan- n(9
-%2java.io.StringWriter"java.io.StringWriter§
-°
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javan) n(;
-%3"java.io.StringWriter#<init>()V*
-
-%2java.io.StringWriter*
-16*Ø
-19[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javam- m(f≈
-¬
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javam- m(f
-%1"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-""*
-17*‹
-22[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javal  l(3s
-q
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javal  l(3
-%0"__id*
-""*
-19*·
-12[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javaq q(6£
-†
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javaq q(6
-propsjava.util.Properties"__id*
-
-%5java.util.PropertiesÜ
-É
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javar r(/
-%7java.lang.String"__id*
-""…∆
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.javar r(7
-%8java.lang.Object"Xjava.util.Properties#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*
-
-propsjava.util.Properties*
-
-%7java.lang.String*
-yes21setProperty(Ljava/lang/String;Ljava/lang/String;)*
-2*Ÿ
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.java{ {(""w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/IndexerTest2.java{ {("
-
-%9java.lang.StringB
-org.exist.IndexerTest2

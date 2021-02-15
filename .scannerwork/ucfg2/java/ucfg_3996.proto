@@ -1,9 +1,0 @@
-
-Uorg.exist.xquery.modules.ftpclient.FTPClientModule#getDescription()Ljava/lang/String;…
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/ftpclient/FTPClientModule.java7 7( "1*Ì
-1…
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/ftpclient/FTPClientModule.java8 8(A"¾
-…
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/ftpclient/FTPClientModule.java8 8(B42
-0A module for performing FTP requests as a clientB64
-2org.exist.xquery.modules.ftpclient.FTPClientModule

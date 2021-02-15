@@ -1,17 +1,0 @@
-
->org.exist.xmldb.DatabaseStatus#getConfPath()Ljava/lang/String;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaK K("1*•
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaL	 L(³
-°
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaL	 L(
-%0java.lang.String"__id*0*. 
-org.exist.xmldb.DatabaseStatus"
-
-confPath"z
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaL L(
-
-%0java.lang.StringB" 
-org.exist.xmldb.DatabaseStatus

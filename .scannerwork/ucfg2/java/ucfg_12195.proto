@@ -1,40 +1,0 @@
-
-]org.exist.storage.journal.JournalBinaryTest$ExpectedCreateBinary#toString()Ljava/lang/String;r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java≥ ≥("1*…
-1r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥ ¥(%Í
-Á
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥L ¥(S
-%0java.nio.file.Path"__id*Q*OB
-@org.exist.storage.journal.JournalBinaryTest$ExpectedCreateBinary"	
-dataDirù
-ö
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥\ ¥(e
-%1java.lang.String"__id*
-""®•
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥L ¥(f
-%2java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-%0java.nio.file.Path*
-
-%1java.lang.String2resolve(Ljava/lang/String;)Ó
-Î
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥o ¥(|
-%3java.lang.String"__id*W*UB
-@org.exist.storage.journal.JournalBinaryTest$ExpectedCreateBinary"
-createdDbFile®•
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥L ¥(}
-%4java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-%2java.nio.file.Path*
-
-%3java.lang.String2resolve(Ljava/lang/String;)"|
-r
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/JournalBinaryTest.java¥ ¥(~
-""BDB
-@org.exist.storage.journal.JournalBinaryTest$ExpectedCreateBinary

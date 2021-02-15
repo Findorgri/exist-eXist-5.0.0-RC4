@@ -1,16 +1,0 @@
-
-;org.exist.http.realm.XmldbRealm#getInfo()Ljava/lang/String;w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.java9 9("1*Þ
-1w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.java:	 :(É
-Æ
-w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.java:	 :(
-%0java.lang.String"__id*-*+!
-org.exist.http.realm.XmldbRealm"
-info"“
-w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/tomcat-realm/src/org/exist/http/realm/XmldbRealm.java: :(
-
-%0java.lang.StringB#!
-org.exist.http.realm.XmldbRealm

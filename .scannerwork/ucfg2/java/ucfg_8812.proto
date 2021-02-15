@@ -1,27 +1,0 @@
-
-Sorg.exist.dom.persistent.TextImpl#getUserData(Ljava/lang/String;)Ljava/lang/Object;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java¹ ¹("startingBlock*Ã
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java¹ ¹(/­
-ª
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java¸ ¸(
-%0"
-__annotate*
-java.lang.Override*
-
-keyjava.lang.String—
-”
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java¹+ ¹(.
-keyjava.lang.String"__annotation*
-
-%0*
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaº º("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaº º(
-"":
-keyjava.lang.StringB%#
-!org.exist.dom.persistent.TextImpl

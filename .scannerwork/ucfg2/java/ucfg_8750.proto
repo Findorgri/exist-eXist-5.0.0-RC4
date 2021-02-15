@@ -1,63 +1,0 @@
-
-dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÒ Ò(("startingBlock*ﬂ
-3g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaˆ ˆ(@"q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaˆ ˆ(@
-
-%3*⁄
-startingBlockg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÒ( Ò(>µ
-≤
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java (
-%7"
-__annotate*
-java.lang.Override*
-
-tagnamejava.lang.Stringü
-ú
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÒ6 Ò(=
-tagnamejava.lang.String"__annotation*
-
-%7*
-4
-8*©
-4g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaˆ ˆ(?µ≤
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaˆ ˆ(?
-%3"dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*)'
-%org.exist.dom.persistent.DocumentImpl*
-""2(getElementsByTagName(Ljava/lang/String;)*
-3*¨
-7g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÛ Û('í
-è
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÛI Û(g
-%1java.lang.String"__id*
-""µ≤
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÛ Û(i
-%2"dorg.exist.dom.persistent.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*)'
-%org.exist.dom.persistent.DocumentImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÛ Û(j
-
-%2*⁄
-8g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÚ Ú(%„‡
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÚ Ú(<
-%0",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-tagnamejava.lang.String*
-""2equals(Ljava/lang/Object;)*
-4
-7:
-tagnamejava.lang.StringB)'
-%org.exist.dom.persistent.DocumentImpl

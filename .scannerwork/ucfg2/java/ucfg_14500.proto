@@ -1,27 +1,0 @@
-
->org.exist.security.AbstractRealm#hasGroup(Ljava/lang/String;)Zb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java™ ™(!"startingBlock*Ì
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java™! ™(9²
-¯
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java˜ ˜(
-%0"
-__annotate*
-java.lang.Override*
-
-	groupNamejava.lang.Stringœ
-™
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java™/ ™(8
-	groupNamejava.lang.String"__annotation*
-
-%0*
-1*Õ
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.javaš š("l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.javaš š(T
-"":
-	groupNamejava.lang.StringB$"
- org.exist.security.AbstractRealm

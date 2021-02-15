@@ -1,65 +1,0 @@
-
-,org.exist.storage.Signatures#getSizeType(I)B\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaR R(("7*Ä
-2\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaX X(y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaX X(	
-%4int"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaX X( 
-""*Ä
-4\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaV V( y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaV V( 	
-%3int"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaV V(!
-""*è
-5\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaU U(z
-x
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaU U((
-
-%2byte"__id*
-""*	
-2
-4
-1*Ä
-6\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaT T(y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaT T(	
-%1int"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaT T(
-""*æ
-7\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaS S({
-y
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaS S($
-%0short"__id*
-""*
-5
-6*Ä
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaZ Z(y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaZ Z(	
-%5int"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaZ Z(
-"":
-""B "
-org.exist.storage.Signatures

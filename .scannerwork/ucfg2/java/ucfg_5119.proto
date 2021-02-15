@@ -1,17 +1,0 @@
-
-;org.exist.source.FileSource#getFilePath()Ljava/lang/String;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaT T("1*‰
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaU U(­
-ª
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaU U(
-%0java.lang.String"__id*-*+
-org.exist.source.FileSource"
-
-filePath"w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javaU U(
-
-%0java.lang.StringB
-org.exist.source.FileSource

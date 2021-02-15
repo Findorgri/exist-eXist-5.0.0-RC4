@@ -1,55 +1,0 @@
-
-Forg.exist.fluent.Source$1#createInputSource()Lorg/xml/sax/InputSource;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javao o(*"3*√
-2i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaq q(π
-∂
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaq* q(2
-%3java.lang.String"__id*+*)
-org.exist.fluent.Source$1"
-
-encodingëé
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaq q(3
-
-%4void"8org.xml.sax.InputSource#setEncoding(Ljava/lang/String;)V* 
-
-srcorg.xml.sax.InputSource*
-
-%3java.lang.String2setEncoding(Ljava/lang/String;)*
-1*Ë
-3i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javap& p()¶£
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javap p(%
-%0org.xml.sax.InputSource"org.xml.sax.InputSource“
-œ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javap p(*
-%1"3org.xml.sax.InputSource#<init>(Ljava/lang/String;)V*
-
-%0org.xml.sax.InputSource*
-""µ
-≤
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javap p(+
-srcorg.xml.sax.InputSource"__id*
-
-%0org.xml.sax.InputSourceπ
-∂
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaq q(
-%2java.lang.String"__id*+*)
-org.exist.fluent.Source$1"
-
-encoding*
-2
-1*˛
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javar r("ç
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javar r( 
-
-srcorg.xml.sax.InputSourceB
-org.exist.fluent.Source$1

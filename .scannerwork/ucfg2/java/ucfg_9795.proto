@@ -1,50 +1,0 @@
-
-*org.exist.storage.BrokerPool#isReadOnly()Z^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaõ õ("6*∞
-2^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java† †(v
-t
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java† †(
-%2"__id*
-""Õ 
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java¢ ¢(!
-
-%3void"+org.exist.storage.BrokerPool#setReadOnly()V* 
-org.exist.storage.BrokerPool2setReadOnly()*
-1*†
-5^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaù ù(≤
-Ø
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaù ù(
-%1java.lang.Boolean"__id*.*,
-org.exist.storage.BrokerPool"
-
-readOnly*
-2
-1*ù
-6^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaú ú(≤
-Ø
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaú ú(
-%0java.lang.Boolean"__id*.*,
-org.exist.storage.BrokerPool"
-
-readOnly*
-5*Ç
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java• •(≤
-Ø
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java• •(
-%4java.lang.Boolean"__id*.*,
-org.exist.storage.BrokerPool"
-
-readOnly"h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.java• •(
-""B 
-org.exist.storage.BrokerPool

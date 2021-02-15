@@ -1,104 +1,0 @@
-
-Forg.exist.fluent.Source$3#createInputSource()Lorg/xml/sax/InputSource;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaõ õ(*"6*ñ
-2k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java£ £(¬
-ø
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java£ £(
-%3java.io.InputStream"__id*/*-
-org.exist.fluent.Source$3"
-markedStreamâ
-Ü
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java£ £((	
-%4int"__id*
-""Õ 
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java£ £()
-
-%5void"java.io.InputStream#mark(I)V*
-
-%3java.io.InputStream*
-	
-%4int2mark(I)*
-1*ó
-3k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java°2 °(AÔ
-Ï
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java°2 °(O
-%2byte[]"Borg.exist.fluent.Source#readInputStream(Ljava/io/InputStream;[B)[B*"
-org.exist.fluent.Source*
-""*
-""≠
-™
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java° °(P-
-org.exist.fluent.Source$3"
-markedStream"__id*
-""*
-2*•
-4k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaû û(≠
-™
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaû û(-
-org.exist.fluent.Source$3"
-markedStream"__id*
-""*
-2*π
-5k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaù	 ù(æª
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaù	 ù(
-%1boolean"$java.io.InputStream#markSupported()Z*
-""2markSupported()*
-3
-4*Ω
-6k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaú ú(¬
-ø
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaú ú(
-%0java.io.InputStream"__id*/*-
-org.exist.fluent.Source$3"
-markedStream*
-5
-1*È	
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java• •(¬
-ø
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java• •(
-%6java.io.InputStream"__id*/*-
-org.exist.fluent.Source$3"
-markedStream¿Ω
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java• •(
-
-%7void"java.io.InputStream#reset()V*
-
-%6java.io.InputStream2reset()¬
-ø
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java¶ ¶('
-%8java.io.InputStream"__id*/*-
-org.exist.fluent.Source$3"
-markedStream®•
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java¶ ¶(
-%9org.xml.sax.InputSource"org.xml.sax.InputSourceÌ
-Í
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java¶ ¶((
-%10"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V*
-
-%9org.xml.sax.InputSource*
-
-%8java.io.InputStream"é
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java¶ ¶()
-
-%9org.xml.sax.InputSourceB
-org.exist.fluent.Source$3

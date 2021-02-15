@@ -1,59 +1,0 @@
-
->org.exist.xquery.value.AnyURIValue#equals(Ljava/lang/Object;)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java¥ ¥("startingBlock*»
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.javaª" ª(%«
-¨
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.javaª ª(*
-%0java.lang.String"__id*"* 
-
-objjava.lang.Object"
-uri¸
-µ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.javaª2 ª(5
-%1java.lang.String"__id*/*-$
-"org.exist.xquery.value.AnyURIValue"
-uriöó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.javaª ª(6
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.String*
-
-%1java.lang.String2equals(Ljava/lang/Object;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.javaª ª(7
-""*Ì
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java¥ ¥(%®
-«
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java¤ ¤(
-%3"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Object˜
-•
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java¥! ¥($
-objjava.lang.Object"__annotation*
-
-%3*	
-2
-4
-1*Ù
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java§ §("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java§ §(
-""*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java¬ ¬("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AnyURIValue.java¬ ¬(
-"":
-objjava.lang.ObjectB&$
-"org.exist.xquery.value.AnyURIValue

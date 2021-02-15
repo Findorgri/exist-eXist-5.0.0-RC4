@@ -1,22 +1,0 @@
-
->org.exist.dom.persistent.NodeProxy#getNode()Lorg/w3c/dom/Node;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÔ Ô("5*Ù
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÖ Ö("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÖ Ö(
-""*Ô
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÕ Õ(àÝ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÕ Õ(
-%0boolean"0org.exist.dom.persistent.NodeProxy#isDocument()Z*&$
-"org.exist.dom.persistent.NodeProxy2isDocument()*
-4
-1*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÝ Ý("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeProxy.javaÝ Ý(
-""B&$
-"org.exist.dom.persistent.NodeProxy

@@ -1,9 +1,0 @@
-
-Gorg.exist.backup.xquery.BackupModule#getDescription()Ljava/lang/String;d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/xquery/BackupModule.javaB B( "1*£
-1d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/xquery/BackupModule.javaD D(]"·
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/xquery/BackupModule.javaD D(`OM
-KA module for access to database backups available on the server file systemB(&
-$org.exist.backup.xquery.BackupModule

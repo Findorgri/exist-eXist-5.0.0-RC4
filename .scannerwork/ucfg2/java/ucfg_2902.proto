@@ -1,16 +1,0 @@
-
-corg.exist.storage.index.BFile$OverflowPage#getFirstPage()Lorg/exist/storage/index/BFile$SinglePage;_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÌ Ì(&"1*Ö
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÍ Í(Ù
-Ö
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÍ Í(.
-%0(org.exist.storage.index.BFile$SinglePage"__id*=*;,
-*org.exist.storage.index.BFile$OverflowPage"
-	firstPage"“
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÍ Í(0
-.
-%0(org.exist.storage.index.BFile$SinglePageB.,
-*org.exist.storage.index.BFile$OverflowPage

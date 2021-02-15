@@ -1,39 +1,0 @@
-
-Horg.exist.xmldb.XmldbURI#toCollectionPathURI()Lorg/exist/xmldb/XmldbURI;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÀ À('"2"3*Ž
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁX Á(\§
-¤
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁX Á(\
-%0org.exist.xmldb.XmldbURI"__id* 
-
-%2org.exist.xmldb.XmldbURI*
-1*Š
-3Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁ. Á(6ðí
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁ> Á(T
-%3java.lang.String"Aorg.exist.xmldb.XmldbURI#getRawCollectionPath()Ljava/lang/String;*
-org.exist.xmldb.XmldbURI2getRawCollectionPath()†
-ƒ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁ. Á(U
-%1org.exist.xmldb.XmldbURI"Morg.exist.xmldb.XmldbURI#create(Ljava/lang/String;)Lorg/exist/xmldb/XmldbURI;*"
-org.exist.xmldb.XmldbURI*
-
-%3java.lang.String§
-¤
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁ. Á(U
-%0org.exist.xmldb.XmldbURI"__id* 
-
-%1org.exist.xmldb.XmldbURI*
-1*ß
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁ Á(]"~
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaÁ Á(] 
-
-%0org.exist.xmldb.XmldbURIB
-org.exist.xmldb.XmldbURI

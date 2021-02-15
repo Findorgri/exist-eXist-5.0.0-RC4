@@ -1,77 +1,0 @@
-
-:org.exist.util.LongLinkedList#toString()Ljava/lang/String;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javak k("4*ò
-2]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javao o(òï
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javao o(
-%3java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2	append(J)ðí
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javao o(!
-%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
-
-%3java.lang.StringBuilder*
- 2	append(C)Ò
-Ï
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javap
- p(,
-%5&org.exist.util.LongLinkedList$ListItem"__id*:*8
-.
-next&org.exist.util.LongLinkedList$ListItem"
-nextÈ
-Å
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javap p(.
-next&org.exist.util.LongLinkedList$ListItem"__id*.
-,
-%5&org.exist.util.LongLinkedList$ListItem*
-2
-1*ô
-4]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javal l(/š—
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javal  l(-
-%0java.lang.StringBuilder"java.lang.StringBuilder¬
-©
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javal l(/
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder©
-¦
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javal l(0
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÄ
-Á
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javam m(,
-%2&org.exist.util.LongLinkedList$ListItem"__id*,**
-org.exist.util.LongLinkedList"
-firstÈ
-Å
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javam m(.
-next&org.exist.util.LongLinkedList$ListItem"__id*.
-,
-%2&org.exist.util.LongLinkedList$ListItem*
-2
-1*¾
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javar	 r(ÞÛ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javar	 r(
-%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"y
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javar r(
-
-%6java.lang.StringB!
-org.exist.util.LongLinkedList

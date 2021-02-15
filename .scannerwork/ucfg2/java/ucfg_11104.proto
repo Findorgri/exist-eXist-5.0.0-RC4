@@ -1,74 +1,0 @@
-
-Vorg.exist.dom.persistent.XMLUtil#readFile(Lorg/xml/sax/InputSource;)Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaù ù(!"startingBlock*™
-2b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ ÿ(Sª
-§
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ ÿ(S
-%3"korg.exist.dom.persistent.XMLUtil#readFile(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/lang/String;*$""
- org.exist.dom.persistent.XMLUtil*
-""* 
-
-%2java.nio.charset.Charset*
-1*þ
-3b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ. ÿ(R
-Œ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ. ÿ(R
-%2java.nio.charset.Charset"Njava.nio.charset.Charset#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*"
-java.nio.charset.Charset*
-
-%1java.lang.String*
-2*Ô
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaù! ù(:·
-´
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaø ø(
-%4"
-__annotate*
-java.lang.Deprecated*"
- 
-inSrcorg.xml.sax.InputSourceŸ
-œ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaù4 ù(9 
-inSrcorg.xml.sax.InputSource"__annotation*
-
-%4*
-7*Ú
-4b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ. ÿ(5ëè
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ> ÿ(Q
-%1java.lang.String"7org.xml.sax.InputSource#getEncoding()Ljava/lang/String;*"
- 
-inSrcorg.xml.sax.InputSource2getEncoding()*
-3*”
-6b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaü ü(<¥
-¢
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaü ü(<
-isjava.io.InputStream"__id*
-
-%0java.io.InputStream*
-4*ä
-7b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaü' ü(,õò
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaü' ü(<
-%0java.io.InputStream"<org.xml.sax.InputSource#getByteStream()Ljava/io/InputStream;*"
- 
-inSrcorg.xml.sax.InputSource2getByteStream()*
-6*Õ
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ ÿ(T"l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÿ ÿ(T
-
-%3: 
-inSrcorg.xml.sax.InputSourceB$""
- org.exist.dom.persistent.XMLUtil

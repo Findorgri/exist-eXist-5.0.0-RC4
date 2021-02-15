@@ -1,16 +1,0 @@
-
-3org.exist.backup.BackupFile#getFile()Ljava/io/File;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaK K("1*ý
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaM M(¥
-¢
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaM M(
-%0java.io.File"__id*)*'
-org.exist.backup.BackupFile"
-file"s
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaM M(
-
-%0java.io.FileB
-org.exist.backup.BackupFile

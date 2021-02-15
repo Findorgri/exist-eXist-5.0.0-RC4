@@ -1,318 +1,0 @@
-
-*org.exist.config.mapper.CallMethod#eval()Zb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java7 7("19*¢
-14b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java@! @($¶
-³
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java@! @($
-%3java.lang.Object"__id*/*-$
-"org.exist.config.mapper.CallMethod"
-objÒÏ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java@! @(/
-%4java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-%3java.lang.Object2
-getClass()éæ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java@! @(< 
-%5java.lang.reflect.Method[]"7java.lang.Class#getMethods()[Ljava/lang/reflect/Method;*
-
-%4java.lang.Class2getMethods()¸
-µ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java@ @(=%
-methodsjava.lang.reflect.Method[]"__id*"
- 
-%5java.lang.reflect.Method[]*
-2*Ö
-15b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java< <("l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java= =(
-""*¯
-16b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java;( ;(/º
-·
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java;( ;(/
-%2java.lang.String"__id*3*1$
-"org.exist.config.mapper.CallMethod"	
-element*
-14
-15*±
-17b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java; ;(¼
-¹
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java; ;(
-%1java.lang.String"__id*5*3$
-"org.exist.config.mapper.CallMethod"
-	attribute*
-14
-16*Ö
-18b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java9 9("l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java: :(
-""*¬
-19b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java8 8(·
-´
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.java8 8(
-%0java.lang.String"__id*0*.$
-"org.exist.config.mapper.CallMethod"
-name*
-17
-18*´
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaX X(¸
-µ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaX: X(>
-%30java.lang.String"__id*0*.$
-"org.exist.config.mapper.CallMethod"
-nameÁ
-¾
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaX X(>
-%31java.lang.String"__concat*
-'callMethod' element '*
-
-%30java.lang.StringÝ
-Ú
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaX X(u
-%32java.lang.String"__concat*
-
-%31java.lang.String*64
-2' method can not be found, skip instance creation."l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaZ Z(
-""*×
-2b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaA A(™
-–
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaA A("
-methodjava.lang.reflect.Method"__id*
-""È
-Å
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaA A("
-methodjava.lang.reflect.Method"
-__arrayGet*'
-%
-methodsjava.lang.reflect.Method[]*
-""*
-1
-12*å
-3b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaQ Q("·
-´
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaQ* Q(-
-%26java.lang.Object"__id*/*-$
-"org.exist.config.mapper.CallMethod"
-obj½
-º
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaQ^ Q(g
-%27java.lang.String"__id*5*3$
-"org.exist.config.mapper.CallMethod"
-	attributeÏ
-Ì
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaQ/ Q(i
-%28"@java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;*"
-java.lang.Integer*
-""Á¾
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaQ Q(j
-%29"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*$
-"
-methodjava.lang.reflect.Method*
-
-%26java.lang.Object*
-
-%282-invoke(Ljava/lang/Object;[Ljava/lang/Object;)"l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaR R((
-""*ê
-4b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaP= P(Pøõ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaP= P(a
-%25boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-java.lang.Integer*
-
-typeNamejava.lang.String2equals(Ljava/lang/Object;)*
-2
-3*Ü
-5b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaP# P((êç
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaP# P(9
-%24boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-int*
-
-typeNamejava.lang.String2equals(Ljava/lang/Object;)*
-3
-4*’
-6b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaM M("·
-´
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaM* M(-
-%21java.lang.Object"__id*/*-$
-"org.exist.config.mapper.CallMethod"
-obj½
-º
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaMN M(W
-%22java.lang.String"__id*5*3$
-"org.exist.config.mapper.CallMethod"
-	attributeÀ½
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaM M(Y
-%23"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*$
-"
-methodjava.lang.reflect.Method*
-
-%21java.lang.Object*
-""2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)"l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaN N((
-""*é
-7b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaL L(.÷ô
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaL L(?
-%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-java.lang.String*
-
-typeNamejava.lang.String2equals(Ljava/lang/Object;)*
-5
-6*³
-8b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaH H("·
-´
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaH* H(-
-%17java.lang.Object"__id*/*-$
-"org.exist.config.mapper.CallMethod"
-obj¹
-¶
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaH/ H(4
-%18java.lang.Object"__id*1*/$
-"org.exist.config.mapper.CallMethod"
-valueåâ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaH H(5
-%19java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*$
-"
-methodjava.lang.reflect.Method*
-
-%17java.lang.Object*
-
-%18java.lang.Object2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)"l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaI I((
-""*Ö
-9b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaG G($¹
-¶
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaG, G(1
-%13java.lang.Object"__id*1*/$
-"org.exist.config.mapper.CallMethod"
-valueÔÑ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaG, G(<
-%14java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-%13java.lang.Object2
-getClass()ÒÏ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaG, G(F
-%15java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
-
-%14java.lang.Class2	getName()üù
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaG G(G
-%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-typeNamejava.lang.String*
-
-%15java.lang.String2equals(Ljava/lang/Object;)*
-2
-8*Ü
-10b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaE, E(1­
-ª
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaE, E(4
-%10java.lang.Class"
-__arrayGet*
-
-typesjava.lang.Class[]*2 ÒÏ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaE, E(>
-%11java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
-
-%10java.lang.Class2	getName()¦
-£
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaE E(?
-typeNamejava.lang.String"__id*
-
-%11java.lang.String»
-¸
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaF F(
-%12java.lang.String"__id*3*1$
-"org.exist.config.mapper.CallMethod"	
-element*
-7
-9*–
-11b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaC) C(/ûø
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaC) C(C
-%9java.lang.Class[]">java.lang.reflect.Method#getParameterTypes()[Ljava/lang/Class;*$
-"
-methodjava.lang.reflect.Method2getParameterTypes()¤
-¡
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaC C(D
-typesjava.lang.Class[]"__id*
-
-%9java.lang.Class[]*
-2
-10*‹
-12b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaB B(æã
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaB B( 
-%6java.lang.String"4java.lang.reflect.Method#getName()Ljava/lang/String;*$
-"
-methodjava.lang.reflect.Method2	getName()·
-´
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaB( B(,
-%7java.lang.String"__id*0*.$
-"org.exist.config.mapper.CallMethod"
-nameôñ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/mapper/CallMethod.javaB B(-
-%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%6java.lang.String*
-
-%7java.lang.String2equals(Ljava/lang/Object;)*
-2
-11B&$
-"org.exist.config.mapper.CallMethod

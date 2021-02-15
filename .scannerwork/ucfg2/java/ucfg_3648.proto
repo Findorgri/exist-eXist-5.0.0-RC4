@@ -1,72 +1,0 @@
-
-sorg.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper#getParameterValues(Ljava/lang/String;)[Ljava/lang/String;l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java´	 ´	(*"startingBlock*ÿ
-2l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¸	 ¸	(¸µ
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¸	1 ¸	(>	
-%2int"java.util.List#size()I*
-
-valuesjava.util.List2size()Ÿœ
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¸	& ¸	(?
-%3java.lang.String[]"java.lang.String[]¡ž
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¸	 ¸	(@
-%4java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
-
-valuesjava.util.List*
-
-%3java.lang.String[]2toArray([Ljava/lang/Object;)"Š
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java¸	 ¸	(A
-
-%4java.lang.String[]*Ë
-3l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaµ	( µ	(3Ü
-Ù
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaµ	( µ	(3
-%0java.util.Map"__id*N*L;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper"
-addedParamsÄ
-Á
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaµ	( µ	(=
-%1java.util.List"__mapGet*
-
-%0java.util.Map*
-
-namejava.lang.String©
-¦
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaµ	 µ	(>
-valuesjava.util.List"__id*
-
-%1java.util.List*
-2
-1*à
-startingBlockl
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java´	* ´	(=·
-´
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java³	 ³	(
-%5"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¡
-ž
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.java´	8 ´	(<
-namejava.lang.String"__annotation*
-
-%5*
-3*é
-1l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaº	 º	("v
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaº	 º	(
-"":
-namejava.lang.StringB=;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper

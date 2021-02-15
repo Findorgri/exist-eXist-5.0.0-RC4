@@ -1,118 +1,0 @@
-
-Dorg.exist.collections.MutableCollection#toString()Ljava/lang/String;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java® ®("17*†
-16i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÆ Æ(8®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÆ Æ(8*
-documentNameIteratorjava.util.Iterator"__id*
-""*
-12*ó
-5i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java∂ ∂(†ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java∂ ∂($
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-, 2append(Ljava/lang/String;)*
-11*ß
-17i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java©" ©(5¶£
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java©& ©(3
-%0java.lang.StringBuilder"java.lang.StringBuilder∏
-µ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java©" ©(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderµ
-≤
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java© ©(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÁ‰
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java™ ™(
-%2":org.exist.collections.MutableCollection#getURI()LXmldbURI;*+)
-'org.exist.collections.MutableCollection2getURI()áÑ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java™ ™(
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-%22append(Ljava/lang/Object;)üú
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java´ ´(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-[2append(Ljava/lang/String;)*
-16*œ
-7i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaµ µ((’“
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaµ µ(2
-%8boolean"java.util.Iterator#hasNext()Z*,
-*
-documentNameIteratorjava.util.Iterator2	hasNext()*
-5
-11*®
-8i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java¥ ¥(7≤Ø
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java¥ ¥(7
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-%6java.lang.String2append(Ljava/lang/String;)*
-7*ﬂ
-9i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java¥ ¥(ÈÊ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java¥ ¥(6
-%6java.lang.String"+java.util.Iterator#next()Ljava/lang/Object;*,
-*
-documentNameIteratorjava.util.Iterator2next()*
-8*œ
-11i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java≥ ≥('’“
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java≥ ≥(1
-%5boolean"java.util.Iterator#hasNext()Z*,
-*
-documentNameIteratorjava.util.Iterator2	hasNext()*
-9
-1*†
-12i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java∞ ∞(D®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.java∞ ∞(D*
-documentNameIteratorjava.util.Iterator"__id*
-""*
-11*à
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaΩ Ω(†ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaΩ Ω(
-%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-]2append(Ljava/lang/String;)ÎË
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaæ æ(
-%14java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"Ü
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaæ æ(
-
-%14java.lang.StringB+)
-'org.exist.collections.MutableCollection

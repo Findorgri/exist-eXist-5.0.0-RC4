@@ -1,16 +1,0 @@
-
-8org.exist.http.jaxb.Query#getSession()Ljava/lang/String;[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java   ("1*†
-1[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java¡ ¡(ª
-§
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java¡ ¡(
-%0java.lang.String"__id***(
-org.exist.http.jaxb.Query"	
-session"w
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java¡ ¡(
-
-%0java.lang.StringB
-org.exist.http.jaxb.Query

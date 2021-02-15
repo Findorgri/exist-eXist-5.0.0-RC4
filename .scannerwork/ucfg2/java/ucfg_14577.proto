@@ -1,88 +1,0 @@
-
-Torg.exist.debuggee.DebuggeeJointImpl#evalution(Ljava/lang/String;)Ljava/lang/String;z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java… …("startingBlock*è
-startingBlockz
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java… …('«
-ƒ
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java» »(
-
-%6"
-__annotate*
-java.lang.Override*
-
-scriptjava.lang.String±
-Æ
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java…  …(&
-scriptjava.lang.String"__annotation*
-
-%6*
-20*ò
-4z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaÈ È(&"ñ
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaÈ È(&
-
-%5java.lang.String*ˇ
-5z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaÈ È(¯ı
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaÈ È(%
-%5java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;* 
-
-writerjava.io.StringWriter2
-toString()*
-4*Ö
-6z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaÁ Á(8˚¯
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaÁ Á(8
-%4"/java.io.StringWriter#write(Ljava/lang/String;)V* 
-
-writerjava.io.StringWriter*
-""2write(Ljava/lang/String;)*
-5
-6*Œ
-18z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬂ ﬂ(6√
-¿
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬂ ﬂ(6
-writerjava.io.StringWriter"__id*
-
-%2java.io.StringWriter*
-5
-6*À
-19z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬁ ﬁ(7»
-≈
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬁ ﬁ(7#
-outputPropsjava.util.Properties"__id*
-
-%0java.util.Properties±Æ
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬂ' ﬂ(3
-%2java.io.StringWriter"java.io.StringWriter√
-¿
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬂ# ﬂ(5
-%3"java.io.StringWriter#<init>()V*
-
-%2java.io.StringWriter*
-18*Ä
-20z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.java› ›(a±Æ
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬁ* ﬁ(4
-%0java.util.Properties"java.util.Properties√
-¿
-z
-nC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/DebuggeeJointImpl.javaﬁ& ﬁ(6
-%1"java.util.Properties#<init>()V*
-
-%0java.util.Properties*
-19:
-scriptjava.lang.StringB(&
-$org.exist.debuggee.DebuggeeJointImpl

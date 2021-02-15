@@ -1,33 +1,0 @@
-
-forg.exist.util.FastStringBuffer#getNormalizedString(Ljava/lang/StringBuffer;I)Ljava/lang/StringBuffer;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaÖ Ö(+"1*¦
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaØ Ø(%íê
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaØ Ø('
-%0java.lang.String"<org.exist.util.FastStringBuffer#toString()Ljava/lang/String;*#!
-org.exist.util.FastStringBuffer2
-toString()ËÈ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaØ Ø(.
-%1java.lang.String")java.lang.String#trim()Ljava/lang/String;*
-
-%0java.lang.String2trim()œ™
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaØ Ø(
-%2java.lang.StringBuffer"java.lang.StringBufferÚ
-×
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaØ Ø(/
-%3"2java.lang.StringBuffer#<init>(Ljava/lang/String;)V*
-
-%2java.lang.StringBuffer*
-
-%1java.lang.String"ƒ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FastStringBuffer.javaØ Ø(0
-
-%2java.lang.StringBuffer:
-sbjava.lang.StringBuffer:
-""B#!
-org.exist.util.FastStringBuffer

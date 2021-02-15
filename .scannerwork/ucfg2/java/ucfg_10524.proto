@@ -1,38 +1,0 @@
-
-Xorg.exist.xquery.functions.fn.FnFormatDates#formatMilitaryTimeZone(II)Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÈ È()"2"1*é
-2m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÐ Ð(Ž
-‹
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÐ" Ð(3
-%0char[]"__id*
-""×
-Ô
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÐ Ð(<
-%1java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
-java.lang.String*
-"""‰
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÐ Ð(=
-
-%1java.lang.String*“
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÒ Ò(’
-
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÒ Ò(<
-%2java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-
-%+03d:%02d*
-""*
-"""‰
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FnFormatDates.javaÒ Ò(=
-
-%2java.lang.String:
-"":
-""B/-
-+org.exist.xquery.functions.fn.FnFormatDates

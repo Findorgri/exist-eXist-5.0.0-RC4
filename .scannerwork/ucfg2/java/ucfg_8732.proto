@@ -1,59 +1,0 @@
-
-Yorg.exist.dom.persistent.DocumentImpl#compareTo(Lorg/exist/dom/persistent/DocumentImpl;)Ig
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÐ Ð("startingBlock*ß
-2g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÕ Õ("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÕ Õ(&
-""*¦
-startingBlockg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÐ Ð(PÈ
-Å
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÎ Î(
-%0"
-__annotate*
-java.lang.Override*0
-.
-other%org.exist.dom.persistent.DocumentImplË
-È
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÏ Ï(*
-%1"
-__annotate*
-EnsureContainerLocked*0
-.
-other%org.exist.dom.persistent.DocumentImplÂ
-¿
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÐ Ð(6
-%2"
-__annotate*
-EnsureLocked*0
-.
-other%org.exist.dom.persistent.DocumentImplÂ
-¿
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÐJ Ð(O.
-other%org.exist.dom.persistent.DocumentImpl"__annotation*
-
-%0*
-
-%1*
-
-%2*	
-2
-4
-1*ß
-4g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÓ Ó("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÓ Ó(#
-""*ß
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java× ×("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.java× ×(&
-"":.
-other%org.exist.dom.persistent.DocumentImplB)'
-%org.exist.dom.persistent.DocumentImpl

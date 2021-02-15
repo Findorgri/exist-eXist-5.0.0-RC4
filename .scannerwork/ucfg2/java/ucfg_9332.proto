@@ -1,21 +1,0 @@
-
-1org.exist.plugin.Utils#isZip(Ljava/lang/String;)ZV
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java1 1("1*ó
-1V
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java2 2(ÔÑ
-V
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java2 2(%
-%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
-
-fileNamejava.lang.String2toLowerCase()ÜÙ
-V
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java2 2(6
-%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
-
-%0java.lang.String*
-.zip2endsWith(Ljava/lang/String;)"`
-V
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/plugin/Utils.java2 2(7
-"":
-fileNamejava.lang.StringB"
-org.exist.plugin.Utils

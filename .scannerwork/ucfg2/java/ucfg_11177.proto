@@ -1,54 +1,0 @@
-
-6org.exist.util.io.Resource#getReader()Ljava/io/Reader;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¿ ¿("1*®
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡ ¡(,„
-‡
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡ ¡(.
-%0java.net.URLConnection"Borg.exist.util.io.Resource#getConnection()Ljava/net/URLConnection;*
-org.exist.util.io.ResourceÏÈ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡ ¡(?
-%1java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*
-
-%0java.net.URLConnection2getInputStream()ü
-ú
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¡ ¡(@
-isjava.io.InputStream"__id*
-
-%1java.io.InputStream°û
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¬, ¬(?!
-%2java.io.BufferedInputStream"java.io.BufferedInputStreamÂ
-‚
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¬( ¬(C
-%3":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
-!
-%2java.io.BufferedInputStream*
-
-isjava.io.InputStream∞
-≠
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java¬ ¬(D"
-bisjava.io.BufferedInputStream"__id*#
-!
-%2java.io.BufferedInputStreamùö
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√ √($
-%4java.io.InputStreamReader"java.io.InputStreamReaderÍ
-Á
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√ √()
-%5"8java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V*!
-
-%4java.io.InputStreamReader*$
-"
-bisjava.io.BufferedInputStream"Å
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.java√ √(*!
-
-%4java.io.InputStreamReaderB
-org.exist.util.io.Resource

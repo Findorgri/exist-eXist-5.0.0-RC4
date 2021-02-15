@@ -1,19 +1,0 @@
-
-$org.exist.xmldb.XmldbURI#hashCode()IZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java± ±("1*Ç
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java² ²(ÖÓ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java² ²(
-%0java.net.URI"4org.exist.xmldb.XmldbURI#getXmldbURI()Ljava/net/URI;*
-org.exist.xmldb.XmldbURI2getXmldbURI()¦£
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java² ²('	
-%1int"java.net.URI#hashCode()I*
-
-%0java.net.URI2
-hashCode()"d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java² ²((
-""B
-org.exist.xmldb.XmldbURI

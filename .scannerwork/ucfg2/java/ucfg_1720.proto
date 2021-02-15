@@ -1,26 +1,0 @@
-
-Lorg.exist.fluent.QueryService#exists(Ljava/lang/String;[Ljava/lang/Object;)Zq
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaâ â("1*≤
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaä	 ä(∏
-µ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaä ä(#2
-%0,org.exist.fluent.QueryService$WrapperFactory"__id*
-""Å˛
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaä	 ä(,
-%1"âorg.exist.fluent.QueryService#executeQuery(Ljava/lang/String;Lorg/exist/fluent/QueryService$WrapperFactory;[Ljava/lang/Object;)LItemList;*!
-org.exist.fluent.QueryService*
-
-queryjava.lang.String*4
-2
-%0,org.exist.fluent.QueryService$WrapperFactory*
-
-paramsjava.lang.Object[]2aexecuteQuery(Ljava/lang/String;Lorg/exist/fluent/QueryService$WrapperFactory;[Ljava/lang/Object;)"{
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaä ä(C
-"":
-queryjava.lang.String:
-paramsjava.lang.Object[]B!
-org.exist.fluent.QueryService

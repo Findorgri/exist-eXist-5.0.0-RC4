@@ -1,14 +1,0 @@
-
-0org.exist.dom.QName#toString()Ljava/lang/String;U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaè è("1*•
-1U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaë ë(’“
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaë ë(
-%0java.lang.String"6org.exist.dom.QName#getStringValue()Ljava/lang/String;*
-org.exist.dom.QName2getStringValue()"q
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaë ë( 
-
-%0java.lang.StringB
-org.exist.dom.QName

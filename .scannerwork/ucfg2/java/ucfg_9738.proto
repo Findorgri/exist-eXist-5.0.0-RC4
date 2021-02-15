@@ -1,61 +1,0 @@
-
-Aorg.exist.xquery.value.StringValue#compareTo(Ljava/lang/Object;)Id
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java— —("6*Ú
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊6 ◊(7Å
-
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊5 ◊(7
-%4"__id*
-	
-%6int*
-1*Ú
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊1 ◊(2Å
-
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊1 ◊(2
-%4"__id*
-	
-%5int*
-1* 
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊ ◊(÷”
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊ ◊(	
-%3int"-org.exist.xquery.value.StringValue#getType()I*&$
-"org.exist.xquery.value.StringValue2	getType()*
-2
-3*ˇ
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java’ ’(∫
-∑
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java’ ’(
-%1java.lang.String"__id*1*/$
-"org.exist.xquery.value.StringValue"
-valueÊ„
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java’ ’(?	
-%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
-
-%1java.lang.String*
-""2compareTo(Ljava/lang/String;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java’ ’(@
-""* 
-6d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java“0 “(1÷”
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java‘ ‘(	
-%0int"-org.exist.xquery.value.StringValue#getType()I*&$
-"org.exist.xquery.value.StringValue2	getType()*
-4
-5*Ÿ
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊ ◊(8"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/StringValue.java◊ ◊(8
-"":
-ojava.lang.ObjectB&$
-"org.exist.xquery.value.StringValue

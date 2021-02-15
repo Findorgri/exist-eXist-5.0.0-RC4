@@ -1,20 +1,0 @@
-
-0org.exist.xmldb.RemoteXMLResource#idIsPresent()Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¬ ¬("1*Õ
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java­ ­(·
-´
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java­ ­(
-%0java.util.Optional"__id*-*+#
-!org.exist.xmldb.RemoteXMLResource"
-idÁ¾
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java­ ­(
-%1boolean"java.util.Optional#isPresent()Z*
-
-%0java.util.Optional2isPresent()"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java­ ­(
-""B%#
-!org.exist.xmldb.RemoteXMLResource

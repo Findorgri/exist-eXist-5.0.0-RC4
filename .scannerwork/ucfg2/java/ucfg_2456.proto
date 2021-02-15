@@ -1,74 +1,0 @@
-
-Iorg.exist.validation.ValidationReportItem#getTypeText()Ljava/lang/String;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaV V("2*π
-2i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaX X(ú
-ô
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaX X(
-
-reportTypejava.lang.String"__id*
-""á
-Ñ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.java[ [(	
-%0int"__id*
-""á
-Ñ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.java^ ^(	
-%1int"__id*
-""á
-Ñ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaa a(	
-%2int"__id*
-""*
-3
-4
-5
-6*¢
-3i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javad f(¨
-©
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javae e(1
-
-reportTypejava.lang.String"__id*
-Unknown Error type*
-1*ï
-4i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javaa c(ü
-ú
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javab b($
-
-reportTypejava.lang.String"__id*	
-Fatal*
-1*ï
-5i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.java^ `(ü
-ú
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.java_ _($
-
-reportTypejava.lang.String"__id*	
-Error*
-1*ó
-6i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.java[ ](°
-û
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.java\ \(&
-
-reportTypejava.lang.String"__id*	
-Warning*
-1*˛
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javai i("ç
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/ValidationReportItem.javai i( 
-
-
-reportTypejava.lang.StringB-+
-)org.exist.validation.ValidationReportItem

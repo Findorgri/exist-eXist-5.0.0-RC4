@@ -1,48 +1,0 @@
-
-org.exist.xmldb.LocalUserManagementService#getSubCollectionCreationTime(Ljava/util/Collection;Ljava/lang/String;)Ljava/util/Date;l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÑ Ñ(,"startingBlock*ê
-2l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÓ Ó("w
-m
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÓ Ó(À
-""*Í
-startingBlockl
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÑ, Ñ(X½
-º
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÐ Ð(
-%0"
-__annotate*
-java.lang.Override* 
-
-parentjava.util.Collection§
-¤
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÑ> Ñ(D
-parentjava.util.Collection"__annotation*
-
-%0·
-´
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÐ Ð(
-%1"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¡
-ž
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÑS Ñ(W
-namejava.lang.String"__annotation*
-
-%1*
-2
-1*é
-1l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÕ Õ("v
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalUserManagementService.javaÕ Õ(
-"":
-parentjava.util.Collection:
-namejava.lang.StringB.,
-*org.exist.xmldb.LocalUserManagementService

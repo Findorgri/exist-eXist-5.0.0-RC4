@@ -1,52 +1,0 @@
-
-€org.exist.xquery.functions.validation.Shared#getStreamSource(Lorg/xml/sax/InputSource;)Ljavax/xml/transform/stream/StreamSource;n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÄ Ä(."1*À
-1n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÆ* Æ(<ËÈ
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÆ. Æ(:-
-%0'javax.xml.transform.stream.StreamSource"'javax.xml.transform.stream.StreamSourceÝ
-Ú
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÆ* Æ(<
-%1"1javax.xml.transform.stream.StreamSource#<init>()V*/
--
-%0'javax.xml.transform.stream.StreamSourceã
-à
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÆ Æ(=7
-streamSource'javax.xml.transform.stream.StreamSource"__id*/
--
-%0'javax.xml.transform.stream.StreamSourceþû
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÇ$ Ç(6
-%2java.io.InputStream"<org.xml.sax.InputSource#getByteStream()Ljava/io/InputStream;*
-
-inorg.xml.sax.InputSource2getByteStream()ÎË
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÇ Ç(7
-
-%3void"Njavax.xml.transform.stream.StreamSource#setInputStream(Ljava/io/InputStream;)V*9
-7
-streamSource'javax.xml.transform.stream.StreamSource*
-
-%2java.io.InputStream2%setInputStream(Ljava/io/InputStream;)ôñ
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÈ! È(1
-%4java.lang.String"7org.xml.sax.InputSource#getSystemId()Ljava/lang/String;*
-
-inorg.xml.sax.InputSource2getSystemId()¿¼
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÈ È(2
-
-%5void"Hjavax.xml.transform.stream.StreamSource#setSystemId(Ljava/lang/String;)V*9
-7
-streamSource'javax.xml.transform.stream.StreamSource*
-
-%4java.lang.String2setSystemId(Ljava/lang/String;)"«
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Shared.javaÊ Ê(9
-7
-streamSource'javax.xml.transform.stream.StreamSource:
-inorg.xml.sax.InputSourceB0".
-,org.exist.xquery.functions.validation.Shared

@@ -1,58 +1,0 @@
-
-6org.exist.fluent.Source$3#toString()Ljava/lang/String;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java¨ ¨(#"4* 
-2k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java©M ©(X¨
-¥
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java©M ©(X
-%3java.lang.String"__id*
-
-%5java.lang.String*
-1* 
-3k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java©I ©(K¨
-¥
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java©I ©(K
-%3java.lang.String"__id*
-
-%4java.lang.String*
-1*Ë
-4k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java© ©(Ê
-Ç
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java© ©(
-%0java.lang.String"8org.exist.fluent.Source$XML#toString()Ljava/lang/String;*
-""¾
-»
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java© ©(,
-%1java.lang.String"__concat*
-
-%0java.lang.String*
-input streamÂ
-¿
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java©0 ©(<
-%2java.io.InputStream"__id*/*-
-org.exist.fluent.Source$3"
-markedStream*
-2
-3*Ã
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java© ©(YÆ
-Ã
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java© ©(Y
-%6java.lang.String"__concat*
-
-%1java.lang.String*
-
-%3java.lang.String"‡
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java© ©(Z
-
-%6java.lang.StringB
-org.exist.fluent.Source$3

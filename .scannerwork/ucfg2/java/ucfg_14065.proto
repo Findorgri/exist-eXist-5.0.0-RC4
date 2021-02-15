@@ -1,20 +1,0 @@
-
-Iorg.exist.xquery.AnyNodeTest#matches(Ljavax/xml/stream/XMLStreamReader;)Z\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.javaO O("1*£
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.javaP P(ÜÙ
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.javaP P($	
-%0int"0javax.xml.stream.XMLStreamReader#getEventType()I*,
-*
-reader javax.xml.stream.XMLStreamReader2getEventType()y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.javaP( P(A	
-%1int"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/AnyNodeTest.javaP P(B
-"":*
-reader javax.xml.stream.XMLStreamReaderB 
-org.exist.xquery.AnyNodeTest

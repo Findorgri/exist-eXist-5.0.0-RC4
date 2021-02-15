@@ -1,101 +1,0 @@
-
-Korg.exist.xquery.value.DoubleValue#conversionPreference(Ljava/lang/Class;)Id
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaâ â(#"startingBlock*⁄
-24d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaé é("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaé é(
-""*⁄
-15d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaó ó("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaó ó(
-""*⁄
-27d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaã ã("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaã ã(
-""*ë
-28d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaä ä(˚¯
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaä ä(9
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*'
-24
-2
-15
-4
-27
-18
-7
-9
-21
-12
-1*⁄
-18d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaî î("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaî î(
-""*›
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java© ©(Å
-
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java© ©( 	
-%1int"__id*
-"""n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java© ©(!
-""*Ÿ
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java¶ ¶("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java¶ ¶(
-""*—
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaâ# â(=≥
-∞
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaà à(
-%2"
-__annotate*
-java.lang.Override*
-
-	javaClassjava.lang.Classù
-ö
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaâ3 â(<
-	javaClassjava.lang.Class"__annotation*
-
-%2*
-28*Ÿ
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java£ £("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java£ £(
-""*Ÿ
-7d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java† †("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java† †(
-""*Ÿ
-9d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaù ù("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaù ù(
-""*⁄
-21d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaë ë("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaë ë(
-""*⁄
-12d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaö ö("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaö ö(
-"":
-	javaClassjava.lang.ClassB&$
-"org.exist.xquery.value.DoubleValue

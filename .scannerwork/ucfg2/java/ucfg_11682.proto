@@ -1,36 +1,0 @@
-
-;org.exist.util.MimeTable#isTextContent(Ljava/lang/String;)ZZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÃ Ã( "5*Ï
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÅ, Å(4èå
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÅ, Å(G
-%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
-
-mimeTypejava.lang.String*
-
-xquery2endsWith(Ljava/lang/String;)*
-1*æ
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÄ Ä()Ž‹
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÄ Ä(3
-%0"Eorg.exist.util.MimeTable#getContentType(Ljava/lang/String;)LMimeType;*
-org.exist.util.MimeTable*
-
-mimeTypejava.lang.String2"getContentType(Ljava/lang/String;)ëè
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÅ Å((
-%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-mimeTypejava.lang.String*	
-text/2startsWith(Ljava/lang/String;)*
-4
-1*Å
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÅ Æ("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaÅ Æ(
-"":
-mimeTypejava.lang.StringB
-org.exist.util.MimeTable

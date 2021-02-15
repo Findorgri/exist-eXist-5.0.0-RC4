@@ -1,64 +1,0 @@
-
-Corg.exist.collections.MutableCollection#equals(Ljava/lang/Object;)Zi
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÑ: Ñ(@"startingBlock*ã
-2i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÓ Ó("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÓ Ó(
-""*…
-startingBlocki
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÑ@ Ñ(z³
-°
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÐ Ð(
-%0"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Object¶
-³
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÑ Ñ(*
-%1"
-__annotate*
-EnsureContainerLocked*
-
-objjava.lang.Object©
-¦
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÑA Ñ(J
-%2"
-__annotate*
-
-Nullable*
-
-objjava.lang.Object­
-ª
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÑK Ñ(h
-%3"
-__annotate*
-EnsureLocked*
-
-objjava.lang.Objectµ
-²
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÑv Ñ(y
-objjava.lang.Object"__annotation*
-
-%0*
-
-%1*
-
-%2*
-
-%3*
-2
-1*ã
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÖ Ö( "s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÖ Ö(:
-"":
-objjava.lang.ObjectB+)
-'org.exist.collections.MutableCollection

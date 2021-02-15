@@ -1,184 +1,0 @@
-
-[org.exist.storage.serializers.Serializer#hasXSLPi(Lorg/w3c/dom/Document;)Ljava/lang/String;j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.java× ×("15*Ž	
-13j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÜ Ü("óð
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÜ Ü(2
-%2org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*
-
-docorg.w3c.dom.Document2getChildNodes()¸
-µ
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÜ Ü(3#
-docChildrenorg.w3c.dom.NodeList"__id*
-
-%2org.w3c.dom.NodeList—
-”
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÝ Ý(
-nodeorg.w3c.dom.Node"__id*
-""–
-“
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÞ Þ(
-xsljava.lang.String"__id*
-""—
-”
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÞ Þ(
-typejava.lang.String"__id*
-""—
-”
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÞ Þ(
-hrefjava.lang.String"__id*
-""*
-12*æ
-14j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÚ! Ú(%"t
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÚ Ú(&
-""*…
-15j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÙ Ù(Õ
-Ò
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÙ Ù(
-%0java.util.Properties"__id*B*@*
-(org.exist.storage.serializers.Serializer"
-outputProperties°­
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaÙ Ù(N
-%1"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
-
-%0java.util.Properties*
-""*
-no21getProperty(Ljava/lang/String;Ljava/lang/String;)*
-13
-14*å
-1j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaî	 î("t
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaî î(
-""*ú
-3j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaê ê("ˆ
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaê ê(
-
-hrefjava.lang.String*’
-5j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç ç(—
-”
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaç ç(+
-hrefjava.lang.String"__id*
-""*
-3
-12*à
-6j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaæp æ(tåâ
-k
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaæp æ(™
-%12",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-typejava.lang.String*
-""2equals(Ljava/lang/Object;)*
-5
-12*Þ
-7j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaæD æ(Häá
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaæD æ(l
-%11",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-typejava.lang.String*
-""2equals(Ljava/lang/Object;)*
-5
-6*Þ
-8j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaæ æ(äá
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaæ æ(@
-%10",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-typejava.lang.String*
-""2equals(Ljava/lang/Object;)*
-5
-7*­
-9j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaä# ä('íê
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaä
- ä(2
-%9java.lang.String"=org.w3c.dom.ProcessingInstruction#getData()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2	getData()¨
-¥
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaä ä(2
-xsljava.lang.String"__id*
-
-%9java.lang.String—
-”
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaå å(*
-typejava.lang.String"__id*
-""*
-8
-12*æ
-10j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaâ â(ñî
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaâ â(H
-%7java.lang.String"?org.w3c.dom.ProcessingInstruction#getTarget()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getTarget()öó
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaâ â(I
-%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-xml-stylesheet*
-
-%7java.lang.String2equals(Ljava/lang/Object;)*
-9
-12*ð
-11j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaà
- à(ïì
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaà
- à(
-%4org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*%
-#
-docChildrenorg.w3c.dom.NodeList*
-""2item(I)©
-¦
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaà à(
-nodeorg.w3c.dom.Node"__id*
-
-%4org.w3c.dom.NodeÈÅ
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaá á(
-%5short"org.w3c.dom.Node#getNodeType()S*
-
-nodeorg.w3c.dom.Node2getNodeType()Š
-‡
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaá á(=
-%6short"__id*
-""*
-10
-12*Í
-12j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaß ß(ÑÎ
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/serializers/Serializer.javaß ß(-	
-%3int"!org.w3c.dom.NodeList#getLength()I*%
-#
-docChildrenorg.w3c.dom.NodeList2getLength()*
-11
-1:
-docorg.w3c.dom.DocumentB,*
-(org.exist.storage.serializers.Serializer

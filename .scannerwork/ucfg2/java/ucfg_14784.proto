@@ -1,55 +1,0 @@
-
-?org.exist.security.internal.Password#hash(Ljava/lang/String;)[Bd
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.java` `("1*Ù
-2d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javaj k("n
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javak k(
-""*ÿ
-3d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javag h("›˜
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javah h(!
-%4byte[]"Borg.exist.security.internal.Password#md5Hash(Ljava/lang/String;)[B*(&
-$org.exist.security.internal.Password*
-
-pjava.lang.String2md5Hash(Ljava/lang/String;)"v
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javah h("
-
-%4byte[]*‹
-4d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javad e((§¤
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javae e('
-%3byte[]"Horg.exist.security.internal.Password#ripemd160Hash(Ljava/lang/String;)[B*(&
-$org.exist.security.internal.Password*
-
-pjava.lang.String2!ripemd160Hash(Ljava/lang/String;)"v
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javae e((
-
-%3byte[]*¦
-1d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javab b(Ù
-Ö
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javab b(/
-%0)org.exist.security.internal.Password$Hash"__id*7*5&
-$org.exist.security.internal.Password"
-	algorithm¨
-¥
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javad d(/
-%1)org.exist.security.internal.Password$Hash"__id*
-""¨
-¥
-d
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/Password.javag g(/
-%2)org.exist.security.internal.Password$Hash"__id*
-""*	
-2
-3
-4:
-pjava.lang.StringB(&
-$org.exist.security.internal.Password

@@ -1,27 +1,0 @@
-
-Vorg.exist.webdav.MiltonCollection#getContentType(Ljava/lang/String;)Ljava/lang/String;u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java† †( "startingBlock*Å
-startingBlocku
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java†  †(0√
-¿
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.javaü ü(
-%0"
-__annotate*
-java.lang.Override*
-
-acceptsjava.lang.String≠
-™
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java†( †(/
-acceptsjava.lang.String"__annotation*
-
-%0*
-1*â
-1u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java° °( "å
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java° °(!
-application/xml:
-acceptsjava.lang.StringB%#
-!org.exist.webdav.MiltonCollection

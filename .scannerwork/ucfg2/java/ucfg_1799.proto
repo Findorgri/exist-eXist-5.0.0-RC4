@@ -1,129 +1,0 @@
-
-6org.exist.source.URLSource#getReader()Ljava/io/Reader;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaú ú("13*£
-13\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaû û(µ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaû û(
-%0java.net.URLConnection"__id*.*,
-org.exist.source.URLSource"
-
-connection*
-8
-12*˝
-4\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java¶ ¶(ù
-ö
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java¶ ¶(,
-org.exist.source.URLSource"
-
-connection"__id*
-"""z
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaß ß(
-
-readerjava.io.Reader*ç
-5\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java• •(L§
-°
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java• •(L
-readerjava.io.Reader"__id*!
-
-%9java.io.InputStreamReader*
-4*à
-6\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java•D •(Kùö
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java• •(&
-%9java.io.InputStreamReader"java.io.InputStreamReaderˇ
-¸
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java• •(L
-%10"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
-
-%9java.io.InputStreamReader*
-
-%8java.io.InputStream*	
-UTF-8*
-5*ç
-7\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java•' •(1µ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java•' •(1
-%7java.net.URLConnection"__id*.*,
-org.exist.source.URLSource"
-
-connectionÏÈ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java•' •(B
-%8java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*
-
-%7java.net.URLConnection2getInputStream()*
-6*
-8\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java£ £( â
-Ü
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java£ £(!
-readerjava.io.Reader"__id*
-""y
-w
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java§  §(@	
-%6int"__id*
-""*
-4
-7*
-10\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java°9 °(Cµ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java°9 °(C
-%4java.net.URLConnection"__id*.*,
-org.exist.source.URLSource"
-
-connectionŒÀ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java°$ °(V	
-%5int"-java.net.HttpURLConnection#getResponseCode()I*
-
-%4java.net.URLConnection2getResponseCode()*
-8*€
-11\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaü ü(%µ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaü ü(%,
-org.exist.source.URLSource"
-
-connection"__id*
-
-%2java.net.URLConnectionµ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.java† †(
-%3java.net.URLConnection"__id*.*,
-org.exist.source.URLSource"
-
-connection*
-8
-10*
-12\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaü ü(§
-°
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaü ü(
-%1java.net.URL"__id*'*%
-org.exist.source.URLSource"
-urlﬁ€
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaü ü(%
-%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
-
-%1java.net.URL2openConnection()*
-11B
-org.exist.source.URLSource

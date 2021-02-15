@@ -1,17 +1,0 @@
-
-=org.exist.xmlrpc.RpcConnection#querySummary(I)Ljava/util/Map;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÏ Ï(+"1*Ï
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÐ Ð(ìé
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÐ Ð( 
-%0java.util.Map"8org.exist.xmlrpc.RpcConnection#summary(I)Ljava/util/Map;*" 
-org.exist.xmlrpc.RpcConnection*
-""2
-summary(I)"y
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÐ Ð(!
-
-%0java.util.Map:
-""B" 
-org.exist.xmlrpc.RpcConnection

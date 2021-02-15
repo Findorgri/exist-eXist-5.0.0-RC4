@@ -1,27 +1,0 @@
-
-Porg.exist.management.impl.CollectionCache#getName()Ljavax/management/ObjectName;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/CollectionCache.java2 2("1*ñ
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/CollectionCache.java3 3(%Ñ
-Å
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/CollectionCache.java3 3(7
-%0"Worg.exist.management.impl.CollectionCache#getName(Ljava/lang/String;)Ljava/lang/String;*-"+
-)org.exist.management.impl.CollectionCache*
-""Æ´
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/CollectionCache.java3 3(!
-%1javax.management.ObjectName"javax.management.ObjectName⁄
-◊
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/CollectionCache.java3 3(8
-%2"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
-!
-%1javax.management.ObjectName*
-
-%0"ê
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/CollectionCache.java3 3(9#
-!
-%1javax.management.ObjectNameB-+
-)org.exist.management.impl.CollectionCache

@@ -1,129 +1,0 @@
-
-;org.exist.client.MimeTypeFileFilter#accept(Ljava/io/File;)Zc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java2 2("startingBlock*¾
-2c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java? ?("•
-’
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java? ?("
-	extensionjava.lang.String"__id*
-""³
-°
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java? ?("
-	extensionjava.lang.String"
-__arrayGet*
-
-%6java.util.List*
-""*
-4
-1*×
-3c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaA A("m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaA A(
-""*¾
-startingBlockc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java2 2($ª
-§
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java1 1(
-%8"
-__annotate*
-java.lang.Override*
-
-filejava.io.File”
-‘
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java2 2(#
-filejava.io.File"__annotation*
-
-%8*
-10*ú
-4c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java@ @(‡„
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java@ @(.
-%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*#
-!
-fileExtensionjava.lang.String*
-
-	extensionjava.lang.String2equals(Ljava/lang/Object;)*
-2
-3*­
-5c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java?% ?(/½
-º
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java?% ?(/
-%6java.util.List"__id*7*5%
-#org.exist.client.MimeTypeFileFilter"
-
-extensions*
-2*­
-6c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java=% =()ÍÊ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java=% =(3
-%3java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()áÞ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java=% =(N
-%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-%3java.lang.String*
-""2substring(I)ÛØ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java=% =(\
-%5java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
-
-%4java.lang.String2toLowerCase()«
-¨
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java= =(]!
-fileExtensionjava.lang.String"__id*
-
-%5java.lang.String*
-5*×
-7c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java9 9("m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java9 9(
-""*‰
-8c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java7$ 7((ÍÊ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java7$ 7(2
-%1java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()ÆÃ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java7$ 7(C	
-%2int" java.lang.String#lastIndexOf(I)I*
-
-%1java.lang.String*
-.2lastIndexOf(I)*
-6
-7*×
-9c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java4 4("m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java4 4(
-""*¯
-10c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java3 3(»¸
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.java3 3(
-%0boolean"java.io.File#isDirectory()Z*
-
-filejava.io.File2isDirectory()*
-8
-9*×
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaE E("m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaE E(
-"":
-filejava.io.FileB'%
-#org.exist.client.MimeTypeFileFilter

@@ -1,54 +1,0 @@
-
-(org.exist.storage.btree.BTree#create(S)Z_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaƒ ƒ("13"1*∫
-13_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java∆ ∆(Ã…
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java∆ ∆(
-
-%0void"*org.exist.storage.btree.BTree#initCache()V*!
-org.exist.storage.btree.BTree2initCache()*
-12*æ
-5_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaœ œ(“
-œ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaœ œ(3
-%4-org.exist.storage.btree.BTree$BTreeFileHeader"__id*1*/
-org.exist.storage.btree.BTree"
-
-fileHeader*
-1*≈
-6_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÕ Õ(“
-œ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÕ Õ(3
-%2-org.exist.storage.btree.BTree$BTreeFileHeader"__id*1*/
-org.exist.storage.btree.BTree"
-
-fileHeaderÑÅ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.javaÕ Õ(2
-
-%3void"@org.exist.storage.btree.BTree$BTreeFileHeader#setFixedKeyLen(S)V*5
-3
-%2-org.exist.storage.btree.BTree$BTreeFileHeader*
-""2setFixedKeyLen(S)*
-5*œ
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java‘ ‘("i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java‘ ‘(
-""*’
-12_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java» »(ËÂ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/BTree.java» »($
-
-%1long"4org.exist.storage.btree.BTree#createRootNode(LTxn;)J*!
-org.exist.storage.btree.BTree*
-""2createRootNode(LTxn;)*
-6:
-""B!
-org.exist.storage.btree.BTree

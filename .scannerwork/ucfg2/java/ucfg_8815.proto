@@ -1,63 +1,0 @@
-
-Eorg.exist.fluent.ListenerManager$EventKey#equals(Ljava/lang/Object;)Zr
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java> >("startingBlock*ı
-2r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaA C("|
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaA C(
-""*Ô
-startingBlockr
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java> >(!∫
-∑
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java= =(
-%3"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object§
-°
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java> >( 
-ojava.lang.Object"__annotation*
-
-%3*
-4
-1*˜
-4r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java@ @( …
-∆
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.java@ @(!1
-that)org.exist.fluent.ListenerManager$EventKey"__id*
-
-ojava.lang.ObjectŒ
-À
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaB B(	
-%0java.lang.String"__id*7*5+
-)org.exist.fluent.ListenerManager$EventKey"
-path‘
-—
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaB B(
-%1java.lang.String"__id*=*;
-1
-that)org.exist.fluent.ListenerManager$EventKey"
-pathÑÅ
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaB B(
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.String*
-
-%1java.lang.String2equals(Ljava/lang/Object;)*
-2*ı
-1r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaE
- E("|
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ListenerManager.javaE E(
-"":
-ojava.lang.ObjectB-+
-)org.exist.fluent.ListenerManager$EventKey

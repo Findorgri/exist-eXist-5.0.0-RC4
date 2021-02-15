@@ -1,27 +1,0 @@
-
-Aorg.exist.debuggee.dbgp.packets.BreakpointRemove#commandBytes()[BÑ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaP P("2"1*¡
-2Ñ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaR R(+µ
-≤
-Ñ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaR R(T
-commandjava.lang.String"__id*
-""‚ﬂ
-Ñ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaT
- T(
-%0byte[]"java.lang.String#getBytes()[B*
-
-commandjava.lang.String2
-getBytes()"ó
-Ñ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaT T(
-
-%0byte[]*ú
-1Ñ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaV	 V("è
-Ñ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointRemove.javaV V(
-""B42
-0org.exist.debuggee.dbgp.packets.BreakpointRemove

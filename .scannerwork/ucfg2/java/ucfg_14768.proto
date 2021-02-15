@@ -1,22 +1,0 @@
-
-<org.exist.util.FileInputSource#getFile()Ljava/nio/file/Path;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java$ $("1*–
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java%	 %(±
-®
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java%	 %(
-%0java.util.Optional"__id*,** 
-org.exist.util.FileInputSource"
-fileþû
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java%	 %(
-%1java.nio.file.Path"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%0java.util.Optional*
-""2orElse(Ljava/lang/Object;)"|
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java% %(
-
-%1java.nio.file.PathB" 
-org.exist.util.FileInputSource

@@ -1,21 +1,0 @@
-
-8org.exist.http.SessionCountListener#getActiveSessions()Jc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/SessionCountListener.java* *(("1*ê
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/SessionCountListener.java+ +(Ÿ
-÷
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/SessionCountListener.java+ +(,
-%0&java.util.concurrent.atomic.AtomicLong"__id*;*9%
-#org.exist.http.SessionCountListener"
-activeSessions⁄◊
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/SessionCountListener.java+ +(#
-
-%1long"-java.util.concurrent.atomic.AtomicLong#get()J*.
-,
-%0&java.util.concurrent.atomic.AtomicLong2get()"m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/SessionCountListener.java+ +($
-""B'"%
-#org.exist.http.SessionCountListener

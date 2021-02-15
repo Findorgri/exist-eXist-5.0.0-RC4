@@ -1,27 +1,0 @@
-
-Iorg.exist.dom.persistent.AttrImpl#isDefaultNamespace(Ljava/lang/String;)Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaô ô(%"startingBlock*’
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaô% ô(@∂
-≥
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaò ò(
-%0"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String†
-ù
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaô3 ô(? 
-namespaceURIjava.lang.String"__annotation*
-
-%0*
-1*◊
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaö ö("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaö ö(
-"": 
-namespaceURIjava.lang.StringB%#
-!org.exist.dom.persistent.AttrImpl

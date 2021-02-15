@@ -1,36 +1,0 @@
-
->org.exist.collections.CollectionCache$Statistics#getHitRate()Dg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÎ Î( "4*Ñ
-2g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÌ6 Ì(>ê
-ç
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÌ- Ì(M
-%1double"__id*
-
-%3double*
-1*Ñ
-3g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÌ' Ì(*ê
-ç
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÌ' Ì(*
-%1double"__id*
-
-%2double*
-1*˝
-4g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÏ& Ï(5ÜÉ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÏ& Ï(7
-
-%0long"Corg.exist.collections.CollectionCache$Statistics#getRequestCount()J*42
-0org.exist.collections.CollectionCache$Statistics2getRequestCount()*
-2
-3*ﬂ
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÌ Ì(N"q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/CollectionCache.javaÌ Ì(N
-""B42
-0org.exist.collections.CollectionCache$Statistics

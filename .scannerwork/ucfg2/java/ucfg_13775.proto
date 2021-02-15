@@ -1,37 +1,0 @@
-
-Aorg.exist.debuggee.dbgp.packets.BreakpointUpdate#commandBytes()[BÜ
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaÑ Ñ("4"1*è
-2Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaö
- ö(‰·
-Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaö
- ö(
-%1byte[]"java.lang.String#getBytes()[B*
-
-commandjava.lang.String2
-getBytes()"ô
-Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaö ö(
-
-%1byte[]*ù
-4Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaÜ Ü('œ
-Ã
-Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaÜ á(
-%0java.lang.String"__concat*
-breakpoint_update*
- -i ∑
-¥
-Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaÜ å(+
-commandjava.lang.String"__id*
-""*
-2*†
-1Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaú	 ú("ë
-Ü
-zC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointUpdate.javaú ú(
-""B42
-0org.exist.debuggee.dbgp.packets.BreakpointUpdate

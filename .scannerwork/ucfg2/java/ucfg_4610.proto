@@ -1,23 +1,0 @@
-
-Gorg.exist.client.security.SortedListModel#contains(Ljava/lang/Object;)Zi
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaD D("1*∂
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaE E(…
-∆
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaE E(
-%0java.util.SortedSet"__id*8*6+
-)org.exist.client.security.SortedListModel"
-modelÑÅ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaE E(&
-%1boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
-
-%0java.util.SortedSet*
-
-elementjava.lang.Object2contains(Ljava/lang/Object;)"s
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/SortedListModel.javaE E('
-"":
-elementjava.lang.ObjectB-+
-)org.exist.client.security.SortedListModel

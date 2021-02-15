@@ -1,84 +1,0 @@
-
-<org.exist.xmlrpc.XmlRpcTest#generateXml(I)Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaí í("4*‹
-2b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaô ô( 
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaô ô(#
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*	
-<num>2append(Ljava/lang/String;)Ì
-É
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.java÷ ÷(0
-%3java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*"
-java.lang.String*
-""
-›
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.java÷ ÷(1
-njava.lang.String"__id*
-
-%3java.lang.String®«
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaø ø(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-
-njava.lang.String2append(Ljava/lang/String;)±®
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaù ù(	
-%5int"java.lang.String#length()I*
-
-njava.lang.String2length()¡
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaû û($
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-
-</num>2append(Ljava/lang/String;)*
-2
-1*
-4b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaî î(Ÿœ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaï* ï(7
-%0java.lang.StringBuilder"java.lang.StringBuilderÔ
-Ñ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaï& ï(F
-%1"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
-
-%0java.lang.StringBuilder*
-<container>²
-¯
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaï ï(G"
-builderjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-2
-1*û
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÿ ÿ(§¤
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.javaÿ ÿ(&
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-</container>2append(Ljava/lang/String;)çä
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.java (!
-%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
-"
-builderjava.lang.StringBuilder2
-toString()"~
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmlrpc/XmlRpcTest.java ("
-
-%8java.lang.String:
-""B
-org.exist.xmlrpc.XmlRpcTest

@@ -1,28 +1,0 @@
-
-Sorg.exist.security.internal.SubjectAccreditedImpl#authenticate(Ljava/lang/Object;)Zq
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectAccreditedImpl.java2 2("startingBlock*ý
-startingBlockq
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectAccreditedImpl.java2 2(0Ã
-À
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectAccreditedImpl.java1 1(
-
-%0"
-__annotate*
-java.lang.Override*!
-
-credentialsjava.lang.Object­
-ª
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectAccreditedImpl.java2$ 2(/
-credentialsjava.lang.Object"__annotation*
-
-%0*
-1*ó
-1q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectAccreditedImpl.java3	 3("{
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectAccreditedImpl.java3 3(
-"":
-credentialsjava.lang.ObjectB53
-1org.exist.security.internal.SubjectAccreditedImpl

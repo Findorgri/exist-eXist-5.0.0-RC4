@@ -1,520 +1,0 @@
-
-6org.exist.management.client.JMXClient#instanceStats()Ve
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaX X("35*Â
-24e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java`& `(`´
-®
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java` `(a
-memCollCachejava.lang.Long"__id*
-
-%17java.lang.Object√¿
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaaJ a(b
-%18long"java.lang.Long#longValue()J* 
-
-memCollCachejava.lang.Long2longValue()*
-23*˚
-25e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java`- `(7⁄
-◊
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java`- `(7-
-%16&javax.management.MBeanServerConnection"__id*9*7'
-%org.exist.management.client.JMXClient"
-
-connection™ß
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java`- `(`
-%17java.lang.Object"vjavax.management.MBeanServerConnection#getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)Ljava/lang/Object;*/
--
-%16&javax.management.MBeanServerConnection*%
-#
-namejavax.management.ObjectName*
-CollectionCacheMem2=getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)*
-24*Ú
-26e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java_ _(\˛
-˚
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java_ _(\
-%15void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-
-%14java.lang.String*
-25*ã
-27e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java_V _(Zó
-î
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java_ _([
-%14java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-%25s: %10d k*
-Cache memory*
-""*
-26*›
-28e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java^" ^(Rß
-§
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java^ ^(S
-memCachejava.lang.Long"__id*
-
-%12java.lang.Objectøº
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java_? _(S
-%13long"java.lang.Long#longValue()J*
-
-memCachejava.lang.Long2longValue()*
-27*Ò
-29e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java^) ^(3⁄
-◊
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java^) ^(3-
-%11&javax.management.MBeanServerConnection"__id*9*7'
-%org.exist.management.client.JMXClient"
-
-connection†ù
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java^) ^(R
-%12java.lang.Object"vjavax.management.MBeanServerConnection#getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)Ljava/lang/Object;*/
--
-%11&javax.management.MBeanServerConnection*%
-#
-namejavax.management.ObjectName*
-
-CacheMem2=getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)*
-28*Ò
-30e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java] ](b˝
-˙
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java] ](b
-%10void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-
-%9java.lang.String*
-29*ç
-31e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java]\ ](`ô
-ñ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java] ](a
-%9java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-%25s: %10d k*
-Reserved memory*
-""*
-30*·
-32e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java\% \(X©
-¶
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java\ \(Y
-memReservedjava.lang.Long"__id*
-
-%7java.lang.Object¡æ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java]B ](Y
-
-%8long"java.lang.Long#longValue()J*
-
-memReservedjava.lang.Long2longValue()*
-31*ÿ
-10e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javan' n(@Â‚
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javan' n(@
-%43java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*
-
-%42java.util.Collection2
-iterator()*
-9*Æ
-33e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[ [(j∫
-∑
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[ [(j#
-namejavax.management.ObjectName"__id*#
-!
-%4javax.management.ObjectNameŸ
-÷
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java\, \(6,
-%6&javax.management.MBeanServerConnection"__id*9*7'
-%org.exist.management.client.JMXClient"
-
-connection°û
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java\, \(X
-%7java.lang.Object"vjavax.management.MBeanServerConnection#getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)Ljava/lang/Object;*.
-,
-%6&javax.management.MBeanServerConnection*%
-#
-namejavax.management.ObjectName*
-ReservedMem2=getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)*
-32*ˇ
-11e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javan' n(,ãà
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javan' n(5
-%42java.util.Collection"Ejavax.management.openmbean.TabularData#values()Ljava/util/Collection;*1
-/
-table&javax.management.openmbean.TabularData2values()*
-10*Œ
-34e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[3 [(J¡
-æ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[M [(U
-%1java.lang.String"__id*7*5'
-%org.exist.management.client.JMXClient"
-
-instance¡
-æ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[3 [(U
-%2java.lang.String"__concat*
-org.exist.management.*
-
-%1java.lang.String∫
-∑
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[3 [(h
-%3java.lang.String"__concat*
-
-%2java.lang.String*
-:type=Database™ß
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[( [(2!
-%4javax.management.ObjectName"javax.management.ObjectNameË
-Â
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.java[$ [(i
-%5"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
-!
-%4javax.management.ObjectName*
-
-%3java.lang.String*
-33*¯
-12e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javak k(Ñ
-Å
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javak k(3
-%41void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-\nCurrently active threads:*
-11*Á
-35e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaZ Z(Û
-
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaZ Z(
-
-%0void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-\nINSTANCE:*
-34*ò
-14e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javai& i(eº
-π
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javai i(f/
-table&javax.management.openmbean.TabularData"__id*
-
-%39java.lang.Object·ﬁ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaj j(
-
-%40int".javax.management.openmbean.TabularData#size()I*1
-/
-table&javax.management.openmbean.TabularData2size()*
-11
-12*˘
-15e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javai4 i(>⁄
-◊
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javai4 i(>-
-%38&javax.management.MBeanServerConnection"__id*9*7'
-%org.exist.management.client.JMXClient"
-
-connection®•
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javai4 i(e
-%39java.lang.Object"vjavax.management.MBeanServerConnection#getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)Ljava/lang/Object;*/
--
-%38&javax.management.MBeanServerConnection*%
-#
-namejavax.management.ObjectName*
-ActiveBrokersMap2=getAttribute(Ljavax/management/ObjectName;Ljava/lang/String;)*
-14*Ú
-16e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javag g(R˛
-˚
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javag g(R
-%37void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-
-%36java.lang.String*
-15*ò	
-17e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaf f(5´
-®
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaf f(5
-valuesjava.lang.Object[]"__id*
-
-%32java.lang.Object[]≥
-∞
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javag1 g(:
-%33java.lang.Object"
-__arrayGet*
-
-valuesjava.lang.Object[]*2 µ
-≤
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javag< g(E
-%34java.lang.Object"
-__arrayGet*
-
-valuesjava.lang.Object[]*2µ
-≤
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javagG g(P
-%35java.lang.Object"
-__arrayGet*
-
-valuesjava.lang.Object[]*2–
-Õ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javag g(Q
-%36java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-%17d %17d %17d*
-
-%33java.lang.Object*
-
-%34java.lang.Object*
-
-%35java.lang.Object*
-16*˙
-18e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javae e(M¬
-ø
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javae e(M'
-attrsjavax.management.AttributeList"__id*'
-%
-%31javax.management.AttributeList¡
-æ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaf$ f(4
-%32java.lang.Object[]"dorg.exist.management.client.JMXClient#getValues(Ljavax/management/AttributeList;)[Ljava/lang/Object;*)'
-%org.exist.management.client.JMXClient*)
-'
-attrsjavax.management.AttributeList*
-17*¢
-19e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javae( e(2⁄
-◊
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javae( e(2-
-%30&javax.management.MBeanServerConnection"__id*9*7'
-%org.exist.management.client.JMXClient"
-
-connection—Œ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javae( e(L%
-%31javax.management.AttributeList"Üjavax.management.MBeanServerConnection#getAttributes(Ljavax/management/ObjectName;[Ljava/lang/String;)Ljavax/management/AttributeList;*/
--
-%30&javax.management.MBeanServerConnection*%
-#
-namejavax.management.ObjectName*
-
-colsjava.lang.String[]2?getAttributes(Ljavax/management/ObjectName;[Ljava/lang/String;)*
-18*É
-0 "|
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javau u(
-implicit return*
-2e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javap p(a˛
-˚
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javap p(a
-%49void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-
-%48java.lang.String*
-8*§
-3e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javap p(`≤
-Ø
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javap p(`
-%48java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-\t%20s: %3d*
-
-%46java.lang.Object*
-
-%47java.lang.Object*
-2*™
-4e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javapE p(I∏µ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javapE p(_
-%47java.lang.Object"Rjavax.management.openmbean.CompositeData#get(Ljava/lang/String;)Ljava/lang/Object;*2
-0
-data(javax.management.openmbean.CompositeData*
-referenceCount2get(Ljava/lang/String;)*
-3*⁄
-5e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javao+ o(C∂
-≥
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javao o(D0
-data(javax.management.openmbean.CompositeData"__id*
-
-%45	!capture!Ø¨
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javap2 p(C
-%46java.lang.Object"Rjavax.management.openmbean.CompositeData#get(Ljava/lang/String;)Ljava/lang/Object;*2
-0
-data(javax.management.openmbean.CompositeData*	
-owner2get(Ljava/lang/String;)*
-4*æ
-6e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javao; o(<Ã…
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javao; o(C
-%45	!capture!"+java.util.Iterator#next()Ljava/lang/Object;*
-
-ijava.util.Iterator2next()*
-5*¥
-8e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javanB n(Cøº
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javanB n(M
-%44boolean"java.util.Iterator#hasNext()Z*
-
-ijava.util.Iterator2	hasNext()*
-6
-0*ò
-9e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javan n(@¶
-£
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javan n(@
-ijava.util.Iterator"__id*
-
-%43java.util.Iterator*
-8*Ú
-20e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javad d(N˛
-˚
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javad d(N
-%29void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-
-%28java.lang.String*
-19*Œ
-21e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javac$ c(0ôñ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javac" c(W
-%21java.lang.String[]"java.lang.String[]Æ
-´
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javac" c(W
-%22"
-__arraySet*
-
-%21java.lang.String[]*2 *
-
-MaxBrokers∂
-≥
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javac" c(W
-%23"
-__arraySet*
-
-%21java.lang.String[]*2*
-AvailableBrokers≥
-∞
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javac" c(W
-%24"
-__arraySet*
-
-%21java.lang.String[]*2*
-ActiveBrokers©
-¶
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javac c(X
-colsjava.lang.String[]"__id*
-
-%21java.lang.String[]±
-Æ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javad3 d(:
-%25java.lang.String"
-__arrayGet*
-
-colsjava.lang.String[]*2 ≥
-∞
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javad< d(C
-%26java.lang.String"
-__arrayGet*
-
-colsjava.lang.String[]*2≥
-∞
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javadE d(L
-%27java.lang.String"
-__arrayGet*
-
-colsjava.lang.String[]*2“
-œ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javad d(M
-%28java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-\n%17s %17s %17s*
-
-%25java.lang.String*
-
-%26java.lang.String*
-
-%27java.lang.String*
-20*Ú
-22e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaa a(k˛
-˚
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaa a(k
-%20void"?org.exist.management.client.JMXClient#echo(Ljava/lang/String;)V*)'
-%org.exist.management.client.JMXClient*
-
-%19java.lang.String*
-21*ñ
-23e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaae a(i¢
-ü
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaa a(j
-%19java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-%25s: %10d k*
-Collection cache memory*
-""*
-22B)'
-%org.exist.management.client.JMXClient

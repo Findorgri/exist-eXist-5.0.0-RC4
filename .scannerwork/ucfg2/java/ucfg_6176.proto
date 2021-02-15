@@ -1,44 +1,0 @@
-
-corg.exist.debuggee.SessionImpl#getAttribute(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javai i("startingBlock*Ü
-startingBlockr
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javai i(5½
-º
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javah h(
-
-%0"
-__annotate*
-java.lang.Override*
-
-arg0java.lang.Object§
-¤
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javai# i('
-arg0java.lang.Object"__annotation*
-
-%0½
-º
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javah h(
-
-%1"
-__annotate*
-java.lang.Override*
-
-arg1java.lang.Object§
-¤
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javai0 i(4
-arg1java.lang.Object"__annotation*
-
-%1*
-1*õ
-1r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javak	 k("|
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javak k(
-"":
-arg0java.lang.Object:
-arg1java.lang.ObjectB" 
-org.exist.debuggee.SessionImpl

@@ -1,105 +1,0 @@
-
-:org.exist.xquery.VariableImpl#toString()Ljava/lang/String;_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java® ®("4*à
-2_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≤ ≤(
-õò
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≤ ≤(
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-:= 2append(Ljava/lang/String;)˛˚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≤ ≤(1
-%12"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-%11java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-1*ç
-3_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java∞ ∞(
-°û
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java∞ ∞(
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-	[not set]2append(Ljava/lang/String;)*
-1*Ë
-4_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java© ©(2úô
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java©# ©(0
-%0java.lang.StringBuilder"java.lang.StringBuilderÆ
-´
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java© ©(2
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderÆ
-´
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java© ©(3!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderòï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java™ ™(
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-$2append(Ljava/lang/String;)¸˘
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java™ ™(3
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)õò
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java´ ´(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- as 2append(Ljava/lang/String;)«ƒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java¨! ¨(*	
-%5int"(org.exist.xquery.VariableImpl#getType()I*!
-org.exist.xquery.VariableImpl2	getType()Ä˝
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java¨ ¨(,
-%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)’“
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≠% ≠(5	
-%7int"/org.exist.xquery.VariableImpl#getCardinality()I*!
-org.exist.xquery.VariableImpl2getCardinality()Ä˝
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≠ ≠(7
-%8"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)òï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.javaÆ Æ(
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- 2append(Ljava/lang/String;)*
-2
-3*…
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≥	 ≥(‰·
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≥	 ≥(
-%13java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"|
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/VariableImpl.java≥ ≥(
-
-%13java.lang.StringB!
-org.exist.xquery.VariableImpl

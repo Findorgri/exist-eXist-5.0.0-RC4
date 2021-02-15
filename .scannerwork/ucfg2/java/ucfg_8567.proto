@@ -1,425 +1,0 @@
-
-@org.exist.client.CollectionXConf#toXMLString()Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java… …("17*ê	
-13b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÿ ÿ(õò
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÿ ÿ(
-%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
->2append(Ljava/lang/String;)Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaŸ Ÿ(3
-%15java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separatorØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaŸ Ÿ(4
-%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%15java.lang.String2append(Ljava/lang/String;)€
-ÿ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java‹ ‹(4
-%17-org.exist.client.CollectionXConf$RangeIndex[]"__id*6*4"
- org.exist.client.CollectionXConf"
-rangeIndexes*
-7
-12*ª
-14b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java– –(-ì
-ê
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java– –(-
-entryjava.util.Map$Entry"__id*
-""∞
-≠
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java– –(-
-entryjava.util.Map$Entry"
-__arrayGet*
-
-%5java.util.Set*
-""*
-13
-15*˘
-15b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java“ “(	öó
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java“ “(
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
- 2append(Ljava/lang/String;)Ÿ÷
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java”& ”(4
-%7java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
-
-entryjava.util.Map$Entry2getKey()Ø
-¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java” ”(5&
-namespaceLocalNamejava.lang.String"__id*
-
-%7java.lang.String›⁄
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java‘  ‘(0
-%8java.lang.String"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
-
-entryjava.util.Map$Entry2
-getValue()©
-¶
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java‘ ‘(1 
-namespaceURLjava.lang.String"__id*
-
-%8java.lang.Stringüú
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java’ ’(
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-xmlns:2append(Ljava/lang/String;)ª∏
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java’ ’(5
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%9java.lang.StringBuilder*(
-&
-namespaceLocalNamejava.lang.String2append(Ljava/lang/String;)õò
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java’ ’(C
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%10java.lang.StringBuilder*
-=\"2append(Ljava/lang/String;)∂≥
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java’ ’(X
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%11java.lang.StringBuilder*"
- 
-namespaceURLjava.lang.String2append(Ljava/lang/String;)öó
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java’ ’(e
-%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%12java.lang.StringBuilder*
-\"2append(Ljava/lang/String;)*
-14*ò
-16b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java–0 –(@»
-≈
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java–0 –(@
-%4java.util.LinkedHashMap"__id*:*8"
- org.exist.client.CollectionXConf"
-customNamespaces‹Ÿ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java–0 –(K
-%5java.util.Set"1java.util.LinkedHashMap#entrySet()Ljava/util/Set;*
-
-%4java.util.LinkedHashMap2
-entrySet()*
-14*°	
-17b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÀ À(1üú
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÀ" À(/
-%0java.lang.StringBuilder"java.lang.StringBuilder±
-Æ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÀ À(1
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder∞
-≠
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÀ À(2 
-xconfjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÿ’
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÕ Õ(Q
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*CA
-?<collection xmlns=\"http://exist-db.org/collection-config/1.0\"2append(Ljava/lang/String;)»
-≈
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaŒ Œ(
-%3java.util.LinkedHashMap"__id*:*8"
- org.exist.client.CollectionXConf"
-customNamespaces*
-13
-16*˚
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÇ Ç(ß§
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÇ Ç(
-%46java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-</collection>2append(Ljava/lang/String;)Ê„
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÑ	 Ñ(
-%47java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*"
- 
-xconfjava.lang.StringBuilder2
-toString()"
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÑ Ñ(
-
-%47java.lang.String*¥	
-2b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˝ ˝(˙˜
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˝ ˝(
-%42java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-\t2	append(C)•¢
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˛ ˛(
-%43java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-</triggers>2append(Ljava/lang/String;)Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaˇ ˇ(4
-%44java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separatorØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaˇ ˇ(5
-%45java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%44java.lang.String2append(Ljava/lang/String;)*
-1*Ñ
-3b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜(™
-ß
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜(3
-trigger(org.exist.client.CollectionXConf$Trigger"__id*
-""Â
-‚
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜(3
-trigger(org.exist.client.CollectionXConf$Trigger"
-__arrayGet*3
-1
-%36*org.exist.client.CollectionXConf$Trigger[]*
-""*
-2
-4*˜
-4b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯ ¯(	†ù
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯ ¯(
-%37java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-\t\t\t2append(Ljava/lang/String;)êç
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˘ ˘(&
-%38java.lang.String"Horg.exist.client.CollectionXConf$Trigger#toXMLString()Ljava/lang/String;*5
-3
-trigger(org.exist.client.CollectionXConf$Trigger2toXMLString()Ø¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˘ ˘('
-%39java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%38java.lang.String2append(Ljava/lang/String;)Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙ ˙(5
-%40java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separatorØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙ ˙(6
-%41java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%40java.lang.String2append(Ljava/lang/String;)*
-3*√
-5b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜("‘
-—
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜("1
-%36*org.exist.client.CollectionXConf$Trigger[]"__id*2*0"
- org.exist.client.CollectionXConf"
-
-triggers*
-3*ê
-6b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÙ Ù(˙˜
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÙ Ù(
-%34java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-\t2	append(C)§°
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaı ı(
-%35java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-<triggers>2append(Ljava/lang/String;)*
-5*∆
-7b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÚ Ú(‘
-—
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÚ Ú(1
-%33*org.exist.client.CollectionXConf$Trigger[]"__id*2*0"
- org.exist.client.CollectionXConf"
-
-triggers*
-6
-1*±	
-8b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÏ Ï(˙˜
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÏ Ï(
-%29java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-\t2	append(C)¢ü
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÌ Ì(
-%30java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-</index>2append(Ljava/lang/String;)Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÓ Ó(4
-%31java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separatorØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÓ Ó(5
-%32java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%31java.lang.String2append(Ljava/lang/String;)*
-7*î
-9b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÂ	 Â(∞
-≠
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÂ	 Â(9
-
-rangeIndex+org.exist.client.CollectionXConf$RangeIndex"__id*
-""Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÂ	 Â(9
-
-rangeIndex+org.exist.client.CollectionXConf$RangeIndex"
-__arrayGet*6
-4
-%23-org.exist.client.CollectionXConf$RangeIndex[]*
-""*
-8
-10*Å
-10b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÊ Ê(
-†ù
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÊ Ê(
-%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-\t\t\t2append(Ljava/lang/String;)ôñ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÁ Á(*
-%25java.lang.String"Korg.exist.client.CollectionXConf$RangeIndex#toXMLString()Ljava/lang/String;*;
-9
-
-rangeIndex+org.exist.client.CollectionXConf$RangeIndex2toXMLString()Ø¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÁ Á(+
-%26java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%25java.lang.String2append(Ljava/lang/String;)Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaË Ë(6
-%27java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separatorØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaË Ë(7
-%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%27java.lang.String2append(Ljava/lang/String;)*
-9*À
-11b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÂ! Â(-€
-ÿ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÂ! Â(-4
-%23-org.exist.client.CollectionXConf$RangeIndex[]"__id*6*4"
- org.exist.client.CollectionXConf"
-rangeIndexes*
-9*ì
-12b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaﬁ ﬁ(˙˜
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaﬁ ﬁ(
-%18java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-\t2	append(C)°û
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaﬂ ﬂ(
-%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*	
-<index>2append(Ljava/lang/String;)Ó
-Î
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java‡ ‡(4
-%20java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separatorØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java‡ ‡(5
-%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*"
- 
-xconfjava.lang.StringBuilder*
-
-%20java.lang.String2append(Ljava/lang/String;)€
-ÿ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java„ „(4
-%22-org.exist.client.CollectionXConf$RangeIndex[]"__id*6*4"
- org.exist.client.CollectionXConf"
-rangeIndexes*
-8
-11B$"
- org.exist.client.CollectionXConf

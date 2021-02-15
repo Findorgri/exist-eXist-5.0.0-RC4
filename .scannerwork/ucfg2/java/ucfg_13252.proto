@@ -1,22 +1,0 @@
-
-4org.exist.security.Session#getId()Ljava/lang/String;Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.java9 9("1*±
-1Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.java: :(¯
-¬
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.java: :(
-
-%0void""org.exist.security.Session#used()V*
-org.exist.security.Session¥
-¢
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.java;	 ;(
-%1java.lang.String"__id*&*$
-org.exist.security.Session"
-id"v
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.java; ;(
-
-%1java.lang.StringB
-org.exist.security.Session

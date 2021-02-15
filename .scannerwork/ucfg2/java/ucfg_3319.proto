@@ -1,63 +1,0 @@
-
-lorg.exist.dom.persistent.Match#filterOffsets(Ljava/util/function/Predicate;)Lorg/exist/dom/persistent/Match;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÑ Ñ("3*—
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaà à("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaà à(
-""*≈
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÖ Ö(+∂
-≥
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÖ= Ö(F
-%0java.lang.String"__id*1*/ 
-org.exist.dom.persistent.Match"
-	matchTerm“œ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÖ Ö(G
-%1"jorg.exist.dom.persistent.Match#createInstance(ILNodeId;Ljava/lang/String;)Lorg/exist/dom/persistent/Match;*" 
-org.exist.dom.persistent.Match*
-""*
-""*
-
-%0java.lang.String2+createInstance(ILNodeId;Ljava/lang/String;)ù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÖ Ö(H(
-resultorg.exist.dom.persistent.Match"__id*
-
-%1ÍÁ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÜ Ü(
-%2java.util.List";org.exist.dom.persistent.Match#getOffsets()Ljava/util/List;*" 
-org.exist.dom.persistent.Match2getOffsets()ﬁ€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÜ Ü(
-%3java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
-
-%2java.util.List2stream()”–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÜ Ü(/
-%4java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
-
-%3java.util.stream.Stream*+
-)
-	predicatejava.util.function.Predicate2&filter(Ljava/util/function/Predicate;)ÉÄ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaÜ Ü(J
-
-%5void"?java.util.stream.Stream#forEach(Ljava/util/function/Consumer;)V*
-
-%4java.util.stream.Stream*
-""2&forEach(Ljava/util/function/Consumer;)*
-2
-1*ˆ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaä ä("é
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaä ä(*
-(
-resultorg.exist.dom.persistent.Match:)
-	predicatejava.util.function.PredicateB" 
-org.exist.dom.persistent.Match

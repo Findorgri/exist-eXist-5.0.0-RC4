@@ -1,53 +1,0 @@
-
-Eorg.exist.xquery.value.UntypedAtomicValue#equals(Ljava/lang/Object;)Zk
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÔ Ô("startingBlock*é
-2k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ Ö(È
-Å
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ Ö(
-%0java.lang.String"__id*8*6+
-)org.exist.xquery.value.UntypedAtomicValue"
-value´
-±
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ  Ö(@
-%1java.lang.String"__id*$*"
-
-objjava.lang.Object"
-valueýú
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ Ö(A
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.String*
-
-%1java.lang.String2equals(Ljava/lang/Object;)"u
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÖ Ö(B
-""*Þ
-startingBlockk
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÔ Ô(%µ
-²
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÓ Ó(
-%3"
-__annotate*
-java.lang.Override*
-
-objjava.lang.ObjectŸ
-œ
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaÔ! Ô($
-objjava.lang.Object"__annotation*
-
-%3*
-2
-1*ç
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaØ Ø("u
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/UntypedAtomicValue.javaØ Ø(
-"":
-objjava.lang.ObjectB-+
-)org.exist.xquery.value.UntypedAtomicValue

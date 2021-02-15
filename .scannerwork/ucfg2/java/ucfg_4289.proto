@@ -1,83 +1,0 @@
-
-torg.exist.xmlrpc.RpcConnection#setDocType(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java’ ’("startingBlock*Ω
-startingBlocka
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java’ ’(Ä≥
-∞
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‘ ‘(
-%1"
-__annotate*
-java.lang.Override*"
- 
-documentPathjava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java’+ ’(7 
-documentPathjava.lang.String"__annotation*
-
-%1≤
-Ø
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‘ ‘(
-%2"
-__annotate*
-java.lang.Override*!
-
-doctypenamejava.lang.Stringú
-ô
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java’F ’(Q
-doctypenamejava.lang.String"__annotation*
-
-%2Ø
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‘ ‘(
-%3"
-__annotate*
-java.lang.Override*
-
-publicidjava.lang.Stringô
-ñ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java’` ’(h
-publicidjava.lang.String"__annotation*
-
-%3Ø
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‘ ‘(
-%4"
-__annotate*
-java.lang.Override*
-
-systemidjava.lang.Stringô
-ñ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java’w ’(
-systemidjava.lang.String"__annotation*
-
-%4*
-1*ö
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java◊ ◊(∆√
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java◊ ◊(^
-%0"torg.exist.xmlrpc.RpcConnection#setDocType(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-""*!
-
-doctypenamejava.lang.String*
-
-publicidjava.lang.String*
-
-systemidjava.lang.String2TsetDocType(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java◊ ◊(_
-"": 
-documentPathjava.lang.String:
-doctypenamejava.lang.String:
-publicidjava.lang.String:
-systemidjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

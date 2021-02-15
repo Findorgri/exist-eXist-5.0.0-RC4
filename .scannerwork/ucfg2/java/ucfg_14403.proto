@@ -1,23 +1,0 @@
-
-4org.exist.xmldb.XmldbURI#getXmldbURI()Ljava/net/URI;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java   ("1*å
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¡ ¡(¶
-³
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¡ ¡(/
-%0java.lang.String"__id*7*5
-org.exist.xmldb.XmldbURI"
-encodedCollectionPathÖ
-Ó
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¡ ¡(0
-%1java.net.URI"5java.net.URI#create(Ljava/lang/String;)Ljava/net/URI;*"
-java.net.URI*
-
-%0java.lang.String"r
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java¡ ¡(1
-
-%1java.net.URIB
-org.exist.xmldb.XmldbURI

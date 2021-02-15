@@ -1,64 +1,0 @@
-
-dorg.exist.management.client.JMXClient#getValues(Ljavax/management/AttributeList;)[Ljava/lang/Object;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaç ç("5*Ý
-3g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaê ê(Å
-Â
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaê ê(-
-%3java.lang.Object"
-__arrayGet*+
-)
-attribsjavax.management.AttributeList*
-""ãà
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaê ê(9
-%4java.lang.Object"7javax.management.Attribute#getValue()Ljava/lang/Object;*
-
-%3java.lang.Object2
-getValue()»
-¸
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaê ê(9
-%5"
-__arraySet*
-
-vjava.lang.Object[]*
-""*
-
-%4java.lang.Object*
-4*À
-4g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaé é(ÉÆ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaé é(*	
-%2int"java.util.ArrayList#size()I*+
-)
-attribsjavax.management.AttributeList2size()*
-3
-1*„
-5g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaè& è(-ÉÆ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaè& è(4	
-%0int"java.util.ArrayList#size()I*+
-)
-attribsjavax.management.AttributeList2size()š—
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaè è(5
-%1java.lang.Object[]"java.lang.Object[]§
-¤
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaè è(6
-vjava.lang.Object[]"__id*
-
-%1java.lang.Object[]*
-4*ó
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaì ì("„
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/client/JMXClient.javaì ì(
-
-vjava.lang.Object[]:)
-attribsjavax.management.AttributeListB)'
-%org.exist.management.client.JMXClient

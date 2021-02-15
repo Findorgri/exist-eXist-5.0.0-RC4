@@ -1,140 +1,0 @@
-
-Yorg.exist.xquery.value.AbstractSequence#toJavaObject(Ljava/lang/Class;)Ljava/lang/Object;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÌ Ì("startingBlock*ã
-2i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaå å("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaå å(2
-""*ä
-14i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÔ Ô("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÔ Ô(
-""*Ú
-startingBlocki
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÌ Ì(4µ
-²
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaË Ë(
-%7"
-__annotate*
-java.lang.Override*
-
-targetjava.lang.ClassŸ
-œ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÌ- Ì(3
-targetjava.lang.Class"__annotation*
-
-%7*
-18*Í	
-15i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÐ+ Ð(1ëè
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÐ+ Ð(D
-%2java.lang.Class"3java.lang.Class#getComponentType()Ljava/lang/Class;*
-
-targetjava.lang.Class2getComponentType()¯
-¬
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÐ Ð(E 
-componentTypejava.lang.Class"__id*
-
-%2java.lang.Class‰
-†
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÒ! Ò(Q
-%3"Jjava.lang.reflect.Array#newInstance(Ljava/lang/Class;[I)Ljava/lang/Object;*"
-java.lang.reflect.Array*"
- 
-componentTypejava.lang.Class*
-""—
-”
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÒ Ò(R
-arrayjava.lang.Object"__id*
-
-%3ˆ…
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÓ Ó()
-%4boolean"/java.lang.Class#isInstance(Ljava/lang/Object;)Z*
-
-targetjava.lang.Class*
-
-arrayjava.lang.Object2isInstance(Ljava/lang/Object;)*
-14
-9
-11*ã
-4i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaâ â("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaâ â(
-""*¼
-16i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÏ Ï(Á¾
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÏ Ï(#
-%1boolean"java.lang.Class#isArray()Z*
-
-targetjava.lang.Class2	isArray()*
-15
-8*Š
-17i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÎ Î("˜
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÎ Î(+)
-'org.exist.xquery.value.AbstractSequence*ù
-18i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÍ Í(ýú
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÍ Í(3
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-""*
-
-targetjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
-16
-17*ù
-8i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÝ Ý(ýú
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÝ Ý(6
-%6boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-targetjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*	
-2
-4
-1*ù
-9i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÜ Ü("ˆ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÜ Ü(
-
-arrayjava.lang.Object*¯
-11i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaØ" Ø(#•
-’
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÙ Ù(D
-objjava.lang.Object"__id*
-""œ
-™
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaÚ Ú(,
-
-%5void"Cjava.lang.reflect.Array#set(Ljava/lang/Object;ILjava/lang/Object;)V*"
-java.lang.reflect.Array*
-
-arrayjava.lang.Object*
-""*
-
-objjava.lang.Object*
-9
-11*ã
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaç ç("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractSequence.javaç ç(
-"":
-targetjava.lang.ClassB+)
-'org.exist.xquery.value.AbstractSequence

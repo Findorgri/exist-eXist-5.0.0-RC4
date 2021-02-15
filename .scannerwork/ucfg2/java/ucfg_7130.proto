@@ -1,123 +1,0 @@
-
-Âorg.exist.validation.resolver.unstable.eXistLSResourceResolver#resolveResource(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/ls/LSInput;~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java0 0(""7*†
-5~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java: :(<Â
-¿
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java: :(<
-isjava.io.InputStream"__id*
-
-%10java.io.InputStream¶³
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java; ;(%
-%11void"<org.w3c.dom.ls.LSInput#setByteStream(Ljava/io/InputStream;)V*#
-!
-lsInputorg.w3c.dom.ls.LSInput*
-
-isjava.io.InputStream2$setByteStream(Ljava/io/InputStream;)*
-1*†
-6~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java:# :(1û
-ø
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java:# :(;
-%10java.io.InputStream"vorg.exist.validation.resolver.unstable.eXistLSResourceResolver#getInputStream(Ljava/lang/String;)Ljava/io/InputStream;*B@
->org.exist.validation.resolver.unstable.eXistLSResourceResolver*
-
-systemIdjava.lang.String*
-5*þ
-7~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 3(—
-”
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 3(
-%0"__id*
-""Ì
-É
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 3( 
-%1java.lang.String"__concat*	
-type=*
-
-typejava.lang.StringÓ
-Ð
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 3(3
-%2java.lang.String"__concat*
-
-%1java.lang.String*
- namespaceURI=ã
-à
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 3(B
-%3java.lang.String"__concat*
-
-%2java.lang.String*"
- 
-namespaceURIjava.lang.StringÏ
-Ì
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 4(
-%4java.lang.String"__concat*
-
-%3java.lang.String*
-
- publicId=ß
-Ü
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 4()
-%5java.lang.String"__concat*
-
-%4java.lang.String*
-
-publicIdjava.lang.StringÏ
-Ì
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 4(8
-%6java.lang.String"__concat*
-
-%5java.lang.String*
-
- systemId=ß
-Ü
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 4(C
-%7java.lang.String"__concat*
-
-%6java.lang.String*
-
-systemIdjava.lang.StringÎ
-Ë
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 5(
-%8java.lang.String"__concat*
-
-%7java.lang.String*
-	 baseURI=Þ
-Û
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java3 5('
-%9java.lang.String"__concat*
-
-%8java.lang.String*
-
-baseURIjava.lang.String´
-±
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.java7 7(-!
-lsInputorg.w3c.dom.ls.LSInput"__id*
-""*
-6*«
-1~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.javaB B("¥
-~
-tC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/unstable/eXistLSResourceResolver.javaB B(#
-!
-lsInputorg.w3c.dom.ls.LSInput:
-typejava.lang.String: 
-namespaceURIjava.lang.String:
-publicIdjava.lang.String:
-systemIdjava.lang.String:
-baseURIjava.lang.StringBB@
->org.exist.validation.resolver.unstable.eXistLSResourceResolver

@@ -1,27 +1,0 @@
-
-Xorg.exist.security.realm.ldap.LDAPRealm#ensureCase(Ljava/lang/String;)Ljava/lang/String;Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javao o("2"4"1*®
-2Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javau u(ˇ¸
-Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javau u()
-%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
-
-usernamejava.lang.String2toLowerCase()"ù
-Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javau u(*
-
-%0java.lang.String*î
-4Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaq q("ã
-Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaq q(
-""*¨
-1Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javax x("£
-Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javax x(
-
-usernamejava.lang.String:
-usernamejava.lang.StringB+)
-'org.exist.security.realm.ldap.LDAPRealm

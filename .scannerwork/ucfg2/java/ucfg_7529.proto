@@ -1,23 +1,0 @@
-
-Torg.exist.TestUtils#resolveShakespeareSample(Ljava/lang/String;)Ljava/nio/file/Path;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaå å(/"1*É
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaæ æ(!Ð
-Í
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaæ æ(#
-%0java.nio.file.Path"<org.exist.TestUtils#shakespeareSamples()Ljava/nio/file/Path;*"
-org.exist.TestUtilsš—
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaæ æ(9
-%1java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-%0java.nio.file.Path*"
- 
-relativePathjava.lang.String2resolve(Ljava/lang/String;)"x
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaæ æ(:
-
-%1java.nio.file.Path: 
-relativePathjava.lang.StringB"
-org.exist.TestUtils

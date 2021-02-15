@@ -1,60 +1,0 @@
-
-`org.exist.dom.memtree.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaâ â(("startingBlock*Ñ
-13c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaã ã(ÜÙ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaã ã(6
-%0",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-namejava.lang.String*
-""2equals(Ljava/lang/Object;)*
-12
-1*É
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaâ( â(;®
-«
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaá á(
-%7"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String˜
-•
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaâ6 â(:
-namejava.lang.String"__annotation*
-
-%7*
-13
-1*•
-12c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaä ä('Ž
-‹
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaäI ä(g
-%1java.lang.String"__id*
-""©¦
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaä ä(i
-%2"`org.exist.dom.memtree.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*%#
-!org.exist.dom.memtree.ElementImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaä ä(j
-
-%2*ƒ
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javað ð('©¦
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javað ð(.
-%6"`org.exist.dom.memtree.ElementImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*%#
-!org.exist.dom.memtree.ElementImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javað ð(/
-
-%6:
-namejava.lang.StringB%#
-!org.exist.dom.memtree.ElementImpl

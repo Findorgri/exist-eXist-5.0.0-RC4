@@ -1,39 +1,0 @@
-
-Gorg.exist.xquery.util.NumberFormatter#getMaxDigits(Ljava/lang/String;)Ig
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaâ â(""8*≥
-5g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaç, ç(-ºπ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaç1 ç(A	
-%2int"java.lang.String#length()I*
-
-picturejava.lang.String2length()*
-8
-1*æ
-7g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaå å(#«ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaå å(-
-
-%1char"java.lang.String#charAt(I)C*
-
-picturejava.lang.String*
-""2	charAt(I)*
-5
-8*≥
-8g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaã ã(ºπ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaã ã(,	
-%0int"java.lang.String#length()I*
-
-picturejava.lang.String2length()*
-7
-1*ﬂ
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaë ë("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaë ë(
-"":
-picturejava.lang.StringB)"'
-%org.exist.xquery.util.NumberFormatter

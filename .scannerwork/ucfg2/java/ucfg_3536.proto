@@ -1,25 +1,0 @@
-
-Norg.exist.util.Configuration#getProperty(Ljava/lang/String;)Ljava/lang/Object;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaË Ë("1*Ñ
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÌ Ì(°
-­
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÌ Ì(
-%0java.util.HashMap"__id*,**
-org.exist.util.Configuration"
-config¼
-¹
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÌ Ì(
-%1java.lang.Object"__mapGet*
-
-%0java.util.HashMap*
-
-namejava.lang.String"z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÌ Ì( 
-
-%1java.lang.Object:
-namejava.lang.StringB 
-org.exist.util.Configuration

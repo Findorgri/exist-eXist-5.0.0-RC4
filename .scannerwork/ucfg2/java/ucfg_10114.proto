@@ -1,51 +1,0 @@
-
-[org.exist.util.serializer.MicroXmlWriter#removePrefix(Ljava/lang/String;)Ljava/lang/String;h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java' '("4*¡
-2h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java- -(¬
-©
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java- -(
-resultjava.lang.String"__id*
-
-qnamejava.lang.String*
-1*Š
-3h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java+ +(éæ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java+ +(8
-%1java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-qnamejava.lang.String*
-""2substring(I)©
-¦
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java+ +(8
-resultjava.lang.String"__id*
-
-%1java.lang.String*
-1*Ø
-4h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java(# (((ÆÃ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java(# ((5	
-%0int"java.lang.String#indexOf(I)I*
-
-qnamejava.lang.String*
-:2
-indexOf(I)—
-”
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java) )(
-resultjava.lang.String"__id*
-""*
-2
-3*ø
-1h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java/ /("ˆ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/MicroXmlWriter.java/ /(
-
-resultjava.lang.String:
-qnamejava.lang.StringB,*
-(org.exist.util.serializer.MicroXmlWriter

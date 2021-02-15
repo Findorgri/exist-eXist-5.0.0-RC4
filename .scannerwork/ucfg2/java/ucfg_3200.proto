@@ -1,94 +1,0 @@
-
-norg.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails#checkAndUpdateToken(Ljava/lang/String;)Zé
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaµ µ(*"7*≤
-2é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java¿ ¿(!ë
-é
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java¿ ¿(!
-%6java.util.Map"__id*`*^G
-Eorg.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails"
-invalidatedTokensÎ
-Ë
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java¿ ¿(/
-%7java.lang.Long"__mapRemove*
-
-%6java.util.Map*
-
-tokenjava.lang.String"ô
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java¡ ¡(
-""*¸
-3é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaø ø(›
-⁄
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaø ø(*
-
-%5long"%java.lang.System#currentTimeMillis()J*"
-java.lang.System*
-2
-1*∞
-4é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaΩ Ω("ô
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaΩ Ω(
-""*Î
-5é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaª ª(,ë
-é
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaª ª(,
-%3java.util.Map"__id*`*^G
-Eorg.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails"
-invalidatedTokensË
-Â
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaª ª(7
-%4java.lang.Long"__mapGet*
-
-%3java.util.Map*
-
-tokenjava.lang.StringÕ
- 
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaª ª(8
-timeoutjava.lang.Long"__id*
-
-%4java.lang.Long*
-3
-4*ñ
-6é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java∑ ∑(„‡
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java∑ ∑(
-%2java.lang.String"`org.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails#update()Ljava/lang/String;*IG
-Eorg.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails2update()"ô
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java∏ ∏(
-""*Œ
-7é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java∂ ∂(à
-Ö
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java∂ ∂(
-%0java.lang.String"__id*T*RG
-Eorg.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails"
-token§°
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.java∂ ∂((
-%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.String*
-
-tokenjava.lang.String2equals(Ljava/lang/Object;)*
-5
-6*∞
-1é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaƒ ƒ("ô
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLogin.javaƒ ƒ(
-"":
-tokenjava.lang.StringBIG
-Eorg.exist.xquery.modules.persistentlogin.PersistentLogin$LoginDetails

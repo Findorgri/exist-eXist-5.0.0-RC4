@@ -1,50 +1,0 @@
-
-*org.exist.util.LongLinkedList#contains(J)Z]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaV V("6*ç
-2]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.java[ [(“
-œ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.java[ [(,
-%1&org.exist.util.LongLinkedList$ListItem"__id*:*8
-.
-next&org.exist.util.LongLinkedList$ListItem"
-next»
-≈
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.java[ [(.
-next&org.exist.util.LongLinkedList$ListItem"__id*.
-,
-%1&org.exist.util.LongLinkedList$ListItem*	
-2
-3
-1*À
-3]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaZ Z("g
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaZ Z(
-""*ˇ
-6]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaW W(ƒ
-¡
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaW W(,
-%0&org.exist.util.LongLinkedList$ListItem"__id*,**
-org.exist.util.LongLinkedList"
-first»
-≈
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.javaW W(.
-next&org.exist.util.LongLinkedList$ListItem"__id*.
-,
-%0&org.exist.util.LongLinkedList$ListItem*	
-2
-3
-1*À
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.java] ]("g
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/LongLinkedList.java] ](
-"":
-""B!
-org.exist.util.LongLinkedList

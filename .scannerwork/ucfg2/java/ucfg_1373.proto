@@ -1,39 +1,0 @@
-
-@org.exist.security.AbstractAccount#hasGroup(Ljava/lang/String;)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÍ Í(!"startingBlock*Ù
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÔ Ô("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÔ Ô(
-""*Î
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÍ! Í(4¯
-¬
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÌ Ì(
-%0"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String™
-–
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÍ/ Í(3
-namejava.lang.String"__annotation*
-
-%0*	
-3
-6
-1*Ù
-6d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÏ Ï("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaÏ Ï(
-""*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaØ Ø("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractAccount.javaØ Ø(
-"":
-namejava.lang.StringB&$
-"org.exist.security.AbstractAccount

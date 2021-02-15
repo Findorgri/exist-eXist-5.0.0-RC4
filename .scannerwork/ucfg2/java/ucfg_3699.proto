@@ -1,42 +1,0 @@
-
-6org.exist.fluent.Source$2#toString()Ljava/lang/String;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaˆ ˆ(#"1*Ê	
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰ ‰(Ë
-È
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰ ‰(
-%0java.lang.String"9org.exist.fluent.Source$Blob#toString()Ljava/lang/String;*
-""¸
-µ
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰ ‰(&
-%1java.lang.String"__concat*
-
-%0java.lang.String*
-
-file 'ÅÂ
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰) ‰(7
-%2java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
-""2	getPath()Æ
-Ã
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰ ‰(7
-%3java.lang.String"__concat*
-
-%1java.lang.String*
-
-%2java.lang.String³
-°
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰ ‰(=
-%4java.lang.String"__concat*
-
-%3java.lang.String*
-'"‡
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.java‰ ‰(>
-
-%4java.lang.StringB
-org.exist.fluent.Source$2

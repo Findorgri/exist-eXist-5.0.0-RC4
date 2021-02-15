@@ -1,79 +1,0 @@
-
-Uorg.exist.validation.XmlLibraryChecker#determineActualParserClass()Ljava/lang/String;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java[ [(4"10*Ÿ
-2f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javab b(/¬
-©
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javab b(/
-parserClassjava.lang.String"__id*
-
-%3java.lang.String*
-1*Ç
-5f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaa a(8¨
-¥
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaa a(8
-classIdjava.lang.String"__id*
-
-%2java.lang.String©
-¦
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javab b(/
-%3java.lang.String"Yorg.exist.validation.XmlLibraryChecker#getClassName(Ljava/lang/String;)Ljava/lang/String;**"(
-&org.exist.validation.XmlLibraryChecker*
-
-classIdjava.lang.String*
-2*Ž
-6f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java` `(N´
-±
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java` `(N"
-	xmlReaderorg.xml.sax.XMLReader"__id*
-
-%1org.xml.sax.XMLReaderäá
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaa# a(7
-%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*$
-"
-	xmlReaderorg.xml.sax.XMLReader2
-toString()*
-5*ó
-7f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java`( `(M€ý
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java`( `(M
-%1org.xml.sax.XMLReader"Ajavax.xml.parsers.SAXParser#getXMLReader()Lorg/xml/sax/XMLReader;*#
-!
-%0javax.xml.parsers.SAXParser2getXMLReader()*
-6*½
-8f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java_ _(Y¨
-¥
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java_ _(Y-
-factory"javax.xml.parsers.SAXParserFactory"__id*
-""Ÿœ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java`( `(>!
-%0javax.xml.parsers.SAXParser"Njavax.xml.parsers.SAXParserFactory#newSAXParser()Ljavax/xml/parsers/SAXParser;*/
--
-factory"javax.xml.parsers.SAXParserFactory2newSAXParser()*
-7*¬
-10f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java] ](?¸
-µ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java] ](@
-parserClassjava.lang.String"__id*$"
- Unable to determine parser class*
-8*ù
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javag g("‹
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javag g(!
-
-parserClassjava.lang.StringB*"(
-&org.exist.validation.XmlLibraryChecker

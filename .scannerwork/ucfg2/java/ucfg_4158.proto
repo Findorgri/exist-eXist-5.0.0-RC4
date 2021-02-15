@@ -1,27 +1,0 @@
-
-`org.exist.dom.persistent.CDATASectionImpl#replaceWholeText(Ljava/lang/String;)Lorg/w3c/dom/Text;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/CDATASectionImpl.javaq q( "startingBlock*Ý
-startingBlocki
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/CDATASectionImpl.javaq  q(6·
-´
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/CDATASectionImpl.javap p(
-%0"
-__annotate*
-java.lang.Override*
-
-contentjava.lang.String¡
-ž
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/CDATASectionImpl.javaq. q(5
-contentjava.lang.String"__annotation*
-
-%0*
-1*ã
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/CDATASectionImpl.javar r("s
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/CDATASectionImpl.javar r(
-"":
-contentjava.lang.StringB-+
-)org.exist.dom.persistent.CDATASectionImpl

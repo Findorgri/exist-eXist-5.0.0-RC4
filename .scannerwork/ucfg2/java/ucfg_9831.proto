@@ -1,16 +1,0 @@
-
-+org.exist.storage.journal.Lsn#getOffset(J)J]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java9 9( "1*È
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java: :({
-y
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java: :(
-
-%0long"__id*
-"""g
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/journal/Lsn.java: :( 
-"":
-""B!"
-org.exist.storage.journal.Lsn

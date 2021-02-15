@@ -1,101 +1,0 @@
-
-Lorg.exist.xquery.value.IntegerValue#conversionPreference(Ljava/lang/Class;)Ie
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÊ Ê(#"startingBlock*Ü
-24e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÏ Ï("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÏ Ï(
-""*Ü
-15e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaØ Ø("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaØ Ø(
-""*Ü
-27e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÌ Ì("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÌ Ì(
-""*“
-28e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaË Ë(üù
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaË Ë(:
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*'
-24
-2
-15
-4
-27
-18
-7
-9
-21
-12
-1*Ü
-18e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÕ Õ("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÕ Õ(
-""*á
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaê ê(ƒ
-€
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaê ê( 	
-%1int"__id*
-"""o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaê ê(!
-""*Û
-2e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaç ç("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaç ç(
-""*Ô
-startingBlocke
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÊ# Ê(=´
-±
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÉ É(
-%2"
-__annotate*
-java.lang.Override*
-
-	javaClassjava.lang.Classž
-›
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÊ3 Ê(<
-	javaClassjava.lang.Class"__annotation*
-
-%2*
-28*Û
-4e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaä ä("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaä ä(
-""*Û
-7e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaá á("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaá á(
-""*Û
-9e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÞ Þ("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÞ Þ(
-""*Ü
-21e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÒ Ò("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÒ Ò(
-""*Ü
-12e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÛ Û("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.javaÛ Û(
-"":
-	javaClassjava.lang.ClassB'%
-#org.exist.xquery.value.IntegerValue

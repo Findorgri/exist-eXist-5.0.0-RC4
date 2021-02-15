@@ -1,9 +1,0 @@
-
-Iorg.exist.xquery.modules.sql.SQLModule#getDescription()Ljava/lang/String;y
-oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLModule.javaX X( "1*ê
-1y
-oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLModule.javaY Y(z"é
-y
-oC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/sql/SQLModule.javaY Y(|lj
-hA module for performing SQL queries against Databases, returning XML representations of the result sets.B*(
-&org.exist.xquery.modules.sql.SQLModule

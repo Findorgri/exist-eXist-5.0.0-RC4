@@ -1,117 +1,0 @@
-
-}org.exist.launcher.UtilityPanel#createButton(Ljavax/swing/JToolBar;Ljava/lang/String;Ljava/lang/String;)Ljavax/swing/JButton;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaõ õ( "1*´
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaú ú(/ˇ¸
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaú ú(B
-%0java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
-""*
-
-imagejava.lang.String2getResource(Ljava/lang/String;)ú
-ô
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaú ú(C
-imageURLjava.net.URL"__id*
-
-%0java.net.URLöó
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaù# ù(,
-%1javax.swing.ImageIcon"javax.swing.ImageIconÖ
-Ç
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaù ù(=
-%2"?javax.swing.ImageIcon#<init>(Ljava/net/URL;Ljava/lang/String;)V*
-
-%1javax.swing.ImageIcon*
-
-imageURLjava.net.URL*
-
-titlejava.lang.String™
-ß
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaù ù(>
-iconjavax.swing.ImageIcon"__id*
-
-%1javax.swing.ImageIconñì
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaû# û(*
-%3javax.swing.JButton"javax.swing.JButtonä
-á
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaû û(7
-%4"Ajavax.swing.JButton#<init>(Ljava/lang/String;Ljavax/swing/Icon;)V*
-
-%3javax.swing.JButton*
-
-titlejava.lang.String*
-
-iconjavax.swing.ImageIcon®
-•
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.javaû û(8
-buttonjavax.swing.JButton"__id*
-
-%3javax.swing.JButton·ﬁ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java† †(&
-
-%5void"/javax.swing.AbstractButton#setBorderPainted(Z)V*
-
-buttonjavax.swing.JButton*
-""2setBorderPainted(Z)ÈÊ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java° °(*
-
-%6void"3javax.swing.AbstractButton#setContentAreaFilled(Z)V*
-
-buttonjavax.swing.JButton*
-""2setContentAreaFilled(Z)ﬂ‹
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java¢ ¢(%
-
-%7void".javax.swing.AbstractButton#setFocusPainted(Z)V*
-
-buttonjavax.swing.JButton*
-""2setFocusPainted(Z)œÃ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java£ £(
-
-%8void"$javax.swing.JComponent#setOpaque(Z)V*
-
-buttonjavax.swing.JButton*
-""2setOpaque(Z)~
-|
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java§) §(>	
-%9int"__id*
-""˘ˆ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java§ §(?
-%10void"8javax.swing.AbstractButton#setHorizontalTextPosition(I)V*
-
-buttonjavax.swing.JButton*
-	
-%9int2setHorizontalTextPosition(I)
-}
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java•' •(<
-
-%11int"__id*
-""ˆÛ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java• •(=
-%12void"6javax.swing.AbstractButton#setVerticalTextPosition(I)V*
-
-buttonjavax.swing.JButton*
-
-
-%11int2setVerticalTextPosition(I)"Ñ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/UtilityPanel.java® ®(
-
-buttonjavax.swing.JButton:
-toolbarjavax.swing.JToolBar:
-imagejava.lang.String:
-titlejava.lang.StringB#!
-org.exist.launcher.UtilityPanel

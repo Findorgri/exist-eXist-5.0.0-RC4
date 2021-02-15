@@ -1,51 +1,0 @@
-
-Gorg.exist.dom.persistent.NewArrayNodeSet#debugParts()Ljava/lang/String;j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.javaş ş("5*ú
-3j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.java (ÿü
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.java (&
-%2java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2	append(I)şû
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.java‚ ‚(
-%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- 2	append(C)*
-3
-1*–
-5j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.javaÿ" ÿ(5§¤
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.javaÿ& ÿ(3
-%0java.lang.StringBuilder"java.lang.StringBuilder¹
-¶
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.javaÿ" ÿ(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder¶
-³
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.javaÿ ÿ(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-3
-1*æ
-1j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.java„ „(ëè
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.java„ „(
-%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"†
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NewArrayNodeSet.java„ „(
-
-%4java.lang.StringB,*
-(org.exist.dom.persistent.NewArrayNodeSet

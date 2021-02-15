@@ -1,49 +1,0 @@
-
-]org.exist.scheduler.impl.QuartzSchedulerImpl#deleteJob(Ljava/lang/String;Ljava/lang/String;)Zn
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaÞ Þ("startingBlock*Ö
-startingBlockn
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaÞ Þ(I¼
-¹
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaÝ Ý(
-%2"
-__annotate*
-java.lang.Override*
-
-jobNamejava.lang.String¦
-£
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaÞ* Þ(1
-jobNamejava.lang.String"__annotation*
-
-%2½
-º
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaÝ Ý(
-%3"
-__annotate*
-java.lang.Override*
-
-jobGroupjava.lang.String§
-¤
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaÞ@ Þ(H
-jobGroupjava.lang.String"__annotation*
-
-%3*
-7*‰
-7n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaá á(%Ž‹
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaá á('
-%0"Qorg.exist.scheduler.impl.QuartzSchedulerImpl#getScheduler()Lorg/quartz/Scheduler;*0.
-,org.exist.scheduler.impl.QuartzSchedulerImpl2getScheduler()*
-1*í
-1n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaå å("x
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/scheduler/impl/QuartzSchedulerImpl.javaå å(
-"":
-jobNamejava.lang.String:
-jobGroupjava.lang.StringB0.
-,org.exist.scheduler.impl.QuartzSchedulerImpl

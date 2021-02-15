@@ -1,17 +1,0 @@
-
-%org.exist.security.Session#isValid()ZZ
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaS S("1*ð
-1Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaT
- T(¨
-¥
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaT
- T($
-
-%0long"%java.lang.System#currentTimeMillis()J*"
-java.lang.System"d
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/Session.javaT T(;
-""B
-org.exist.security.Session

@@ -1,20 +1,0 @@
-
-)org.exist.launcher.ServiceManager#stop()Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java´ ´("2"1*Ç
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java≠ ≠(í
-è
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java≠ ∂(
-
-%0void"corg.exist.launcher.ServiceManager#runWrapperCmd(Ljava/lang/String;Ljava/util/function/BiConsumer;)V*%#
-!org.exist.launcher.ServiceManager*
-stop*
-""*
-1*◊
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java∏ ∏("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java∏ ∏(
-""B%#
-!org.exist.launcher.ServiceManager

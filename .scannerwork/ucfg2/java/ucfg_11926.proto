@@ -1,98 +1,0 @@
-
-;org.exist.xquery.update.Insert#toString()Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaﬁ ﬁ("2*°
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaﬂ% ﬂ(8ùö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaﬂ) ﬂ(6
-%0java.lang.StringBuilder"java.lang.StringBuilderØ
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaﬂ% ﬂ(8
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderØ
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaﬂ ﬂ(9!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder¶£
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.java‡ ‡('
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-update insert 2append(Ljava/lang/String;)Å˛
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.java· ·('
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)}
-{
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.java„ „(	
-%4int"__id*
-""}
-{
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÊ Ê(	
-%5int"__id*
-""}
-{
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÈ È(	
-%6int"__id*
-""*
-3
-4
-5
-1*ã
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÈ Î(ûõ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÍ Í('
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-
- into 2append(Ljava/lang/String;)*
-1*ê
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÊ Ë(£†
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÁ Á(,
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- preceding 2append(Ljava/lang/String;)*
-1*ê
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.java„ Â(£†
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.java‰ ‰(,
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- following 2append(Ljava/lang/String;)*
-1*—
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÌ Ì(Çˇ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÌ Ì((
-%10"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)Â‚
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÓ Ó( 
-%11java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/update/Insert.javaÓ Ó(!
-
-%11java.lang.StringB" 
-org.exist.xquery.update.Insert

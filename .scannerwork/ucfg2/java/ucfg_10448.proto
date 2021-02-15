@@ -1,267 +1,0 @@
-
-Sorg.exist.util.GlobToRegex#globToRegexp(Ljava/lang/CharSequence;)Ljava/lang/String;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaÉ É(%"31*•
-13\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java∫ ¬(ıÚ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaª ª('
-%15java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-\\2	append(C)æª
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaº º(.
-
-%16int" java.lang.CharSequence#length()I*#
-!
-patternjava.lang.CharSequence2length()*
-11
-12*ﬁ
-24\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaö ö(Û
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaö ö(+
-%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-?2	append(C)*
-30*‡
-14\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java∂ π(ıÚ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java∏ ∏($
-%14java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-""2	append(C)*
-30*º
-16\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java©  ©('…∆
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java©  ©(6
-%13char"!java.lang.CharSequence#charAt(I)C*#
-!
-patternjava.lang.CharSequence*
-""2	charAt(I)*
-17
-18
-30*Å
-27\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaï ï(ñì
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaï ï(+
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-.*2append(Ljava/lang/String;)*
-30*Å
-17\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaØ ≤()ñì
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java∞ ∞(*
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-]2append(Ljava/lang/String;)*
-30*ﬁ
-28\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaì ì(Û
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaì ì(+
-%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-*2	append(C)*
-30*ﬂ
-18\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java™ Æ()ÙÒ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java¨  ¨(2
-%11java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-^2	append(C)*
-30*§
-19\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java•  •($ÙÒ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java¶ ¶($
-%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-""2	append(C)æª
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java®! ®(1
-
-%10int" java.lang.CharSequence#length()I*#
-!
-patternjava.lang.CharSequence2length()*
-16
-30*¿
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaÀ À(·ﬁ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaÀ À( 
-%27java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-bufferjava.lang.StringBuilder2
-toString()"y
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaÀ À(!
-
-%27java.lang.String*’
-3\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaè è(…∆
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaè è("
-%26char"!java.lang.CharSequence#charAt(I)C*#
-!
-patternjava.lang.CharSequence*
-""2	charAt(I)*&
-13
-24
-14
-4
-27
-6
-28
-19
-20
-23*ﬂ
-4\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java∆ ∆(ıÚ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java∆ ∆($
-%25java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-""2	append(C)*
-30*ﬁ
-5\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java≈ ≈(ıÚ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java≈ ≈(,
-%24java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-\\2	append(C)*
-4*º
-6\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaƒ& ƒ(<–
-Õ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaƒ& ƒ(?
-%23boolean"5org.exist.util.GlobToRegex#__isPerl5MetaCharacter(C)Z*"
-org.exist.util.GlobToRegex*
-""*
-4
-5*ﬂ
-9\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java¡ ¡(ıÚ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java¡ ¡(,
-%22java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-\\2	append(C)*
-30*™
-30\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaé é(Ω∫
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaé é(*	
-%3int" java.lang.CharSequence#length()I*#
-!
-patternjava.lang.CharSequence2length()*
-3
-1*Ç
-20\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java° °(óî
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.java° °((
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-\\[2append(Ljava/lang/String;)*
-30*æ
-31\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaÑ Ñ(í
-è
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaà à(!
-bufferjava.lang.StringBuilder"__id*
-""Ω∫
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaä' ä(7	
-%0int" java.lang.CharSequence#length()I*#
-!
-patternjava.lang.CharSequence2length()ôñ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaä ä("
-%1java.lang.StringBuilder"java.lang.StringBuilder¥
-±
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaä ä(8
-%2""java.lang.StringBuilder#<init>(I)V*
-
-%1java.lang.StringBuilder*
-""´
-®
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaä ä(8!
-bufferjava.lang.StringBuilder"__id*
-
-%1java.lang.StringBuilder*
-30*≥
-10\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaø ø(…∆
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaø' ø(;
-%20char"!java.lang.CharSequence#charAt(I)C*#
-!
-patternjava.lang.CharSequence*
-""2	charAt(I)¸˘
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaø ø(<
-%21java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-
-%20char2	append(C)*
-30*ê
-11\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaæ æ(4…∆
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaæ5 æ(K
-%18char"!java.lang.CharSequence#charAt(I)C*#
-!
-patternjava.lang.CharSequence*
-""2	charAt(I)÷
-”
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaæ æ(L
-%19boolean"4org.exist.util.GlobToRegex#__isGlobMetaCharacter(C)Z*"
-org.exist.util.GlobToRegex*
-
-%18char*
-9
-10*‡
-12\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaΩ Ω(ıÚ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaΩ Ω(+
-%17java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-\\2	append(C)*
-30*Å
-23\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaú ú(ñì
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GlobToRegex.javaú ú(+
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-bufferjava.lang.StringBuilder*
-.?2append(Ljava/lang/String;)*
-30:!
-patternjava.lang.CharSequenceB"
-org.exist.util.GlobToRegex

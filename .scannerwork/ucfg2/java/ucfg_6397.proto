@@ -1,44 +1,0 @@
-
-?org.exist.util.XMLChar#isValidJavaEncoding(Ljava/lang/String;)ZX
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java£ £(-"16"1*ª
-13X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¨# ¨(/½º
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¨# ¨(9
-
-%1char"java.lang.String#charAt(I)C*"
- 
-javaEncodingjava.lang.String*
-""2	charAt(I)*
-
-2
-13
-4*Á
-2X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¯ ¯("b
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¯ ¯(
-""*Á
-4X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¬ ¬($"b
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¬ ¬(%
-""*Ÿ
-16X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¥ ¥(+²¯
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java¥ ¥(4	
-%0int"java.lang.String#length()I*"
- 
-javaEncodingjava.lang.String2length()*
-
-2
-13
-1*Á
-1X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java² ²("b
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.java² ²(
-"": 
-javaEncodingjava.lang.StringB"
-org.exist.util.XMLChar

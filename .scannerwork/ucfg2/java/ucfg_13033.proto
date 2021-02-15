@@ -1,53 +1,0 @@
-
-Norg.exist.xquery.XQueryContext#getModule(Ljava/lang/String;)Ljava/lang/Module;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª ª("startingBlock*€
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª ª(6³
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ¨(
-%2"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String©
-¦
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java© ©(
-%3"
-__annotate*
-
-Nullable*"
- 
-namespaceURIjava.lang.String¥
-¢
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª) ª(5 
-namespaceURIjava.lang.String"__annotation*
-
-%2*
-
-%3*
-1*Ü
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(±
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(
-%0java.util.Map"__id*/*- 
-org.exist.xquery.XQueryContext"	
-modulesÂ
-¿
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «((
-%1java.lang.Module"__mapGet*
-
-%0java.util.Map*"
- 
-namespaceURIjava.lang.String"|
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «()
-
-%1java.lang.Module: 
-namespaceURIjava.lang.StringB" 
-org.exist.xquery.XQueryContext

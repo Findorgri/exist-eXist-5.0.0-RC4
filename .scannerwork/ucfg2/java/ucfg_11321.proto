@@ -1,46 +1,0 @@
-
-Borg.exist.client.ClientFrame$XMLFileFilter#accept(Ljava/io/File;)Z^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java• •("startingBlock*Í
-2^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java— —("h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java— —(
-""*¡
-3^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java– –(³°
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java– –(
-%0boolean"java.io.File#isDirectory()Z*
-
-fjava.io.File2isDirectory()*
-2
-1*¨
-startingBlock^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java• •(+¢
-Ÿ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java” ”(
-%2"
-__annotate*
-java.lang.Override*
-
-fjava.io.FileŒ
-‰
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java•) •(*
-fjava.io.File"__annotation*
-
-%2*
-3*•
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java™ ™(ÅÂ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java™8 ™(C
-%1java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-fjava.io.File2	getName()"h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ClientFrame.java™ ™(E
-"":
-fjava.io.FileB.,
-*org.exist.client.ClientFrame$XMLFileFilter

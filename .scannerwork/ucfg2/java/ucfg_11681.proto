@@ -1,38 +1,0 @@
-
-:org.exist.util.MimeTable#isXMLContent(Ljava/lang/String;)ZZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java° °("5*Å
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java· ·("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java· ·(
-""*Å
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java³ ³("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java³ ³(
-""*Š
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java± ±('‚
-ÿ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java± ±(1
-%0java.lang.String"Korg.exist.util.MimeTable#getExtension(Ljava/lang/String;)Ljava/lang/String;*
-org.exist.util.MimeTable*
-
-fileNamejava.lang.String˜
-•
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java± ±(2
-extjava.lang.String"__id*
-
-%0java.lang.String*	
-2
-4
-1*Å
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java¹ ¹("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.java¹ ¹(.
-"":
-fileNamejava.lang.StringB
-org.exist.util.MimeTable

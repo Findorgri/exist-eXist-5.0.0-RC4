@@ -1,68 +1,0 @@
-
-Forg.exist.fluent.Source$5#createInputSource()Lorg/xml/sax/InputSource;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÎ Î(*"3*‘
-2k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÏ% Ï(/å
-â
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÏ% Ï(=
-%1char[]"8org.exist.fluent.Source#readReader(Ljava/io/Reader;[C)[C*"
-org.exist.fluent.Source*
-""*
-""±
-®
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÏ Ï(=)
-org.exist.fluent.Source$5"
-
-contents"__id*
-
-%1char[]*
-1*¬
-3k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÏ Ï(±
-®
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÏ Ï(
-%0char[]"__id*+*)
-org.exist.fluent.Source$5"
-
-contents*
-2
-1*È	
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ/ Ð(7±
-®
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ/ Ð(7
-%2char[]"__id*+*)
-org.exist.fluent.Source$5"
-
-contents¨¥
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(.
-%3java.io.CharArrayReader"java.io.CharArrayReaderÌ
-É
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(8
-%4"#java.io.CharArrayReader#<init>([C)V*
-
-%3java.io.CharArrayReader*
-
-%2char[]¨¥
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(
-%5org.xml.sax.InputSource"org.xml.sax.InputSourceë
-è
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(9
-%6"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V*
-
-%5org.xml.sax.InputSource*
-
-%3java.io.CharArrayReader"Ž
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(:
-
-%5org.xml.sax.InputSourceB
-org.exist.fluent.Source$5

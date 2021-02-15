@@ -1,23 +1,0 @@
-
-jorg.exist.xquery.util.ExpressionDumper#display(Ljava/lang/Object;)Lorg/exist/xquery/util/ExpressionDumper;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaU U(#"1*Ð
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaV V(ÜÙ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaV V((
-%0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-objectjava.lang.Object2
-toString()èå
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaV V(),
-%1&org.exist.xquery.util.ExpressionDumper"jorg.exist.xquery.util.ExpressionDumper#display(Ljava/lang/String;)Lorg/exist/xquery/util/ExpressionDumper;**(
-&org.exist.xquery.util.ExpressionDumper*
-
-%0java.lang.String2display(Ljava/lang/String;)"˜
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/ExpressionDumper.javaV V(*.
-,
-%1&org.exist.xquery.util.ExpressionDumper:
-objectjava.lang.ObjectB*(
-&org.exist.xquery.util.ExpressionDumper

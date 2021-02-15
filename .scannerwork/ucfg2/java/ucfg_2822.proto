@@ -1,23 +1,0 @@
-
-Torg.exist.storage.BrokerFactory#formatBrokerId(Ljava/lang/String;)Ljava/lang/String;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerFactory.javaì ì(("1*î
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerFactory.javaî î(å
-â
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerFactory.javaî$ î(2
-%0java.util.Locale"__id*
-""ùö
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerFactory.javaî î(3
-%1java.lang.String"Bjava.lang.String#toUpperCase(Ljava/util/Locale;)Ljava/lang/String;*
-
-brokerIdjava.lang.String*
-
-%0java.util.Locale2toUpperCase(Ljava/util/Locale;)"}
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerFactory.javaî î(4
-
-%1java.lang.String:
-brokerIdjava.lang.StringB#"!
-org.exist.storage.BrokerFactory

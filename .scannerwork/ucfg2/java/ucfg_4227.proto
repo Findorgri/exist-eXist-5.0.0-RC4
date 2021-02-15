@@ -1,29 +1,0 @@
-
-torg.exist.xmlrpc.RpcConnection#storeBinary([BLjava/lang/String;Ljava/lang/String;ILjava/util/Date;Ljava/util/Date;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÓ Ó("1*¬
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÕ Õ(ØÕ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÕ Õ(l
-%0"torg.exist.xmlrpc.RpcConnection#storeBinary([BLjava/lang/String;Ljava/lang/String;ILjava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-databyte[]*
-""*
-
-mimeTypejava.lang.String*
-""*
-
-createdjava.util.Date*
-
-modifiedjava.util.Date2TstoreBinary([BLjava/lang/String;Ljava/lang/String;ILjava/util/Date;Ljava/util/Date;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÕ Õ(m
-"":
-databyte[]: 
-documentPathjava.lang.String:
-mimeTypejava.lang.String:
-"":
-createdjava.util.Date:
-modifiedjava.util.DateB" 
-org.exist.xmlrpc.RpcConnection

@@ -1,32 +1,0 @@
-
-\org.exist.util.OrderedLinkedList$SimpleNode#equals(Lorg/exist/util/OrderedLinkedList$Node;)Z`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java8 8("1*Ù
-1`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java9 9(Ã
-À
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java9
- 9("
-%0java.lang.Comparable"__id*:*8
-.
-other%org.exist.util.OrderedLinkedList$Node"
-dataÂ
-¿
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java9* 9(.
-%1java.lang.Comparable"__id*9*7-
-+org.exist.util.OrderedLinkedList$SimpleNode"
-dataú÷
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java9
- 9(/
-%2boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.Comparable*
-
-%1java.lang.Comparable2equals(Ljava/lang/Object;)"j
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/OrderedLinkedList.java9 9(0
-"":.
-other%org.exist.util.OrderedLinkedList$NodeB/-
-+org.exist.util.OrderedLinkedList$SimpleNode

@@ -1,16 +1,0 @@
-
-Porg.exist.management.impl.ProcessReport#getAllInstancesQuery()Ljava/lang/String;g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/ProcessReport.java2 2(-"1*Ñ
-1g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/ProcessReport.java3 3(è
-å
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/ProcessReport.java3 3(
-%0java.lang.String"Uorg.exist.management.impl.ProcessReport#getName(Ljava/lang/String;)Ljava/lang/String;*+")
-'org.exist.management.impl.ProcessReport*
-*"É
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/ProcessReport.java3 3(
-
-%0java.lang.StringB+")
-'org.exist.management.impl.ProcessReport

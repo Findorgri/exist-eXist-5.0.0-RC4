@@ -1,17 +1,0 @@
-
-_org.exist.http.jaxb.Query$Variables#getVariable()Lorg/exist/http/jaxb/Query$Variables$Variable;[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.javaÿ( ÿ(3"1*Ê
-1[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java€ €(Ñ
-Î
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java€ €(2
-%0,org.exist.http.jaxb.Query$Variables$Variable"__id*5*3%
-#org.exist.http.jaxb.Query$Variables"
-
-variable"“
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Query.java€ €(4
-2
-%0,org.exist.http.jaxb.Query$Variables$VariableB'%
-#org.exist.http.jaxb.Query$Variables

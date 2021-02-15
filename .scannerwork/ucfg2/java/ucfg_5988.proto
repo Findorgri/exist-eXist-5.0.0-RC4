@@ -1,17 +1,0 @@
-
-borg.exist.indexing.lucene.LuceneIndexConfig#getNext()Lorg/exist/indexing/lucene/LuceneIndexConfig;‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.java‡ ‡($"1*Ù
-1‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaˆ ˆ(‡
-„
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaˆ ˆ(1
-%0+org.exist.indexing.lucene.LuceneIndexConfig"__id*?*=-
-+org.exist.indexing.lucene.LuceneIndexConfig"
-
-nextConfig"¿
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexConfig.javaˆ ˆ(3
-1
-%0+org.exist.indexing.lucene.LuceneIndexConfigB/-
-+org.exist.indexing.lucene.LuceneIndexConfig

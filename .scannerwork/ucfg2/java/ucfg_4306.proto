@@ -1,91 +1,0 @@
-
-corg.exist.xmlrpc.RpcConnection#parseLocal(Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaò ò("startingBlock*ð
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó< ó(=ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó< ó(=	
-%0int"__id*
-	
-%2int*
-1*ð
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó8 ó(9ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó8 ó(9	
-%0int"__id*
-	
-%1int*
-1*ã
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaò ò(y°
-­
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javañ ñ(
-%4"
-__annotate*
-java.lang.Override*
-
-	localFilejava.lang.Stringš
-—
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaò+ ò(4
-	localFilejava.lang.String"__annotation*
-
-%4®
-«
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javañ ñ(
-%5"
-__annotate*
-java.lang.Override*
-
-docNamejava.lang.String˜
-•
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaòC ò(J
-docNamejava.lang.String"__annotation*
-
-%5¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javañ ñ(
-%6"
-__annotate*
-java.lang.Override*
-
-mimeTypejava.lang.String™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaòp ò(x
-mimeTypejava.lang.String"__annotation*
-
-%6*
-2
-3*Ô
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó? ó(G€ý
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó ó(T
-%3boolean"ƒorg.exist.xmlrpc.RpcConnection#parseLocal(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-	localFilejava.lang.String*
-
-docNamejava.lang.String*
-	
-%0int*
-
-mimeTypejava.lang.String*
-""*
-""2cparseLocal(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/util/Date;Ljava/util/Date;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaó ó(U
-"":
-	localFilejava.lang.String:
-docNamejava.lang.String:
-"":
-mimeTypejava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

@@ -1,71 +1,0 @@
-
-Torg.exist.xquery.ModuleContext#getPrefixForURI(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java· ·(!"startingBlock*è
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¿ ¿("€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¿ ¿(
-
-prefixjava.lang.String*Ñ
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java½ ½(#½º
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java½ ½((
-%1java.lang.String"Worg.exist.xquery.ModuleContext#getInheritedPrefix(Ljava/lang/String;)Ljava/lang/String;*" 
-org.exist.xquery.ModuleContext*
-
-urijava.lang.String2&getInheritedPrefix(Ljava/lang/String;)¡
-ž
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java½ ½((
-prefixjava.lang.String"__id*
-
-%1java.lang.String*
-2
-1*º
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java·! ·(3ª
-§
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¶ ¶(
-%2"
-__annotate*
-java.lang.Override*
-
-urijava.lang.String”
-‘
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java·/ ·(2
-urijava.lang.String"__annotation*
-
-%2*
-5*è
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaº º("€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaº º(
-
-prefixjava.lang.String*Í
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¸ ¸((¹¶
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¸ ¸(-
-%0java.lang.String"Uorg.exist.xquery.ModuleContext#getInScopePrefix(Ljava/lang/String;)Ljava/lang/String;*" 
-org.exist.xquery.ModuleContext*
-
-urijava.lang.String2$getInScopePrefix(Ljava/lang/String;)¡
-ž
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java¸ ¸(.
-prefixjava.lang.String"__id*
-
-%0java.lang.String*
-3
-4*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÁ Á("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÁ Á('
-"":
-urijava.lang.StringB" 
-org.exist.xquery.ModuleContext

@@ -1,52 +1,0 @@
-
-7org.exist.client.security.EditPropertiesDialog#isDba()Zp
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaö ö("1*ˆ
-1p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaõ; õ(Aë
-é
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaõI õ(c
-%0"`org.exist.client.security.EditPropertiesDialog#getUserManagementService()LUserManagementService;*20
-.org.exist.client.security.EditPropertiesDialogÿ
-’
-q
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaõ; õ(è
-%1"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
-java.util.Arrays*
-""°û
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaõ+ õ(:
-%2java.util.HashSet"java.util.HashSet“
-œ
-q
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaõ' õ(ê
-%3"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
-
-%2java.util.HashSet*
-
-%1¥
-±
-q
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaõ õ(ë
-
-dbaMembersjava.util.Set"__id*
-
-%2java.util.HashSetÿ
-’
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaú# ú(.
-%4java.lang.String"__id*C*A0
-.org.exist.client.security.EditPropertiesDialog"
-currentUseràÖ
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaú ú(/
-%5boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
-
-
-dbaMembersjava.util.Set*
-
-%4java.lang.String2contains(Ljava/lang/Object;)"z
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/EditPropertiesDialog.javaú ú(0
-""B20
-.org.exist.client.security.EditPropertiesDialog

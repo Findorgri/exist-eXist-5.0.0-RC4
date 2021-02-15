@@ -1,111 +1,0 @@
-
-uorg.exist.dom.memtree.DocumentImpl#getElementsByTagNameNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/NodeList;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÀ À(*"startingBlock*‰
-14d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÅ Å('¬©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÅ Å(J
-%2"aorg.exist.dom.memtree.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*&$
-"org.exist.dom.memtree.DocumentImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÅ Å(K
-
-%2*Æ
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÀ* À(]·
-´
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.java¿ ¿(
-%9"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String¡
-ž
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÀ8 À(D 
-namespaceURIjava.lang.String"__annotation*
-
-%9µ
-²
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.java¿ ¿(
-%10"
-__annotate*
-java.lang.Override*
-
-	localNamejava.lang.StringŸ
-œ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÀS À(\
-	localNamejava.lang.String"__annotation*
-
-%10*
-14
-17
-19
-10
-12
-1*à
-17d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÂ? Â(Hâß
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÂ? Â(_
-%1",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	localNamejava.lang.String*
-""2equals(Ljava/lang/Object;)*
-14
-10
-12
-1*ç
-19d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÁ; Á(Gåâ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÁ; Á(^
-%0",java.lang.String#equals(Ljava/lang/Object;)Z*"
- 
-namespaceURIjava.lang.String*
-""2equals(Ljava/lang/Object;)*
-14
-17
-10
-12
-1*‰
-10d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÉ É('¬©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÉ É(W
-%4"aorg.exist.dom.memtree.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*&$
-"org.exist.dom.memtree.DocumentImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÉ É(X
-
-%4*‰
-12d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÇ Ç('¬©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÇ Ç(W
-%3"aorg.exist.dom.memtree.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*&$
-"org.exist.dom.memtree.DocumentImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÇ Ç(X
-
-%3*ˆ
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÕ Õ('¬©
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÕ Õ(.
-%8"aorg.exist.dom.memtree.DocumentImpl#getElementsByTagName(Ljava/lang/String;)Lorg/w3c/dom/NodeList;*&$
-"org.exist.dom.memtree.DocumentImpl*
-""2(getElementsByTagName(Ljava/lang/String;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaÕ Õ(/
-
-%8: 
-namespaceURIjava.lang.String:
-	localNamejava.lang.StringB&$
-"org.exist.dom.memtree.DocumentImpl

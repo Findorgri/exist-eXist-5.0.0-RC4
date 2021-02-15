@@ -1,16 +1,0 @@
-
-:org.exist.http.Response#getContentType()Ljava/lang/String;W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javab b("1*ü
-1W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javac	 c(¨
-¥
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javac	 c(
-%0java.lang.String"__id*,**
-org.exist.http.Response"
-contentType"s
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/Response.javac c(
-
-%0java.lang.StringB
-org.exist.http.Response

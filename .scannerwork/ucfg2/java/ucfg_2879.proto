@@ -1,28 +1,0 @@
-
-8org.exist.storage.index.BFile$BFilePageHeader#read([BI)I_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÙ Ù("startingBlock*•
-startingBlock_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÙ Ù(6†
-ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÛ Û(
-%0"
-__annotate*
-java.lang.Override*
-
-databyte[]ä
-á
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaÙ% Ù()
-databyte[]"__annotation*
-
-%0*
-1*œ
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaı ı("i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaˇ ˇ(
-"":
-databyte[]:
-""B1/
--org.exist.storage.index.BFile$BFilePageHeader

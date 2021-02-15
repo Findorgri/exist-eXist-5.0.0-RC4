@@ -1,76 +1,0 @@
-
-Horg.exist.xquery.modules.counter.Counters#nextValue(Ljava/lang/String;)J~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javañ ñ(&"7*Ü
-4~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.java° °(˚
-¯
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.java° °(
-
-%6void";org.exist.xquery.modules.counter.Counters#serializeTable()V*-+
-)org.exist.xquery.modules.counter.Counters*
-1*å
-5~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaõ õ(€
-ÿ
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaõ õ(
-%2java.util.Map"__id*;*9+
-)org.exist.xquery.modules.counter.Counters"
-
-counters›
-⁄
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaõ õ(*
-%3java.lang.Long"__mapGet*
-
-%2java.util.Map*!
-
-counterNamejava.lang.String€
-ÿ
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaû û(
-%4java.util.Map"__id*;*9+
-)org.exist.xquery.modules.counter.Counters"
-
-countersÂ
-‚
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaû û($
-%5java.lang.Long"__mapSet*
-
-%4java.util.Map*!
-
-counterNamejava.lang.String*
-""*
-4*é
-6~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaò ò("à
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaò ò(
-""*â
-7~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaó ó(€
-ÿ
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaó ó(
-%0java.util.Map"__id*;*9+
-)org.exist.xquery.modules.counter.Counters"
-
-countersùö
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.javaó ó(.
-%1boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*
-
-%0java.util.Map*!
-
-counterNamejava.lang.String2containsKey(Ljava/lang/Object;)*
-5
-6*é
-1~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.java¶ ¶("à
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/counter/Counters.java¶ ¶(
-"":
-counterNamejava.lang.StringB-+
-)org.exist.xquery.modules.counter.Counters

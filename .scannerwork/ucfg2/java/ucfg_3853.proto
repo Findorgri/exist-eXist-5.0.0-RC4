@@ -1,21 +1,0 @@
-
-?org.exist.debuggee.dbgp.packets.BreakpointList#commandBytes()[B‚
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaH H("1*¹
-1‚
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaI I((³
-°
-‚
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaI I(7
-commandjava.lang.String"__id*
-""àÝ
-‚
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaJ	 J(
-%0byte[]"java.lang.String#getBytes()[B*
-
-commandjava.lang.String2
-getBytes()"•
-‚
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/BreakpointList.javaJ J(
-
-%0byte[]B20
-.org.exist.debuggee.dbgp.packets.BreakpointList

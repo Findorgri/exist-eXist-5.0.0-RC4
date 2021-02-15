@@ -1,64 +1,0 @@
-
--org.exist.util.Base64Encoder#getCharArray()[C^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaÖ Ö("9*Ë
-3^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaç ç(~
-|
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaç ç(#
-chchar[]"__id*
-""*
-1*é
-5^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaå å(£
-†
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaå å(
-%3char[]"__id***(
-org.exist.util.Base64Encoder"
-line*
-6*ë
-6^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaã ã(£
-†
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaã ã( 
-%2char[]"__id***(
-org.exist.util.Base64Encoder"
-line*
-3
-5*®
-7^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaä ä(Ω
-∫
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaä ä(
-
-%1void"*org.exist.util.Base64Encoder#flush_line()V* 
-org.exist.util.Base64Encoder*
-6*≤
-8^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaâ â(!«
-ƒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaâ â(#
-
-%0void"4org.exist.util.Base64Encoder#encode_partial_token()V* 
-org.exist.util.Base64Encoder*
-7*Î
-9^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaÜ Ü(~
-|
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaÜ Ü(
-chchar[]"__id*
-""*
-7
-8*’
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaê ê("p
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Base64Encoder.javaê ê(
-
-chchar[]B 
-org.exist.util.Base64Encoder

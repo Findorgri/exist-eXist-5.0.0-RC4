@@ -1,157 +1,0 @@
-
-Porg.exist.fluent.QueryService#convertValue(Ljava/lang/Object;)Ljava/lang/Object;q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java° °("startingBlock*Ü
-2q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java±
- ±("ç
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java± ±(
-
-listjava.util.List*è
-3q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØ Ø(Á‰
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØ Ø(!
-%8java.lang.Object"/java.util.ListIterator#next()Ljava/lang/Object;*
-
-itjava.util.ListIterator2next()ù
-ö
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØ Ø("
-%9java.lang.Object"Porg.exist.fluent.QueryService#convertValue(Ljava/lang/Object;)Ljava/lang/Object;*!
-org.exist.fluent.QueryService*
-
-%8java.lang.ObjectáÑ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaØ Ø(#
-%10void"/java.util.ListIterator#set(Ljava/lang/Object;)V*
-
-itjava.util.ListIterator*
-
-%9java.lang.Object2set(Ljava/lang/Object;)*
-4*¸
-startingBlockq
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java° °(&¬
-ø
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java† †(
-%11"
-__annotate*
-java.lang.SuppressWarnings*
-
-ojava.lang.Object§
-°
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java°$ °(%
-ojava.lang.Object"__annotation*
-
-%11*
-16
-10
-12*‘
-4q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ7 Æ(9”–
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ7 Æ(C
-%7boolean"!java.util.ListIterator#hasNext()Z*
-
-itjava.util.ListIterator2	hasNext()*
-2
-3*‚
-16q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¢ ¢(#⁄
-◊
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¢ ¢(/
-%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
-java.util.Collections"ã
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¢ ¢(0
-
-%0java.util.List*∞
-5q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ" Æ(&ıÚ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ" Æ(5
-%6java.util.ListIterator"5java.util.List#listIterator()Ljava/util/ListIterator;*
-
-listjava.util.List2listIterator()∫
-∑
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.javaÆ Æ(5
-itjava.util.ListIterator"__id*
-
-%6java.util.ListIterator*
-4*¿
-7q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨? ¨(E˘
-ˆ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨? ¨(Z
-%3java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
-java.util.Arrays*
-
-ojava.lang.Object¶£
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨- ¨(>
-%4java.util.ArrayList"java.util.ArrayListÊ
-„
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨) ¨([
-%5"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*
-
-%4java.util.ArrayList*
-
-%3java.util.List±
-Æ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java¨" ¨([
-listjava.util.List"__id*
-
-%4java.util.ArrayList*
-5
-1*≈
-9q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java´I ´(J¶£
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java´* ´(;
-%1java.util.ArrayList"java.util.ArrayListÁ
-‰
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java´& ´(K
-%2"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*
-
-%1java.util.ArrayList*
-
-ojava.lang.Object±
-Æ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java´ ´(K
-listjava.util.List"__id*
-
-%1java.util.ArrayList*
-5
-1*§
-10q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java™ ™(ú
-ô
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java™ ™(
-listjava.util.List"__id*
-""*
-5
-7
-9
-1*Ù
-12q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java• •(."{
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java• •(.
-""*Û
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java≥	 ≥("{
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java≥ ≥("
-"":
-ojava.lang.ObjectB!
-org.exist.fluent.QueryService

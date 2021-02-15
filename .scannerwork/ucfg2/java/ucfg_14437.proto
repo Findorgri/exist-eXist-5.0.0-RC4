@@ -1,79 +1,0 @@
-
-@org.exist.xmldb.XmldbURI#startsWith(Lorg/exist/xmldb/XmldbURI;)ZZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java± ±("8"9*≈
-3Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaø ø("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaø ø(
-""*ò
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaæ æ( ƒ
-¡
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaæ æ(#
-%2org.exist.xmldb.XmldbURI"
-__arrayGet*/
--
-prefix_segmentsorg.exist.xmldb.XmldbURI[]*
-""Ω
-∫
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaæ3 æ(>
-%3org.exist.xmldb.XmldbURI"
-__arrayGet*(
-&
-segmentsorg.exist.xmldb.XmldbURI[]*
-""§°
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaæ æ(?
-%4boolean"Dorg.exist.xmldb.XmldbURI#equalsInternal(Lorg/exist/xmldb/XmldbURI;)Z* 
-
-%2org.exist.xmldb.XmldbURI* 
-
-%3org.exist.xmldb.XmldbURI2*equalsInternal(Lorg/exist/xmldb/XmldbURI;)*	
-3
-4
-1*≈
-7Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∫ ∫("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∫ ∫(
-""*Ÿ
-8Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∂$ ∂(3˘ˆ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∂$ ∂(5 
-%0org.exist.xmldb.XmldbURI[]"Eorg.exist.xmldb.XmldbURI#getPathSegments()[Lorg/exist/xmldb/XmldbURI;*
-org.exist.xmldb.XmldbURI2getPathSegments()±
-Æ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∂ ∂(6&
-segmentsorg.exist.xmldb.XmldbURI[]"__id*"
- 
-%0org.exist.xmldb.XmldbURI[]Å˛
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∑+ ∑(C 
-%1org.exist.xmldb.XmldbURI[]"Eorg.exist.xmldb.XmldbURI#getPathSegments()[Lorg/exist/xmldb/XmldbURI;*$
-"
-prefixorg.exist.xmldb.XmldbURI2getPathSegments()∏
-µ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∑ ∑(D-
-prefix_segmentsorg.exist.xmldb.XmldbURI[]"__id*"
- 
-%1org.exist.xmldb.XmldbURI[]*	
-4
-7
-1*≈
-9Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java≥ ≥("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java≥ ≥(
-""*≈
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√ √("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java√ √(
-"":"
-prefixorg.exist.xmldb.XmldbURIB
-org.exist.xmldb.XmldbURI

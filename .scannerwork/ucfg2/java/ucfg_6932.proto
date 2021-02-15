@@ -1,16 +1,0 @@
-
-Corg.exist.management.impl.Lock#getWaitingThread()Ljava/lang/String;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java1 1(""1*š
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java2 2(¸
-µ
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java2 2(
-%0java.lang.String"__id*5*3 
-org.exist.management.impl.Lock"
-waitingThread"z
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Lock.java2 2(
-
-%0java.lang.StringB" 
-org.exist.management.impl.Lock

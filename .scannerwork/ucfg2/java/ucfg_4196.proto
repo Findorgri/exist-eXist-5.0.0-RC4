@@ -1,94 +1,0 @@
-
-Worg.exist.xmlrpc.RpcConnection#xupdateResource(Ljava/lang/String;[BLjava/lang/String;)I`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java∆ ∆("startingBlock*—
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java» »(s"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java» »(s
-""* 
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java∆ ∆(bØ
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java≈ ≈(
-%4"
-__annotate*
-java.lang.Override*
-
-resourcejava.lang.Stringô
-ñ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java∆, ∆(4
-resourcejava.lang.String"__annotation*
-
-%4§
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java≈ ≈(
-%5"
-__annotate*
-java.lang.Override*
-
-xupdatebyte[]é
-ã
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java∆C ∆(J
-xupdatebyte[]"__annotation*
-
-%5Ø
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java≈ ≈(
-%6"
-__annotate*
-java.lang.Override*
-
-encodingjava.lang.Stringô
-ñ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java∆Y ∆(a
-encodingjava.lang.String"__annotation*
-
-%6*
-6*Ì
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java» »(rÄ
-˝
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java» »(r
-%3"Morg.exist.xmlrpc.RpcConnection#xupdateResource(LXmldbURI;Ljava/lang/String;)I*" 
-org.exist.xmlrpc.RpcConnection*
-""*
-
-%1java.lang.String*
-3*Û
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java»C »(qèå
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java»G »(M
-%1java.lang.String"java.lang.StringÙ
-Ò
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java»C »(q
-%2"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
-
-%1java.lang.String*
-
-xupdatebyte[]* 
-
-%0java.nio.charset.Charset*
-4*Ä
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java»N »(Uì
-ê
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java»W »(p
-%0java.nio.charset.Charset"Njava.nio.charset.Charset#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*"
-java.nio.charset.Charset*
-
-encodingjava.lang.String*
-5:
-resourcejava.lang.String:
-xupdatebyte[]:
-encodingjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

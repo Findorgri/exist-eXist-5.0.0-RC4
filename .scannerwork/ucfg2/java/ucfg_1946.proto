@@ -1,96 +1,0 @@
-
-dorg.exist.dom.persistent.ElementImpl#findDupAttributes(Lorg/w3c/dom/NodeList;)Lorg/w3c/dom/NodeList;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaã ã(&"10*É
-6f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaï# ï(&ËÂ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaï6 ï(L
-%5java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
-
-attrorg.w3c.dom.Node2getNamespaceURI()¯ı
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaï# ï(X
-%6org.w3c.dom.Node"_org.w3c.dom.NamedNodeMap#getNamedItemNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Node;*!
-
-maporg.w3c.dom.NamedNodeMap*
-
-%5java.lang.String*
-
-	localNamejava.lang.String24getNamedItemNS(Ljava/lang/String;Ljava/lang/String;)™
-ß
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaï ï(Y
-	duplicateorg.w3c.dom.Node"__id*
-
-%6org.w3c.dom.Node*
-9*Ä
-7f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaì ì( ‡›
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaì ì(.
-%4java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-attrorg.w3c.dom.Node2getNodeName()™
-ß
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaì ì(.
-	localNamejava.lang.String"__id*
-
-%4java.lang.String*
-6*ï
-8f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaè è(#Â‚
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaè è(+
-%2org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*
-
-attrsorg.w3c.dom.NodeList*
-""2item(I)•
-¢
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaè è(,
-attrorg.w3c.dom.Node"__id*
-
-%2org.w3c.dom.Node‚ﬂ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaë ë(2
-%3java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
-
-attrorg.w3c.dom.Node2getLocalName()™
-ß
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaë ë(3
-	localNamejava.lang.String"__id*
-
-%3java.lang.String*
-6
-7*Ω
-9f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(«ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(,	
-%1int"!org.w3c.dom.NodeList#getLength()I*
-
-attrsorg.w3c.dom.NodeList2getLength()*
-8
-1*¡
-10f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå- å(1ñì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaç! ç(0
-%0org.w3c.dom.NamedNodeMap"Norg.exist.dom.persistent.ElementImpl#getAttributes()Lorg/w3c/dom/NamedNodeMap;*(&
-$org.exist.dom.persistent.ElementImpl2getAttributes()¥
-±
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaç ç(1
-maporg.w3c.dom.NamedNodeMap"__id* 
-
-%0org.w3c.dom.NamedNodeMap*
-9*›
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaù ù("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaù ù(
-"":
-attrsorg.w3c.dom.NodeListB(&
-$org.exist.dom.persistent.ElementImpl

@@ -1,34 +1,0 @@
-
-Borg.exist.util.FileInputSource#getSymbolicPath()Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaï ï("1*ƒ	
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javañ ñ(≥
-∞
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaó	 ó(
-%0java.util.Optional"__id*,** 
-org.exist.util.FileInputSource"
-fileíè
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaó	 ó('
-%1java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%0java.util.Optional*
-""2"map(Ljava/util/function/Function;)íè
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaó	 ó(;
-%2java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%1java.util.Optional*
-""2"map(Ljava/util/function/Function;)˛˚
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaó	 ó(H
-%3java.lang.String"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%2java.util.Optional*
-""2orElse(Ljava/lang/Object;)"|
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaó ó(I
-
-%3java.lang.StringB" 
-org.exist.util.FileInputSource

@@ -1,16 +1,0 @@
-
-?org.exist.xmldb.DatabaseStatus#getDataDir()Ljava/nio/file/Path;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaT T("1*˜
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaU	 U(´
-±
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaU	 U(
-%0java.nio.file.Path"__id*/*- 
-org.exist.xmldb.DatabaseStatus"	
-dataDir"|
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/DatabaseStatus.javaU U(
-
-%0java.nio.file.PathB" 
-org.exist.xmldb.DatabaseStatus

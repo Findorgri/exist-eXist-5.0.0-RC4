@@ -1,22 +1,0 @@
-
-8org.exist.storage.index.BFile$MultiPageInput#position()J_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŽ Ž("1*—
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java (!Ú
-×
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java6 (>.
-%0(org.exist.storage.index.BFile$SinglePage"__id*>*<.
-,org.exist.storage.index.BFile$MultiPageInput"
-
-nextPageèå
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java6 (K
-
-%1long"6org.exist.storage.index.BFile$SinglePage#getPageNum()J*0
-.
-%0(org.exist.storage.index.BFile$SinglePage2getPageNum()"i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java (U
-""B0.
-,org.exist.storage.index.BFile$MultiPageInput

@@ -1,127 +1,0 @@
-
-(org.exist.util.SSLHelper#initialize(ZZ)ZX
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javab b($"15*¿
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaƒ ƒ(s
-q
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaƒ ƒ(
-%12"__id*
-""Å
-Â
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java„: „(O%
-%13javax.net.ssl.HostnameVerifier"__id*7*5
-org.exist.util.SSLHelper"
-dummyHostnameVerifier›
-˜
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java„ „(P
-%14void"^javax.net.ssl.HttpsURLConnection#setDefaultHostnameVerifier(Ljavax/net/ssl/HostnameVerifier;)V*$""
- javax.net.ssl.HttpsURLConnection*'
-%
-%13javax.net.ssl.HostnameVerifier*
-1*ß
-14X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaj j(ø
-õ
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaj j(.
-%2javax.net.ssl.SSLContext"Rjavax.net.ssl.SSLContext#getInstance(Ljava/lang/String;)Ljavax/net/ssl/SSLContext;*"
-javax.net.ssl.SSLContext*
-SSL*
-11*‹
-3X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java (‡„
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java6 (K%
-%10javax.net.ssl.SSLSocketFactory"Kjavax.net.ssl.SSLContext#getSocketFactory()Ljavax/net/ssl/SSLSocketFactory;* 
-
-scjavax.net.ssl.SSLContext2getSocketFactory()™
-–
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java (L
-%11void"^javax.net.ssl.HttpsURLConnection#setDefaultSSLSocketFactory(Ljavax/net/ssl/SSLSocketFactory;)V*$""
- javax.net.ssl.HttpsURLConnection*'
-%
-%10javax.net.ssl.SSLSocketFactory*
-2
-1*ê
-15X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javae e(·
-´
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javae e(
-
-%0void".org.exist.util.SSLHelper#createTrustManager()V*"
-org.exist.util.SSLHelper»
-¸
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaf f( 
-
-%1void"2org.exist.util.SSLHelper#createHostnameVerifier()V*"
-org.exist.util.SSLHelper‹
-ˆ
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javah h(
-scjavax.net.ssl.SSLContext"__id*
-""*
-14*”
-6X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javav v(Z¯¬
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javav v(Z
-
-%8void"tjavax.net.ssl.SSLContext#init([Ljavax/net/ssl/KeyManager;[Ljavax/net/ssl/TrustManager;Ljava/security/SecureRandom;)V* 
-
-scjavax.net.ssl.SSLContext*
-""*$
-"
-%5javax.net.ssl.TrustManager[]*"
- 
-%6java.security.SecureRandom2Zinit([Ljavax/net/ssl/KeyManager;[Ljavax/net/ssl/TrustManager;Ljava/security/SecureRandom;)*
-3*÷
-7X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javav v(Ä
-Á
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javav v(7"
-%5javax.net.ssl.TrustManager[]"__id*;*9
-org.exist.util.SSLHelper"
-nonvalidatingTrustManager›˜
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javav= v(W 
-%6java.security.SecureRandom"java.security.SecureRandom­
-ª
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javav9 v(Y
-%7"$java.security.SecureRandom#<init>()V*"
- 
-%6java.security.SecureRandom*
-6*Ô
-8X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javau u(p
-n
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javau u(
-%4"__id*
-""*
-7*Ž
-11X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaj j(.¥
-¢
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.javaj j(.
-scjavax.net.ssl.SSLContext"__id* 
-
-%2javax.net.ssl.SSLContext*
-3
-8*Å
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java‡ ‡("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SSLHelper.java‡ ‡(
-"":
-"":
-""B"
-org.exist.util.SSLHelper

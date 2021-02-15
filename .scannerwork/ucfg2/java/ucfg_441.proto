@@ -1,39 +1,0 @@
-
-Gorg.exist.xquery.util.NumberFormatter#getMinDigits(Ljava/lang/String;)Ie
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java} }(""9*≥
-6g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaÅ, Å(-ºπ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaÅ1 Å(A	
-%2int"java.lang.String#length()I*
-
-picturejava.lang.String2length()*
-9
-1*æ
-8g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaÄ Ä(#«ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaÄ Ä(-
-
-%1char"java.lang.String#charAt(I)C*
-
-picturejava.lang.String*
-""2	charAt(I)*
-6
-9*Ø
-9e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java (∫∑
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.java (,	
-%0int"java.lang.String#length()I*
-
-picturejava.lang.String2length()*
-8
-1*ﬂ
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaÜ Ü("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/util/NumberFormatter.javaÜ Ü(
-"":
-picturejava.lang.StringB)"'
-%org.exist.xquery.util.NumberFormatter

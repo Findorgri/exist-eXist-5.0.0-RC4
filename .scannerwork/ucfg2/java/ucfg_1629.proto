@@ -1,27 +1,0 @@
-
-Corg.exist.xmldb.LocalXMLResource#getSAXFeature(Ljava/lang/String;)Zb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaô ô( "startingBlock*Â
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaô  ô(3­
-ª
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaó ó(
-%0"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String—
-”
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaô. ô(2
-namejava.lang.String"__annotation*
-
-%0*
-1*Õ
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaõ õ("l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalXMLResource.javaõ õ(
-"":
-namejava.lang.StringB$"
- org.exist.xmldb.LocalXMLResource

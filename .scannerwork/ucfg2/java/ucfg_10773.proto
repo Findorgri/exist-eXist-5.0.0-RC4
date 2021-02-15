@@ -1,78 +1,0 @@
-
-borg.exist.backup.ZipArchiveBackupDescriptor#getSymbolicPath(Ljava/lang/String;Z)Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java§ §(!"startingBlock*è
-3m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •(”
-–
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •(
-%0java.util.zip.ZipFile"__id*<*:-
-+org.exist.backup.ZipArchiveBackupDescriptor"	
-archiveÁ‰
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •()
-%1java.lang.String"1java.util.zip.ZipFile#getName()Ljava/lang/String;*
-
-%0java.util.zip.ZipFile2	getName()µ
-≤
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •(/
-%2java.lang.String"__concat*
-
-%1java.lang.String*
-#À
-»
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java•2 •(6
-%3java.lang.String"__id*9*7-
-+org.exist.backup.ZipArchiveBackupDescriptor"
-base»
-≈
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •(6
-%4java.lang.String"__concat*
-
-%2java.lang.String*
-
-%3java.lang.String”
-–
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •(F
-%5java.lang.String"__concat*
-
-%4java.lang.String*#
-!
-describedItemjava.lang.StringÆ
-´
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java• •(G
-retvaljava.lang.String"__id*
-
-%5java.lang.String*
-1*ı
-startingBlockm
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java§! §(R¡
-æ
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java£ £(
-%6"
-__annotate*
-java.lang.Override*#
-!
-describedItemjava.lang.String´
-®
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java§) §(6!
-describedItemjava.lang.String"__annotation*
-
-%6*
-3*Ç
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java™ ™("ç
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/ZipArchiveBackupDescriptor.java™ ™(
-
-retvaljava.lang.String:!
-describedItemjava.lang.String:
-""B/-
-+org.exist.backup.ZipArchiveBackupDescriptor

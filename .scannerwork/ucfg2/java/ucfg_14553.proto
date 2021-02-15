@@ -1,24 +1,0 @@
-
-^org.exist.xmldb.concurrent.DBUtils#generateXMLFile(II[Ljava/lang/String;Z)Ljava/nio/file/Path;g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/DBUtils.java? ?(&"1*Æ
-1g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/DBUtils.java@ @(Ï
-Ì
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/DBUtils.java@ @(L
-%0java.nio.file.Path"_org.exist.xmldb.concurrent.DBUtils#generateXMLFile(III[Ljava/lang/String;Z)Ljava/nio/file/Path;*&"$
-"org.exist.xmldb.concurrent.DBUtils*2*
-""*
-""* 
-
-wordListjava.lang.String[]*
-"""…
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/DBUtils.java@ @(M
-
-%0java.nio.file.Path:
-"":
-"":
-wordListjava.lang.String[]:
-""B&"$
-"org.exist.xmldb.concurrent.DBUtils

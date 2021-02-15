@@ -1,51 +1,0 @@
-
-Qorg.exist.xmlrpc.RpcConnection#updateAccount(Ljava/lang/String;Ljava/util/List;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÅ Å( "startingBlock*‚
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÅ  Å(N«
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÄ Ä(
-%3"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String•
-’
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÅ. Å(2
-namejava.lang.String"__annotation*
-
-%3«
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÄ Ä(
-%4"
-__annotate*
-java.lang.Override*
-
-groupsjava.util.List•
-’
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÅG Å(M
-groupsjava.util.List"__annotation*
-
-%4*
-6*Ñ
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ú("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ú(
-""*Ï
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ç(â
-ß
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ú(
-%0"Iorg.exist.xmlrpc.RpcConnection#withDb(LXmlRpcFunction;)Ljava/lang/Object;*" 
-org.exist.xmlrpc.RpcConnection*
-""*
-5:
-namejava.lang.String:
-groupsjava.util.ListB" 
-org.exist.xmlrpc.RpcConnection

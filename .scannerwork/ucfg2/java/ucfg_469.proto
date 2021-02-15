@@ -1,63 +1,0 @@
-
-1org.exist.fluent.Node#equals(Ljava/lang/Object;)Zg
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaQ Q( "startingBlock*ß
-3g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaW W(A"q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaW W(A
-""*Ï
-startingBlockg
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaQ  Q(*¯
-¬
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaQ Q(
-
-%1"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object™
-–
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaQ( Q()
-ojava.lang.Object"__annotation*
-
-%1*
-9
-10*É
-4g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaW W(ÕÒ
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaW W(@
-%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
-""*
-""2equals(Ljava/lang/Object;)*
-3*ß
-8g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaT  T($"q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaT T(%
-""*¤
-9g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaS S(ª
-§
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaS S(
-thatorg.exist.fluent.Node"__id*
-
-ojava.lang.Object*	
-4
-8
-1*à
-10g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaR# R(("q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.javaR R()
-""*ß
-1g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java\	 \("q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Node.java\ \(
-"":
-ojava.lang.ObjectB
-org.exist.fluent.Node

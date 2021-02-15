@@ -1,44 +1,0 @@
-
-Aorg.exist.fluent.Source$Blob#toInputStream()Ljava/io/InputStream;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaR R(%"3*Î
-2i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaS S($ØÕ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaS S(&
-
-%1void"+org.exist.fluent.Source$Blob#createBytes()V* 
-org.exist.fluent.Source$Blob2createBytes()*
-1*«
-3i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaS S(²
-¯
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaS S(
-%0byte[]"__id*.*,
-org.exist.fluent.Source$Blob"
-
-contents*
-2
-1*Í
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaT
- T(²
-¯
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaT
- T(
-%2byte[]"__id*.*,
-org.exist.fluent.Source$Blob"
-
-contents²
-¯
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaU' U(/
-%3byte[]"__id*.*,
-org.exist.fluent.Source$Blob"
-
-contents"s
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaU U(A
-""B 
-org.exist.fluent.Source$Blob

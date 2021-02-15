@@ -1,38 +1,0 @@
-
-Zorg.exist.management.CacheManager#getName(Ljava/lang/String;)Ljavax/management/ObjectName;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java (%"1*†
-1a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java (5Å
-Â
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java (B
-%0java.lang.String"__concat*
-org.exist.management.* 
-
-
-instanceIdjava.lang.Stringº
-·
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java (Y
-%1java.lang.String"__concat*
-
-%0java.lang.String*
-:type=CacheManager¦£
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java (!
-%2javax.management.ObjectName"javax.management.ObjectNameä
-á
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java (Z
-%3"7javax.management.ObjectName#<init>(Ljava/lang/String;)V*#
-!
-%2javax.management.ObjectName*
-
-%1java.lang.String"ˆ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/CacheManager.java ([#
-!
-%2javax.management.ObjectName:
-
-instanceIdjava.lang.StringB%"#
-!org.exist.management.CacheManager

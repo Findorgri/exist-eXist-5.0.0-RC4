@@ -1,89 +1,0 @@
-
-5org.exist.dom.QName#compareTo(Lorg/exist/dom/QName;)IU
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java© ©("startingBlock*Ó
-2U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«M «(Nr
-p
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«M «(N
-%3"__id*
-	
-%5int*
-1*Œ
-3U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«& «(/ 
-
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«& «(/
-%6java.lang.String"__id*&*$
-org.exist.dom.QName"
-	localPart§
-¤
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«: «(I
-%7java.lang.String"__id*-*+
-
-otherorg.exist.dom.QName"
-	localPartéæ
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«& «(J	
-%4int"/java.lang.String#compareTo(Ljava/lang/String;)I*
-
-%6java.lang.String*
-
-%7java.lang.String2compareTo(Ljava/lang/String;)r
-p
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java«& «(J
-%3"__id*
-	
-%4int*
-1*£
-startingBlockU
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java© ©(+¤
-¡
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java¨ ¨(
-%8"
-__annotate*
-java.lang.Override*
-
-otherorg.exist.dom.QName
-‹
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java©% ©(*
-otherorg.exist.dom.QName"__annotation*
-
-%8*
-4*¡
-4U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaª ª("£
- 
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaª ª("
-%0java.lang.String"__id*)*'
-org.exist.dom.QName"
-namespaceURIª
-§
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaª- ª(?
-%1java.lang.String"__id*0*.
-
-otherorg.exist.dom.QName"
-namespaceURIéæ
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaª ª(@	
-%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
-
-%0java.lang.String*
-
-%1java.lang.String2compareTo(Ljava/lang/String;)*
-2
-3*»
-1U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java« «(O"_
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java« «(O
-"":
-otherorg.exist.dom.QNameB
-org.exist.dom.QName

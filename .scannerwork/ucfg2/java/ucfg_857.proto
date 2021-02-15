@@ -1,36 +1,0 @@
-
-Äorg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getCookieValue(Ljava/lang/String;)Ljava/lang/String;≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaö ö( "startingBlock*¯
-3≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaü ü(!"Ω
-≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaü ü(-
-""*ƒ
-startingBlock≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaö  ö(9Ñ
-Å
-≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaô ô(
-%0"
-__annotate*
-java.lang.Override* 
-
-
-cookieNamejava.lang.StringÓ
-Î
-≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaö. ö(8
-
-cookieNamejava.lang.String"__annotation*
-
-%0*
-3
-1*¯
-1≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java£ £("Ω
-≤
-•C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.java£ £(
-"":
-
-cookieNamejava.lang.StringBOM
-Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter

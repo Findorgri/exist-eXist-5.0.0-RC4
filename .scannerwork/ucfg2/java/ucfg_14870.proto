@@ -1,60 +1,0 @@
-
-_org.exist.performance.AbstractAction#getBooleanValue(Lorg/w3c/dom/Element;Ljava/lang/String;Z)Zi
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaN N()"5*„
-2i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaQ Q(O"s
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaQ Q(O
-""*ı
-3i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaQ3 Q(6ˇ¸
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaQ3 Q(N
-%3boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-valjava.lang.String*
-yes2$equalsIgnoreCase(Ljava/lang/String;)*
-2*”
-4i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaP P(≠™
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaP P(2
-%1java.lang.String"Forg.w3c.dom.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;*
-
-configorg.w3c.dom.Element*
-
-namejava.lang.String2 getAttribute(Ljava/lang/String;)ß
-§
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaP P(3
-valjava.lang.String"__id*
-
-%1java.lang.StringÄ˝
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaQ Q(/
-%2boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-valjava.lang.String*
-true2$equalsIgnoreCase(Ljava/lang/String;)*
-2
-3*å
-5i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaO O(ìê
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaO O(%
-%0boolean"5org.w3c.dom.Element#hasAttribute(Ljava/lang/String;)Z*
-
-configorg.w3c.dom.Element*
-
-namejava.lang.String2 hasAttribute(Ljava/lang/String;)*
-4
-1*„
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaS S("s
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/AbstractAction.javaS S(
-"":
-configorg.w3c.dom.Element:
-namejava.lang.String:
-""B("&
-$org.exist.performance.AbstractAction

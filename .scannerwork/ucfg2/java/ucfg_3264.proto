@@ -1,28 +1,0 @@
-
-Forg.exist.util.FileUtils#asPaths([Ljava/io/File;)[Ljava/nio/file/Path;X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java8 8( "1*ï
-1X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java9 9(ó
-ð
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java9 9(!
-%0java.util.List"Eorg.exist.util.FileUtils#asPathsList([Ljava/io/File;)Ljava/util/List;*"
-org.exist.util.FileUtils*
-
-filesjava.io.File[]Œ
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java9* 9(@
-%1java.nio.file.Path[]"java.nio.file.Path[]Š
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java9 9(A
-%2java.nio.file.Path[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
-
-%0java.util.List*
-
-%1java.nio.file.Path[]2toArray([Ljava/lang/Object;)"x
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileUtils.java9 9(B
-
-%2java.nio.file.Path[]:
-filesjava.io.File[]B"
-org.exist.util.FileUtils

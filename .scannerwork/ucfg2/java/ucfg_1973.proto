@@ -1,565 +1,0 @@
-
-Qorg.exist.dom.persistent.ElementImpl#toString(ZLjava/util/Set;)Ljava/lang/String;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java—
- —
-("25*…
-13f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÉ É(–Õ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÉ É(0
-
-%27int"%org.w3c.dom.NamedNodeMap#getLength()I*#
-!
-attrsorg.w3c.dom.NamedNodeMap2getLength()*
-10
-12*ã
-24f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‡
-C ‡
-(T«
-ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‡
-C ‡
-(T
-%5java.util.Map"__id*?*=&
-$org.exist.dom.persistent.ElementImpl"
-namespaceMappingsÃ…
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‡
-C ‡
-(_
-%6java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
-
-%5java.util.Map2
-entrySet()*
-20*∆
-14f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÇ' Ç(4óî
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÇ' Ç(6
-%26org.w3c.dom.NamedNodeMap"Norg.exist.dom.persistent.ElementImpl#getAttributes()Lorg/w3c/dom/NamedNodeMap;*(&
-$org.exist.dom.persistent.ElementImpl2getAttributes()∑
-¥
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÇ Ç(7!
-attrsorg.w3c.dom.NamedNodeMap"__id*!
-
-%26org.w3c.dom.NamedNodeMap*
-13*ú
-25f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java“
-" “
-(5£†
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java“
-& “
-(3
-%0java.lang.StringBuilder"java.lang.StringBuilderµ
-≤
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java“
-" “
-(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder≤
-Ø
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java“
- “
-(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java”
- ”
-(
-%2java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-<2	append(C)ÑÅ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‘
- ‘
-(
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)ÑÅ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaﬁ
- ﬁ
-(&
-%4boolean"Aorg.exist.dom.persistent.ElementImpl#declaresNamespacePrefixes()Z*(&
-$org.exist.dom.persistent.ElementImpl2declaresNamespacePrefixes()*
-24
-14
-15
-18*î
-15f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java˝
- ˝
-(†ù
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java˝
- ˝
-(
-%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- ...2append(Ljava/lang/String;)*
-1*√
-
-17f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÛ
- Û
-(˚¯
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÛ
- Û
-(
-%20java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- 2	append(C)í
-è
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÙ
- Ù
-(4
-%21java.lang.String"__id*
-""±Æ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÛ
- Ù
-(5
-%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%20java.lang.StringBuilder*
-
-%21java.lang.String2append(Ljava/lang/String;)˚¯
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÛ
- ı
-(
-%23java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-%22java.lang.StringBuilder*
-:2	append(C)ÖÇ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÛ
- ˆ
-(-
-%24"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-%23java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-14
-15*·
-18f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÚ
- Ú
-(‰·
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÚ
- Ú
-(@
-%19"+java.util.Set#contains(Ljava/lang/Object;)Z*
-
-
-namespacesjava.util.Set*
-""2contains(Ljava/lang/Object;)*
-14
-15
-17*‹
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java£ £(ËÂ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java£ £(
-%54java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"É
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java£ £(
-
-%54java.lang.String*ë
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaü ü(ûõ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaü ü( 
-%53java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-/>2append(Ljava/lang/String;)*
-1*›
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaõ õ(ùö
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaõ õ(
-%48java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
->2append(Ljava/lang/String;)ÌÍ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaú ú(.
-%49java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
-#
-childrenjava.lang.StringBuilder2
-toString()±Æ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaú ú(/
-%50java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-%49java.lang.String2append(Ljava/lang/String;)ûõ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaù ù( 
-%51java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-</2append(Ljava/lang/String;)ÖÇ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaù ù(1
-%52"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-%51java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-1*√
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaö ö(Õ 
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaö ö(&
-
-%47int"!org.w3c.dom.NodeList#getLength()I*$
-"
-
-childNodesorg.w3c.dom.NodeList2getLength()*
-2
-3*ﬁ
-6f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaè# è(-ÎË
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaè# è(5
-%44org.w3c.dom.Node".org.w3c.dom.NodeList#item(I)Lorg/w3c/dom/Node;*$
-"
-
-childNodesorg.w3c.dom.NodeList*
-""2item(I)ß
-§
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaè è(6
-childorg.w3c.dom.Node"__id*
-
-%44org.w3c.dom.Node∆√
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaê ê(+
-%45short"org.w3c.dom.Node#getNodeType()S*
-
-childorg.w3c.dom.Node2getNodeType()á
-Ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaë ë(*
-%46short"__id*
-""*
-7
-8*à
-7f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaï ñ(:‹Ÿ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ( ñ(8
-%42java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-childorg.w3c.dom.Node2
-toString()∂≥
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javañ ñ(9
-%43java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
-#
-childrenjava.lang.StringBuilder*
-
-%42java.lang.String2append(Ljava/lang/String;)*
-9*«
-8f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaë ì(õ
-ò
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaí( í(Y
-%40java.lang.String"Qorg.exist.dom.persistent.ElementImpl#toString(ZLjava/util/Set;)Ljava/lang/String;*
-
-childorg.w3c.dom.Node*
-""*
-
-
-namespacesjava.util.Set∂≥
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaí í(Z
-%41java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
-#
-childrenjava.lang.StringBuilder*
-
-%40java.lang.String2append(Ljava/lang/String;)*
-9*√
-9f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé é(Õ 
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaé  é(6
-
-%39int"!org.w3c.dom.NodeList#getLength()I*$
-"
-
-childNodesorg.w3c.dom.NodeList2getLength()*
-4
-6*Â
-20f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‡
- ‡
-(@¢
-ü
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‡
- ‡
-(@'
-namespaceMappingjava.util.Map$Entry"__id*
-""ø
-º
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‡
- ‡
-(@'
-namespaceMappingjava.util.Map$Entry"
-__arrayGet*
-
-%6java.util.Set*
-""*
-14
-15
-18
-23*ö	
-21f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÈ
- È
-(üú
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÈ
- Í
-(&
-%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-=\"2append(Ljava/lang/String;)∑¥
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÈ
- Î
-(*
-%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%15java.lang.StringBuilder*
-
-	namespacejava.lang.String2append(Ljava/lang/String;)˚¯
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÈ
- Ï
-($
-%17java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-%16java.lang.StringBuilder*
-"2	append(C)À
-»
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÓ
- Ó
-()
-%18boolean"
-__arrayAdd*
-
-
-namespacesjava.util.Set*: *
-
-	namespacejava.lang.String*
-20*÷
-10f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå+ å(>§°
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå/ å(<
-%36java.lang.StringBuilder"java.lang.StringBuilder∑
-¥
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå+ å(>
-%37"!java.lang.StringBuilder#<init>()V* 
-
-%36java.lang.StringBuilder∏
-µ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaå å(?#
-childrenjava.lang.StringBuilder"__id* 
-
-%36java.lang.StringBuilderèå
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaç( ç(7
-%38org.w3c.dom.NodeList"Jorg.exist.dom.persistent.ElementImpl#getChildNodes()Lorg/w3c/dom/NodeList;*(&
-$org.exist.dom.persistent.ElementImpl2getChildNodes()¥
-±
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaç ç(8"
-
-childNodesorg.w3c.dom.NodeList"__id*
-
-%38org.w3c.dom.NodeList*
-9*ß
-22f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÂ
- Â
-(˚¯
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÂ
- Ê
-((
-%13java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-:2	append(C)¥±
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÂ
- Á
-(+
-%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%13java.lang.StringBuilder*
-
-prefixjava.lang.String2append(Ljava/lang/String;)*
-21*¥
-12f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÑ( Ñ(-ÓÎ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÑ( Ñ(5
-%28org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*#
-!
-attrsorg.w3c.dom.NamedNodeMap*
-""2item(I)¶
-£
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÑ Ñ(6
-attrorg.w3c.dom.Attr"__id*
-
-%28org.w3c.dom.Node˚¯
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÖ Ö(
-%29java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- 2	append(C)Ÿ÷
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÜ  Ü(.
-%30java.lang.String",org.w3c.dom.Attr#getName()Ljava/lang/String;*
-
-attrorg.w3c.dom.Attr2	getName()±Æ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÖ Ü(/
-%31java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%29java.lang.StringBuilder*
-
-%30java.lang.String2append(Ljava/lang/String;)üú
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÖ á(&
-%32java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%31java.lang.StringBuilder*
-=\"2append(Ljava/lang/String;)†
-ù
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaà  à(/
-%33java.lang.String"Torg.exist.dom.persistent.ElementImpl#escapeXml(Lorg/w3c/dom/Node;)Ljava/lang/String;*(&
-$org.exist.dom.persistent.ElementImpl*
-
-attrorg.w3c.dom.Attr±Æ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÖ à(0
-%34java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%32java.lang.StringBuilder*
-
-%33java.lang.String2append(Ljava/lang/String;)ûõ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaÖ â(%
-%35java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%34java.lang.StringBuilder*
-\"2append(Ljava/lang/String;)*
-13*∞
-23f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java·
-& ·
-(6ËÂ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java·
-& ·
-(?
-%7java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*)
-'
-namespaceMappingjava.util.Map$Entry2getKey()ß
-§
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java·
- ·
-(@
-prefixjava.lang.String"__id*
-
-%7java.lang.StringÏÈ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‚
-) ‚
-(D
-%8java.lang.String"0java.util.Map$Entry#getValue()Ljava/lang/Object;*)
-'
-namespaceMappingjava.util.Map$Entry2
-getValue()™
-ß
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‚
- ‚
-(E
-	namespacejava.lang.String"__id*
-
-%8java.lang.String˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java„
- „
-(
-%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- 2	append(C)í
-è
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java„
-' „
-(C
-%10java.lang.String"__id*
-""∞≠
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java„
- „
-(D
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%9java.lang.StringBuilder*
-
-%10java.lang.String2append(Ljava/lang/String;)¡æ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java‰
- ‰
-($
-%12boolean"java.lang.String#isEmpty()Z*
-
-prefixjava.lang.String2	isEmpty()*
-21
-22:
-"":
-
-namespacesjava.util.SetB(&
-$org.exist.dom.persistent.ElementImpl

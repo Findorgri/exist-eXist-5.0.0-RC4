@@ -1,9 +1,0 @@
-
-Qorg.exist.xquery.modules.xmldiff.XmlDiffModule#getDescription()Ljava/lang/String;Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xmldiff/XmlDiffModule.java5 5( "1* 
-1Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xmldiff/XmlDiffModule.java6 6(G"¿
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xmldiff/XmlDiffModule.java6 6(H:8
-6A module for determining differences in XML documents.B20
-.org.exist.xquery.modules.xmldiff.XmlDiffModule

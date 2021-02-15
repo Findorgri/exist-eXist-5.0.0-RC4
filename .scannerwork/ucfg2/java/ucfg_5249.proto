@@ -1,27 +1,0 @@
-
-Uorg.exist.xquery.ModuleContext#getInScopePrefix(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÊ Ê(""startingBlock*º
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÊ" Ê(4ª
-§
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÉ É(
-%0"
-__annotate*
-java.lang.Override*
-
-urijava.lang.String”
-‘
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÊ0 Ê(3
-urijava.lang.String"__annotation*
-
-%0*
-1*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaË Ë("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaË Ë(3
-"":
-urijava.lang.StringB" 
-org.exist.xquery.ModuleContext

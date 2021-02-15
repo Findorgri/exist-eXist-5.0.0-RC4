@@ -1,45 +1,0 @@
-
-oorg.exist.util.serializer.XHTMLWriter#removeXhtmlPrefix(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java­ ­(&"5*Ý
-2g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java±' ±(+èå
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java² ²()
-%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-qnamejava.lang.String*
-""2substring(I)"ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java² ²(*
-
-%2java.lang.String*ß
-3g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java°. °(:èå
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java°. °(V
-%1",java.lang.String#equals(Ljava/lang/Object;)Z*"
- 
-namespaceURIjava.lang.String*
-""2equals(Ljava/lang/Object;)*
-2
-1*¼
-5g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java¯ ¯(ÅÂ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java¯ ¯(*	
-%0int"java.lang.String#indexOf(I)I*
-
-qnamejava.lang.String*
-:2
-indexOf(I)*
-3
-1*õ
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java¶ ¶("†
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/XHTMLWriter.java¶ ¶(
-
-qnamejava.lang.String: 
-namespaceURIjava.lang.String:
-qnamejava.lang.StringB)'
-%org.exist.util.serializer.XHTMLWriter

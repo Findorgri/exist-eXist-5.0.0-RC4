@@ -1,62 +1,0 @@
-
-Oorg.exist.client.security.RegExpInputVerifier#verify(Ljavax/swing/JComponent;)Zm
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java+ +("startingBlock*­
-2m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java- -(×
-Ô
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java- -(
-%0java.util.regex.Matcher"__id*>*</
--org.exist.client.security.RegExpInputVerifier"	
-matcherõò
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java- -(7
-%1java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*!
-
-inputjavax.swing.JComponent2	getText()¿¼
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java- -(8
-%2java.util.regex.Matcher"Pjava.util.regex.Matcher#reset(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Matcher*
-
-%1java.lang.String2reset(Ljava/lang/CharSequence;)×
-Ô
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java. .(
-%3java.util.regex.Matcher"__id*>*</
--org.exist.client.security.RegExpInputVerifier"	
-matcherÑÎ
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java. .($
-%4boolean""java.util.regex.Matcher#matches()Z*
-
-%3java.util.regex.Matcher2	matches()"w
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java. .(%
-""*ô
-startingBlockm
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java+ +(1¿
-¼
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java* *(
-%5"
-__annotate*
-java.lang.Override*!
-
-inputjavax.swing.JComponent©
-¦
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java++ +(0
-inputjavax.swing.JComponent"__annotation*
-
-%5*
-2
-1*ë
-1m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java1 1("w
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/RegExpInputVerifier.java1 1(
-"":
-inputjavax.swing.JComponentB1/
--org.exist.client.security.RegExpInputVerifier

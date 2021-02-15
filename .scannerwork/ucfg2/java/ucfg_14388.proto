@@ -1,65 +1,0 @@
-
-Sorg.exist.xmldb.XmldbURI#xmldbUriFor(Ljava/lang/String;Z)Lorg/exist/xmldb/XmldbURI;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∑ ∑(&"2"3"5*Ú
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaªH ª(Pã
-à
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaªH ª(P
-%0"__id*
-
-xmldbURIjava.lang.String*
-1*Ê
-3Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª) ª(4ã
-à
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª< ª(D
-%0"__id*
-
-xmldbURIjava.lang.Stringr
-p
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª) ª(E
-%0"__id*
-
-%1*
-1*≈
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaπ π("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaπ π(
-""*¨
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª ª(QÄ~
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª ª(
-%2java.net.URI"java.net.URI≠
-™
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª ª(Q
-%3"(java.net.URI#<init>(Ljava/lang/String;)V*
-
-%2java.net.URI*
-
-%0ê
-ç
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaª ª(R
-urijava.net.URI"__id*
-
-%2java.net.URIÑ
-Å
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaº º(
-%4org.exist.xmldb.XmldbURI"Norg.exist.xmldb.XmldbURI#getXmldbURI(Ljava/net/URI;)Lorg/exist/xmldb/XmldbURI;*"
-org.exist.xmldb.XmldbURI*
-
-urijava.net.URI"~
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaº º(  
-
-%4org.exist.xmldb.XmldbURI:
-xmldbURIjava.lang.String:
-""B"
-org.exist.xmldb.XmldbURI

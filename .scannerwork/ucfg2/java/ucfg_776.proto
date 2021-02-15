@@ -1,71 +1,0 @@
-
-Borg.exist.xquery.value.IntegerValue#compareTo(Ljava/lang/Object;)Ie
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java“ “("startingBlock*õ
-2e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜6 ˜(7ƒ
-€
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜5 ˜(7
-%3"__id*
-	
-%5int*
-1*õ
-3e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜1 ˜(2ƒ
-€
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜1 ˜(2
-%3"__id*
-	
-%4int*
-1*È
-startingBlocke
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java“ “((­
-ª
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java’ ’(
-%6"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object—
-”
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java“& “('
-ojava.lang.Object"__annotation*
-
-%6*
-4
-5*Î
-4e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜ ˜(ÙÖ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜ ˜(	
-%2int".org.exist.xquery.value.IntegerValue#getType()I*'%
-#org.exist.xquery.value.IntegerValue2	getType()*
-2
-3*˜
-5e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java– –(À
-½
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java– –(
-%0java.math.BigInteger"__id*2*0%
-#org.exist.xquery.value.IntegerValue"
-value÷ô
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java– –(@	
-%1int"7java.math.BigInteger#compareTo(Ljava/math/BigInteger;)I*
-
-%0java.math.BigInteger*
-""2!compareTo(Ljava/math/BigInteger;)"o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java– –(A
-""*Û
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜ ˜(8"o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/IntegerValue.java˜ ˜(8
-"":
-ojava.lang.ObjectB'%
-#org.exist.xquery.value.IntegerValue

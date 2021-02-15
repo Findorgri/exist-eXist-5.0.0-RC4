@@ -1,36 +1,0 @@
-
-Zorg.exist.dom.memtree.ElementImpl#setAttributeNodeNS(Lorg/w3c/dom/Attr;)Lorg/w3c/dom/Attr;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaØ Ø(""startingBlock*Ë
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaØ" Ø(6±
-®
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java× ×(
-%1"
-__annotate*
-java.lang.Override*
-
-newAttrorg.w3c.dom.Attr›
-˜
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaØ. Ø(5
-newAttrorg.w3c.dom.Attr"__annotation*
-
-%1*
-1*±
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÙ Ù(Å
-Â
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÙ Ù(t
-%0org.w3c.dom.Attr"uorg.exist.dom.memtree.ElementImpl#setAttributeNode(Lorg/w3c/dom/Attr;Ljava/util/function/Function;)Lorg/w3c/dom/Attr;*%#
-!org.exist.dom.memtree.ElementImpl*
-
-newAttrorg.w3c.dom.Attr*
-"""
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÙ Ù(u
-
-%0org.w3c.dom.Attr:
-newAttrorg.w3c.dom.AttrB%#
-!org.exist.dom.memtree.ElementImpl

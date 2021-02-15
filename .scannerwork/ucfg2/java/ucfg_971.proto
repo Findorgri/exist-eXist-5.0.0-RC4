@@ -1,21 +1,0 @@
-
-Eorg.exist.backup.CreateBackupDialog#getCollection()Ljava/lang/String;e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.java‘ ‘("1*™
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.java’ ’(#«
-ƒ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.java’ ’(#
-%0javax.swing.JComboBox"__id*8*6%
-#org.exist.backup.CreateBackupDialog"
-collectionsÔÏ
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.java’ ’(5
-%1java.lang.Object"9javax.swing.JComboBox#getSelectedItem()Ljava/lang/Object;*
-
-%0javax.swing.JComboBox2getSelectedItem()"Å
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/CreateBackupDialog.java’ ’(6
-
-%1java.lang.ObjectB'%
-#org.exist.backup.CreateBackupDialog

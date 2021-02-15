@@ -1,36 +1,0 @@
-
-#org.exist.util.Leasable#isLeased()ZW
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaz z("5*√
-2Y
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaÅ Å("c
-Y
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.javaÅ Å(
-""*ø
-3W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.java~ ~("a
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.java~ ~(
-""*Ü
-5W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.java{ {(¬
-ø
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.java{ {(7
-%01java.util.concurrent.locks.ReentrantReadWriteLock"__id*%*#
-org.exist.util.Leasable"
-lockﬂ‹
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.java{ {(@
-%1:java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock"xjava.util.concurrent.locks.ReentrantReadWriteLock#readLock()Ljava/util/concurrent/locks/ReentrantReadWriteLock$ReadLock;*9
-7
-%01java.util.concurrent.locks.ReentrantReadWriteLock2
-readLock()¯ı
-W
-MC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Leasable.java{ {(
-
-%2void"Bjava.util.concurrent.locks.ReentrantReadWriteLock$ReadLock#lock()V*B
-@
-%1:java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock2lock()*
-2
-3B
-org.exist.util.Leasable

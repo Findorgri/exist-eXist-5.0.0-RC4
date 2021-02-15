@@ -1,80 +1,0 @@
-
-Zorg.exist.validation.XmlLibraryChecker#determineActualTransformerClass()Ljava/lang/String;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javap p(9"9*§
-2f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javav v(4±
-Æ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javav v(4$
-transformerClassjava.lang.String"__id*
-
-%3java.lang.String*
-1*«
-5f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javau u(:®
-•
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javau u(:
-classIdjava.lang.String"__id*
-
-%2java.lang.String©
-¶
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javav v(4
-%3java.lang.String"Yorg.exist.validation.XmlLibraryChecker#getClassName(Ljava/lang/String;)Ljava/lang/String;**"(
-&org.exist.validation.XmlLibraryChecker*
-
-classIdjava.lang.String*
-2*∞
-6f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javat t(E 
-«
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javat t(E.
-transformerjavax.xml.transform.Transformer"__id*'
-%
-%1javax.xml.transform.TransformerÌ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javau# u(9
-%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*0
-.
-transformerjavax.xml.transform.Transformer2
-toString()*
-5*˝
-7f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javas s(P‘
-—
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javas s(P1
-factory&javax.xml.transform.TransformerFactory"__id*.
-,
-%0&javax.xml.transform.TransformerFactory≥∞
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javat, t(D%
-%1javax.xml.transform.Transformer"Xjavax.xml.transform.TransformerFactory#newTransformer()Ljavax/xml/transform/Transformer;*3
-1
-factory&javax.xml.transform.TransformerFactory2newTransformer()*
-6*ñ
-8f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javas/ s(A£
-†
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javas/ s(O,
-%0&javax.xml.transform.TransformerFactory"\javax.xml.transform.TransformerFactory#newInstance()Ljavax/xml/transform/TransformerFactory;**"(
-&javax.xml.transform.TransformerFactory*
-7*µ
-9f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaq" q(I¬
-ø
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaq q(J$
-transformerClassjava.lang.String"__id*)'
-%Unable to determine transformer class*
-8*˛
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java{ {("ê
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java{ {( &
-$
-transformerClassjava.lang.StringB*"(
-&org.exist.validation.XmlLibraryChecker

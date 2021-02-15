@@ -1,33 +1,0 @@
-
-:org.exist.storage.dom.DOMFile$DOMFilePageHeader#read([BI)I_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÚ Ú("startingBlock*•
-startingBlock_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÚ Ú(6†
-ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÒ Ò(
-%1"
-__annotate*
-java.lang.Override*
-
-databyte[]ä
-á
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÚ% Ú()
-databyte[]"__annotation*
-
-%1*
-1*œ
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÛ Û(~
-|
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˝ ˝(.
-%0short"__id*
-"""i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˝ ˝(/
-"":
-databyte[]:
-""B31
-/org.exist.storage.dom.DOMFile$DOMFilePageHeader

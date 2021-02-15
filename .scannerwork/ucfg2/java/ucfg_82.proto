@@ -1,57 +1,0 @@
-
-eorg.exist.collections.MutableCollection$ObservaleMutableCollection#hasObserver(Ljava/util/Observer;)Zi
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÔ Ô(#"7*Û
-2i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaØ Ø("œ
-™
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaØ Ø("
-observerjava.util.Observer"__id*
-""À
-½
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaØ Ø("
-observerjava.util.Observer"
-__arrayGet*
-
-%1java.util.Observer[]*
-""*	
-2
-3
-1*ã
-3i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÚ Ú("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÚ Ú( 
-""*Ý
-5i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaØ% Ø(.ç
-ä
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaØ% Ø(.
-%1java.util.Observer[]"__id*U*SD
-Borg.exist.collections.MutableCollection$ObservaleMutableCollection"
-	observers*
-2*ã
-6i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÖ Ö("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÖ Ö(
-""*à
-7i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÕ Õ(ç
-ä
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÕ Õ(
-%0java.util.Observer[]"__id*U*SD
-Borg.exist.collections.MutableCollection$ObservaleMutableCollection"
-	observers*
-5
-6*ã
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÝ Ý("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/MutableCollection.javaÝ Ý(
-"":
-ojava.util.ObserverBFD
-Borg.exist.collections.MutableCollection$ObservaleMutableCollection

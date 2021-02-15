@@ -1,17 +1,0 @@
-
-;org.exist.client.Connection#getUsername()Ljava/lang/String;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaF F("1*‰
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaG G(­
-ª
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaG G(
-%0java.lang.String"__id*-*+
-org.exist.client.Connection"
-
-username"w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaG G(
-
-%0java.lang.StringB
-org.exist.client.Connection

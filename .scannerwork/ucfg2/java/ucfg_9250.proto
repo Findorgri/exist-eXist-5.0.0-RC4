@@ -1,75 +1,0 @@
-
-porg.exist.extensions.exquery.restxq.impl.RestXqServiceRegistryPersistence#getRegistryFile(Z)Ljava/util/Optional;∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‘ ‘(*"16*≤
-16∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java’$ ’(1Ú
-Ô
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java’$ ’(3
-%0"eorg.exist.extensions.exquery.restxq.impl.RestXqServiceRegistryPersistence#getBrokerPool()LBrokerPool;*MK
-Iorg.exist.extensions.exquery.restxq.impl.RestXqServiceRegistryPersistence*
-12*à
-5∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‡ ‡(-"œ
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‡ ‡(-
-
-%3java.util.Optional*ã
-6∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‡ ‡(Õ
- 
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‡ ‡(,
-%3java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*$
-"
-registryFilejava.nio.file.Path*
-5*∫
-7∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.javaﬁ ﬁ(A¸
-˘
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.javaﬁ ﬁ(A"
-registryFilejava.nio.file.Path"__id*
-
-%2java.nio.file.Path*
-6*â
-8∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.javaﬁ ﬁ(&‹
-Ÿ
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.javaﬁ/ ﬁ(@
-%1java.lang.String"__id*
-""ÏÈ
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.javaﬁ ﬁ(A
-%2java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-dataDirjava.nio.file.Path*
-
-%1java.lang.String2resolve(Ljava/lang/String;)*
-7*¶
-9∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‹ ‹(FË
-Â
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java‹ ‹(F"
-registryFilejava.nio.file.Path"__id*
-""*
-6*ê
-12∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java◊! ◊(^„
-‡
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.java◊ ◊(_
-dataDirjava.nio.file.Path"__id*
-""Ë
-Â
-∞
-£C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/RestXqServiceRegistryPersistence.javaŸ Ÿ($"
-registryFilejava.nio.file.Path"__id*
-""*
-8
-9:
-""BMK
-Iorg.exist.extensions.exquery.restxq.impl.RestXqServiceRegistryPersistence

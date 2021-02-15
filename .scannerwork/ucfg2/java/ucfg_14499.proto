@@ -1,27 +1,0 @@
-
-@org.exist.security.AbstractRealm#hasAccount(Ljava/lang/String;)Zb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java‰ ‰(#"startingBlock*Ð
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java‰# ‰(=´
-±
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.javaˆ ˆ(
-%0"
-__annotate*
-java.lang.Override*!
-
-accountNamejava.lang.Stringž
-›
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java‰1 ‰(<
-accountNamejava.lang.String"__annotation*
-
-%0*
-1*Õ
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.javaŠ Š("l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.javaŠ Š(U
-"":
-accountNamejava.lang.StringB$"
- org.exist.security.AbstractRealm

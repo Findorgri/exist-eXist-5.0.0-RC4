@@ -1,87 +1,0 @@
-
-uorg.exist.xmlrpc.RpcConnection#updateAccount(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉ É( "startingBlock*¢
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉ  É(~´
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ç(
-%1"
-__annotate*
-java.lang.Override*
-
-namejava.lang.Stringï
-í
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉ. É(2
-namejava.lang.String"__annotation*
-
-%1≠
-™
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ç(
-%2"
-__annotate*
-java.lang.Override*
-
-passwdjava.lang.Stringó
-î
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉA É(G
-passwdjava.lang.String"__annotation*
-
-%2≥
-∞
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ç(
-%3"
-__annotate*
-java.lang.Override*"
- 
-passwdDigestjava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉV É(b 
-passwdDigestjava.lang.String"__annotation*
-
-%3´
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÇ Ç(
-%4"
-__annotate*
-java.lang.Override*
-
-groupsjava.util.Listï
-í
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÉw É(}
-groupsjava.util.List"__annotation*
-
-%4*
-1*∏
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÑ Ñ(‰·
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÑ Ñ(R
-%0boolean"™org.exist.xmlrpc.RpcConnection#updateAccount(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;Ljava/lang/Boolean;Ljava/lang/Integer;Ljava/util/Map;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-namejava.lang.String*
-
-passwdjava.lang.String*"
- 
-passwdDigestjava.lang.String*
-
-groupsjava.util.List*
-""*
-""*
-""2äupdateAccount(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;Ljava/lang/Boolean;Ljava/lang/Integer;Ljava/util/Map;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÑ Ñ(S
-"":
-namejava.lang.String:
-passwdjava.lang.String: 
-passwdDigestjava.lang.String:
-groupsjava.util.ListB" 
-org.exist.xmlrpc.RpcConnection

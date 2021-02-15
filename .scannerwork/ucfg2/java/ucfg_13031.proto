@@ -1,14 +1,0 @@
-
-Corg.exist.xquery.XQueryContext#getRootModules()Ljava/util/Iterator;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaŸ Ÿ(*"1*à
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java   (øõ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java   (
-%0java.util.Iterator"Borg.exist.xquery.XQueryContext#getAllModules()Ljava/util/Iterator;*" 
-org.exist.xquery.XQueryContext2getAllModules()"~
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java   (
-
-%0java.util.IteratorB" 
-org.exist.xquery.XQueryContext

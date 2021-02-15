@@ -1,45 +1,0 @@
-
-Norg.exist.xquery.ModuleContext#getModule(Ljava/lang/String;)Ljava/lang/Module;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÃ Ã("startingBlock*¸
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java“ “("è
-å
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java“ “(:
-modulejava.lang.Module"__id*
-""*
-1*ˇ
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÕ Õ(è
-å
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÕ Õ(6
-modulejava.lang.Module"__id*
-""*
-2
-1*Ã
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÃ Ã(6≥
-∞
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÀ À(
-%0"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÃ) Ã(5 
-namespaceURIjava.lang.String"__annotation*
-
-%0*
-3*Ë
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java‘ ‘("Ä
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.java‘ ‘(
-
-modulejava.lang.Module: 
-namespaceURIjava.lang.StringB" 
-org.exist.xquery.ModuleContext

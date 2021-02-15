@@ -1,50 +1,0 @@
-
-?org.exist.xquery.XPathUtil#javaClassToXPath(Ljava/lang/Class;)I\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÀ À(,"3"4"7"19"10"22*É
-2\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÏ Ï("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÏ Ï(
-""*Û
-3\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÎ Î(ïì
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÎ Î(5
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-clazzjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*
-2
-1*É
-4\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÍ Í("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÍ Í(
-""*É
-7\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaË Ë("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaË Ë(
-""*Ê
-19\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÄ Ä("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÄ Ä( 
-""*Ê
-10\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÉ É("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÉ É( 
-""*Ê
-22\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÂ Â("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÂ Â(
-""*É
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÑ Ñ("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathUtil.javaÑ Ñ($
-"":
-clazzjava.lang.ClassB"
-org.exist.xquery.XPathUtil

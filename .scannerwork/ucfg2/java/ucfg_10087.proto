@@ -1,16 +1,0 @@
-
-Gorg.exist.storage.lock.LockInfo#getWaitingForWrite()[Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaL L(&"1*¤
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaM M(¾
-»
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaM M(
-%0java.lang.String[]"__id*8*6!
-org.exist.storage.lock.LockInfo"
-waitingForWrite"}
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaM M(
-
-%0java.lang.String[]B#!
-org.exist.storage.lock.LockInfo

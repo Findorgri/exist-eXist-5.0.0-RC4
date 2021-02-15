@@ -1,31 +1,0 @@
-
-4org.exist.TestUtils#readSample(Ljava/lang/String;)[BZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaƒ ƒ(#"1*‘
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java≈ ≈('á
-Ñ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java≈ ≈(;
-%0java.nio.file.Path"Iorg.exist.TestUtils#resolveSample(Ljava/lang/String;)Ljava/nio/file/Path;*"
-org.exist.TestUtils*(
-&
-sampleRelativePathjava.lang.Stringù
-ö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java≈ ≈(<
-filejava.nio.file.Path"__id*
-
-%0java.nio.file.Path⁄
-◊
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java∆ ∆(
-%1byte[]"4org.exist.TestUtils#readFile(Ljava/nio/file/Path;)[B*"
-org.exist.TestUtils*
-
-filejava.nio.file.Path"l
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java∆ ∆(
-
-%1byte[]:&
-sampleRelativePathjava.lang.StringB"
-org.exist.TestUtils

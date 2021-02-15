@@ -1,17 +1,0 @@
-
-9org.exist.storage.txn.Txn#getOriginId()Ljava/lang/String;[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.java® ®("1*‡
-1[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.java¯ ¯(«
-¨
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.java¯ ¯(
-%0java.lang.String"__id*+*)
-org.exist.storage.txn.Txn"
-
-originId"w
-[
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/txn/Txn.java¯ ¯(
-
-%0java.lang.StringB
-org.exist.storage.txn.Txn

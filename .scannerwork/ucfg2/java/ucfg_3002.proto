@@ -1,34 +1,0 @@
-
-?org.exist.dom.persistent.NodeImpl#getPrefix()Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java„ „("1*◊
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÍ Î("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÎ Î(
-""*É
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÂ Ë(í
-è
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÁ Á(=
-prefixjava.lang.String"__id*
-"""É
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaË Ë(
-
-prefixjava.lang.String*¸
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.java‰ ‰(É
-Ä
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÂ Â("
-%0short"__id*
-""É
-Ä
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/NodeImpl.javaÊ Ê($
-%1short"__id*
-""*
-2
-3B%#
-!org.exist.dom.persistent.NodeImpl

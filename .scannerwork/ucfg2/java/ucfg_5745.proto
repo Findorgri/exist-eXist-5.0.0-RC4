@@ -1,9 +1,0 @@
-
-Sorg.exist.xquery.functions.session.SessionModule#getDescription()Ljava/lang/String;p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/session/SessionModule.javaR R( "1*›
-1p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/session/SessionModule.javaS S(<"£
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/session/SessionModule.javaS S(=/-
-+A module for dealing with the HTTP session.B42
-0org.exist.xquery.functions.session.SessionModule

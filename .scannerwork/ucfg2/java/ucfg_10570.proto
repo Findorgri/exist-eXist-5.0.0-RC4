@@ -1,130 +1,0 @@
-
-Éorg.exist.management.impl.SanityReport#parseParameter(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/util/Properties;h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java€ €(%"12*æ
-2h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÎ Î(…
-∆
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÎ Î(*
-%9java.lang.Object"__mapSet*$
-"
-
-propertiesjava.util.Properties*
-
-backup*
-no*
-1*‘
-3h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÈ È(ﬂ
-‹
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÈ È(,
-%8java.lang.Object"__mapSet*$
-"
-
-propertiesjava.util.Properties*
-
-output*
-
-outputjava.lang.String*
-1*·
-5h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÂ Â(È
-Ê
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÂ Â(6
-%7java.lang.Object"__mapSet*$
-"
-
-propertiesjava.util.Properties*
-incremental*!
-
-incrementaljava.lang.String*
-2
-3*Ä
-6h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‰K ‰(VÖÇ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‰K ‰(m
-%6boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*!
-
-incrementaljava.lang.String*
-no2$equalsIgnoreCase(Ljava/lang/String;)*	
-2
-3
-5*˛
-7h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‰$ ‰(/ÜÉ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‰$ ‰(G
-%5boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*!
-
-incrementaljava.lang.String*
-YES2$equalsIgnoreCase(Ljava/lang/String;)*
-5
-6*⁄
-9h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java· ·(ﬂ
-‹
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java· ·(,
-%4java.lang.Object"__mapSet*$
-"
-
-propertiesjava.util.Properties*
-
-backup*
-
-backupjava.lang.String*	
-2
-3
-7*ˇ
-10h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‡, ‡(2Ä˝
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‡, ‡(I
-%3boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-backupjava.lang.String*
-no2$equalsIgnoreCase(Ljava/lang/String;)*
-2
-3
-7
-9*â
-12h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‹& ‹(6üú
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‹* ‹(4
-%0java.util.Properties"java.util.Properties±
-Æ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‹& ‹(6
-%1"java.util.Properties#<init>()V*
-
-%0java.util.Propertiesµ
-≤
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java‹ ‹(7"
-
-propertiesjava.util.Properties"__id*
-
-%0java.util.PropertiesÅ˛
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.java›! ›(?
-%2boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-backupjava.lang.String*
-YES2$equalsIgnoreCase(Ljava/lang/String;)*
-9
-10*Ä
-1h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÓ Ó("ê
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/SanityReport.javaÓ Ó($
-"
-
-propertiesjava.util.Properties:
-outputjava.lang.String:
-backupjava.lang.String:
-incrementaljava.lang.StringB*(
-&org.exist.management.impl.SanityReport

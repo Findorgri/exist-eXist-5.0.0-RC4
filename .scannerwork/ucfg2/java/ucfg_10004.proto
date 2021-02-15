@@ -1,58 +1,0 @@
-
-^org.exist.xquery.modules.file.FileModuleHelper#getFile(Ljava/lang/String;)Ljava/nio/file/Path;Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java2 2("9*™
-5Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5 5(0"†
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5 5(0
-
-%3java.nio.file.Path*ú
-6Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5 5(/ç
-ä
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5 5(/
-%3java.nio.file.Path";java.nio.file.Paths#get(Ljava/net/URI;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-%1java.net.URI*
-5*§
-7Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5 5(©¶
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5% 5((
-%1java.net.URI"java.net.URIÈ
-Ê
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java5! 5(.
-%2"(java.net.URI#<init>(Ljava/lang/String;)V*
-
-%1java.net.URI*
-
-pathjava.lang.String*
-6*°
-9Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java3 3(èå
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java3 3(#
-%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-pathjava.lang.String*	
-file:2startsWith(Ljava/lang/String;)*
-7
-1*◊
-1Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java: :(™
-ß
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java: :("
-%8java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-pathjava.lang.String"†
-Å
-wC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModuleHelper.java: :(#
-
-%8java.nio.file.Path:
-pathjava.lang.StringB2"0
-.org.exist.xquery.modules.file.FileModuleHelper

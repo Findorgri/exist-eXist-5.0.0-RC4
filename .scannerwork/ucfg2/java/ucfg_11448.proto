@@ -1,83 +1,0 @@
-
-Aorg.exist.xquery.UserDefinedFunction#toString()Ljava/lang/String;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java¿ ¿("9*˝
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java… …(ÑÅ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java… …(.
-%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*	
-3
-4
-1*ê
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java» »(ùö
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java» »(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-, 2append(Ljava/lang/String;)*
-3*Û
-7f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java≈ ≈(˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java≈ ≈(
-%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-(2	append(C)*	
-3
-4
-1*˜
-8f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.javaƒ
- ƒ(ÑÅ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.javaƒ
- ƒ()
-%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-7*Ü
-9f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java¡, ¡(8£†
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java¬& ¬(3
-%0java.lang.StringBuilder"java.lang.StringBuilderµ
-≤
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java¬" ¬(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder≤
-Ø
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.java¬ ¬(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-7
-8*◊
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.javaÀ À(˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.javaÀ À(
-%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-)2	append(C)Á‰
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.javaÃ Ã(
-%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"Ç
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/UserDefinedFunction.javaÃ Ã(
-
-%7java.lang.StringB(&
-$org.exist.xquery.UserDefinedFunction

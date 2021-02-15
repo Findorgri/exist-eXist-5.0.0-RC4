@@ -1,61 +1,0 @@
-
-Aorg.exist.webdav.MiltonCollection#getCreateDate()Ljava/util/Date;u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java¶ ¶("5*∞
-2u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java∞ ∞(Æ
-´
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java∞ ∞(A
-%2java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*
-Create date=%s*
-
-
-createDatejava.util.Date*
-1*Æ
-4u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java¨" ¨(&†ù
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java¨ ¨(!
-%0java.util.Date"java.util.DateÕ
- 
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java¨ ¨('
-%1"java.util.Date#<init>(J)V*
-
-%0java.util.Date*
-
-timejava.lang.Long∂
-≥
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java¨ ¨('
-
-createDatejava.util.Date"__id*
-
-%0java.util.Date*
-2
-1*—
-5u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java® ®(¶
-£
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java® ®(
-
-createDatejava.util.Date"__id*
-""†
-ù
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java™ ™(6
-timejava.lang.Long"__id*
-""*	
-2
-4
-1*î
-1u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java≥ ≥("ó
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonCollection.java≥ ≥(
-
-
-createDatejava.util.DateB%#
-!org.exist.webdav.MiltonCollection

@@ -1,22 +1,0 @@
-
-9org.exist.util.ZipEntryInputSource#getByteStreamLength()Jb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.javaQ Q( "1*Ý
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.javaR R(Á
-¾
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.javaS	 S(
-%0java.util.zip.ZipEntry"__id*4*2$
-"org.exist.util.ZipEntryInputSource"
-
-zipEntryÁ¾
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.javaS	 S(
-
-%1long"!java.util.zip.ZipEntry#getSize()J*
-
-%0java.util.zip.ZipEntry2	getSize()"l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ZipEntryInputSource.javaS S(
-""B&$
-"org.exist.util.ZipEntryInputSource

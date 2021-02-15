@@ -1,36 +1,0 @@
-
-Qorg.exist.dom.NamedNodeMapImpl#getNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java1 1("startingBlock*Õ
-3^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java3 3(1"h
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java3 3(1
-
-%0*∂
-startingBlock^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java1 1(/©
-¶
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java0 0(
-%4"
-__annotate*
-java.lang.Override*
-
-namejava.lang.Stringì
-ê
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java1* 1(.
-namejava.lang.String"__annotation*
-
-%4*
-4*ı
-4^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java3 3(0äá
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/NamedNodeMapImpl.java3 3(0
-%0"Qorg.exist.dom.NamedNodeMapImpl#getNamedItem(Ljava/lang/String;)Lorg/w3c/dom/Node;*" 
-org.exist.dom.NamedNodeMapImpl*
-""2 getNamedItem(Ljava/lang/String;)*
-3:
-namejava.lang.StringB" 
-org.exist.dom.NamedNodeMapImpl

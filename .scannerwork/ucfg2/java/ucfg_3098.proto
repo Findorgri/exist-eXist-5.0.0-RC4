@@ -1,49 +1,0 @@
-
-|org.exist.protocolhandler.eXistURLStreamHandlerFactory#createURLStreamHandler(Ljava/lang/String;)Ljava/net/URLStreamHandler;v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java5 5(2"5*‡
-2v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java< <(ë
-è
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java< <(
-%3java.net.URLStreamHandler"__id*G*E8
-6org.exist.protocolhandler.eXistURLStreamHandlerFactory"	
-handler"›
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java< <(!
-
-%3java.net.URLStreamHandler*’
-3v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java9 9(
-Œ
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java9 9(
-%2"__id*
-""*
-2*•
-4v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java8 8(
-Œ
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java8 8(
-%1"__id*
-""*
-2
-3*…
-5v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java6 6(ÿü
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java6 6(#
-%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*	
-xmldb*
-
-protocoljava.lang.String2equals(Ljava/lang/Object;)*
-4
-1*þ
-1v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java? ?("€
-v
-lC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/eXistURLStreamHandlerFactory.java? ?(
-"":
-protocoljava.lang.StringB:8
-6org.exist.protocolhandler.eXistURLStreamHandlerFactory

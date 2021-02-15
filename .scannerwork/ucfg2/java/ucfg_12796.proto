@@ -1,40 +1,0 @@
-
->org.exist.security.AbstractSubject#equals(Ljava/lang/Object;)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java³ ³("startingBlock*Æ
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java³ ³(+®
-«
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java² ²(
-%2"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Object˜
-•
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java³' ³(*
-objjava.lang.Object"__annotation*
-
-%2*
-1*æ
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java´ ´(ý
-ú
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java´ µ(
-%0java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-objjava.lang.ObjectŠ‡
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java´ ¶(k
-%1"Mjava.util.Optional#flatMap(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%0java.util.Optional*
-""2&flatMap(Ljava/util/function/Function;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.java´ ¸(
-"":
-objjava.lang.ObjectB&$
-"org.exist.security.AbstractSubject

@@ -1,33 +1,0 @@
-
-Porg.exist.xmlrpc.RpcConnection#getTimestamps(Ljava/lang/String;)Ljava/util/List;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÓ Ó(#"startingBlock*Ã
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÓ# Ó(>≥
-∞
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÌ Ì(
-%1"
-__annotate*
-java.lang.Override*"
- 
-documentPathjava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÓ1 Ó(= 
-documentPathjava.lang.String"__annotation*
-
-%1*
-1*‡
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java (åâ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java (@
-%0"Porg.exist.xmlrpc.RpcConnection#getTimestamps(Ljava/lang/String;)Ljava/util/List;*" 
-org.exist.xmlrpc.RpcConnection*
-""2!getTimestamps(Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java (A
-
-%0: 
-documentPathjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

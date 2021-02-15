@@ -1,27 +1,0 @@
-
-Borg.exist.dom.persistent.TextImpl#isEqualNode(Lorg/w3c/dom/Node;)Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaª ª("startingBlock*Ã
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaª ª(.­
-ª
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java© ©(
-%0"
-__annotate*
-java.lang.Override*
-
-argorg.w3c.dom.Node—
-”
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.javaª* ª(-
-argorg.w3c.dom.Node"__annotation*
-
-%0*
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java« «("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/TextImpl.java« «(
-"":
-argorg.w3c.dom.NodeB%#
-!org.exist.dom.persistent.TextImpl

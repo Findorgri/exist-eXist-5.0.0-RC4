@@ -1,27 +1,0 @@
-
-Forg.exist.xquery.FailTest#matches(Ljavax/xml/stream/XMLStreamReader;)ZY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FailTest.javaA A("startingBlock*À
-startingBlockY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FailTest.javaA A(8∂
-≥
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FailTest.java@ @(
-%0"
-__annotate*
-java.lang.Override*,
-*
-reader javax.xml.stream.XMLStreamReader†
-ù
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FailTest.javaA1 A(7*
-reader javax.xml.stream.XMLStreamReader"__annotation*
-
-%0*
-1*√
-1Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FailTest.javaB B("c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FailTest.javaB B(
-"":*
-reader javax.xml.stream.XMLStreamReaderB
-org.exist.xquery.FailTest

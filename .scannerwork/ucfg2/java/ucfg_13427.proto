@@ -1,16 +1,0 @@
-
-Corg.exist.webstart.JnlpHelper#getWebappFolder()Ljava/nio/file/Path;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaM M("1*š
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaN N(¸
-µ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaN N(
-%0java.nio.file.Path"__id*4*2
-org.exist.webstart.JnlpHelper"
-webappsFolder"{
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpHelper.javaN N(
-
-%0java.nio.file.PathB!
-org.exist.webstart.JnlpHelper

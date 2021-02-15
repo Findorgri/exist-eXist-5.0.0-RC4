@@ -1,57 +1,0 @@
-
-‚org.exist.dom.persistent.AttrImpl#setUserData(Ljava/lang/String;Ljava/lang/Object;Lorg/w3c/dom/UserDataHandler;)Ljava/lang/Object;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¬ ¬("startingBlock*÷
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¬ ¬(a­
-ª
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java« «(
-%0"
-__annotate*
-java.lang.Override*
-
-keyjava.lang.String—
-”
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¬+ ¬(.
-keyjava.lang.String"__annotation*
-
-%0®
-«
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java« «(
-%1"
-__annotate*
-java.lang.Override*
-
-datajava.lang.Object˜
-•
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¬= ¬(A
-datajava.lang.Object"__annotation*
-
-%1¼
-¹
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java« «(
-%2"
-__annotate*
-java.lang.Override*(
-&
-handlerorg.w3c.dom.UserDataHandler¦
-£
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¬Y ¬(`&
-handlerorg.w3c.dom.UserDataHandler"__annotation*
-
-%2*
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java­ ­("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java­ ­(
-"":
-keyjava.lang.String:
-datajava.lang.Object:&
-handlerorg.w3c.dom.UserDataHandlerB%#
-!org.exist.dom.persistent.AttrImpl

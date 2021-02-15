@@ -1,27 +1,0 @@
-
-Zorg.exist.xquery.ModuleContext#getInheritedNamespace(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÏ Ï('"startingBlock*À
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÏ' Ï(<­
-ª
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÎ Î(
-%0"
-__annotate*
-java.lang.Override*
-
-prefixjava.lang.String—
-”
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÏ5 Ï(;
-prefixjava.lang.String"__annotation*
-
-%0*
-1*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÐ Ð("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ModuleContext.javaÐ Ð(;
-"":
-prefixjava.lang.StringB" 
-org.exist.xquery.ModuleContext

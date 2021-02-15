@@ -1,27 +1,0 @@
-
-[org.exist.dom.memtree.ElementImpl#removeAttributeNode(Lorg/w3c/dom/Attr;)Lorg/w3c/dom/Attr;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaš š(#"startingBlock*Ë
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaš# š(7±
-®
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java™ ™(
-%0"
-__annotate*
-java.lang.Override*
-
-oldAttrorg.w3c.dom.Attr›
-˜
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaš/ š(6
-oldAttrorg.w3c.dom.Attr"__annotation*
-
-%0*
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java› ›("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java› ›(
-"":
-oldAttrorg.w3c.dom.AttrB%#
-!org.exist.dom.memtree.ElementImpl

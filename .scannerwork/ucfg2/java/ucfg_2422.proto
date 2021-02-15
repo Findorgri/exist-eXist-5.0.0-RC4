@@ -1,36 +1,0 @@
-
-[org.exist.util.ConcurrentValueWrapper#read(Ljava/util/function/Function;)Ljava/lang/Object;e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java9 9("3*¯
-2e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java: :(f¯
-¬
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java;  ;(%
-%1T"__id*4*2'
-%org.exist.util.ConcurrentValueWrapper"
-value‹ˆ
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java; ;(&
-%2U"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*'
-%
-readFnjava.util.function.Function*	
-
-%1T2apply(Ljava/lang/Object;)*
-1*Ç
-3e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java:9 :(DÕ
-Ò
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java:M :(Q.
-%0(java.util.concurrent.locks.ReadWriteLock"__id*3*1'
-%org.exist.util.ConcurrentValueWrapper"
-lock*
-2*Þ
-1e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java; ;('"r
-e
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ConcurrentValueWrapper.java; ;('	
-
-%2U:%
-readFnjava.util.function.FunctionB)'
-%org.exist.util.ConcurrentValueWrapper

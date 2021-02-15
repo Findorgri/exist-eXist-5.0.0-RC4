@@ -1,51 +1,0 @@
-
-Morg.exist.util.XQueryFilenameFilter#accept(Ljava/io/File;Ljava/lang/String;)Zc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java" "("startingBlock*þ
-2c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java&4 &(8Ž
-‹
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java&J &(g
-%0java.lang.String"__id*
-""*
-1*Š
-startingBlockc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java" "(<©
-¦
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java! !(
-%1"
-__annotate*
-java.lang.Override*
-
-dirjava.io.File“
-
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java"% "((
-dirjava.io.File"__annotation*
-
-%1®
-«
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java! !(
-%2"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String˜
-•
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java"7 "(;
-namejava.lang.String"__annotation*
-
-%2*
-2
-1*×
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java& &(i"m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XQueryFilenameFilter.java& &(i
-"":
-dirjava.io.File:
-namejava.lang.StringB'%
-#org.exist.util.XQueryFilenameFilter

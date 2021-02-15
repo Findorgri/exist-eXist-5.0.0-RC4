@@ -1,25 +1,0 @@
-
-'org.exist.storage.btree.Paged#create()Z_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java® ®("6*Ï
-5_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java± ±("i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java± ±(
-""*š
-6_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java° °(Í
-Ê
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java° °(.
-%0(org.exist.storage.btree.Paged$FileHeader"__id*1*/
-org.exist.storage.btree.Paged"
-
-fileHeaderÞÛ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.java° °(
-
-%1void"1org.exist.storage.btree.Paged$FileHeader#write()V*0
-.
-%0(org.exist.storage.btree.Paged$FileHeader2write()*
-5B!
-org.exist.storage.btree.Paged

@@ -1,86 +1,0 @@
-
-norg.exist.storage.NativeBroker#checkRemoveCollectionPermissions(Ljava/util/Collection;Ljava/util/Collection;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaõ õ(4"startingBlock*Ñ
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java ("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java (
-""*ö
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaõ4 ÷(O±
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaö ö(
-%0"
-__annotate*
-
-Nullable**
-(
-parentCollectionjava.util.Collectionµ
-²
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaö ö(<
-%1"
-__annotate*
-EnsureLocked**
-(
-parentCollectionjava.util.Collection­
-ª
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaöN ö(^(
-parentCollectionjava.util.Collection"__annotation*
-
-%0*
-
-%1¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java÷ ÷(2
-%2"
-__annotate*
-EnsureLocked*$
-"
-
-collectionjava.util.CollectionŸ
-œ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java÷D ÷(N"
-
-collectionjava.util.Collection"__annotation*
-
-%2*
-2
-4
-7
-9
-11
-1*Ñ
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java‰ ‰("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java‰ ‰(
-""*Ñ
-7`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java„ „("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java„ „(
-""*Ñ
-9`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaş ş("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaş ş(
-""*Ò
-11`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaû û("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.javaû û(
-""*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java‘ ‘("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java‘ ‘(
-"":(
-parentCollectionjava.util.Collection:"
-
-collectionjava.util.CollectionB" 
-org.exist.storage.NativeBroker

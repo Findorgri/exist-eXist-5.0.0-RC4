@@ -1,41 +1,0 @@
-
-Yorg.exist.xmldb.RemoteXPathQueryService#getProperty(Ljava/lang/String;)Ljava/lang/String;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java¦ ¦("startingBlock*×
-startingBlocki
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java¦ ¦(0´
-±
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java¥ ¥(
-%2"
-__annotate*
-java.lang.Override*
-
-namejava.lang.Stringž
-›
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java¦+ ¦(/
-namejava.lang.String"__annotation*
-
-%2*
-1*ø
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java§ §(Ó
-Ð
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java§ §(
-%0java.util.Properties"__id*A*?)
-'org.exist.xmldb.RemoteXPathQueryService"
-outputProperties©¦
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java§ §(1
-%1java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
-
-%0java.util.Properties*
-
-namejava.lang.String2getProperty(Ljava/lang/String;)"…
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXPathQueryService.java§ §(2
-
-%1java.lang.String:
-namejava.lang.StringB+)
-'org.exist.xmldb.RemoteXPathQueryService

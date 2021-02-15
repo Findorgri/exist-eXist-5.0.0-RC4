@@ -1,27 +1,0 @@
-
-Eorg.exist.dom.persistent.StoredNode#getParentNode()Lorg/w3c/dom/Node;e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaõ õ("3"5"1*Û
-2e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaü ü( "o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaü ü(!
-""*è
-3e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaû+ û(;óð
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaû+ û(=
-%0"Dorg.exist.dom.persistent.StoredNode#getOwnerDocument()LDocumentImpl;*'%
-#org.exist.dom.persistent.StoredNode2getOwnerDocument()*
-2
-1*Û
-5e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaø ø( "o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaø ø(!
-""*Û
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaþ þ("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaþ þ(/
-""B'%
-#org.exist.dom.persistent.StoredNode

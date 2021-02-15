@@ -1,21 +1,0 @@
-
-horg.exist.xquery.functions.transform.Transform#parseParameters(Lorg/w3c/dom/Node;)Ljava/util/Properties;p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/Transform.java∑ ∑(&"1*õ
-1p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/Transform.java∏ ∏( ê
-ç
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/Transform.java∏ ∏(@
-%0java.util.Properties"éorg.exist.xquery.functions.transform.Transform#parseElementParam(Lorg/w3c/dom/Node;Ljava/lang/String;Ljava/lang/String;)Ljava/util/Properties;*20
-.org.exist.xquery.functions.transform.Transform*
-
-optionsorg.w3c.dom.Node*
-
-parameters*	
-param"ê
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/Transform.java∏ ∏(A
-
-%0java.util.Properties:
-optionsorg.w3c.dom.NodeB20
-.org.exist.xquery.functions.transform.Transform

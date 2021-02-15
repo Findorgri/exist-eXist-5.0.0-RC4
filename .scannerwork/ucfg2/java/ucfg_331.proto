@@ -1,114 +1,0 @@
-
-dorg.exist.collections.triggers.CSVExtractingTrigger#getEscapedSeparatorForRegExp()Ljava/lang/String;u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaç ç(/"7*¶
-2u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaë ë(á
-Þ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaë ë('
-%10java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separatorÀ
-½
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaë ë('
-%11java.lang.String"__concat*
-\\*
-
-%10java.lang.String"’
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaë ë((
-
-%11java.lang.String*Ü
-3u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaêZ ê(]à
-Ý
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaêe ê(n
-%8java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separatorôñ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaêZ ê(o
-%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-^*
-
-%8java.lang.String2equals(Ljava/lang/Object;)*
-2
-1*Ü
-4u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaêA ê(Dà
-Ý
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaêL ê(U
-%6java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separatorôñ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaêA ê(V
-%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-$*
-
-%6java.lang.String2equals(Ljava/lang/Object;)*
-2
-3*Ü
-5u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaê( ê(+à
-Ý
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaê3 ê(<
-%4java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separatorôñ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaê( ê(=
-%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-,*
-
-%4java.lang.String2equals(Ljava/lang/Object;)*
-2
-4*Ü
-6u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaê ê(à
-Ý
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaê ê(#
-%2java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separatorôñ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaê ê($
-%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-|*
-
-%2java.lang.String2equals(Ljava/lang/Object;)*
-2
-5*­
-7u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaè è(à
-Ý
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaè è(
-%0java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separatorÅÂ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaè è(	
-%1int"java.lang.String#length()I*
-
-%0java.lang.String2length()*
-6
-1*ó
-1u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaï ï(á
-Þ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaï ï(
-%12java.lang.String"__id*F*D5
-3org.exist.collections.triggers.CSVExtractingTrigger"
-	separator"’
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaï ï(
-
-%12java.lang.StringB75
-3org.exist.collections.triggers.CSVExtractingTrigger

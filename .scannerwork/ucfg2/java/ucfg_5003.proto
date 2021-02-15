@@ -1,21 +1,0 @@
-
-Uorg.exist.util.SelectorUtils#matchPatternStart(Ljava/lang/String;Ljava/lang/String;)Z\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javal l(+"1*ø
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javam m( ¬
-©
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javam m(4
-%0boolean"Vorg.exist.util.SelectorUtils#matchPatternStart(Ljava/lang/String;Ljava/lang/String;Z)Z* "
-org.exist.util.SelectorUtils*
-
-patternjava.lang.String*
-
-strjava.lang.String*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SelectorUtils.javam m(5
-"":
-patternjava.lang.String:
-strjava.lang.StringB "
-org.exist.util.SelectorUtils

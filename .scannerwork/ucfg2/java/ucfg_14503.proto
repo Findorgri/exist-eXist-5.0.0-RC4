@@ -1,36 +1,0 @@
-
-eorg.exist.security.AbstractRealm#findUsernamesWhereUsernameStarts(Ljava/lang/String;)Ljava/util/List;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java¬ ¬(8"startingBlock*Œ
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java¬8 ¬(Q≥
-∞
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java¡ ¡(
-%1"
-__annotate*
-java.lang.Override* 
-
-
-startsWithjava.lang.Stringù
-ö
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java¬F ¬(P
-
-startsWithjava.lang.String"__annotation*
-
-%1*
-1*≥
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java√ √(À
-»
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java√ √(&
-%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
-java.util.Collections"|
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java√ √('
-
-%0java.util.List:
-
-startsWithjava.lang.StringB$"
- org.exist.security.AbstractRealm

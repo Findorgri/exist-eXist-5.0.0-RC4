@@ -1,16 +1,0 @@
-
-Aorg.exist.storage.BrokerPool#getStartupTime()Ljava/util/Calendar;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaò ò(""1*š
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaó ó(¶
-³
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaó ó(
-%0java.util.Calendar"__id*1*/
-org.exist.storage.BrokerPool"
-startupTime"|
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPool.javaó ó(
-
-%0java.util.CalendarB 
-org.exist.storage.BrokerPool

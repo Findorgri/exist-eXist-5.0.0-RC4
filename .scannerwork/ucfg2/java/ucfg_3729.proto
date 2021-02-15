@@ -1,29 +1,0 @@
-
-Jorg.exist.fluent.Source#blob(Ljava/net/URL;)Lorg/exist/fluent/Source$Blob;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÏ Ï("1*®
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(&…
-‚
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð(+
-%0java.lang.String"Gorg.exist.fluent.Source#urlToFilename(Ljava/net/URL;)Ljava/lang/String;*"
-org.exist.fluent.Source*
-
-urljava.net.URL®«
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ Ð( 
-%1org.exist.fluent.Source$12"org.exist.fluent.Source$12î
-ë
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ	 æ(
-%2"8org.exist.fluent.Source$Blob#<init>(Ljava/lang/String;)V*"
- 
-%1org.exist.fluent.Source$12*
-
-%0java.lang.String"‘
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÐ æ("
- 
-%1org.exist.fluent.Source$12:
-urljava.net.URLB"
-org.exist.fluent.Source

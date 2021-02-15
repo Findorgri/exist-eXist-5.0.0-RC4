@@ -1,123 +1,0 @@
-
-ƒorg.exist.xmlrpc.RpcConnection#parseLocal(Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;Ljava/util/Date;Ljava/util/Date;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè è("startingBlock*ð
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé< é(=ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé< é(=	
-%0int"__id*
-	
-%2int*
-1*ð
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé8 é(9ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé8 é(9	
-%0int"__id*
-	
-%1int*
-1*ú
-startingBlocka
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè è(¢°
-­
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaç ç(
-%4"
-__annotate*
-java.lang.Override*
-
-	localFilejava.lang.Stringš
-—
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè+ è(4
-	localFilejava.lang.String"__annotation*
-
-%4®
-«
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaç ç(
-%5"
-__annotate*
-java.lang.Override*
-
-docNamejava.lang.String˜
-•
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaèC è(J
-docNamejava.lang.String"__annotation*
-
-%5¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaç ç(
-%6"
-__annotate*
-java.lang.Override*
-
-mimeTypejava.lang.String™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaèp è(x
-mimeTypejava.lang.String"__annotation*
-
-%6¬
-©
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaç ç(
-%7"
-__annotate*
-java.lang.Override*
-
-createdjava.util.Date˜
-•
-b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè… è(Œ
-createdjava.util.Date"__annotation*
-
-%7­
-ª
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaç ç(
-%8"
-__annotate*
-java.lang.Override*
-
-modifiedjava.util.Date™
-–
-b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaè™ è(¡
-modifiedjava.util.Date"__annotation*
-
-%8*
-2
-3*ÿ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé? é(G«¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé é([
-%3boolean"ƒorg.exist.xmlrpc.RpcConnection#parseLocal(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-	localFilejava.lang.String*
-
-docNamejava.lang.String*
-	
-%0int*
-
-mimeTypejava.lang.String*
-
-createdjava.util.Date*
-
-modifiedjava.util.Date2cparseLocal(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/util/Date;Ljava/util/Date;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaé é(\
-"":
-	localFilejava.lang.String:
-docNamejava.lang.String:
-"":
-mimeTypejava.lang.String:
-createdjava.util.Date:
-modifiedjava.util.DateB" 
-org.exist.xmlrpc.RpcConnection

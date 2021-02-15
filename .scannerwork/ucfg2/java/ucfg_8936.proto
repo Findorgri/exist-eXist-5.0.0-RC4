@@ -1,21 +1,0 @@
-
-:org.exist.xqdoc.ant.XQDocTask#read(Ljava/nio/file/Path;)[Bn
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/ant/XQDocTask.java ("6*˙
-5p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/ant/XQDocTask.javaÅ Å(,"Ç
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/ant/XQDocTask.javaÅ Å(,
-
-%0byte[]*Ò
-6p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/ant/XQDocTask.javaÅ Å(Ù
-Ò
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/xqdoc/src/org/exist/xqdoc/ant/XQDocTask.javaÅ Å(+
-%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
-java.nio.file.Files*
-
-filejava.nio.file.Path*
-5:
-filejava.nio.file.PathB!
-org.exist.xqdoc.ant.XQDocTask

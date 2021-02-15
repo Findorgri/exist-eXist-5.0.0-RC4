@@ -1,39 +1,0 @@
-
-Porg.exist.util.Stacktrace#top([Ljava/lang/StackTraceElement;I)Ljava/lang/String;Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java, ,("2"3*à
-2Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java.L .(O{
-y
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java.L .(V	
-%0int"__id*
-	
-%2int*
-1*à
-3Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java.6 .(;{
-y
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java.6 .(I	
-%0int"__id*
-	
-%1int*
-1*ÿ
-1Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java. .(W§
-¤
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java/ /(+
-%3java.lang.String"Vorg.exist.util.Stacktrace#asString([Ljava/lang/StackTraceElement;II)Ljava/lang/String;*"
-org.exist.util.Stacktrace*(
-&
-stackjava.lang.StackTraceElement[]*
-""*
-"""u
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Stacktrace.java/ /(,
-
-%3java.lang.String:&
-stackjava.lang.StackTraceElement[]:
-""B"
-org.exist.util.Stacktrace

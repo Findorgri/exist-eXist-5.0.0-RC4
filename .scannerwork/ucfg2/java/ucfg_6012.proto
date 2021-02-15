@@ -1,9 +1,0 @@
-
-Korg.exist.xquery.modules.math.MathModule#getDescription()Ljava/lang/String;{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/math/MathModule.javaN N( "1*Ç
-1{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/math/MathModule.javaO O(R"Ä
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/math/MathModule.javaO O(SEC
-AA module containing functions for common mathematical operations.B,*
-(org.exist.xquery.modules.math.MathModule

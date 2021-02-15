@@ -1,53 +1,0 @@
-
-Yorg.exist.xslt.EXistURIResolver#urlSource(Ljava/lang/String;)Ljavax/xml/transform/Source;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java¤ ¤("7*ý
-4a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java§ §(0"”
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java§ §(0/
--
-%3'javax.xml.transform.stream.StreamSource*±
-5a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java§ §(/¾»
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java§ §(-
-%3'javax.xml.transform.stream.StreamSource"'javax.xml.transform.stream.StreamSource‚
-ÿ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java§ §(/
-%4"Fjavax.xml.transform.stream.StreamSource#<init>(Ljava/io/InputStream;)V*/
--
-%3'javax.xml.transform.stream.StreamSource*
-
-%2java.io.InputStream*
-4*Þ
-6a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java¦ ¦($—
-”
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java¦ ¦($
-urljava.net.URL"__id*
-
-%0java.net.URLÖÓ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java§ §(.
-%2java.io.InputStream".java.net.URL#openStream()Ljava/io/InputStream;*
-
-urljava.net.URL2openStream()*
-5*Á
-7a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java¦ ¦("ˆ…
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java¦ ¦(
-%0java.net.URL"java.net.URLÈ
-Å
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java¦ ¦(#
-%1"(java.net.URL#<init>(Ljava/lang/String;)V*
-
-%0java.net.URL*
-
-pathjava.lang.String*
-6:
-pathjava.lang.StringB#!
-org.exist.xslt.EXistURIResolver

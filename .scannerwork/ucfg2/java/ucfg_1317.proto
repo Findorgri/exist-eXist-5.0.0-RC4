@@ -1,67 +1,0 @@
-
-Aorg.exist.storage.RegexMatcher#matches(Ljava/lang/CharSequence;)Z^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaB B("4*ï
-2^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD. D(5¹
-¶
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD. D(5
-%6java.util.regex.Matcher"__id*/*- 
-org.exist.storage.RegexMatcher"	
-matcher¼¹
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD. D(<
-%4boolean"java.util.regex.Matcher#find()Z*
-
-%6java.util.regex.Matcher2find()‰
-†
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD. D(<
-%2boolean"__id*
-
-%4boolean*
-1*õ
-3^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD D(!¹
-¶
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD D(!
-%5java.util.regex.Matcher"__id*/*- 
-org.exist.storage.RegexMatcher"	
-matcherÂ¿
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD D(+
-%3boolean""java.util.regex.Matcher#matches()Z*
-
-%5java.util.regex.Matcher2	matches()‰
-†
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD D(+
-%2boolean"__id*
-
-%3boolean*
-1*â
-4^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaC C(¹
-¶
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaC C(
-%0java.util.regex.Matcher"__id*/*- 
-org.exist.storage.RegexMatcher"	
-matcher¸µ
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaC C(
-%1java.util.regex.Matcher"Pjava.util.regex.Matcher#reset(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Matcher* 
-
-termjava.lang.CharSequence2reset(Ljava/lang/CharSequence;)*
-2
-3*Í
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD D(="h
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/RegexMatcher.javaD D(=
-"":
-termjava.lang.CharSequenceB" 
-org.exist.storage.RegexMatcher

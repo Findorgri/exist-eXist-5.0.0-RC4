@@ -1,27 +1,0 @@
-
-?org.exist.xquery.XQueryContext#getModules()Ljava/util/Iterator;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaš š(&"1*Í
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java› ›(±
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java› ›(
-%0java.util.Map"__id*/*- 
-org.exist.xquery.XQueryContext"	
-modulesÐÍ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java› ›(
-%1java.util.Collection",java.util.Map#values()Ljava/util/Collection;*
-
-%0java.util.Map2values()ÞÛ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java› ›(*
-%2java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*
-
-%1java.util.Collection2
-iterator()"~
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java› ›(+
-
-%2java.util.IteratorB" 
-org.exist.xquery.XQueryContext

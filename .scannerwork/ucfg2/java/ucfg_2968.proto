@@ -1,20 +1,0 @@
-
-Sorg.exist.xquery.modules.httpclient.DBFile#createInputStream()Ljava/io/InputStream;}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaH H(%"1*ÿ
-1}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaI I(§
-°
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaI I(
-%0java.net.URLConnection"Rorg.exist.xquery.modules.httpclient.DBFile#getConnection()Ljava/net/URLConnection;*.,
-*org.exist.xquery.modules.httpclient.DBFileçä
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaI I(,
-%1java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*
-
-%0java.net.URLConnection2getInputStream()"ú
-}
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/DBFile.javaI I(-
-
-%1java.io.InputStreamB.,
-*org.exist.xquery.modules.httpclient.DBFile

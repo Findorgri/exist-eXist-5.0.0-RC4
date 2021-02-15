@@ -1,109 +1,0 @@
-
-Uorg.exist.examples.xmldb.XQueryExample#readFile(Ljava/lang/String;)Ljava/lang/String;n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java) )($"9*è
-2n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java0 0(íê
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java0 0(!
-%8java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
-
-xmljava.lang.StringBuffer2
-toString()*
-1*°
-3n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java. .(µ²
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java. .( 
-%7java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
-
-xmljava.lang.StringBuffer*
-
-linejava.lang.String2append(Ljava/lang/String;)*
-5*«
-4n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java- -('­
-ª
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java- -('
-linejava.lang.String"__id*
-
-%6java.lang.String*
-2
-3*æ
-5n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java- -(ëè
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java- -('
-%6java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*
-
-fjava.io.BufferedReader2
-readLine()*
-4*³
-6n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java, ,(2¸
-µ
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java, ,(2
-xmljava.lang.StringBuffer"__id*
-
-%4java.lang.StringBuffer*
-5*¹
-7n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java*	 *(D¶
-³
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java*	 *(D
-fjava.io.BufferedReader"__id*
-
-%2java.io.BufferedReader›
-˜
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java+ +(
-linejava.lang.String"__id*
-""©¦
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java,# ,(/
-%4java.lang.StringBuffer"java.lang.StringBuffer»
-¸
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java, ,(1
-%5" java.lang.StringBuffer#<init>()V*
-
-%4java.lang.StringBuffer*
-6*Ž
-8n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java* *(D©¦
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java*  *(.
-%2java.io.BufferedReader"java.io.BufferedReaderç
-ä
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java* *(D
-%3"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
-
-%2java.io.BufferedReader*
-
-%0java.io.FileReader*
-7*€
-9n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java*> *(B¡ž
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java*3 *(=
-%0java.io.FileReader"java.io.FileReaderá
-Þ
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java*/ *(C
-%1".java.io.FileReader#<init>(Ljava/lang/String;)V*
-
-%0java.io.FileReader*
-
-filejava.lang.String*
-8*€
-1n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java0 0(""Š
-n
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/samples/src/org/exist/examples/xmldb/XQueryExample.java0 0("
-
-%8java.lang.String:
-filejava.lang.StringB*"(
-&org.exist.examples.xmldb.XQueryExample

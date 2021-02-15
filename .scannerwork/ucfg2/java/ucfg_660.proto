@@ -1,21 +1,0 @@
-
-?org.exist.xquery.modules.memcached.MemcachedModule#getHandle()JÖ
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/memcached/MemcachedModule.javax x( "1* 
-1Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/memcached/MemcachedModule.javaz	 z(ë
-é
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/memcached/MemcachedModule.javaz	 z(,
-%0&java.util.concurrent.atomic.AtomicLong"__id*P*N4
-2org.exist.xquery.modules.memcached.MemcachedModule"
-currentSessionHandleïí
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/memcached/MemcachedModule.javaz	 z(/
-
-%1long"9java.util.concurrent.atomic.AtomicLong#incrementAndGet()J*.
-,
-%0&java.util.concurrent.atomic.AtomicLong2incrementAndGet()"ê
-Ö
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/memcached/MemcachedModule.javaz z(0
-""B6"4
-2org.exist.xquery.modules.memcached.MemcachedModule

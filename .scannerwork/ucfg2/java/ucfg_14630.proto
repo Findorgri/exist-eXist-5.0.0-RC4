@@ -1,57 +1,0 @@
-
-korg.exist.security.EXistSchemaType#valueOfNamespace(Ljava/lang/String;)Lorg/exist/security/EXistSchemaType;b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java1" 1(2"5*Å
-2b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java2 2(1¨
-©
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java2 2(15
-existSchemaType"org.exist.security.EXistSchemaType"__id*
-""‡
-›
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java2 2(15
-existSchemaType"org.exist.security.EXistSchemaType"
-__arrayGet*,
-*
-%0$org.exist.security.EXistSchemaType[]*
-""*
-4
-1*á
-3b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java4 4(&"ù
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java4 4('7
-5
-existSchemaType"org.exist.security.EXistSchemaType*˝
-4b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java3 3(çä
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java3 3(-
-%1java.lang.String"Corg.exist.security.EXistSchemaType#getNamespace()Ljava/lang/String;*7
-5
-existSchemaType"org.exist.security.EXistSchemaType2getNamespace()˚¯
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java3 3(?
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%1java.lang.String*
-
-	namespacejava.lang.String2equals(Ljava/lang/Object;)*
-2
-3*¸
-5b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java24 2(Cç
-ä
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java24 2(L*
-%0$org.exist.security.EXistSchemaType[]"Porg.exist.security.EXistSchemaType#values()[Lorg/exist/security/EXistSchemaType;*&"$
-"org.exist.security.EXistSchemaType*
-2*’
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java7 7("l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/EXistSchemaType.java7 7(
-"":
-	namespacejava.lang.StringB&"$
-"org.exist.security.EXistSchemaType

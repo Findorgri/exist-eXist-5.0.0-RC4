@@ -1,35 +1,0 @@
-
-«org.exist.xquery.value.TimeUtils#newDurationDayTime(ZLjava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/BigInteger;)Ljavax/xml/datatype/Duration;`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javav v(&"1*˜
-1`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaw w(È
-Å
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaw w((
-%0"javax.xml.datatype.DatatypeFactory"__id*1*/"
- org.exist.xquery.value.TimeUtils"	
-factoryÛØ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaw w(G!
-%1javax.xml.datatype.Duration"­javax.xml.datatype.DatatypeFactory#newDurationDayTime(ZLjava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/BigInteger;)Ljavax/xml/datatype/Duration;**
-(
-%0"javax.xml.datatype.DatatypeFactory*
-""*
-
-arg1java.math.BigInteger*
-
-arg2java.math.BigInteger*
-
-arg3java.math.BigInteger*
-
-arg4java.math.BigInteger2mnewDurationDayTime(ZLjava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/BigInteger;)"‡
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/TimeUtils.javaw w(H#
-!
-%1javax.xml.datatype.Duration:
-"":
-arg1java.math.BigInteger:
-arg2java.math.BigInteger:
-arg3java.math.BigInteger:
-arg4java.math.BigIntegerB$"
- org.exist.xquery.value.TimeUtils

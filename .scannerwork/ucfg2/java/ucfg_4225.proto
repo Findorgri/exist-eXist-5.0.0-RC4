@@ -1,40 +1,0 @@
-
-‡org.exist.xmlrpc.RpcConnection#parseLocalExt(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;ILjava/util/Date;Ljava/util/Date;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaê
- ê
-( "1*ˆ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaì
- ì
-(´
-±
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaì
- ì
-(|
-%0"Žorg.exist.xmlrpc.RpcConnection#parseLocal(Ljava/lang/String;LXmldbURI;ILjava/lang/String;Ljava/lang/Boolean;Ljava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-	localFilejava.lang.String*
-""*
-""*
-
-mimeTypejava.lang.String*
-""*
-
-createdjava.util.Date*
-
-modifiedjava.util.Date"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaì
- ì
-(}
-"":
-	localFilejava.lang.String: 
-documentPathjava.lang.String:
-"":
-mimeTypejava.lang.String:
-"":
-createdjava.util.Date:
-modifiedjava.util.DateB" 
-org.exist.xmlrpc.RpcConnection

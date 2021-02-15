@@ -1,30 +1,0 @@
-
-?org.exist.util.Configuration#parseBoolean(Ljava/lang/String;Z)Z^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÈ È(&"1*‹
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÍ Í(˘
-ˆ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÍ Í()
-%0java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-valuejava.lang.Stringêç
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÍ Î(R
-%1java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%0java.util.Optional*
-""2"map(Ljava/util/function/Function;)˝˙
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÍ Ï(%
-%2java.lang.Boolean"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%1java.util.Optional*
-""2orElse(Ljava/lang/Object;)"h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÍ Ï(&
-"":
-valuejava.lang.String:
-""B "
-org.exist.util.Configuration

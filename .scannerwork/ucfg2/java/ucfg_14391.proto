@@ -1,21 +1,0 @@
-
-Iorg.exist.xmldb.XmldbURI#create(Ljava/net/URI;)Lorg/exist/xmldb/XmldbURI;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaœ œ(!"5*ﬂ
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java— —($"~
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java— —($ 
-
-%0org.exist.xmldb.XmldbURI*Î
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java— —(Ñ
-Å
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java— —(#
-%0org.exist.xmldb.XmldbURI"Norg.exist.xmldb.XmldbURI#xmldbUriFor(Ljava/net/URI;)Lorg/exist/xmldb/XmldbURI;*"
-org.exist.xmldb.XmldbURI*
-
-urijava.net.URI*
-4:
-urijava.net.URIB"
-org.exist.xmldb.XmldbURI

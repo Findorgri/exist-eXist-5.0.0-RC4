@@ -1,44 +1,0 @@
-
-\org.exist.indexing.range.ComplexRangeIndexConfigElement#isCaseSensitive(Ljava/lang/String;)Zë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaV V(""startingBlock*∂
-3ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaY Y("ú
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaY Y(/
-""*ﬂ
-startingBlockë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaV" V(4‚
-ﬂ
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaU U(
-%1"
-__annotate*
-java.lang.Override*
-
-	fieldNamejava.lang.StringÃ
-…
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaV* V(3
-	fieldNamejava.lang.String"__annotation*
-
-%1*
-4
-1*µ
-4ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaX$ X(-êç
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaX$ X(E
-%0",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-	fieldNamejava.lang.String*
-""2equals(Ljava/lang/Object;)*	
-3
-4
-1*∂
-1ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.java\ \("ú
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.java\ \(
-"":
-	fieldNamejava.lang.StringB;9
-7org.exist.indexing.range.ComplexRangeIndexConfigElement

@@ -1,18 +1,0 @@
-
-Vorg.exist.util.PatternFactory#getPattern(Ljava/lang/String;I)Ljava/util/regex/Pattern;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PatternFactory.java6 6("1*ù
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PatternFactory.java7 7(«
-¨
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PatternFactory.java7 7((
-%0java.lang.String"__concat*
-
-patternjava.lang.String*
-"""g
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PatternFactory.java7 7(R
-"":
-patternjava.lang.String:
-""B!
-org.exist.util.PatternFactory

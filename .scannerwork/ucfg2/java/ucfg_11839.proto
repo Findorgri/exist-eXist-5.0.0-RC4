@@ -1,213 +1,0 @@
-
-Eorg.exist.xmldb.RemoteXMLResource#getContentAsDOM()Lorg/w3c/dom/Node;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∞ ∞("27*ı
-24c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂ ∂(?†ù
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂ ∂($
-%4org.xml.sax.InputSource"org.xml.sax.InputSource‡
-›
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂ ∂(?
-%5"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V*
-
-%4org.xml.sax.InputSource*
-
-%2java.io.StringReader*
-23*˙
-13c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¬] ¬(aÑÅ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¬+ ¬(b
-%16java.lang.Boolean"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%15java.util.Optional*
-""2orElse(Ljava/lang/Object;)*
-10
-11*§
-25c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂6 ∂(=∫
-∑
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂6 ∂(=
-%1java.lang.String"__id*2*0#
-!org.exist.xmldb.RemoteXMLResource"	
-contentöó
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂) ∂(5
-%2java.io.StringReader"java.io.StringReaderÿ
-’
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂% ∂(>
-%3"0java.io.StringReader#<init>(Ljava/lang/String;)V*
-
-%2java.io.StringReader*
-
-%1java.lang.String*
-24*Û
-14c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¿ ¿(3™
-ß
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¿ ¿(3
-docorg.w3c.dom.Document"__id*
-
-%13org.w3c.dom.Document∫
-∑
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¬+ ¬(/
-%14java.util.Optional"__id*/*-#
-!org.exist.xmldb.RemoteXMLResource"
-typeóî
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¬+ ¬(U
-%15java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%14java.util.Optional*
-""2"map(Ljava/util/function/Function;)*
-13*∞
-26c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaµ µ(∫
-∑
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaµ µ(
-%0java.lang.String"__id*2*0#
-!org.exist.xmldb.RemoteXMLResource"	
-content*
-25
-22*è
-15c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaø ø(I»
-≈
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaø ø(I,
-builder!javax.xml.parsers.DocumentBuilder"__id**
-(
-%12!javax.xml.parsers.DocumentBuilder“œ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java¿! ¿(2
-%13org.w3c.dom.Document"Xjavax.xml.parsers.DocumentBuilder#parse(Lorg/xml/sax/InputSource;)Lorg/w3c/dom/Document;*.
-,
-builder!javax.xml.parsers.DocumentBuilder*
-
-isorg.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)*
-14*ú
-27c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java± ±(ï
-í
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java± ±(
-isorg.xml.sax.InputSource"__id*
-""í
-è
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java≤ ≤(
-cisjava.io.InputStream"__id*
-""*
-26*≥
-16c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaø, ø(3¡æ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaø, ø(H(
-%12!javax.xml.parsers.DocumentBuilder"`javax.xml.parsers.DocumentBuilderFactory#newDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;*5
-3
-factory(javax.xml.parsers.DocumentBuilderFactory2newDocumentBuilder()*
-15*Ù
-17c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaæ æ(Çˇ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaæ æ((
-%11void":javax.xml.parsers.DocumentBuilderFactory#setValidating(Z)V*5
-3
-factory(javax.xml.parsers.DocumentBuilderFactory*
-""2setValidating(Z)*
-16*‘
-18c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaº º(X’
-“
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaº º(X3
-factory(javax.xml.parsers.DocumentBuilderFactory"__id*0
-.
-%9(javax.xml.parsers.DocumentBuilderFactoryäá
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaΩ Ω(+
-%10void">javax.xml.parsers.DocumentBuilderFactory#setNamespaceAware(Z)V*5
-3
-factory(javax.xml.parsers.DocumentBuilderFactory*
-""2setNamespaceAware(Z)*
-17*ö
-19c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaº3 º(I®
-•
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaº3 º(W.
-%9(javax.xml.parsers.DocumentBuilderFactory"`javax.xml.parsers.DocumentBuilderFactory#newInstance()Ljavax/xml/parsers/DocumentBuilderFactory;*,"*
-(javax.xml.parsers.DocumentBuilderFactory*
-18*Î
-9c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∆ ∆(+"Ä
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∆ ∆(+
-
-%17org.w3c.dom.Node*†
-20c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaπ π()Æ
-´
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaπ π()
-isorg.xml.sax.InputSource"__id*
-
-%7org.xml.sax.InputSource*
-19*§
-21c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∏ ∏((ß
-§
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∏ ∏((
-cisjava.io.InputStream"__id*
-
-%6java.io.InputStream†ù
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaπ π($
-%7org.xml.sax.InputSource"org.xml.sax.InputSourceÂ
-‚
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaπ π()
-%8"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V*
-
-%7org.xml.sax.InputSource*
-
-cisjava.io.InputStream*
-20*÷
-10c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∆ ∆(Â‚
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∆ ∆(*
-%17org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
-
-docorg.w3c.dom.Document2getFirstChild()*
-9*˚
-22c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∏ ∏(&âÜ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∏ ∏((
-%6java.io.InputStream"Iorg.exist.xmldb.RemoteXMLResource#getStreamContent()Ljava/io/InputStream;*%#
-!org.exist.xmldb.RemoteXMLResource2getStreamContent()*
-21*
-11c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaƒ ƒ("Ñ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.javaƒ ƒ(
-
-docorg.w3c.dom.Document*†
-23c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂ ∂(?Æ
-´
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java∂ ∂(?
-isorg.xml.sax.InputSource"__id*
-
-%4org.xml.sax.InputSource*
-19B%#
-!org.exist.xmldb.RemoteXMLResource

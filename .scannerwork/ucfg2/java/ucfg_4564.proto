@@ -1,27 +1,0 @@
-
-^org.exist.xmldb.LocalDatabaseInstanceManager#getProperty(Ljava/lang/String;)Ljava/lang/String;l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalDatabaseInstanceManager.javad d("startingBlock*à
-startingBlockl
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalDatabaseInstanceManager.javad d(0·
-´
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalDatabaseInstanceManager.javac c(
-%0"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¡
-ž
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalDatabaseInstanceManager.javad+ d(/
-namejava.lang.String"__annotation*
-
-%0*
-1*é
-1l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalDatabaseInstanceManager.javae e("v
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalDatabaseInstanceManager.javae e(
-"":
-namejava.lang.StringB0.
-,org.exist.xmldb.LocalDatabaseInstanceManager

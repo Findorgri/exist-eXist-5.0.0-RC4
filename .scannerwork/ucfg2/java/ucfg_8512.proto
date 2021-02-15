@@ -1,40 +1,0 @@
-
-\org.exist.xquery.value.HexBinaryValueType#formatString(Ljava/lang/String;)Ljava/lang/String;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java< <(!"startingBlock*Õ
-startingBlocki
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java<! <(-³
-°
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java; ;(
-%2"
-__annotate*
-java.lang.Override*
-
-strjava.lang.String
-š
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java<) <(,
-strjava.lang.String"__annotation*
-
-%2*
-1*°
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java= =(”
-‘
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java= =(-
-%0java.util.Locale"__id*
-"" 
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java= =(.
-%1java.lang.String"Bjava.lang.String#toUpperCase(Ljava/util/Locale;)Ljava/lang/String;*
-
-strjava.lang.String*
-
-%0java.util.Locale2toUpperCase(Ljava/util/Locale;)"…
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java= =(/
-
-%1java.lang.String:
-strjava.lang.StringB-+
-)org.exist.xquery.value.HexBinaryValueType

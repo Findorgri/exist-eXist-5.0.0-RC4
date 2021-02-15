@@ -1,203 +1,0 @@
-
-@org.exist.xmldb.IndexingTest#populateOK(Lorg/w3c/dom/Document;)Ic
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¥ ¥("startingBlock*¸
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java½ ½(²
-¯
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java½ ½(0
-
-%16int"Torg.exist.xmldb.IndexingTest#addChildren(Lorg/w3c/dom/Node;ILorg/w3c/dom/Document;)I* 
-org.exist.xmldb.IndexingTest*
-
-currentorg.w3c.dom.Node*
-""*
-
-docorg.w3c.dom.Documentçä
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¾ ¾(2
-%17org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
-
-currentorg.w3c.dom.Node2getNextSibling()¦
-£
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¾ ¾(2
-currentorg.w3c.dom.Node"__id*
-
-%17org.w3c.dom.Node*
-3
-1*Õ
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¥ ¥((º
-·
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¤ ¤(
-%18"
-__annotate*
-java.lang.SuppressWarnings*
-
-docorg.w3c.dom.Documentœ
-™
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¥$ ¥('
-docorg.w3c.dom.Document"__annotation*
-
-%18*
-9*Œ
-5c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java» »(*ðí
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java» »(:
-%15org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*(
-&
-documentElementorg.w3c.dom.Element2getFirstChild()¦
-£
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java» »(;
-currentorg.w3c.dom.Node"__id*
-
-%15org.w3c.dom.Node*
-3
-1*Ò
-7c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java´ ´(Ì
-É
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java´ ´(5
-
-%13int"dorg.exist.xmldb.IndexingTest#addBranch(Lorg/w3c/dom/Document;Lorg/w3c/dom/Node;ILjava/lang/String;)I* 
-org.exist.xmldb.IndexingTest*
-
-docorg.w3c.dom.Document*
-
-currentorg.w3c.dom.Node*2
-*
-
-branchçä
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaµ µ(2
-%14org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
-
-currentorg.w3c.dom.Node2getNextSibling()¦
-£
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaµ µ(2
-currentorg.w3c.dom.Node"__id*
-
-%14org.w3c.dom.Node*
-5
-7*±
-9c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¦ ¦('€
-ý
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java¦ ¦(:	
-%0int"Borg.exist.xmldb.IndexingTest#addChildren(Lorg/w3c/dom/Document;I)I* 
-org.exist.xmldb.IndexingTest*
-
-docorg.w3c.dom.Document*
-""øõ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java© ©(/
-%1org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()âß
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java© ©(?
-%2org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*
-
-%1org.w3c.dom.Element2getFirstChild()Ä
-Á
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java© ©(M	
-%3int"dorg.exist.xmldb.IndexingTest#addBranch(Lorg/w3c/dom/Document;Lorg/w3c/dom/Node;ILjava/lang/String;)I* 
-org.exist.xmldb.IndexingTest*
-
-docorg.w3c.dom.Document*
-
-%2org.w3c.dom.Node*
-""*
-""øõ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaª ª(-
-%4org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()àÝ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaª ª(<
-%5org.w3c.dom.Node"1org.w3c.dom.Node#getLastChild()Lorg/w3c/dom/Node;*
-
-%4org.w3c.dom.Element2getLastChild()¸
-µ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaª ª(<.
-org.exist.xmldb.IndexingTest"
-
-deepBranch"__id*
-
-%5org.w3c.dom.Node¸
-µ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java«( «(2
-%6org.w3c.dom.Node"__id*0*.
-org.exist.xmldb.IndexingTest"
-
-deepBranchÄ
-Á
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java« «(@	
-%7int"dorg.exist.xmldb.IndexingTest#addBranch(Lorg/w3c/dom/Document;Lorg/w3c/dom/Node;ILjava/lang/String;)I* 
-org.exist.xmldb.IndexingTest*
-
-docorg.w3c.dom.Document*
-
-%6org.w3c.dom.Node*
-""*
-""øõ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java­" ­(:
-%8org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()³
-°
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java­ ­(;&
-documentElementorg.w3c.dom.Element"__id*
-
-%8org.w3c.dom.Elementøõ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java° °(6
-%9org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document2getDocumentElement()ëè
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java° °(F
-%10org.w3c.dom.NodeList"6org.w3c.dom.Node#getChildNodes()Lorg/w3c/dom/NodeList;*
-
-%9org.w3c.dom.Element2getChildNodes()ÃÀ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java° °(R
-
-%11int"!org.w3c.dom.NodeList#getLength()I*
-
-%10org.w3c.dom.NodeList2getLength()ðí
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java² ²(:
-%12org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;*(
-&
-documentElementorg.w3c.dom.Element2getFirstChild()¦
-£
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.java² ²(;
-currentorg.w3c.dom.Node"__id*
-
-%12org.w3c.dom.Node*
-5
-7*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaÁ Á("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/IndexingTest.javaÁ Á(
-"":
-docorg.w3c.dom.DocumentB 
-org.exist.xmldb.IndexingTest

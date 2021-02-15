@@ -1,71 +1,0 @@
-
-Åorg.exist.management.TaskStatus#getTaskStatus(Ljavax/management/openmbean/CompositeDataSupport;)Lorg/exist/management/TaskStatus;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javaj j(*"1*ä
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javal9 l(F¿Ω
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javal9 l(T
-%0java.lang.Object"Yjavax.management.openmbean.CompositeDataSupport#get(Ljava/lang/String;)Ljava/lang/Object;*B
-@
-compositeData/javax.management.openmbean.CompositeDataSupport*
-
-status2get(Ljava/lang/String;)¨©
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javal& l(0%
-%1org.exist.management.TaskStatus"org.exist.management.TaskStatusÄ
-˝
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javal" l(U
-%2"Qorg.exist.management.TaskStatus#<init>(Lorg/exist/management/TaskStatus$Status;)V*'
-%
-%1org.exist.management.TaskStatus*
-
-%0java.lang.Objectæ
-ª
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javal l(V)
-statusorg.exist.management.TaskStatus"__id*'
-%
-%1org.exist.management.TaskStatus¿Ω
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javam m(4
-%3java.lang.Object"Yjavax.management.openmbean.CompositeDataSupport#get(Ljava/lang/String;)Ljava/lang/Object;*B
-@
-compositeData/javax.management.openmbean.CompositeDataSupport*
-
-reason2get(Ljava/lang/String;)º
-π
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javam m(46
-)
-statusorg.exist.management.TaskStatus"	
-_reason"__id*
-
-%3java.lang.Object «
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javan* n(O
-%4java.lang.Object"Yjavax.management.openmbean.CompositeDataSupport#get(Ljava/lang/String;)Ljava/lang/Object;*B
-@
-compositeData/javax.management.openmbean.CompositeDataSupport*
-statusChangeTime2get(Ljava/lang/String;)∆
-√
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javan n(O@
-)
-statusorg.exist.management.TaskStatus"
-_statusChangeTime"__id*
-
-%4java.lang.Objectƒ¡
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javao, o(K
-%5java.lang.Object"Yjavax.management.openmbean.CompositeDataSupport#get(Ljava/lang/String;)Ljava/lang/Object;*B
-@
-compositeData/javax.management.openmbean.CompositeDataSupport*
-
-percentage2get(Ljava/lang/String;)"é
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/TaskStatus.javap p(+
-)
-statusorg.exist.management.TaskStatus:@
-compositeData/javax.management.openmbean.CompositeDataSupportB#"!
-org.exist.management.TaskStatus

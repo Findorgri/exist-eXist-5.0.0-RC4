@@ -1,48 +1,0 @@
-
->org.exist.storage.StorageAddress#toString(J)Ljava/lang/String;`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javaj j('"1*ã	
-1`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak k(}
-{
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak k(	
-%0int"__id*
-""Ô
-Ñ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak k('	
-%1int"4org.exist.storage.StorageAddress#pageFromPointer(J)I*$""
- org.exist.storage.StorageAddress*
-""›
-˜
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak k(-
-%2java.lang.String"__concat*
-	
-%1int*
-:
-}
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak0 k(>
-%3short"__id*
-""Õ
-Ò
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak0 k(G
-%4short"3org.exist.storage.StorageAddress#tidFromPointer(J)S*$""
- org.exist.storage.StorageAddress*
-""°
-­
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak k(G
-%5java.lang.String"__concat*
-
-%2java.lang.String*
-
-%4short"|
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/StorageAddress.javak k(H
-
-%5java.lang.String:
-""B$""
- org.exist.storage.StorageAddress

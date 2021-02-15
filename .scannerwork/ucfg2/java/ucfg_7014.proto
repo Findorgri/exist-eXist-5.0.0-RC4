@@ -1,24 +1,0 @@
-
-xorg.exist.indexing.range.RangeIndex$Operator#getByName(Ljava/lang/String;)Lorg/exist/indexing/range/RangeIndex$Operator;|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndex.javaW W(("1*Ô
-1|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndex.javaW? W(I¤
-¡
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndex.javaW? W(I
-%0java.util.Map"__id*
-""ò
-ï
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndex.javaW? W(S2
-%1,org.exist.indexing.range.RangeIndex$Operator"__mapGet*
-
-%0java.util.Map*
-
-namejava.lang.String"´
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/RangeIndex.javaW8 W(T4
-2
-%1,org.exist.indexing.range.RangeIndex$Operator:
-namejava.lang.StringB0".
-,org.exist.indexing.range.RangeIndex$Operator

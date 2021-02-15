@@ -1,84 +1,0 @@
-
-9org.exist.client.security.GroupDialog#isValidGroupName()Zg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javað ð($"3*ß
-2g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaò ò("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaò ò(
-""*“
-
-3g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javañ ñ(Ï
-Ì
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javañ ñ(
-%0java.util.regex.Pattern"__id*<*:'
-%org.exist.client.security.GroupDialog"
-PTN_GROUPNAMEÍ
-Ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javañ! ñ(-
-%1javax.swing.JTextField"__id*;*9'
-%org.exist.client.security.GroupDialog"
-txtGroupNameìé
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javañ! ñ(7
-%2java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
-
-%1javax.swing.JTextField2	getText()½º
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javañ ñ(8
-%3java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Pattern*
-
-%2java.lang.String2!matcher(Ljava/lang/CharSequence;)ËÈ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javañ ñ(B
-%4boolean""java.util.regex.Matcher#matches()Z*
-
-%3java.util.regex.Matcher2	matches()*
-2
-1*Ù
-
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaõ õ(Ï
-Ì
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaõ[ õ(h
-%5java.util.regex.Pattern"__id*<*:'
-%org.exist.client.security.GroupDialog"
-PTN_GROUPNAMEçä
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaõ[ õ(s
-%6java.lang.String"4java.util.regex.Pattern#toString()Ljava/lang/String;*
-
-%5java.util.regex.Pattern2
-toString()Ø
-Õ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaõ, õ(s
-%7java.lang.String"__concat*.,
-*Group Name must be at least 3 characters (*
-
-%6java.lang.String¯
-¬
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaõ, õ(y
-%8java.lang.String"__concat*
-
-%7java.lang.String*
-)®
-«
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaõ õ(z
-
-%9void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
-javax.swing.JOptionPane*)'
-%org.exist.client.security.GroupDialog*
-
-%8java.lang.String"q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/GroupDialog.javaö ö(
-""B)'
-%org.exist.client.security.GroupDialog

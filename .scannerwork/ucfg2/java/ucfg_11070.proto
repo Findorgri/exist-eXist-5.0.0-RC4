@@ -1,29 +1,0 @@
-
-Uorg.exist.w3c.tests.TestCase#readFileAsString(Ljava/nio/file/Path;)Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/w3c/tests/TestCase.javaó ó(&"1*°
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/w3c/tests/TestCase.javaò ò(Á
-‰
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/w3c/tests/TestCase.javaò ò(,
-%0byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
-java.nio.file.Files*
-
-filejava.nio.file.Pathíè
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/w3c/tests/TestCase.javaò ò(
-%1java.lang.String"java.lang.String∂
-≥
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/w3c/tests/TestCase.javaò	 ò(-
-%2"java.lang.String#<init>([B)V*
-
-%1java.lang.String*
-
-%0byte[]"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/w3c/tests/TestCase.javaò ò(.
-
-%1java.lang.String:
-filejava.nio.file.PathB "
-org.exist.w3c.tests.TestCase

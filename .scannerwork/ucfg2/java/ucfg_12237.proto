@@ -1,69 +1,0 @@
-
-Eorg.exist.xmldb.AbstractRemoteResource#getContent()Ljava/lang/Object;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaU U("10*õ
-2f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java` `(≥∞
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java` `(2
-%3byte[]"Lorg.exist.xmldb.AbstractRemoteResource#readFile(Lorg/xml/sax/InputSource;)[B**(
-&org.exist.xmldb.AbstractRemoteResource*
-
-resjava.lang.Object2#readFile(Lorg/xml/sax/InputSource;)"x
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java` `(3
-
-%3byte[]*Í
-4f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java^ ^(’“
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java^  ^(=
-%1java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*
-
-resjava.lang.Object2toPath()™ß
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java^ ^(>
-%2byte[]"Gorg.exist.xmldb.AbstractRemoteResource#readFile(Ljava/nio/file/Path;)[B**(
-&org.exist.xmldb.AbstractRemoteResource*
-
-%1java.nio.file.Path2readFile(Ljava/nio/file/Path;)"x
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java^ ^(?
-
-%2byte[]*ë
-6f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java\ \(©¶
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java\ \(*
-%0byte[]"Gorg.exist.xmldb.AbstractRemoteResource#readFile(Ljava/nio/file/Path;)[B**(
-&org.exist.xmldb.AbstractRemoteResource*
-
-resjava.lang.Object2readFile(Ljava/nio/file/Path;)"x
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.java\ \(+
-
-%0byte[]*Ò
-8f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaZ Z("É
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaZ Z(
-
-resjava.lang.Object*í
-10f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaW W(-í
-è
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javaW W(0
-resjava.lang.Object"__id*
-""*
-2
-4
-6
-8
-1*Ò
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javac c("É
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/AbstractRemoteResource.javac c(
-
-resjava.lang.ObjectB*(
-&org.exist.xmldb.AbstractRemoteResource

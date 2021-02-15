@@ -1,61 +1,0 @@
-
-Torg.exist.dom.memtree.ElementImpl#getAttribute(Ljava/lang/String;)Ljava/lang/String;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javai i("startingBlock*Ó
-3a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaz z(&"k
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaz z(9
-""*Ã
-startingBlocka
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javai i(1¬
-©
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javah h(
-%3"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String–
-“
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javai, i(0
-namejava.lang.String"__annotation*
-
-%3*
-8
-10*©
-8a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javat t(Œ
-‰
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javat t(7
-%0java.lang.String"__id*
-""©
-¦
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javat t(=
-%1java.lang.String"__concat*
-
-%0java.lang.String*
-:ýú
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javat t(>
-%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-namejava.lang.String*
-
-%1java.lang.String2startsWith(Ljava/lang/String;)*
-3
-1*Ô
-10a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javao o(#"k
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javao o(4
-""*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java€ €("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java€ €(
-"":
-namejava.lang.StringB%#
-!org.exist.dom.memtree.ElementImpl

@@ -1,33 +1,0 @@
-
-Borg.exist.fluent.QueryService$Statistics#entries()Ljava/util/List;q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java”" ”()"1*‘
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java‘ ‘(&Ã
-…
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java‘ ‘(&
-%0java.util.Map"__id*9*7*
-(org.exist.fluent.QueryService$Statistics"	
-entries·ﬁ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java‘ ‘(/
-%1java.util.Collection",java.util.Map#values()Ljava/util/Collection;*
-
-%0java.util.Map2values()¶£
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java‘ ‘(
-%2java.util.ArrayList"java.util.ArrayListÏ
-È
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java‘
- ‘(0
-%3"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*
-
-%2java.util.ArrayList*
-
-%1java.util.Collection"ê
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QueryService.java‘ ‘(1
-
-%2java.util.ArrayListB,*
-(org.exist.fluent.QueryService$Statistics

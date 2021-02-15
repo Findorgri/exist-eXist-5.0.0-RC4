@@ -1,50 +1,0 @@
-
-Worg.exist.dom.memtree.ElementImpl#hasAttributeNS(Ljava/lang/String;Ljava/lang/String;)Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‚ ‚(!"startingBlock*´
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‚! ‚(T∂
-≥
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java· ·(
-%1"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String†
-ù
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‚/ ‚(; 
-namespaceURIjava.lang.String"__annotation*
-
-%1≥
-∞
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java· ·(
-%2"
-__annotate*
-java.lang.Override*
-
-	localNamejava.lang.Stringù
-ö
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java‚J ‚(S
-	localNamejava.lang.String"__annotation*
-
-%2*
-1*Ê
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java„ „(åâ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java„ „(6
-%0java.lang.String"horg.exist.dom.memtree.ElementImpl#getAttributeNS(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*%#
-!org.exist.dom.memtree.ElementImpl*"
- 
-namespaceURIjava.lang.String*
-
-	localNamejava.lang.String24getAttributeNS(Ljava/lang/String;Ljava/lang/String;)"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java„ „(?
-"": 
-namespaceURIjava.lang.String:
-	localNamejava.lang.StringB%#
-!org.exist.dom.memtree.ElementImpl

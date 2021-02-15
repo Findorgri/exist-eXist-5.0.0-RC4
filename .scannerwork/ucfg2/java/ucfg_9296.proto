@@ -1,14 +1,0 @@
-
-Gorg.exist.dom.memtree.CDATASectionImpl#getNodeValue()Ljava/lang/String;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CDATASectionImpl.java; ;("1*ä
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CDATASectionImpl.java< <(ñî
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CDATASectionImpl.java< <(
-%0java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;**(
-&org.exist.dom.memtree.CDATASectionImpl2	getData()"‚
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/CDATASectionImpl.java< <(
-
-%0java.lang.StringB*(
-&org.exist.dom.memtree.CDATASectionImpl

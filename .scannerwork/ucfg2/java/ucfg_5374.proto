@@ -1,35 +1,0 @@
-
-1org.exist.storage.lock.FileLock#checkHeartbeat()Za
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÚ Ú(""4*›
-2a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÝ Ý(ôñ
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÝ Ý(J
-%1java.lang.String"borg.exist.storage.lock.FileLock#message(Ljava/lang/String;Ljava/lang/Exception;)Ljava/lang/String;*#!
-org.exist.storage.lock.FileLock*1/
--Found a stale lockfile. Trying to remove it: *
-""20message(Ljava/lang/String;Ljava/lang/Exception;)ÎË
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÞ Þ(
-
-%2void"*org.exist.storage.lock.FileLock#release()V*#!
-org.exist.storage.lock.FileLock2	release()"k
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaß ß(
-""* 
-4a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÛ Û(¯
-¬
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaÛ Û(3
-
-%0long"%java.lang.System#currentTimeMillis()J*"
-java.lang.System*
-2
-1*Ó
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaâ â("k
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/FileLock.javaâ â(
-""B#!
-org.exist.storage.lock.FileLock

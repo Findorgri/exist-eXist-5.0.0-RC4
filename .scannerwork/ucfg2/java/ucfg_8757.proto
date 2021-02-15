@@ -1,27 +1,0 @@
-
-\org.exist.dom.persistent.DocumentImpl#createComment(Ljava/lang/String;)Lorg/w3c/dom/Comment;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÌ Ì( "startingBlock*Ñ
-startingBlockg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÌ  Ì(3²
-¯
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaË Ë(
-%0"
-__annotate*
-java.lang.Override*
-
-datajava.lang.Stringœ
-™
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÌ. Ì(2
-datajava.lang.String"__annotation*
-
-%0*
-1*ß
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÍ4 Í(8"q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/DocumentImpl.javaÏ Ï(
-"":
-datajava.lang.StringB)'
-%org.exist.dom.persistent.DocumentImpl

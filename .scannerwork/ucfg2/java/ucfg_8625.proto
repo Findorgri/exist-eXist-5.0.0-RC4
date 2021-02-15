@@ -1,16 +1,0 @@
-
-Lorg.exist.util.TraceableStateChange#getTrace()[Ljava/lang/StackTraceElement;c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TraceableStateChange.java9 9('"1*Á
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TraceableStateChange.java: :(Ç
-Ä
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TraceableStateChange.java: :(#
-%0java.lang.StackTraceElement[]"__id*2*0%
-#org.exist.util.TraceableStateChange"
-trace"Œ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/TraceableStateChange.java: :(%
-#
-%0java.lang.StackTraceElement[]B'%
-#org.exist.util.TraceableStateChange

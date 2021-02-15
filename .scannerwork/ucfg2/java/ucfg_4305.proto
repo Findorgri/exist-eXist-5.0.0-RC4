@@ -1,114 +1,0 @@
-
-gorg.exist.xmlrpc.RpcConnection#parseLocalExt(Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;Z)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaí í( "startingBlock*ð
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî] î(^ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî] î(^	
-%3int"__id*
-	
-%5int*
-1*ð
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaîY î(Zƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaîY î(Z	
-%3int"__id*
-	
-%4int*
-1*ä
-startingBlocka
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaí  í(–°
-­
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaì ì(
-%7"
-__annotate*
-java.lang.Override*
-
-	localFilejava.lang.Stringš
-—
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaí. í(7
-	localFilejava.lang.String"__annotation*
-
-%7®
-«
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaì ì(
-%8"
-__annotate*
-java.lang.Override*
-
-docNamejava.lang.String˜
-•
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaíF í(M
-docNamejava.lang.String"__annotation*
-
-%8¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaì ì(
-%9"
-__annotate*
-java.lang.Override*
-
-mimeTypejava.lang.String™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaís í({
-mimeTypejava.lang.String"__annotation*
-
-%9*
-5
-6*ó
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî? î(@ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî? î(@	
-%0int"__id*
-	
-%2int*
-2
-3*ó
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî; î(<ƒ
-€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî; î(<	
-%0int"__id*
-	
-%1int*
-2
-3*é
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî` î(d•’
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî î(k
-%6boolean"‡org.exist.xmlrpc.RpcConnection#parseLocalExt(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;ILjava/util/Date;Ljava/util/Date;)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-	localFilejava.lang.String*
-
-docNamejava.lang.String*
-	
-%0int*
-
-mimeTypejava.lang.String*
-	
-%3int*
-""*
-""2gparseLocalExt(Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;ILjava/util/Date;Ljava/util/Date;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî î(l
-"":
-	localFilejava.lang.String:
-docNamejava.lang.String:
-"":
-mimeTypejava.lang.String:
-""B" 
-org.exist.xmlrpc.RpcConnection

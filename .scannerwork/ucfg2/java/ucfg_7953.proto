@@ -1,91 +1,0 @@
-
-Iorg.exist.xmldb.concurrent.XMLGenerator#generateText(I)Ljava/lang/String;l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javaj j("7*š
-3l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javao o(È
-Å
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javao o(
-%3java.util.Random"__id*7*5)
-'org.exist.xmldb.concurrent.XMLGenerator"
-randomÉ
-Æ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javao# o((
-%4java.lang.String[]"__id*6*4)
-'org.exist.xmldb.concurrent.XMLGenerator"
-wordsÈÅ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javao o(0	
-%5int"java.util.Random#nextInt(I)I*
-
-%3java.util.Random*
-""2
-nextInt(I)É
-Æ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javap p(
-%6java.lang.String[]"__id*6*4)
-'org.exist.xmldb.concurrent.XMLGenerator"
-words¹
-¶
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javap p(
-%7java.lang.String"
-__arrayGet*
-
-%6java.lang.String[]*
-""±®
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javap p( 
-%8java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
-
-bufjava.lang.StringBuffer*
-
-%7java.lang.String2append(Ljava/lang/String;)*	
-3
-4
-1*õ
-4l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javan n(üù
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javan n(
-%2java.lang.StringBuffer"8java.lang.StringBuffer#append(C)Ljava/lang/StringBuffer;*
-
-bufjava.lang.StringBuffer*
- 2	append(C)*
-3*›
-7l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javak k(-§¤
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javak k(+
-%0java.lang.StringBuffer"java.lang.StringBuffer¹
-¶
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javak k(-
-%1" java.lang.StringBuffer#<init>()V*
-
-%0java.lang.StringBuffer¶
-³
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javak k(.
-bufjava.lang.StringBuffer"__id*
-
-%0java.lang.StringBuffer*	
-3
-4
-1*ê
-1l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javar r(ëè
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javar r(
-%9java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
-
-bufjava.lang.StringBuffer2
-toString()"ˆ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/xmldb/concurrent/XMLGenerator.javar r(
-
-%9java.lang.String:
-""B+)
-'org.exist.xmldb.concurrent.XMLGenerator

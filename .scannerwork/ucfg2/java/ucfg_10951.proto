@@ -1,34 +1,0 @@
-
-^org.exist.security.realm.ldap.LDAPRealm#addDomainPostfix(Ljava/lang/String;)Ljava/lang/String;‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java’ ’(#"3*·
-2‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java• •(§¤
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java• •(0
-%1"Rorg.exist.security.realm.ldap.LDAPRealm#ensureContextFactory()LLdapContextFactory;*+)
-'org.exist.security.realm.ldap.LDAPRealm2ensureContextFactory()*
-1*÷
-3‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java“ “(#Í
-Ê
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java“ “($
-namejava.lang.String"__id*#
-!
-principalNamejava.lang.String”‘
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java” ”(
-%0boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
-
-namejava.lang.String*
-@2"contains(Ljava/lang/CharSequence;)*
-2
-1*¬
-1‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java— —("¡
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java— —(
-
-namejava.lang.String:!
-principalNamejava.lang.StringB+)
-'org.exist.security.realm.ldap.LDAPRealm

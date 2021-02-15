@@ -1,888 +1,0 @@
-
-Öorg.exist.util.serializer.SAXSerializer#startElement(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/xml/sax/Attributes;)Vi
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÄ Ä("startingBlock*Æ
-68i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaï ï(ö
-ó
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaï ï(
-attrNamejava.lang.String"__id*
-""ï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javañ ñ(
-urijava.lang.String"__id*
-""*
-35
-66*€
-69i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaí í(›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaí í(+
-%14$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportÉÄ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaí í(A
-%15boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%14$org.xml.sax.helpers.NamespaceSupport* 
-
-
-elemPrefixjava.lang.String*"
- 
-namespaceURIjava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-68*˛
-26i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaΩ Ω((®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaΩ Ω((
-urijava.lang.String"__id*
-
-%59java.lang.String”
-–
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaæ æ(*
-%60java.util.Map"__id*G*E)
-'org.exist.util.serializer.SAXSerializer"
-optionalNamespaceDeclsÖÇ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaæ æ(>
-%61boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*
-
-%60java.util.Map*
-
-prefixjava.lang.String2containsKey(Ljava/lang/Object;)*
-23*ç
-27i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaº º(7´
-®
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaº º(7
-prefixjava.lang.String"__id*
-
-%58java.lang.StringÁ‰
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaΩ Ω((
-%59java.lang.String"0java.util.Map$Entry#getValue()Ljava/lang/Object;* 
-
-nsEntryjava.util.Map$Entry2
-getValue()*
-26*€
-28i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaº& º(-„‡
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaº& º(6
-%58java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;* 
-
-nsEntryjava.util.Map$Entry2getKey()*
-27*ó
-29i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaª; ª(IÀ
-»
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaª; ª(I
-%56java.util.Map"__id*?*=)
-'org.exist.util.serializer.SAXSerializer"
-namespaceDecls—Œ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaª; ª(T
-%57java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
-
-%56java.util.Map2
-entrySet()*
-23*µ
-70i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaë ë(À
-»
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaë ë(
-%12java.util.Map"__id*?*=)
-'org.exist.util.serializer.SAXSerializer"
-namespaceDeclsÔ
-Ï
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaë ë(<
-%13java.lang.String"__mapSet*
-
-%12java.util.Map* 
-
-
-elemPrefixjava.lang.String*"
- 
-namespaceURIjava.lang.String*
-69*£
-72i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaê ê(›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaê ê(+
-%10$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupport«ƒ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaê ê(,
-%11java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%10$org.xml.sax.helpers.NamespaceSupport* 
-
-
-elemPrefixjava.lang.String2getURI(Ljava/lang/String;)*
-68
-70*ñ
-73i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaé é()û
-õ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaé é(2 
-namespaceURIjava.lang.String"__id*
-""*
-72*’
-30i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¥ ¥(8ú
-ô
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¥ ¥(8
-nsEntryjava.util.Map$Entry"__id*
-""∫
-∑
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¥ ¥(8
-nsEntryjava.util.Map$Entry"
-__arrayGet*
-
-%51java.util.Set*
-""*
-29
-34*ø
-75i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaç< ç(H√¿
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaç< ç(Q	
-%9int"java.lang.String#length()I*"
- 
-namespaceURIjava.lang.String2length()*
-72
-73*Œ
-31i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java∏ ∏(›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java∏ ∏(+
-%54$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportˆÛ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java∏ ∏(4
-%55boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%54$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-30*†
-32i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java∂ ∂((®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java∂ ∂((
-urijava.lang.String"__id*
-
-%53java.lang.String*
-31*Ω
-77i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaç  ç(*¡æ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaç  ç(3	
-%8int"java.lang.String#length()I* 
-
-
-elemPrefixjava.lang.String2length()*
-72
-75*ç
-33i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaµ µ(7´
-®
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaµ µ(7
-prefixjava.lang.String"__id*
-
-%52java.lang.StringÁ‰
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java∂ ∂((
-%53java.lang.String"0java.util.Map$Entry#getValue()Ljava/lang/Object;* 
-
-nsEntryjava.util.Map$Entry2
-getValue()*
-32*€
-34i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaµ& µ(-„‡
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaµ& µ(6
-%52java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;* 
-
-nsEntryjava.util.Map$Entry2getKey()*
-33*√
-79i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaã ã(+î
-ë
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaã ã(7
-%7java.lang.String"__id*
-""∞
-≠
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaã ã(7 
-namespaceURIjava.lang.String"__id*
-
-%7java.lang.String*
-72
-77*ü
-35i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¥; ¥(Q”
-–
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¥; ¥(Q
-%50java.util.Map"__id*G*E)
-'org.exist.util.serializer.SAXSerializer"
-optionalNamespaceDecls—Œ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¥; ¥(\
-%51java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
-
-%50java.util.Map2
-entrySet()*
-30*Œ
-37i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaØ Ø(%›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaØ Ø(%+
-%48$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportˆÛ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaØ Ø(@
-%49boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%48$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-66*®
-38i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÆ Æ(*À
-»
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÆ Æ(*
-%46java.util.Map"__id*?*=)
-'org.exist.util.serializer.SAXSerializer"
-namespaceDecls‚
-ﬂ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÆ Æ(;
-%47java.lang.String"__mapSet*
-
-%46java.util.Map*
-
-prefixjava.lang.String*
-
-urijava.lang.String*
-37*Æ
-81i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaà à(2Æ
-´
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaà à(2
-
-elemPrefixjava.lang.String"__id*
-
-%6java.lang.String*
-79
-72
-77*Ë
-82i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaà à("Ì
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaà à(2
-%6java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-qnamejava.lang.String*2 *
-""2substring(II)*
-81*ì
-84i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÖ  Ö(,î
-ë
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÖ  Ö(>
-%4java.lang.String"__id*
-""Æ
-´
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÖ Ö(?
-
-elemPrefixjava.lang.String"__id*
-
-%4java.lang.String«ƒ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÜ Ü(&	
-%5int"java.lang.String#indexOf(I)I*
-
-qnamejava.lang.String*
-:2
-indexOf(I)*
-79
-82
-72
-77* 
-40i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¨ ¨(/®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¨ ¨(/
-urijava.lang.String"__id*
-
-%43java.lang.String›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java≠ ≠(%+
-%44$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupport√¿
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java≠ ≠(4
-%45java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%44$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String2getURI(Ljava/lang/String;)*
-38
-66*ô
-41i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java´ ´(G´
-®
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java´ ´(G
-prefixjava.lang.String"__id*
-
-%42java.lang.StringÛ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¨ ¨(/
-%43java.lang.String"2org.xml.sax.Attributes#getURI(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2	getURI(I)*
-40*√
-86i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÉ É(‹
-Ÿ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÉ É(*
-%2$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportÏÈ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÉ É(#
-
-%3void"3org.xml.sax.helpers.NamespaceSupport#pushContext()V*,
-*
-%2$org.xml.sax.helpers.NamespaceSupport2pushContext()*
-84*Ï
-42i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java´. ´(6ÙÒ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java´. ´(F
-%42java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-attrNamejava.lang.String*2 *
-""2substring(II)*
-41*‚
-87i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÇ Ç( 
-«
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÇ Ç(
-%0java.util.Map"__id*?*=)
-'org.exist.util.serializer.SAXSerializer"
-namespaceDeclsù
-ö
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÇ Ç("
-
-%1void"
-__mapClear*
-
-%0java.util.Map*
-86*«
-44i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java™$ ™(,À»
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java™$ ™(9
-
-%41int"java.lang.String#indexOf(I)I*
-
-attrNamejava.lang.String*
-:2
-indexOf(I)*
-42
-66*Œ
-45i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java® ®(%›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java® ®(%+
-%39$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportˆÛ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java® ®(@
-%40boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%39$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-66*”
-46i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¶ ¶(5®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¶ ¶(5
-urijava.lang.String"__id*
-
-%36java.lang.StringÀ
-»
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaß ß(*
-%37java.util.Map"__id*?*=)
-'org.exist.util.serializer.SAXSerializer"
-namespaceDecls‚
-ﬂ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaß ß(;
-%38java.lang.String"__mapSet*
-
-%37java.util.Map*
-
-prefixjava.lang.String*
-
-urijava.lang.String*
-45*Ô
-47i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¶" ¶()˜Ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java¶" ¶(5
-%36java.lang.String"4org.xml.sax.Attributes#getValue(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2getValue(I)*
-46*Õ
-49i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java§ §(D´
-®
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java§ §(D
-prefixjava.lang.String"__id*
-
-%33java.lang.String›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java• •(%+
-%34$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupport√¿
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java• •(4
-%35java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%34$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String2getURI(Ljava/lang/String;)*
-47
-66*‰
-50i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java§. §(6ÏÈ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java§. §(C
-%33java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-attrNamejava.lang.String*22substring(I)*
-49*’
-52i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java£ £('ï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java£3 £(O
-%30java.lang.String"__id*
-""≥
-∞
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java£3 £(U
-%31java.lang.String"__concat*
-
-%30java.lang.String*
-:ãà
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java£ £(V
-%32boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-attrNamejava.lang.String*
-
-%31java.lang.String2startsWith(Ljava/lang/String;)*
-50
-44*„
-53i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java° °(%›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java° °(%+
-%27$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java°4 °(R
-%28java.lang.String"__id*
-""Û
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java° °(X
-%29boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%27$org.xml.sax.helpers.NamespaceSupport*
-
-%28java.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-66*Ω
-54i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java† †(*À
-»
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java† †(*
-%24java.util.Map"__id*?*=)
-'org.exist.util.serializer.SAXSerializer"
-namespaceDeclsï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java†/ †(M
-%25java.lang.String"__id*
-""ﬂ
-‹
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java† †(S
-%26java.lang.String"__mapSet*
-
-%24java.util.Map*
-
-%25java.lang.String*
-
-urijava.lang.String*
-53*Ó
-10i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÀ À( ˜Ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÀ À(,
-%72java.lang.String"4org.xml.sax.Attributes#getQName(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2getQName(I)*
-9*ç
-55i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaû& û(0ï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaû  û(9
-urijava.lang.String"__id*
-""*
-54*Ã
-12i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java    (!—Œ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java $  (7
-
-%71int"#org.xml.sax.Attributes#getLength()I*#
-!
-attribsorg.xml.sax.Attributes2getLength()*
-10
-0*§
-58i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaú ú(5®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaú ú(5
-urijava.lang.String"__id*
-
-%23java.lang.String*
-54
-55*
-15i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java« «("”
-–
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java« «("
-%69java.util.Map"__id*G*E)
-'org.exist.util.serializer.SAXSerializer"
-optionalNamespaceDeclsü
-ú
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java« «(*
-%70void"
-__mapClear*
-
-%69java.util.Map*
-0
-12*Ô
-59i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaú" ú()˜Ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaú" ú(5
-%23java.lang.String"4org.xml.sax.Attributes#getValue(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2getValue(I)*
-58*Ï
-16i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java≈ ≈(›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java≈ ≈(+
-%66$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java≈( ≈(F
-%67java.lang.String"__id*
-""¸˘
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java≈ ≈(U
-%68boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%66$org.xml.sax.helpers.NamespaceSupport*
-
-%67java.lang.String*"
- 
-namespaceURIjava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-15*ç
-17i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaƒ ƒ(ï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaƒ# ƒ(A
-%65java.lang.String"__id*
-""*
-16*Á
-19i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java√F √(yÎË
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java√F √(y
-%64",java.lang.String#equals(Ljava/lang/Object;)Z*"
- 
-namespaceURIjava.lang.String*
-""2equals(Ljava/lang/Object;)*
-15
-17*à
-0 "Ä
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java” ”(
-implicit return*é
-startingBlocki
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÄ Ä(wª
-∏
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java (
-%80"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.Stringß
-§
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÄ$ Ä(0 
-namespaceURIjava.lang.String"__annotation*
-
-%80∏
-µ
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java (
-%81"
-__annotate*
-java.lang.Override*
-
-	localNamejava.lang.String§
-°
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÄ? Ä(H
-	localNamejava.lang.String"__annotation*
-
-%81¥
-±
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java (
-%82"
-__annotate*
-java.lang.Override*
-
-qnamejava.lang.String†
-ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÄW Ä(\
-qnamejava.lang.String"__annotation*
-
-%82º
-π
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java (
-%83"
-__annotate*
-java.lang.Override*#
-!
-attribsorg.xml.sax.Attributes®
-•
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÄo Ä(v!
-attribsorg.xml.sax.Attributes"__annotation*
-
-%83*
-87*Ó
-6i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÃ@ Ã(G˜Ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÃ@ Ã(S
-%76java.lang.String"4org.xml.sax.Attributes#getValue(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2getValue(I)*
-12*Ì
-7i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÃ Ã( ˜Ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÃ+ Ã(>
-%75java.lang.String"4org.xml.sax.Attributes#getQName(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2getQName(I)*
-6*ò
-9i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÀ8 À(Dï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÀ8 À(T
-%73java.lang.String"__id*
-""ÜÉ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaÀ À(U
-%74boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-%72java.lang.String*
-
-%73java.lang.String2startsWith(Ljava/lang/String;)*
-7
-12*¥
-61i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaõ õ(%›
-⁄
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaõ õ(%+
-%20$org.xml.sax.helpers.NamespaceSupport"__id*:*8)
-'org.exist.util.serializer.SAXSerializer"
-	nsSupportï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaõ- õ(K
-%21java.lang.String"__id*
-""¿Ω
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaõ õ(L
-%22java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%20$org.xml.sax.helpers.NamespaceSupport*
-
-%21java.lang.String2getURI(Ljava/lang/String;)*
-59
-66*«
-63i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaô ô(2≠
-™
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaô ô(2
-attrNamejava.lang.String"__id*
-
-%17java.lang.Stringï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaö ö(4
-%18java.lang.String"__id*
-""ÉÄ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaö ö(E
-%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%18java.lang.String*
-
-attrNamejava.lang.String2equals(Ljava/lang/Object;)*
-61
-52*Ô
-64i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaô ô(&˜Ù
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaô ô(2
-%17java.lang.String"4org.xml.sax.Attributes#getQName(I)Ljava/lang/String;*#
-!
-attribsorg.xml.sax.Attributes*
-""2getQName(I)*
-63*Õ
-66i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaò  ò(!—Œ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaò$ ò(7
-
-%16int"#org.xml.sax.Attributes#getLength()I*#
-!
-attribsorg.xml.sax.Attributes2getLength()*
-35
-64*ô
-22i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java√ √(ï
-í
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java√ √(.
-%62java.lang.String"__id*
-""ÖÇ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.java√ √(A
-%63boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%62java.lang.String* 
-
-
-elemPrefixjava.lang.String2equals(Ljava/lang/Object;)*
-15
-19*’
-23i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaª ª(8ú
-ô
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaª ª(8
-nsEntryjava.util.Map$Entry"__id*
-""∫
-∑
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/SAXSerializer.javaª ª(8
-nsEntryjava.util.Map$Entry"
-__arrayGet*
-
-%57java.util.Set*
-""*
-28
-22: 
-namespaceURIjava.lang.String:
-	localNamejava.lang.String:
-qnamejava.lang.String:!
-attribsorg.xml.sax.AttributesB+)
-'org.exist.util.serializer.SAXSerializer

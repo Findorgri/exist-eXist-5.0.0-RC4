@@ -1,28 +1,0 @@
-
-Yorg.expath.exist.ZipFileFunctions$ZipFileFromDb#getStream()Ljava/util/zip/ZipInputStream;u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaù ù('"2"1*‡
-2u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaû û((…
-‚
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaû û(*
-%0"Norg.expath.exist.ZipFileFunctions$ZipFileFromDb#getBinaryDoc()LLockedDocument;*31
-/org.expath.exist.ZipFileFunctions$ZipFileFromDb*
-1*Ç
-1u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaş& ş(-¼¹
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaş ş(%"
-%1java.util.zip.ZipInputStream"java.util.zip.ZipInputStreamë
-è
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaş ş(u
-%2";java.util.zip.ZipInputStream#<init>(Ljava/io/InputStream;)V*$
-"
-%1java.util.zip.ZipInputStream*
-"""
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/expath/src/org/expath/exist/ZipFileFunctions.javaş ş(v$
-"
-%1java.util.zip.ZipInputStreamB31
-/org.expath.exist.ZipFileFunctions$ZipFileFromDb

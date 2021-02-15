@@ -1,29 +1,0 @@
-
-6org.exist.fluent.Document#toString()Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaç ç(""1*ß
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaè	 è(åâ
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaè è(
-%0java.lang.String"2org.exist.fluent.Document#path()Ljava/lang/String;*
-org.exist.fluent.Document2path()¾
-»
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaè	 è(
-%1java.lang.String"__concat*
-
-document '*
-
-%0java.lang.Stringµ
-²
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaè	 è($
-%2java.lang.String"__concat*
-
-%1java.lang.String*
-'"‰
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Document.javaè è(%
-
-%2java.lang.StringB
-org.exist.fluent.Document

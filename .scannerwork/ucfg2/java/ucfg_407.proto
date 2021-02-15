@@ -1,36 +1,0 @@
-
-=org.exist.util.XMLString#delete(II)Lorg/exist/util/XMLString;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaø ø(!"1*ù
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¿ ¿(ù
-ö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¿ ¿(
-%0char[]"__id*(*&
-org.exist.util.XMLString"
-value_ù
-ö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¿9 ¿(?
-%1char[]"__id*(*&
-org.exist.util.XMLString"
-value_ˇ
-¸
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¿ ¿(b
-
-%2void"Djava.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V*"
-java.lang.System*
-
-%0char[]*
-""*
-
-%1char[]*
-""*
-"""z
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java√ √(
-org.exist.util.XMLString:
-"":
-""B
-org.exist.util.XMLString

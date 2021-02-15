@@ -1,105 +1,0 @@
-
-Iorg.exist.xquery.modules.simpleql.SimpleQLParser#expr()Ljava/lang/String;É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java- -("7*ù
-4É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java; ;(ãà
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java; ;(	
-
-%4void"7org.exist.xquery.modules.simpleql.SimpleQLParser#and()V*42
-0org.exist.xquery.modules.simpleql.SimpleQLParser2and()Æ´
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java< <(
-%5java.lang.String"Korg.exist.xquery.modules.simpleql.SimpleQLParser#orExpr()Ljava/lang/String;*42
-0org.exist.xquery.modules.simpleql.SimpleQLParser2orExpr()¡
-æ
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java< <(
-s2java.lang.String"__id*
-
-%5java.lang.String∫∑
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java> >(
-%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
-
-bufjava.lang.StringBuffer*	
- and 2append(Ljava/lang/String;)…∆
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java? ?(
-%7java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
-
-bufjava.lang.StringBuffer*
-
-s2java.lang.String2append(Ljava/lang/String;)*
-4
-1*–
-7É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java. .(∞
-≠
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java. .(
-strjava.lang.String"__id*
-""øº
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java1 1(&
-%0java.lang.StringBuffer"java.lang.StringBuffer—
-Œ
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java1 1((
-%1" java.lang.StringBuffer#<init>()V*
-
-%0java.lang.StringBufferŒ
-À
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java1 1()
-bufjava.lang.StringBuffer"__id*
-
-%0java.lang.StringBufferØ
-¨
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java2 2(
-s1java.lang.String"__id*
-""Ø
-¨
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java2 2(
-s2java.lang.String"__id*
-""Æ´
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java5 5(
-%2java.lang.String"Korg.exist.xquery.modules.simpleql.SimpleQLParser#orExpr()Ljava/lang/String;*42
-0org.exist.xquery.modules.simpleql.SimpleQLParser2orExpr()¡
-æ
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java5 5(
-s1java.lang.String"__id*
-
-%2java.lang.String…∆
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.java6 6(
-%3java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
-
-bufjava.lang.StringBuffer*
-
-s1java.lang.String2append(Ljava/lang/String;)*
-4
-1*¯
-1É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.javaH H(ÉÄ
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.javaH H(
-%8java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
-
-bufjava.lang.StringBuffer2
-toString()¬
-ø
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.javaH H(
-strjava.lang.String"__id*
-
-%8java.lang.String"°
-É
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/simpleql/SimpleQLParser.javaI I(
-
-strjava.lang.StringB42
-0org.exist.xquery.modules.simpleql.SimpleQLParser

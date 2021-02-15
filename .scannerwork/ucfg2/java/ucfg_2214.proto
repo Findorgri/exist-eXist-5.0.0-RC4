@@ -1,30 +1,0 @@
-
-@org.exist.xquery.modules.mail.SendEmailFunction$Mail#countBCC()IÑ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaŸ
- Ÿ
-("1*ÿ
-1Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java€
- €
-(È
-Ê
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java€
- €
-(
-%0java.util.List"__id*A*?6
-4org.exist.xquery.modules.mail.SendEmailFunction$Mail"
-bccÕ 
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java€
- €
-(	
-%1int"java.util.List#size()I*
-
-%0java.util.List2size()"è
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.java€
- €
-(
-""B86
-4org.exist.xquery.modules.mail.SendEmailFunction$Mail

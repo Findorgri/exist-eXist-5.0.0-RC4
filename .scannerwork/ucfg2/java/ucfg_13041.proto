@@ -1,287 +1,0 @@
-
-vorg.exist.xquery.XQueryContext#instantiateModule(Ljava/lang/String;Ljava/lang/Class;Ljava/util/Map;)Ljava/lang/Module;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¡ ¡($"startingBlock*ç
-35`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª ª(7øõ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª ª(7!
-%5java.lang.invoke.MethodType"@java.lang.invoke.MethodType#erase()Ljava/lang/invoke/MethodType;*#
-!
-%4java.lang.invoke.MethodType2erase()*
-34*Ÿ
-13`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java³ ³(U°­
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java³ ³(U
-%14"Vorg.exist.xquery.XQueryContext#declareNamespace(Ljava/lang/String;Ljava/lang/String;)V*" 
-org.exist.xquery.XQueryContext*
-""*
-""26declareNamespace(Ljava/lang/String;Ljava/lang/String;)*
-12*ç
-24`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java® ®(y
-w
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java® ®(
-%12"__id*
-""*
-22*ó
-36`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª ª((„
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª ª(/!
-%4java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
--
-methodHandlejava.lang.invoke.MethodHandle2type()*
-35*¼
-37`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¦ ¦(pÁ
-¾
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¦ ¦(p-
-methodHandlejava.lang.invoke.MethodHandle"__id*%
-#
-%2java.lang.invoke.MethodHandle‰
-†
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java©- ©(Z!
-%3java.lang.invoke.MethodType"Vjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
-java.lang.invoke.MethodType*
-""*
-36*¶
-38`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¦. ¦(oÇÄ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¦. ¦(o#
-%2java.lang.invoke.MethodHandle"„java.lang.invoke.MethodHandles$Lookup#findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;*1
-/
-lookup%java.lang.invoke.MethodHandles$Lookup*
-
-mClazzjava.lang.Class*#
-!
-%1java.lang.invoke.MethodType2?findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)*
-37*ß
-39`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¥ ¥(GË
-È
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¥ ¥(G/
-lookup%java.lang.invoke.MethodHandles$Lookup"__id*-
-+
-%0%java.lang.invoke.MethodHandles$Lookup¢
-Ÿ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¦M ¦(n!
-%1java.lang.invoke.MethodType"gjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
-java.lang.invoke.MethodType*
-""*
-""*
-38*•
-28`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(C¢
-Ÿ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(C
-modulejava.lang.Module"__id*
-
-%11java.lang.Module*
-24
-20*
-29`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(C¡ž
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java« «(C
-%11java.lang.Module"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*%
-#
-ctorjava.util.function.Function*
-
-%10java.util.Map2apply(Ljava/lang/Object;)*
-28*è
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÅ Å("€
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÅ Å(
-
-modulejava.lang.Module*‹	
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¡$ ¢(m¼
-¹
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java   ("
-%24"
-__annotate*
-java.lang.SuppressWarnings*"
- 
-namespaceURIjava.lang.Stringž
-›
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¡2 ¡(> 
-namespaceURIjava.lang.String"__annotation*
-
-%24µ
-²
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java   ("
-%25"
-__annotate*
-java.lang.SuppressWarnings*
-
-mClazzjava.lang.Class—
-”
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¡T ¡(Z
-mClazzjava.lang.Class"__annotation*
-
-%25½
-º
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java   ("
-%26"
-__annotate*
-java.lang.SuppressWarnings*#
-!
-moduleParametersjava.util.MapŸ
-œ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¢\ ¢(l!
-moduleParametersjava.util.Map"__annotation*
-
-%26*
-41*¡
-9`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java·5 ·(;´
-±
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java· ·(<
-%18"__mapSet*
-
-%17java.util.Map*
-""*
-
-modulejava.lang.Module*
-1*õ
-40`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¥0 ¥(=†
-ƒ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¥0 ¥(F+
-%0%java.lang.invoke.MethodHandles$Lookup"Njava.lang.invoke.MethodHandles#lookup()Ljava/lang/invoke/MethodHandles$Lookup;*"" 
-java.lang.invoke.MethodHandles*
-39*þ
-41`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java£ £(
-Œ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java£ £(
-modulejava.lang.Module"__id*
-""*
-40*ê
-30`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java§B ª(uª
-§
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java§ ª(v#
-ctorjava.util.function.Function"__id*
-
-%9java.lang.ObjectÎ
-Ë
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java«  «(B
-%10java.util.Map"__mapGet*#
-!
-moduleParametersjava.util.Map*"
- 
-namespaceURIjava.lang.String*
-29*†
-20`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java² ²(9“
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java² ²(9
-%13"Torg.exist.xquery.XQueryContext#getPrefixForURI(Ljava/lang/String;)Ljava/lang/String;*" 
-org.exist.xquery.XQueryContext*
-""2#getPrefixForURI(Ljava/lang/String;)*
-13
-12*‡
-31`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ª(u˜•
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ª(u
-%9java.lang.Object"Pjava.lang.invoke.MethodHandle#invokeExact([Ljava/lang/Object;)Ljava/lang/Object;*%
-#
-%8java.lang.invoke.MethodHandle2 invokeExact([Ljava/lang/Object;)*
-30*ï
-32`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ª(g€ý
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ª(g#
-%8java.lang.invoke.MethodHandle"Djava.lang.invoke.CallSite#getTarget()Ljava/lang/invoke/MethodHandle;*!
-
-%7java.lang.invoke.CallSite2getTarget()*
-31*£
-10`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java· ·(µ
-²
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java· ·(
-%17java.util.Map"__id*2*0 
-org.exist.xquery.XQueryContext"
-
-allModules*
-9*Ò
-22`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¯ ¯("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¯ ¯(
-""*ø
-33`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ª([‰
-†
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¨ ª([
-%7java.lang.invoke.CallSite"újava.lang.invoke.LambdaMetafactory#metafactory(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;*&"$
-"java.lang.invoke.LambdaMetafactory*1
-/
-lookup%java.lang.invoke.MethodHandles$Lookup*	
-apply*#
-!
-%3java.lang.invoke.MethodType*#
-!
-%5java.lang.invoke.MethodType*/
--
-methodHandlejava.lang.invoke.MethodHandle*#
-!
-%6java.lang.invoke.MethodType*
-32*£
-11`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¶2 ¶(8´
-±
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¶ ¶(9
-%16"__mapSet*
-
-%15java.util.Map*
-""*
-
-modulejava.lang.Module*
-10*ó
-34`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaª9 ª(E„
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaªG ª(Z!
-%6java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
--
-methodHandlejava.lang.invoke.MethodHandle2type()*
-33*¡
-12`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¶ ¶(²
-¯
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¶ ¶(
-%15java.util.Map"__id*/*- 
-org.exist.xquery.XQueryContext"	
-modules*
-11: 
-namespaceURIjava.lang.String:
-mClazzjava.lang.Class:!
-moduleParametersjava.util.MapB" 
-org.exist.xquery.XQueryContext

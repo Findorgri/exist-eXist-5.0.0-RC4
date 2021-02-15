@@ -1,56 +1,0 @@
-
-%org.exist.util.PorterStemmer#cons(I)Z\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.java` `("1*…
-2\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaf g("f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javag g(
-""*…
-3\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e()"f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e()
-""*¥
-4\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e(#¡
-æ
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e((
-%4boolean"%org.exist.util.PorterStemmer#cons(I)Z* 
-org.exist.util.PorterStemmer*
-""á
-Ñ
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e((
-%1boolean"__id*
-
-%3boolean*
-3*
-5\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e(á
-Ñ
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javae e(
-%1boolean"__id*
-
-%2boolean*
-3*…
-7\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javab c("f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javac c(
-""*ê
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaa a(û
-õ
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PorterStemmer.javaa a(
-%0char[]"__id*'*%
-org.exist.util.PorterStemmer"
-b*
-2
-4
-5
-7:
-""B 
-org.exist.util.PorterStemmer

@@ -1,53 +1,0 @@
-
-oorg.exist.xquery.functions.transform.EXistURIResolver#urlSource(Ljava/lang/String;)Ljavax/xml/transform/Source;w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaè è("7*©
-4w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaí í(6"™
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaí í(6/
--
-%3'javax.xml.transform.stream.StreamSource*Û
-5w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaí í(5‘—
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaí í(#-
-%3'javax.xml.transform.stream.StreamSource"'javax.xml.transform.stream.StreamSourceò
-ï
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaí í(5
-%4"Fjavax.xml.transform.stream.StreamSource#<init>(Ljava/io/InputStream;)V*/
--
-%3'javax.xml.transform.stream.StreamSource*
-
-%2java.io.InputStream*
-4*†
-6w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaë ë(*≠
-™
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaë ë(*
-urljava.net.URL"__id*
-
-%0java.net.URLÏÈ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaí$ í(4
-%2java.io.InputStream".java.net.URL#openStream()Ljava/io/InputStream;*
-
-urljava.net.URL2openStream()*
-5*É
-7w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaë$ ë((ûõ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaë  ë(#
-%0java.net.URL"java.net.URLﬁ
-€
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/transform/EXistURIResolver.javaë ë()
-%1"(java.net.URL#<init>(Ljava/lang/String;)V*
-
-%0java.net.URL*
-
-pathjava.lang.String*
-6:
-pathjava.lang.StringB97
-5org.exist.xquery.functions.transform.EXistURIResolver

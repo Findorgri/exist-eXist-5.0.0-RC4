@@ -1,84 +1,0 @@
-
-Jorg.exist.xquery.value.FloatValue#conversionPreference(Ljava/lang/Class;)Ic
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaÑ Ñ(#"28*◊
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java° °("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java° °(
-""*ÿ
-24c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaâ â("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaâ â(
-""*ÿ
-15c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaí í("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaí í(
-""*◊
-4c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaû û("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaû û(
-""*ÿ
-27c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaÜ Ü("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaÜ Ü(
-""*è
-28c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaÖ Ö(˙˜
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaÖ Ö(8
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*'
-24
-2
-15
-4
-27
-18
-7
-9
-21
-12
-1*ÿ
-18c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaè è("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaè è(
-""*◊
-7c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaõ õ("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaõ õ(
-""*◊
-9c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaò ò("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaò ò(
-""*ÿ
-21c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaå å("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaå å(
-""*ÿ
-12c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaï ï("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.javaï ï(
-""*⁄
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java§ §(Ä
-~
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java§ §( 	
-%1int"__id*
-"""m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/FloatValue.java§ §(!
-"":
-	javaClassjava.lang.ClassB%#
-!org.exist.xquery.value.FloatValue

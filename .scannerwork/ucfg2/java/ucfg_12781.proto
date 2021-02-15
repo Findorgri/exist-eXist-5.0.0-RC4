@@ -1,27 +1,0 @@
-
-@org.exist.security.AbstractSubject#hasGroup(Ljava/lang/String;)Zb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.javaY Y("startingBlock*Ä
-startingBlockb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.javaY Y(/®
-«
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.javaX X(
-%0"
-__annotate*
-java.lang.Override*
-
-groupjava.lang.String˜
-•
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.javaY) Y(.
-groupjava.lang.String"__annotation*
-
-%0*
-1*Õ
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.javaZ Z("l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractSubject.javaZ Z('
-"":
-groupjava.lang.StringB&$
-"org.exist.security.AbstractSubject

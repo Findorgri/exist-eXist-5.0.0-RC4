@@ -1,62 +1,0 @@
-
-corg.exist.debuggee.SessionImpl#setAttribute(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÃ Ã("startingBlock*æ
-startingBlockt
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÃ Ã(5¿
-¼
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÂ Â(
-
-%2"
-__annotate*
-java.lang.Override*
-
-arg0java.lang.Object©
-¦
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÃ# Ã('
-arg0java.lang.Object"__annotation*
-
-%2¿
-¼
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÂ Â(
-
-%3"
-__annotate*
-java.lang.Override*
-
-arg1java.lang.Object©
-¦
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÃ0 Ã(4
-arg1java.lang.Object"__annotation*
-
-%3*
-1*Ä
-1t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÄ	 Ä(È
-Å
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÄ	 Ä(
-%0java.util.Map"__id*2*0 
-org.exist.debuggee.SessionImpl"
-
-attributesê
-ç
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÄ	 Ä(#
-%1java.lang.Object"__mapSet*
-
-%0java.util.Map*
-
-arg0java.lang.Object*
-
-arg1java.lang.Object"
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaÄ Ä($
-
-%1java.lang.Object:
-arg0java.lang.Object:
-arg1java.lang.ObjectB" 
-org.exist.debuggee.SessionImpl

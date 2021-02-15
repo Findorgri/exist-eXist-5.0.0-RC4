@@ -1,170 +1,0 @@
-
-horg.exist.xquery.XQueryContext#initBuiltInModule(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Module;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaâ â("startingBlock*â
-14`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaé é(Xü
-ú
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaé é(X
-mClassjava.lang.Class"__id*
-
-%1java.lang.ClassÙÒ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaê ê(7
-%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-""*
-
-mClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
-10
-12*œ
-15`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaç ç(^û
-õ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaç ç(^)
-existClassLoaderjava.lang.ClassLoader"__id*
-""ø
-º
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaé$ é(W
-%1java.lang.Class"Tjava.lang.Class#forName(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;*"
-java.lang.Class*!
-
-moduleClassjava.lang.String*
-""*+
-)
-existClassLoaderjava.lang.ClassLoader*
-14*¡
-18`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaç1 ç(:“œ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaç1 ç(<
-%0"4org.exist.xquery.XQueryContext#getBroker()LDBBroker;*" 
-org.exist.xquery.XQueryContext2getBroker()*
-15*˛
-19`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaä ä(è
-å
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaä ä(
-modulejava.lang.Module"__id*
-""*
-18*Ë
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaù ù("Ä
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaù ù(
-
-modulejava.lang.Module*µ
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaâ â(Qº
-π
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaà à("
-%14"
-__annotate*
-java.lang.SuppressWarnings*"
- 
-namespaceURIjava.lang.Stringû
-õ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaâ* â(6 
-namespaceURIjava.lang.String"__annotation*
-
-%14ª
-∏
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaà à("
-%15"
-__annotate*
-java.lang.SuppressWarnings*!
-
-moduleClassjava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaâE â(P
-moduleClassjava.lang.String"__annotation*
-
-%15*
-19*Â
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaò ò(y
-w
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaò ò(
-%10"__id*
-""*
-1*ç
-6a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ ñ(«¢
-ü
-a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ ñ(«
-modulejava.lang.Module"__id*
-
-%8java.lang.Modulex
-v
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaó ó(
-%9"__id*
-""*
-4
-1*—
-7a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañM ñ(∆„
-‡
-a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ ñ(«
-%8java.lang.Module"vorg.exist.xquery.XQueryContext#instantiateModule(Ljava/lang/String;Ljava/lang/Class;Ljava/util/Map;)Ljava/lang/Module;*" 
-org.exist.xquery.XQueryContext*"
- 
-namespaceURIjava.lang.String*
-
-mClassjava.lang.Class*
-""*
-6*¸
-8b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ´ ñ(≈ç
-ä
-b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ´ ñ(≈
-%7java.lang.String"__id*
-""*
-7*¬
-10`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañ ñ(&‘—
-b
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javañÄ ñ(ã
-%6"4org.exist.xquery.XQueryContext#getBroker()LDBBroker;*" 
-org.exist.xquery.XQueryContext2getBroker()*
-8*“
-11`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaí í("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaí í(
-""*â
-12`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaë ë(x
-v
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaë ë(
-%3"__id*
-""«
-ƒ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaë ë(@
-%4java.lang.String"__concat*
-failed to load module. *!
-
-moduleClassjava.lang.String÷
-”
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaë ë(t
-%5java.lang.String"__concat*
-
-%4java.lang.String*31
-/ is not an instance of org.exist.xquery.Module.*
-11: 
-namespaceURIjava.lang.String:
-moduleClassjava.lang.StringB" 
-org.exist.xquery.XQueryContext

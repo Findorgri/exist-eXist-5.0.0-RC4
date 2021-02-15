@@ -1,28 +1,0 @@
-
-borg.exist.util.io.FastByteArrayOutputStream#toString(Ljava/nio/charset/Charset;)Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÃ Ã("1*¡
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÄ Ä(%ıú
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÄ Ä('
-%0byte[]";org.exist.util.io.FastByteArrayOutputStream#toByteArray()[B*/-
-+org.exist.util.io.FastByteArrayOutputStream2toByteArray()œ™
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÄ Ä(
-%1java.lang.String"java.lang.String
-ş
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÄ Ä(1
-%2"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
-
-%1java.lang.String*
-
-%0byte[]*%
-#
-charsetjava.nio.charset.Charset"‰
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaÄ Ä(2
-
-%1java.lang.String:#
-charsetjava.nio.charset.CharsetB/-
-+org.exist.util.io.FastByteArrayOutputStream

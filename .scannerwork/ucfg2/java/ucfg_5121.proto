@@ -1,38 +1,0 @@
-
-7org.exist.source.FileSource#getReader()Ljava/io/Reader;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javal l("1*Ê
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javam m(»
-¸
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javam m(
-
-%0void",org.exist.source.FileSource#checkEncoding()V*
-org.exist.source.FileSource«
-¨
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javan' n(+
-%1java.nio.file.Path"__id*)*'
-org.exist.source.FileSource"
-pathµ
-²
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javan- n(5
-%2java.nio.charset.Charset"__id*-*+
-org.exist.source.FileSource"
-
-encodingÄ
-Á
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javan n(6
-%3java.io.BufferedReader"mjava.nio.file.Files#newBufferedReader(Ljava/nio/file/Path;Ljava/nio/charset/Charset;)Ljava/io/BufferedReader;*"
-java.nio.file.Files*
-
-%1java.nio.file.Path* 
-
-%2java.nio.charset.Charset"}
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javan n(7
-
-%3java.io.BufferedReaderB
-org.exist.source.FileSource

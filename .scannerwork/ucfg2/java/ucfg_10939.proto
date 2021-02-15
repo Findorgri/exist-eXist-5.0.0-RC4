@@ -1,35 +1,0 @@
-
-Sorg.exist.util.hashtable.Object2LongIdentityHashMapTest#valEquiv(Ljava/lang/Long;)I|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java; ;("startingBlock*†
-startingBlock|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java; ;(%Â
-¿
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java: :(
-
-%1"
-__annotate*
-java.lang.Override*
-
-vjava.lang.Long¬
-©
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java;# ;($
-vjava.lang.Long"__annotation*
-
-%1*
-1*Ø
-1|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java<	 <(
-ËÈ
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java<	 <(	
-%0int"java.lang.Long#intValue()I*
-
-vjava.lang.Long2
-intValue()"†
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java< <(
-"":
-vjava.lang.LongB;9
-7org.exist.util.hashtable.Object2LongIdentityHashMapTest

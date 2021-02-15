@@ -1,39 +1,0 @@
-
-Rorg.exist.security.internal.SecurityManagerImpl#deleteAccount(Ljava/lang/String;)Zq
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.java‡ ‡( "startingBlock*ï
-startingBlockq
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.java‡  ‡(3¼
-¹
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.java† †(
-%2"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¦
-£
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.java‡. ‡(2
-namejava.lang.String"__annotation*
-
-%2*
-1*ï
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.javaˆ ˆ(ÆÃ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.javaˆ ˆ(-
-%0"Worg.exist.security.internal.SecurityManagerImpl#getAccount(Ljava/lang/String;)LAccount;*31
-/org.exist.security.internal.SecurityManagerImpl*
-
-namejava.lang.String2getAccount(Ljava/lang/String;)°­
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.javaˆ ˆ(.
-%1"Rorg.exist.security.internal.SecurityManagerImpl#deleteAccount(Ljava/lang/String;)Z*31
-/org.exist.security.internal.SecurityManagerImpl*
-
-%02!deleteAccount(Ljava/lang/String;)"{
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SecurityManagerImpl.javaˆ ˆ(/
-"":
-namejava.lang.StringB31
-/org.exist.security.internal.SecurityManagerImpl

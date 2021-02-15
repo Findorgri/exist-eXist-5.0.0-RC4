@@ -1,17 +1,0 @@
-
-Gorg.exist.security.realm.oauth.Service#getReturnURL()Ljava/lang/String;Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javaw w("1*â
-1Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javax x(‡
-›
-Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javax x(
-%0java.lang.String"__id*:*8(
-&org.exist.security.realm.oauth.Service"
-
-return_url"ù
-Ä
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/oauth/src/org/exist/security/realm/oauth/Service.javax x(
-
-%0java.lang.StringB*(
-&org.exist.security.realm.oauth.Service

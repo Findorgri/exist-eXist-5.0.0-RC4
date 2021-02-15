@@ -1,95 +1,0 @@
-
-porg.exist.xmlrpc.RpcConnection#backup(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ ÿ("startingBlock*Â
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ €(O±
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaþ þ(
-%2"
-__annotate*
-java.lang.Override* 
-
-
-userbackupjava.lang.String›
-˜
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ' ÿ(1
-
-userbackupjava.lang.String"__annotation*
-
-%2¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaþ þ(
-%3"
-__annotate*
-java.lang.Override*
-
-passwordjava.lang.String™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÿ@ ÿ(H
-passwordjava.lang.String"__annotation*
-
-%3µ
-²
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaþ þ(
-%4"
-__annotate*
-java.lang.Override*$
-"
-destcollectionjava.lang.StringŸ
-œ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java€' €(5"
-destcollectionjava.lang.String"__annotation*
-
-%4±
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaþ þ(
-%5"
-__annotate*
-java.lang.Override* 
-
-
-collectionjava.lang.String›
-˜
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java€D €(N
-
-collectionjava.lang.String"__annotation*
-
-%5*
-8*°
-8`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaƒ ƒ(º
-·
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java… …(8
-%0java.lang.String"__concat*$
-"
-destcollectionjava.lang.String*	
--backup†
-ƒ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java… …(9
-%1java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-%0java.lang.String*
-1*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaŒ Œ("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaŒ Œ(
-"":
-
-userbackupjava.lang.String:
-passwordjava.lang.String:"
-destcollectionjava.lang.String:
-
-collectionjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

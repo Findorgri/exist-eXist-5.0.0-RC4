@@ -1,16 +1,0 @@
-
-Aorg.exist.storage.lock.LockInfo#getReadLocks()[Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.java\ \( "1*ž
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.java] ](¸
-µ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.java] ](
-%0java.lang.String[]"__id*2*0!
-org.exist.storage.lock.LockInfo"
-	readLocks"}
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.java] ](
-
-%0java.lang.String[]B#!
-org.exist.storage.lock.LockInfo

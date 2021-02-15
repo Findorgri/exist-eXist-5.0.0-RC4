@@ -1,182 +1,0 @@
-
-πorg.exist.validation.resolver.eXistXMLCatalogResolver#resolveResource(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/ls/LSInput;w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaá á(""3*Ä
-2w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç ç(ë
-é
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç ç(
-%13"__id*
-""Çˇ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç% ç(;
-%14java.lang.String"6org.w3c.dom.ls.LSInput#getPublicId()Ljava/lang/String;*$
-"
-retValueorg.w3c.dom.ls.LSInput2getPublicId() 
-«
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç ç(;
-%15java.lang.String"__concat*
-
-PublicId='*
-
-%14java.lang.StringÃ
-…
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç ç(L
-%16java.lang.String"__concat*
-
-%15java.lang.String*
-' SystemId='Çˇ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaé é(,
-%17java.lang.String"6org.w3c.dom.ls.LSInput#getSystemId()Ljava/lang/String;*$
-"
-retValueorg.w3c.dom.ls.LSInput2getSystemId()’
-“
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç é(,
-%18java.lang.String"__concat*
-
-%16java.lang.String*
-
-%17java.lang.StringÀ
-»
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç é(<
-%19java.lang.String"__concat*
-
-%18java.lang.String*
-' BaseURI='Ä˝
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaé? é(T
-%20java.lang.String"5org.w3c.dom.ls.LSInput#getBaseURI()Ljava/lang/String;*$
-"
-retValueorg.w3c.dom.ls.LSInput2getBaseURI()’
-“
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç é(T
-%21java.lang.String"__concat*
-
-%19java.lang.String*
-
-%20java.lang.String¡
-æ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaç é(Z
-%22java.lang.String"__concat*
-
-%21java.lang.String*
-'*
-1*Ÿ
-3w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(ê
-ç
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(
-%0"__id*
-""–
-Õ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(+
-%1java.lang.String"__concat*
-Resolving type='*
-
-typejava.lang.Stringœ
-Ã
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(A
-%2java.lang.String"__concat*
-
-%1java.lang.String*
-', namespaceURI='‹
-Ÿ
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(P
-%3java.lang.String"__concat*
-
-%2java.lang.String*"
- 
-namespaceURIjava.lang.StringÀ
-»
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(b
-%4java.lang.String"__concat*
-
-%3java.lang.String*
-', publicId='ÿ
-’
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(m
-%5java.lang.String"__concat*
-
-%4java.lang.String*
-
-publicIdjava.lang.StringÀ
-»
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(
-%6java.lang.String"__concat*
-
-%5java.lang.String*
-', systemId='Ÿ
-÷
-x
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(ä
-%7java.lang.String"__concat*
-
-%6java.lang.String*
-
-systemIdjava.lang.StringÀ
-»
-x
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(õ
-%8java.lang.String"__concat*
-
-%7java.lang.String*
-', baseURI='ÿ
-’
-x
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(•
-%9java.lang.String"__concat*
-
-%8java.lang.String*
-
-baseURIjava.lang.String¡
-æ
-x
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaà à(´
-%10java.lang.String"__concat*
-
-%9java.lang.String*
-'Æ
-´
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaâ â(h"
-retValueorg.w3c.dom.ls.LSInput"__id*
-""ë
-é
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaã ã(
-%11"__id*
-""∂
-≥
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaã ã(2
-%12java.lang.String"__concat*
-	Resolved *
-""*
-2
-1*û
-1w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaë ë("ü
-w
-kC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/resolver/eXistXMLCatalogResolver.javaë ë($
-"
-retValueorg.w3c.dom.ls.LSInput:
-typejava.lang.String: 
-namespaceURIjava.lang.String:
-publicIdjava.lang.String:
-systemIdjava.lang.String:
-baseURIjava.lang.StringB97
-5org.exist.validation.resolver.eXistXMLCatalogResolver

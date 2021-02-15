@@ -1,131 +1,0 @@
-
-Morg.exist.xquery.functions.system.GetScheduledJobs#isToday(Ljava/util/Date;)Zt
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.javaû û("5*‹
-2t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.javaß ß(ì
-ê
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.javaß ß((
-
-%11int"__id*
-""÷”
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.javaß ß()
-
-%12int"java.util.Calendar#get(I)I*
-
-aCal1java.util.Calendar*
-
-
-%11int2get(I)ì
-ê
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.javaß7 ß(E
-
-%13int"__id*
-""÷”
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.javaß- ß(F
-
-%14int"java.util.Calendar#get(I)I*
-
-aCal2java.util.Calendar*
-
-
-%13int2get(I)*
-1*⁄
-4t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java¶ ¶(í
-è
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java¶ ¶('	
-%7int"__id*
-""‘—
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java¶ ¶((	
-%8int"java.util.Calendar#get(I)I*
-
-aCal1java.util.Calendar*
-	
-%7int2get(I)í
-è
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java¶6 ¶(C	
-%9int"__id*
-""’“
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java¶, ¶(D
-
-%10int"java.util.Calendar#get(I)I*
-
-aCal2java.util.Calendar*
-	
-%9int2get(I)*
-2
-1*¶
-5t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java† †('·
-ﬁ
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java† †(5
-%0java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
-java.util.Calendar∏
-µ
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java† †(6
-aCal1java.util.Calendar"__id*
-
-%0java.util.CalendarâÜ
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java° °(
-
-%1void"-java.util.Calendar#setTime(Ljava/util/Date;)V*
-
-aCal1java.util.Calendar*
-
-aDatejava.util.Date2setTime(Ljava/util/Date;)·
-ﬁ
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java£ £(5
-%2java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
-java.util.Calendar∏
-µ
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java£ £(6
-aCal2java.util.Calendar"__id*
-
-%2java.util.Calendarí
-è
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java• •(&	
-%3int"__id*
-""‘—
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java• •('	
-%4int"java.util.Calendar#get(I)I*
-
-aCal1java.util.Calendar*
-	
-%3int2get(I)í
-è
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java•5 •(B	
-%5int"__id*
-""‘—
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java•+ •(C	
-%6int"java.util.Calendar#get(I)I*
-
-aCal2java.util.Calendar*
-	
-%5int2get(I)*	
-2
-4
-1*˘
-1t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java• ß(G"~
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/GetScheduledJobs.java• ß(G
-"":
-aDatejava.util.DateB64
-2org.exist.xquery.functions.system.GetScheduledJobs

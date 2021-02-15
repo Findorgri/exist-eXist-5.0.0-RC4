@@ -1,285 +1,0 @@
-
-corg.exist.client.ConnectionDialog#btnSaveToFavouritesActionPerformed(Ljava/awt/event/ActionEvent;)Vc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˚ ˚(3"13*≥
-13c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸% ¸(0É
-Ä
-e
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸Ñ ¸(†	
-%0int"__id*
-""â
-Ü
-d
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸% ¸(°
-%1java.lang.String"tjavax.swing.JOptionPane#showInputDialog(Ljava/awt/Component;Ljava/lang/Object;Ljava/lang/String;I)Ljava/lang/String;*"
-javax.swing.JOptionPane*%#
-!org.exist.client.ConnectionDialog*+)
-'Please enter a name for your favourite:*
-Save Favourite*
-	
-%0int¨
-©
-d
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java¸ ¸(¢!
-favouriteNamejava.lang.String"__id*
-
-%1java.lang.String*
-0
-12*•
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaï ï(%≈
-¬
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ñ(#
-%27javax.swing.JTextField"__id*6*4#
-!org.exist.client.ConnectionDialog"
-txtUsernameÍÁ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javañ ñ(-
-%28java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
-
-%27javax.swing.JTextField2	getText()…
-∆
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó# ó(.!
-%29javax.swing.JPasswordField"__id*6*4#
-!org.exist.client.ConnectionDialog"
-txtPassword◊‘
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó# ó(<
-%30char[]"*javax.swing.JPasswordField#getPassword()[C*#
-!
-%29javax.swing.JPasswordField2getPassword()ìê
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó ó("
-%31java.lang.String"java.lang.Stringπ
-∂
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaó ó(=
-%32"java.lang.String#<init>([C)V*
-
-%31java.lang.String*
-
-%30char[]º
-π
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò ò(
-%33java.nio.file.Path"__id*1*/#
-!org.exist.client.ConnectionDialog"
-configÎË
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò ò(/
-%34java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
-
-%33java.nio.file.Path2toAbsolutePath()€ÿ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaò ò(:
-%35java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
-
-%34java.nio.file.Path2
-toString()*
-1*Â
-3c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaç ç(%≈
-¬
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé é(#
-%17javax.swing.JTextField"__id*6*4#
-!org.exist.client.ConnectionDialog"
-txtUsernameÍÁ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaé é(-
-%18java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
-
-%17javax.swing.JTextField2	getText()…
-∆
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè# è(.!
-%19javax.swing.JPasswordField"__id*6*4#
-!org.exist.client.ConnectionDialog"
-txtPassword◊‘
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè# è(<
-%20char[]"*javax.swing.JPasswordField#getPassword()[C*#
-!
-%19javax.swing.JPasswordField2getPassword()ìê
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè è("
-%21java.lang.String"java.lang.Stringπ
-∂
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaè è(=
-%22"java.lang.String#<init>([C)V*
-
-%21java.lang.String*
-
-%20char[]∆
-√
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê ê($
-%23javax.swing.JTextField"__id*7*5#
-!org.exist.client.ConnectionDialog"
-txtServerUriÍÁ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaê ê(.
-%24java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
-
-%23javax.swing.JTextField2	getText()ø
-º
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaë ë(
-%25javax.swing.JCheckBox"__id*1*/#
-!org.exist.client.ConnectionDialog"
-chkSsl–Õ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaë ë(+
-%26boolean"(javax.swing.AbstractButton#isSelected()Z*
-
-%25javax.swing.JCheckBox2isSelected()*
-1*ì
-4c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaä ä(0 
-«
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã ã(!
-%13javax.swing.JComboBox"__id*<*:#
-!org.exist.client.ConnectionDialog"
-cmbConnectionTypeÔÏ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã ã(3
-%14java.lang.Object"9javax.swing.JComboBox#getSelectedItem()Ljava/lang/Object;*
-
-%13javax.swing.JComboBox2getSelectedItem()Ø
-¨
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã7 ã(E7
-%150org.exist.client.ConnectionDialog$ConnectionType"__id*
-""Ø
-¨
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaã7 ã(L7
-%160org.exist.client.ConnectionDialog$ConnectionType"__id*
-""*
-2
-3*Ú
-6c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ Ö(&ä
-á
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ Ö((#
-%11javax.swing.DefaultListModel"Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;*%#
-!org.exist.client.ConnectionDialogıÚ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÖ Ö(2
-%12java.lang.Object"8javax.swing.DefaultListModel#remove(I)Ljava/lang/Object;*%
-#
-%11javax.swing.DefaultListModel*
-""2	remove(I)*
-4*◊
-7c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÉ É("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÉ É(
-""*¥
-8c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÅ' Å(2É
-Ä
-e
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÅï Å(Æ	
-%8int"__id*
-""∑
-¥
-d
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÅ' Å(Ø
-%9"ejavax.swing.JOptionPane#showConfirmDialog(Ljava/awt/Component;Ljava/lang/Object;Ljava/lang/String;I)I*"
-javax.swing.JOptionPane*%#
-!org.exist.client.ConnectionDialog*
-""*
-""*
-	
-%8intÅ
-
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÇ" Ç(7
-
-%10int"__id*
-""*
-6
-7*¸
-9c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄ Ä(&â
-Ü
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄ Ä(("
-%5javax.swing.DefaultListModel"Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;*%#
-!org.exist.client.ConnectionDialog˘ˆ
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄ Ä(5
-%6java.lang.Object";javax.swing.DefaultListModel#elementAt(I)Ljava/lang/Object;*$
-"
-%5javax.swing.DefaultListModel*
-""2elementAt(I)Ä˝
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaÄ Ä(K
-%7boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
-
-%6java.lang.Object*#
-!
-favouriteNamejava.lang.String2equals(Ljava/lang/Object;)*
-8
-10*Õ
-10c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ ˇ(â
-Ü
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ  ˇ(4"
-%3javax.swing.DefaultListModel"Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;*%#
-!org.exist.client.ConnectionDialogÕ 
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaˇ  ˇ(>	
-%4int"'javax.swing.DefaultListModel#getSize()I*$
-"
-%3javax.swing.DefaultListModel2	getSize()*
-4
-9*Å
-0 "z
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaû û(
-implicit return*≥
-12c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˛% ˛(2æª
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java˛% ˛(;	
-%2int"java.lang.String#length()I*#
-!
-favouriteNamejava.lang.String2length()*
-10
-0*ô	
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ õ(ä
-á
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ õ( #
-%36javax.swing.DefaultListModel"Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;*%#
-!org.exist.client.ConnectionDialog¸˘
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaõ õ(6
-%37"<javax.swing.DefaultListModel#addElement(Ljava/lang/Object;)V*%
-#
-%36javax.swing.DefaultListModel*
-""2addElement(Ljava/lang/Object;)ä
-á
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaú ú(0#
-%38javax.swing.DefaultListModel"Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;*%#
-!org.exist.client.ConnectionDialogê
-ç
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaú ú(1
-%39void"Korg.exist.client.ConnectionDialog#storeFavourites(Ljavax/swing/ListModel;)V*%#
-!org.exist.client.ConnectionDialog*%
-#
-%38javax.swing.DefaultListModel*
-0:!
-evtjava.awt.event.ActionEventB%#
-!org.exist.client.ConnectionDialog

@@ -1,46 +1,0 @@
-
-Gorg.exist.dom.memtree.NodeImpl#conversionPreference(Ljava/lang/Class;)I`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java´ ´(#"startingBlock*é
-35`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaµ µ(÷ô
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java¶ ¶(5
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*
-33
-1*Å
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java´# ´(=¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java³ ³(
-%2"
-__annotate*
-java.lang.Override*
-
-	javaClassjava.lang.Class™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java´3 ´(<
-	javaClassjava.lang.Class"__annotation*
-
-%2*
-35*å
-33`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java¸ ¸(÷ô
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.java¸ ¸(8
-%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*
-1*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÑ Ñ("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaÑ Ñ(
-"":
-	javaClassjava.lang.ClassB" 
-org.exist.dom.memtree.NodeImpl

@@ -1,31 +1,0 @@
-
-forg.exist.security.realm.ldap.LdapContextFactory#getSystemLdapContext()Ljavax/naming/ldap/LdapContext;‰
-C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java[ [(+"1*—
-
-1‰
-C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java\ \(÷
-ô
-‰
-C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java\ \(,
-%0java.lang.String"__id*H*F2
-0org.exist.security.realm.ldap.LdapContextFactory"
-systemUsername÷
-ô
-‰
-C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java\. \(<
-%1java.lang.String"__id*H*F2
-0org.exist.security.realm.ldap.LdapContextFactory"
-systemPasswordÛØ
-‰
-C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java\ \(=#
-%2javax.naming.ldap.LdapContext"„org.exist.security.realm.ldap.LdapContextFactory#getLdapContext(Ljava/lang/String;Ljava/lang/String;)Ljavax/naming/ldap/LdapContext;*42
-0org.exist.security.realm.ldap.LdapContextFactory*
-
-%0java.lang.String*
-
-%1java.lang.String24getLdapContext(Ljava/lang/String;Ljava/lang/String;)"³
-‰
-C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LdapContextFactory.java\ \(>%
-#
-%2javax.naming.ldap.LdapContextB42
-0org.exist.security.realm.ldap.LdapContextFactory

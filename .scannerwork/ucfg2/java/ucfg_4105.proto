@@ -1,49 +1,0 @@
-
-Xorg.exist.storage.journal.AbstractJournalTest$ExpectedCommit#equals(Ljava/lang/Object;)Zt
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÔ Ô("startingBlock*ù
-2t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÖE Ö(J"~
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÖ> Ö(K
-""*ç
-3t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÖ Ö(ãà
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÖ Ö()
-%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-ojava.lang.Object2
-getClass()*
-2
-1*ø
-startingBlockt
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÔ Ô(-¼
-¹
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÓ Ó(
-%1"
-__annotate*
-java.lang.Override*
-
-ojava.lang.Object¦
-£
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÔ+ Ô(,
-ojava.lang.Object"__annotation*
-
-%1*	
-2
-3
-5*ù
-5t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÕ" Õ(&"~
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÕ Õ('
-""*ù
-1t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaØ/ Ø(0"~
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/storage/journal/AbstractJournalTest.javaÚ Ú(7
-"":
-ojava.lang.ObjectB@>
-<org.exist.storage.journal.AbstractJournalTest$ExpectedCommit

@@ -1,9 +1,0 @@
-
-Sorg.exist.xquery.functions.request.RequestModule#getDescription()Ljava/lang/String;p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/RequestModule.javae e( "1*˜
-1p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/RequestModule.javaf f(9" 
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/RequestModule.javaf f(:,*
-(A module for dealing with HTTP requests.B42
-0org.exist.xquery.functions.request.RequestModule

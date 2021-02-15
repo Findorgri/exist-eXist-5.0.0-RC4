@@ -1,56 +1,0 @@
-
-[org.exist.xmldb.XmldbURI#checkPath2(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∞ ∞(#"startingBlock*¸
-startingBlockZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∞# ∞(S´
-®
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaØ Ø(
-%1"
-__annotate*
-java.lang.Deprecated*
-
-fileNamejava.lang.Stringì
-ê
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∞1 ∞(9
-fileNamejava.lang.String"__annotation*
-
-%1≠
-™
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.javaØ Ø(
-%2"
-__annotate*
-java.lang.Deprecated* 
-
-
-parentPathjava.lang.Stringï
-í
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∞H ∞(R
-
-parentPathjava.lang.String"__annotation*
-
-%2*
-1*ç
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∂ ∂(≥
-∞
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∂ ∂(.
-%0java.lang.String"Zorg.exist.xmldb.XmldbURI#checkPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
-org.exist.xmldb.XmldbURI*
-
-fileNamejava.lang.String* 
-
-
-parentPathjava.lang.String"v
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/XmldbURI.java∂ ∂(/
-
-%0java.lang.String:
-fileNamejava.lang.String:
-
-parentPathjava.lang.StringB"
-org.exist.xmldb.XmldbURI

@@ -1,142 +1,0 @@
-
-dorg.exist.client.CollectionXConf#getCustomNamespaces(Lorg/w3c/dom/Element;)Ljava/util/LinkedHashMap;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÏ' Ï(:"8*˜
-2b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaˇ
- ˇ("ç
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaˇ ˇ('
-%
-
-namespacesjava.util.LinkedHashMap*¯
-4b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙' ˙((Ÿ÷
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙' ˙(6
-%8java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-aorg.w3c.dom.Node2getNodeName()Ÿ÷
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙A ˙(P
-%9java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-aorg.w3c.dom.Node2getNodeName()‡›
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙A ˙(]
-
-%10int"-java.lang.String#indexOf(Ljava/lang/String;)I*
-
-%9java.lang.String*
-:2indexOf(Ljava/lang/String;)·ﬁ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙' ˙(`
-%11java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-%8java.lang.String*
-""2substring(I)∞
-≠
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˙ ˙(a&
-namespaceLocalNamejava.lang.String"__id*
-
-%11java.lang.String‹Ÿ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˚( ˚(8
-%12java.lang.String"1org.w3c.dom.Node#getNodeValue()Ljava/lang/String;*
-
-aorg.w3c.dom.Node2getNodeValue()¯
-ı
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˚ ˚(9
-%13java.lang.String"__mapSet*'
-%
-
-namespacesjava.util.LinkedHashMap*(
-&
-namespaceLocalNamejava.lang.String*
-
-%12java.lang.String*
-6*…
-5b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜(ÈÊ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜( 
-%5org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*#
-!
-attrsorg.w3c.dom.NamedNodeMap*
-""2item(I)û
-õ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java˜ ˜(!
-aorg.w3c.dom.Node"__id*
-
-%5org.w3c.dom.NodeŸ÷
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯ ¯(
-%6java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-aorg.w3c.dom.Node2getNodeName()ÓÎ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.java¯ ¯(+
-%7boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-%6java.lang.String*
-
-xmlns:2startsWith(Ljava/lang/String;)*
-4
-6*Ω
-6b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaı ı(À»
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaı ı('	
-%4int"%org.w3c.dom.NamedNodeMap#getLength()I*#
-!
-attrsorg.w3c.dom.NamedNodeMap2getLength()*
-2
-5*˙
-7b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÛ4 Û(Iüú
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÛ8 Û(G
-%2java.util.LinkedHashMap"java.util.LinkedHashMap±
-Æ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÛ4 Û(I
-%3"!java.util.LinkedHashMap#<init>()V*
-
-%2java.util.LinkedHashMapµ
-≤
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÛ Û(J%
-
-namespacesjava.util.LinkedHashMap"__id*
-
-%2java.util.LinkedHashMap*
-6*È
-8b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÓ Ó("ÙÒ
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÓ Ó(2
-%0org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
-
-xconforg.w3c.dom.Element2getAttributes()≤
-Ø
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÓ Ó(3!
-attrsorg.w3c.dom.NamedNodeMap"__id* 
-
-%0org.w3c.dom.NamedNodeMapÀ»
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÒ Ò(	
-%1int"%org.w3c.dom.NamedNodeMap#getLength()I*#
-!
-attrsorg.w3c.dom.NamedNodeMap2getLength()*
-7
-1*’
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÇ	 Ç("l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/CollectionXConf.javaÇ Ç(
-"":
-xconforg.w3c.dom.ElementB$"
- org.exist.client.CollectionXConf

@@ -1,22 +1,0 @@
-
-Eorg.exist.protocolhandler.xmldb.XmldbURL#toString()Ljava/lang/String;j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaå å("1*”
-1j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaæ æ(Â
-¿
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaæ æ(
-%0java.net.URL"__id*7*5*
-(org.exist.protocolhandler.xmldb.XmldbURL"
-myUrlÔÑ
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaæ æ(
-%1java.lang.String")java.net.URL#toString()Ljava/lang/String;*
-
-%0java.net.URL2
-toString()"†
-j
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaæ æ( 
-
-%1java.lang.StringB,*
-(org.exist.protocolhandler.xmldb.XmldbURL

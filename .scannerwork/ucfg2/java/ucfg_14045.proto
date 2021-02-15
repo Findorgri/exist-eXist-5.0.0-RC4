@@ -1,120 +1,0 @@
-
-(org.exist.storage.Signatures#getType(B)S\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javac c(%"2*Ú
-2\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javad" d(+y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaf f(	
-%0int"__id*
-""y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javah h(	
-%1int"__id*
-""y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaj j(	
-%2int"__id*
-""y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javal l(	
-%3int"__id*
-""y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javan n(	
-%4int"__id*
-""y
-w
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javap p(	
-%5int"__id*
-""*
-3
-4
-5
-6
-7
-8
-1*Ç
-3\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javap q(/|
-z
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaq q(.
-%11short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaq q(/
-""*Ç
-4\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javan o()|
-z
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javao o((
-%10short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javao o()
-""*Æ
-5\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javal m(8{
-y
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javam m(7
-%9short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javam m(8
-""*Æ
-6\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaj k(+{
-y
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javak k(*
-%8short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javak k(+
-""*Æ
-7\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javah i(){
-y
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javai i((
-%7short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javai i()
-""*Æ
-8\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javaf g(&{
-y
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javag g(%
-%6short"__id*
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javag g(&
-""*é
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javat t(u
-s
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javat t(
-%12"__id*
-""¦
-£
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javat t(/
-%13java.lang.String"__concat*
-Unknown node type : *
-"""f
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/Signatures.javau u(
-"":
-""B "
-org.exist.storage.Signatures

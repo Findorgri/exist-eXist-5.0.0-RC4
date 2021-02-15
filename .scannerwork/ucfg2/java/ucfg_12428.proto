@@ -1,26 +1,0 @@
-
-8org.exist.security.internal.EXistDBLoginModule#logout()Zp
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/EXistDBLoginModule.java‚ ‚("1*¶
-1p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/EXistDBLoginModule.java„ „(	ß
-Ü
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/EXistDBLoginModule.java„ „(	!
-%0javax.security.auth.Subject"__id*?*=0
-.org.exist.security.internal.EXistDBLoginModule"	
-subjectüù
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/EXistDBLoginModule.java„ „(
-%1java.util.Set":javax.security.auth.Subject#getPrincipals()Ljava/util/Set;*#
-!
-%0javax.security.auth.Subject2getPrincipals()áÞ
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/EXistDBLoginModule.java„ „(/
-%2")java.util.Set#remove(Ljava/lang/Object;)Z*
-
-%1java.util.Set*
-""2remove(Ljava/lang/Object;)"z
-p
-dC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/EXistDBLoginModule.java‡ ‡(
-""B20
-.org.exist.security.internal.EXistDBLoginModule

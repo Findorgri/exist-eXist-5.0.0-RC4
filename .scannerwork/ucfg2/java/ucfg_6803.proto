@@ -1,34 +1,0 @@
-
-1org.exist.xmldb.FullXmldbURI#isContextAbsolute()Z^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaâ â($"3*Í
-2^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaå å("h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaå å(
-""*€
-3^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaã& ã(*èå
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaã& ã(7
-%0java.lang.String";org.exist.xmldb.FullXmldbURI#getContext()Ljava/lang/String;* 
-org.exist.xmldb.FullXmldbURI2getContext()§
-¤
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaã ã(8"
-currentContextjava.lang.String"__id*
-
-%0java.lang.String*
-2
-1*Á
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaç ç(ñî
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaç ç(-
-%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*$
-"
-currentContextjava.lang.String*
-/2startsWith(Ljava/lang/String;)"h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaç ç(.
-""B 
-org.exist.xmldb.FullXmldbURI

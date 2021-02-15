@@ -1,191 +1,0 @@
-
-Üorg.exist.util.serializer.encodings.CharacterSet#getCharacterSet(Ljava/lang/String;)Lorg/exist/util/serializer/encodings/CharacterSet;p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java (+"23*è
-13p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java( ((åâ
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java( ((.
-%5boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-UTF82$equalsIgnoreCase(Ljava/lang/String;)*
-11
-12*Ú
-14p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java'
- '("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java' '('
-""*ê
-15p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java& &(çä
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java& &(/
-%4boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*	
-UTF-82$equalsIgnoreCase(Ljava/lang/String;)*
-13
-14*Ú
-16p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java%
- %("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java% %(&
-""*î
-17p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java$ $(ëé
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java$ $(3
-%3boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-	ISO8859_12$equalsIgnoreCase(Ljava/lang/String;)*
-15
-16*Ú
-18p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java#
- #("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java# #(&
-""*ï
-19p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java" "(íè
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java" "(4
-%2boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-
-ISO-8859-12$equalsIgnoreCase(Ljava/lang/String;)*
-17
-18*Ò
-1p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java5 5("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java5 5(&
-""*Ò
-2p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java3
- 3("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java3 3(%
-""*è
-3p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java2 2(èå
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java2 2(0
-%10boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-
-KOI8-R2$equalsIgnoreCase(Ljava/lang/String;)*
-2
-1*Ò
-4p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java1
- 1("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java1 1(&
-""*ë
-5p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java0 0(ëé
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java0 0(3
-%9boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-	ISO8859_22$equalsIgnoreCase(Ljava/lang/String;)*
-3
-4*Ò
-6p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java/
- /("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java/ /(&
-""*í
-7p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java. .(íè
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java. .(4
-%8boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-
-iso-8859-22$equalsIgnoreCase(Ljava/lang/String;)*
-5
-6*Ò
-8p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java-
- -("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java- -('
-""*ç
-9p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java, ,(çä
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java, ,(/
-%7boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*	
-utf162$equalsIgnoreCase(Ljava/lang/String;)*
-7
-8*Ú
-20p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java!
- !("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java! !(%
-""*ì
-21p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java   (êç
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java   (1
-%1boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-
-US-ASCII2$equalsIgnoreCase(Ljava/lang/String;)*
-19
-20*Ú
-10p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java+
- +("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java+ +('
-""*Ú
-22p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java
- ("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java (%
-""*ê
-11p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java* *(éã
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java* *(0
-%6boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*
-
-utf-162$equalsIgnoreCase(Ljava/lang/String;)*
-9
-10*ê
-23p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java (çä
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java ('
-%0boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
-
-encodingjava.lang.String*	
-ASCII2$equalsIgnoreCase(Ljava/lang/String;)*
-21
-22*Ú
-12p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java)
- )("z
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/encodings/CharacterSet.java) )('
-"":
-encodingjava.lang.StringB4"2
-0org.exist.util.serializer.encodings.CharacterSet

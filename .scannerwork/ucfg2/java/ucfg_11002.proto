@@ -1,17 +1,0 @@
-
-@org.exist.webdav.ExistResource#getOwnerGroup()Ljava/lang/String;p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.java] ]("1*Î
-1p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.java^ ^(Ç
-Ä
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.java^ ^(
-%0java.lang.String"__id*2*0 
-org.exist.webdav.ExistResource"
-
-ownerGroup"Œ
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/ExistResource.java^ ^(
-
-%0java.lang.StringB" 
-org.exist.webdav.ExistResource

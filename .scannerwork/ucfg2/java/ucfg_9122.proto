@@ -1,22 +1,0 @@
-
-Horg.exist.protocolhandler.xmldb.XmldbURL#getPassword()Ljava/lang/String;h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javaw w("1*í
-1h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javax x(!Ü
-É
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javax" x(*	
-%0int"__id*
-""í
-è
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javax x(+
-%1java.lang.String"Porg.exist.protocolhandler.xmldb.XmldbURL#extractCredentials(I)Ljava/lang/String;*,*
-(org.exist.protocolhandler.xmldb.XmldbURL*
-	
-%0int"Ñ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/protocolhandler/xmldb/XmldbURL.javax x(,
-
-%1java.lang.StringB,*
-(org.exist.protocolhandler.xmldb.XmldbURL

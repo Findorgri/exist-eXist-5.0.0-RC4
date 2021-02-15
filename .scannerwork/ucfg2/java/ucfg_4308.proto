@@ -1,38 +1,0 @@
-
-Forg.exist.xmlrpc.RpcConnection#uploadCompressed([BI)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaü ü(""startingBlock*¨
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaü" ü(G¡
-ž
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaû û(
-%1"
-__annotate*
-java.lang.Override*
-
-databyte[]‹
-ˆ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaü0 ü(4
-databyte[]"__annotation*
-
-%1*
-1*¢
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaý ý(¼¹
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaý ý(/
-%0java.lang.String"Oorg.exist.xmlrpc.RpcConnection#upload([BILjava/lang/String;Z)Ljava/lang/String;*" 
-org.exist.xmlrpc.RpcConnection*
-
-databyte[]*
-""*
-""*
-""2upload([BILjava/lang/String;Z)"|
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaý ý(0
-
-%0java.lang.String:
-databyte[]:
-""B" 
-org.exist.xmlrpc.RpcConnection

@@ -1,38 +1,0 @@
-
-<org.exist.xmlrpc.RpcConnection#upload([BI)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java† †("startingBlock*ª
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java† †(>¢
-Ÿ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java… …(
-%1"
-__annotate*
-java.lang.Override*
-
-chunkbyte[]Œ
-‰
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java†& †(+
-chunkbyte[]"__annotation*
-
-%1*
-1*£
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‡ ‡(½º
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‡ ‡(1
-%0java.lang.String"Oorg.exist.xmlrpc.RpcConnection#upload([BILjava/lang/String;Z)Ljava/lang/String;*" 
-org.exist.xmlrpc.RpcConnection*
-
-chunkbyte[]*
-""*
-""*
-""2upload([BILjava/lang/String;Z)"|
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‡ ‡(2
-
-%0java.lang.String:
-chunkbyte[]:
-""B" 
-org.exist.xmlrpc.RpcConnection

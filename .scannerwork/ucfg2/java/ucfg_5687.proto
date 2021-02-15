@@ -1,20 +1,0 @@
-
-Horg.exist.util.pool.NodePool#getInstance()Lorg/exist/util/pool/NodePool;\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/pool/NodePool.java7 7(&"1*Ô
-1\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/pool/NodePool.java8 8(Œ
-‰
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/pool/NodePool.java8 8(
-%0java.lang.ThreadLocal"__id*
-""Ú×
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/pool/NodePool.java8 8("
-%1org.exist.util.pool.NodePool"-java.lang.ThreadLocal#get()Ljava/lang/Object;*
-
-%0java.lang.ThreadLocal2get()"„
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/pool/NodePool.java8 8($
-"
-%1org.exist.util.pool.NodePoolB "
-org.exist.util.pool.NodePool

@@ -1,60 +1,0 @@
-
-eorg.exist.util.hashtable.Object2LongIdentityHashMapTest#simpleGet(Ljava/lang/Object;)Ljava/lang/Long;|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java ("startingBlock*´
-2|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java! !(«
-¨
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java! !(
-%0java.lang.Long"__id*
-
-
-%2long*
-1*º
-3|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java! !(±
-®
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java! !(
-%0java.lang.Long"__id*
-
-%1
-<nulltype>*
-1*ä
-startingBlock|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java ()Ì
-É
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java (
-%3"
-__annotate*
-java.lang.SuppressWarnings*
-
-kjava.lang.ObjectÄ
-Á
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java (
-
-%4"
-__annotate*
-java.lang.Override*
-
-kjava.lang.Object¶
-³
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java' ((
-kjava.lang.Object"__annotation*
-
-%3*
-
-%4*
-2
-3*š
-1|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java! !( "–
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/util/hashtable/Object2LongIdentityHashMapTest.java! !( 
-
-%0java.lang.Long:
-kjava.lang.ObjectB;9
-7org.exist.util.hashtable.Object2LongIdentityHashMapTest

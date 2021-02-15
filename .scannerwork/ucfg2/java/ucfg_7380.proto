@@ -1,39 +1,0 @@
-
-xorg.exist.stax.EmbeddedXMLStreamReaderTest#append(Ljava/lang/StringBuilder;Ljava/lang/String;I)Ljava/lang/StringBuilder;q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaÕ Õ( "5*Š
-3q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaØ Ø(‰†
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaØ Ø(
-%2java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
- 2	append(C)*
-3
-1*…
-5q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaÖ Ö(¿¼
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaÖ Ö(
-%0java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-
-strjava.lang.String2append(Ljava/lang/String;)Â¿
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.java× ×(!	
-%1int"java.lang.String#length()I*
-
-strjava.lang.String2length()*
-3
-1*’
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaÚ Ú("™
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/stax/EmbeddedXMLStreamReaderTest.javaÚ Ú($
-"
-builderjava.lang.StringBuilder:"
-builderjava.lang.StringBuilder:
-strjava.lang.String:
-""B.,
-*org.exist.stax.EmbeddedXMLStreamReaderTest

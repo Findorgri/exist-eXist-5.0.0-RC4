@@ -1,83 +1,0 @@
-
-Torg.exist.xquery.modules.ngram.query.AlternativeStrings#toString()Ljava/lang/String;‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java; ;("5*¾
-2‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java= =(¾
-»
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java= =(
-strjava.lang.String"__id*
-""Û
-Ø
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java= =(
-strjava.lang.String"
-__arrayGet*
-
-%2java.util.Set*
-""*
-3
-1*Ï
-3‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java> >(ÍÊ
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java> >( 
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-, 2append(Ljava/lang/String;)àÝ
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java? ?(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-
-strjava.lang.String2append(Ljava/lang/String;)*
-2*›
-4‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java= =(!ü
-ù
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java= =(!
-%2java.util.Set"__id*H*F9
-7org.exist.xquery.modules.ngram.query.AlternativeStrings"	
-strings*
-2*â
-5‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java<2 <(GÏÌ
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java<$ <(1
-%0java.lang.StringBuilder"java.lang.StringBuilderŒ
-‰
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java<  <(H
-%1"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
-
-%0java.lang.StringBuilder*
-AlternativeStrings(â
-ß
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.java< <(I"
-builderjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-4*±
-1‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.javaA A(ÌÉ
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.javaA A(
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-)2append(Ljava/lang/String;)—”
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.javaB B(!
-%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
-"
-builderjava.lang.StringBuilder2
-toString()"®
-‘
-†C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/ngram/src/org/exist/xquery/modules/ngram/query/AlternativeStrings.javaB B("
-
-%6java.lang.StringB;9
-7org.exist.xquery.modules.ngram.query.AlternativeStrings

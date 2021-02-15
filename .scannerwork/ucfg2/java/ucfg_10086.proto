@@ -1,16 +1,0 @@
-
->org.exist.storage.lock.LockInfo#getOwners()[Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaH H("1*›
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaI I(µ
-²
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaI I(
-%0java.lang.String[]"__id*/*-!
-org.exist.storage.lock.LockInfo"
-owners"}
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockInfo.javaI I(
-
-%0java.lang.String[]B#!
-org.exist.storage.lock.LockInfo

@@ -1,44 +1,0 @@
-
-Aorg.exist.webdav.MiltonResource#getModifiedDate()Ljava/util/Date;s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¢ ¢("3*¥
-2s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¨$ ¨((ž›
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¨ ¨(#
-%0java.util.Date"java.util.DateË
-È
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¨ ¨()
-%1"java.util.Date#<init>(J)V*
-
-%0java.util.Date*
-
-timejava.lang.Long¶
-³
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¨ ¨()
-modifiedDatejava.util.Date"__id*
-
-%0java.util.Date*
-1*Ê
-3s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¤ ¤( ¦
-£
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¤ ¤(!
-modifiedDatejava.util.Date"__id*
-""ž
-›
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java¦ ¦(4
-timejava.lang.Long"__id*
-""*
-2
-1*’
-1s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java® ®("—
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.java® ®( 
-
-modifiedDatejava.util.DateB#!
-org.exist.webdav.MiltonResource

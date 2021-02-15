@@ -1,50 +1,0 @@
-
-Porg.exist.webdav.MiltonResource#decodePath(Ljava/lang/String;)Ljava/lang/String;s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaã ã("7*≤
-2s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê()≤
-Ø
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê()
-pathjava.lang.String"__id*
-
-%2java.lang.String*
-1*€
-5s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê()€ÿ
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê()
-%2java.lang.String"(java.net.URI#getPath()Ljava/lang/String;*
-
-%0java.net.URI2	getPath()*
-2*ˆ
-6s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê(öó
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê(
-%0java.net.URI"java.net.URIŸ
-÷
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaê ê(
-%1"(java.net.URI#<init>(Ljava/lang/String;)V*
-
-%0java.net.URI*
-
-urijava.lang.String*
-5*†
-7s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaç ç(†
-ù
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javaç ç(
-pathjava.lang.String"__id*
-""*
-6*å
-1s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javañ ñ("ë
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/webdav/src/org/exist/webdav/MiltonResource.javañ ñ(
-
-pathjava.lang.String:
-urijava.lang.StringB#!
-org.exist.webdav.MiltonResource

@@ -1,16 +1,0 @@
-
-@org.exist.client.Connection#getConfiguration()Ljava/lang/String;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javaa a(""1*Ž
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javab b(²
-¯
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javab b(
-%0java.lang.String"__id*2*0
-org.exist.client.Connection"
-configuration"w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/Connection.javab b(
-
-%0java.lang.StringB
-org.exist.client.Connection

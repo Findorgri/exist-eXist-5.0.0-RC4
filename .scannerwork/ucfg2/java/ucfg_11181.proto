@@ -1,37 +1,0 @@
-
-6org.exist.util.io.Resource#getWriter()Ljava/io/Writer;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaå å("1*æ	
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ9 æ(Hþû
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ9 æ(O
-%0java.io.OutputStream"Corg.exist.util.io.Resource#getOutputStream(Z)Ljava/io/OutputStream;*
-org.exist.util.io.Resource*
-""2getOutputStream(Z)Ÿœ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ& æ(8 
-%1java.io.OutputStreamWriter"java.io.OutputStreamWriterå
-â
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ" æ(P
-%2":java.io.OutputStreamWriter#<init>(Ljava/io/OutputStream;)V*"
- 
-%1java.io.OutputStreamWriter*
-
-%0java.io.OutputStream—”
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ æ(!
-%3java.io.BufferedWriter"java.io.BufferedWriterÝ
-Ú
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ æ(Q
-%4"0java.io.BufferedWriter#<init>(Ljava/io/Writer;)V*
-
-%3java.io.BufferedWriter*"
- 
-%1java.io.OutputStreamWriter"~
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaæ æ(R
-
-%3java.io.BufferedWriterB
-org.exist.util.io.Resource

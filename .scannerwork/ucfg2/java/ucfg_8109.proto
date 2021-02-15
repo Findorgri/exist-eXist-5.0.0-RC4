@@ -1,27 +1,0 @@
-
->org.exist.storage.btree.Paged$Page#equals(Ljava/lang/Object;)Z_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaΩ Ω("startingBlock*∑
-startingBlock_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaΩ Ω(/©
-¶
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaº º(
-%0"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Objectì
-ê
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaΩ+ Ω(.
-objjava.lang.Object"__annotation*
-
-%0*
-1*œ
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaæ æ("i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Paged.javaæ æ(2
-"":
-objjava.lang.ObjectB&$
-"org.exist.storage.btree.Paged$Page

@@ -1,22 +1,0 @@
-
-Morg.exist.util.XMLString#append(Ljava/lang/String;)Lorg/exist/util/XMLString;X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaJ J(!"1*Š
-1X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaK K(·´
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaK K( 
-%0char[]" java.lang.String#toCharArray()[C*
-
-strjava.lang.String2toCharArray()öó
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaK K(!
-%1org.exist.util.XMLString"=org.exist.util.XMLString#append([C)Lorg/exist/util/XMLString;*
-org.exist.util.XMLString*
-
-%0char[]2
-append([C)"x
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaL L(
-org.exist.util.XMLString:
-strjava.lang.StringB
-org.exist.util.XMLString

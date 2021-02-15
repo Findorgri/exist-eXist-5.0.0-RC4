@@ -1,31 +1,0 @@
-
-Sorg.exist.launcher.ServiceManager#getShellCmd(Ljava/lang/String;)Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java» »("2"1* 
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java½ ½(´
-±
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java½ ½($
-%0java.lang.String"__concat*
-
-cmdjava.lang.String*
-	Daemon.sh"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java½ ½(%
-
-%0java.lang.String*¢
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java¿ ¿(¶
-³
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java¿ ¿("
-%1java.lang.String"__concat*
-
-cmdjava.lang.String*
-Service.bat"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/ServiceManager.java¿ ¿(#
-
-%1java.lang.String:
-cmdjava.lang.StringB%#
-!org.exist.launcher.ServiceManager

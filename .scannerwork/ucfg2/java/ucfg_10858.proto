@@ -1,23 +1,0 @@
-
-Rorg.exist.webstart.JnlpServlet#stripFilename(Ljava/lang/String;)Ljava/lang/String;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpServlet.javaF F( "1*„
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpServlet.javaG G(Â¿
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpServlet.javaG G(0	
-%0int" java.lang.String#lastIndexOf(I)I*
-
-URIjava.lang.String*
-/2lastIndexOf(I)ÝÚ
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpServlet.javaH H()
-%1java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-URIjava.lang.String*
-""2substring(I)"z
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/webstart/JnlpServlet.javaH H(*
-
-%1java.lang.String:
-URIjava.lang.StringB" 
-org.exist.webstart.JnlpServlet

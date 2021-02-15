@@ -1,1002 +1,0 @@
-
-Iorg.exist.xquery.parser.XQueryParser#reservedKeywords()Ljava/lang/String;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙p ˙p(&"2*ä
-68f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaæx æx(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaæx æx(
-namejava.lang.String"__id*	
-value*
-1*ä
-290f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆q
- ∆q(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆q ∆q(
-namejava.lang.String"__id*
-node*
-1*è
-170f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¶u ¶u(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¶u ¶u(
-namejava.lang.String"__id*
-	intersect*
-1*ä
-293f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫q
- ∫q(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫q ∫q(
-namejava.lang.String"__id*
-text*
-1*ã
-173f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaöu öu(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaöu öu(
-namejava.lang.String"__id*	
-union*
-1*â
-296f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆq
- Æq(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆq Æq(
-namejava.lang.String"__id*
-mod*
-1*à
-176f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaéu éu(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaéu éu(
-namejava.lang.String"__id*
-as*
-1*â
-299f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢q
- ¢q(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢q ¢q(
-namejava.lang.String"__id*
-div*
-1*é
-179f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÇu Çu(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÇu Çu(
-namejava.lang.String"__id*
-
-external*
-1*à
-212f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˛s
- ˛s(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˛s ˛s(
-namejava.lang.String"__id*
-if*
-1*è
-215f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÚs
- Ús(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÚs Ús(
-namejava.lang.String"__id*
-	namespace*
-1*î
-218f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÊs
- Ês(ü
-ú
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÊs Ês(
-namejava.lang.String"__id*
-namespace-node*
-1*ã
-71f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≤x ≤x(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≤x ≤x(
-namejava.lang.String"__id*
-
-delete*
-1*å
-74f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¶x ¶x(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¶x ¶x(
-namejava.lang.String"__id*	
-replace*
-1*ã
-77f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaöx öx(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaöx öx(
-namejava.lang.String"__id*
-
-update*
-1*é
-182f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaˆt
- ˆt(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaˆt ˆt(
-namejava.lang.String"__id*
-
-function*
-1*ç
-185f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÍt
- Ít(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÍt Ít(
-namejava.lang.String"__id*	
-default*
-1*é
-221f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java⁄s
- ⁄s(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java⁄s ⁄s(
-namejava.lang.String"__id*
-
-variable*
-1*ã
-188f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaﬁt	 ﬁt(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaﬁt ﬁt(
-namejava.lang.String"__id*	
-catch*
-1*í
-101f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫w ∫w(ù
-ö
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫w ∫w(
-namejava.lang.String"__id*
-construction*
-1*å
-224f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaŒs
- Œs(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaŒs Œs(
-namejava.lang.String"__id*
-
-xquery*
-1*é
-104f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆw Æw(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆw Æw(
-namejava.lang.String"__id*
-
-ordering*
-1*ç
-227f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¬s
- ¬s(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¬s ¬s(
-namejava.lang.String"__id*	
-version*
-1*ã
-107f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢w ¢w(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢w ¢w(
-namejava.lang.String"__id*	
-strip*
-1*ç
-80f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaéx éx(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaéx éx(
-namejava.lang.String"__id*
-
-base-uri*
-1*ç
-83f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÇx Çx(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÇx Çx(
-namejava.lang.String"__id*
-
-encoding*
-1*ã
-86f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaˆw ˆw(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaˆw ˆw(
-namejava.lang.String"__id*
-
-switch*
-1*è
-89f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÍw Íw(õ
-ò
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÍw Íw(
-namejava.lang.String"__id*
-
-typeswitch*
-1*â
-191f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java“t	 “t(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java“t “t(
-namejava.lang.String"__id*
-try*
-1*â
-194f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆t
- ∆t(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆t ∆t(
-namejava.lang.String"__id*
-let*
-1*ã
-230f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∂s
- ∂s(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∂s ∂s(
-namejava.lang.String"__id*	
-empty*
-1*à
-197f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫t ∫t(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫t ∫t(
-namejava.lang.String"__id*
-in*
-1*é
-110f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañw ñw(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañw ñw(
-namejava.lang.String"__id*
-
-preserve*
-1*ä
-233f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java™s
- ™s(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java™s ™s(
-namejava.lang.String"__id*
-item*
-1*î
-113f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaäw äw(ü
-ú
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaäw äw(
-namejava.lang.String"__id*
-boundary-space*
-1*è
-236f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaûs ûs(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaûs ûs(
-namejava.lang.String"__id*
-	preceding*
-1*è
-116f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˛v ˛v(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˛v ˛v(
-namejava.lang.String"__id*
-	collation*
-1*è
-239f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaís ís(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaís ís(
-namejava.lang.String"__id*
-	following*
-1*ç
-119f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÚv Úv(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÚv Úv(
-namejava.lang.String"__id*	
-declare*
-1*é
-92f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaﬁw ﬁw(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaﬁw ﬁw(
-namejava.lang.String"__id*
-	unordered*
-1*å
-95f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java“w “w(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java“w “w(
-namejava.lang.String"__id*	
-ordered*
-1*å
-98f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆w ∆w(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆w ∆w(
-namejava.lang.String"__id*	
-context*
-1*ç
-11f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢z ¢z(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢z ¢z(
-namejava.lang.String"__id*
-
-xpointer*
-1*á
-14f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañz ñz(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañz ñz(
-namejava.lang.String"__id*
-ge*
-1*á
-17f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaäz äz(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaäz äz(
-namejava.lang.String"__id*
-gt*
-1*Ñ
-0 "}
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∆z ∆z(
-implicit return*ó
-242f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÜs
- Üs(¢
-ü
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÜs Üs(
-namejava.lang.String"__id*
-following-sibling*
-1*à
-122f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÊv Êv(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÊv Êv(
-namejava.lang.String"__id*
-of*
-1*Ú
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaƒz ƒz(""Ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≈z ≈z(
-
-namejava.lang.String*˜
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˚p ˚p(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˚p ˚p(
-namejava.lang.String"__id*
-""ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÄq Äq(
-namejava.lang.String"__id*
-""*›
-68
-290
-170
-293
-173
-296
-176
-299
-212
-179
-215
-218
-71
-74
-77
-182
-185
-188
-221
-101
-224
-104
-227
-80
-107
-83
-86
-89
-191
-194
-197
-230
-110
-233
-113
-236
-116
-239
-92
-119
-95
-98
-11
-14
-17
-242
-0
-122
-1
-245
-125
-5
-248
-128
-8
-20
-23
-26
-29
-251
-131
-254
-134
-257
-137
-32
-35
-38
-260
-140
-263
-143
-266
-146
-302
-269
-149
-305
-41
-44
-47
-272
-152
-275
-155
-278
-158
-50
-53
-56
-59
-281
-161
-284
-164
-287
-167
-200
-203
-206
-209
-62
-65*ó
-245f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙r
- ˙r(¢
-ü
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙r ˙r(
-namejava.lang.String"__id*
-preceding-sibling*
-1*é
-125f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java⁄v ⁄v(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java⁄v ⁄v(
-namejava.lang.String"__id*
-
-instance*
-1*â
-5f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫z ∫z(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∫z ∫z(
-namejava.lang.String"__id*	
-array*
-1*ñ
-248f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÓr
- Ór(°
-û
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÓr Ór(
-namejava.lang.String"__id*
-ancestor-or-self*
-1*å
-128f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaŒv Œv(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaŒv Œv(
-namejava.lang.String"__id*
-
-return*
-1*á
-8f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆz Æz(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆz Æz(
-namejava.lang.String"__id*
-map*
-1*á
-20f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˛y ˛y(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˛y ˛y(
-namejava.lang.String"__id*
-le*
-1*á
-23f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÚy Úy(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÚy Úy(
-namejava.lang.String"__id*
-lt*
-1*á
-26f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÊy Êy(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÊy Êy(
-namejava.lang.String"__id*
-ne*
-1*á
-29f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java⁄y	 ⁄y(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java⁄y ⁄y(
-namejava.lang.String"__id*
-eq*
-1*ò
-251f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java‚r
- ‚r(£
-†
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java‚r ‚r(
-namejava.lang.String"__id*
-descendant-or-self*
-1*ä
-131f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¬v ¬v(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¬v ¬v(
-namejava.lang.String"__id*
-cast*
-1*ê
-254f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java÷r
- ÷r(õ
-ò
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java÷r ÷r(
-namejava.lang.String"__id*
-
-descendant*
-1*à
-134f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∂v ∂v(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∂v ∂v(
-namejava.lang.String"__id*
-at*
-1*é
-257f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java r
-  r(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java r  r(
-namejava.lang.String"__id*
-
-ancestor*
-1*å
-137f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java™v ™v(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java™v ™v(
-namejava.lang.String"__id*
-
-import*
-1*è
-32f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaŒy Œy(õ
-ò
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaŒy Œy(
-namejava.lang.String"__id*
-
-no-inherit*
-1*å
-35f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¬y ¬y(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¬y ¬y(
-namejava.lang.String"__id*	
-inherit*
-1*ê
-38f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∂y ∂y(ú
-ô
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java∂y ∂y(
-namejava.lang.String"__id*
-no-preserve*
-1*ê
-260f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaær
- ær(õ
-ò
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaær ær(
-namejava.lang.String"__id*
-
-collection*
-1*å
-140f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaûv ûv(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaûv ûv(
-namejava.lang.String"__id*
-
-module*
-1*ì
-263f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≤r
- ≤r(û
-õ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≤r ≤r(
-namejava.lang.String"__id*
-document-node*
-1*ã
-143f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaív ív(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaív ív(
-namejava.lang.String"__id*	
-isnot*
-1*é
-266f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¶r
- ¶r(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¶r ¶r(
-namejava.lang.String"__id*
-
-document*
-1*à
-146f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÜv Üv(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÜv Üv(
-namejava.lang.String"__id*
-is*
-1*ç
-269f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaör
- ör(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaör ör(
-namejava.lang.String"__id*	
-comment*
-1*à
-302f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañq ñq(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañq ñq(
-namejava.lang.String"__id*
-to*
-1*ã
-149f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙u ˙u(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙u ˙u(
-namejava.lang.String"__id*	
-every*
-1*ç
-305f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaäq äq(ò
-ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaäq äq(
-namejava.lang.String"__id*	
-element*
-1*ä
-41f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java™y ™y(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java™y ™y(
-namejava.lang.String"__id*	
-treat*
-1*ã
-44f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaûy ûy(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaûy ûy(
-namejava.lang.String"__id*
-
-schema*
-1*ç
-47f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaíy íy(ô
-ñ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaíy íy(
-namejava.lang.String"__id*
-
-validate*
-1*è
-272f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaér
- ér(ö
-ó
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaér ér(
-namejava.lang.String"__id*
-	attribute*
-1*ä
-152f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÓu Óu(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÓu Óu(
-namejava.lang.String"__id*
-some*
-1*ä
-275f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÇr
- Çr(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÇr Çr(
-namejava.lang.String"__id*
-self*
-1*ã
-155f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java‚u ‚u(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java‚u ‚u(
-namejava.lang.String"__id*	
-group*
-1*å
-278f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaˆq
- ˆq(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaˆq ˆq(
-namejava.lang.String"__id*
-
-parent*
-1*à
-158f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java÷u ÷u(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java÷u ÷u(
-namejava.lang.String"__id*
-by*
-1*â
-50f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÜy Üy(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÜy Üy(
-namejava.lang.String"__id*
-case*
-1*ã
-53f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙x ˙x(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java˙x ˙x(
-namejava.lang.String"__id*
-
-option*
-1*ã
-56f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÓx Óx(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÓx Óx(
-namejava.lang.String"__id*
-
-rename*
-1*â
-59f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java‚x ‚x(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java‚x ‚x(
-namejava.lang.String"__id*
-into*
-1*ã
-281f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÍq
- Íq(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÍq Íq(
-namejava.lang.String"__id*	
-child*
-1*å
-161f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java u  u(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java u  u(
-namejava.lang.String"__id*
-
-stable*
-1*â
-284f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaﬁq
- ﬁq(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaﬁq ﬁq(
-namejava.lang.String"__id*
-and*
-1*ã
-164f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaæu æu(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaæu æu(
-namejava.lang.String"__id*	
-order*
-1*à
-287f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java“q
- “q(ì
-ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java“q “q(
-namejava.lang.String"__id*
-or*
-1*å
-167f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≤u ≤u(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java≤u ≤u(
-namejava.lang.String"__id*
-
-except*
-1*ã
-200f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆt
- Æt(ñ
-ì
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaÆt Æt(
-namejava.lang.String"__id*	
-where*
-1*â
-203f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢t
- ¢t(î
-ë
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java¢t ¢t(
-namejava.lang.String"__id*
-for*
-1*ä
-206f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañt
- ñt(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javañt ñt(
-namejava.lang.String"__id*
-else*
-1*ä
-209f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaät
- ät(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.javaät ät(
-namejava.lang.String"__id*
-then*
-1*â
-62f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java÷x ÷x(ï
-í
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java÷x ÷x(
-namejava.lang.String"__id*
-with*
-1*ã
-65f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java x  x(ó
-î
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/parser/XQueryParser.java x  x(
-namejava.lang.String"__id*
-
-insert*
-1B(&
-$org.exist.xquery.parser.XQueryParser

@@ -1,48 +1,0 @@
-
-Lorg.exist.xquery.value.BooleanValue#conversionPreference(Ljava/lang/Class;)Ie
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java§ §(#"11*Û
-2e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java² ²("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java² ²(
-""*Û
-5e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java¯ ¯("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java¯ ¯(
-""*Û
-7e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java¬ ¬("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java¬ ¬(
-""*Ü
-10e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java© ©("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java© ©(
-""*ü
-11e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java¨ ¨(üù
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.java¨ ¨(:
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*
-2
-5
-7
-10
-1*á
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.javaµ µ(ƒ
-€
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.javaµ µ( 	
-%1int"__id*
-"""o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BooleanValue.javaµ µ(!
-"":
-	javaClassjava.lang.ClassB'%
-#org.exist.xquery.value.BooleanValue

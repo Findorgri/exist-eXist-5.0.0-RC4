@@ -1,176 +1,0 @@
-
-Aorg.exist.launcher.LauncherWrapper#getJavaCmd()Ljava/lang/String;b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.java^ ^("8*…
-2b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javal l(ﬁ€
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javal l()
-%15java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
-
-javaBinjava.nio.file.Path2
-toString()"
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javal l(*
-
-%15java.lang.String*å
-3b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaj j( ·ﬁ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaj% j(?
-%12java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
-
-javaHomejava.io.File2getAbsolutePath()ù
-ö
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaj j(O
-%13java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-%12java.lang.String*
-bin*
-java©
-¶
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaj j(P
-javaBinjava.nio.file.Path"__id*
-
-%13java.nio.file.PathÍ
-Á
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javak k(+
-%14boolean"7java.nio.file.Files#isExecutable(Ljava/nio/file/Path;)Z*"
-java.nio.file.Files*
-
-javaBinjava.nio.file.Path*
-2
-1*•
-4b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javag g(›⁄
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javag g(/
-%9java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
-
-javaBinjava.nio.file.Path2
-toString()´
-®
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javag g(/
-%10java.lang.String"__concat*
-"*
-
-%9java.lang.String¨
-©
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javag g(5
-%11java.lang.String"__concat*
-
-%10java.lang.String*
-""
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javag g(6
-
-%11java.lang.String*ã
-5b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javae e(‡›
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javae  e(:
-%6java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
-
-javaHomejava.io.File2getAbsolutePath()ü
-ú
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javae e(N
-%7java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-%6java.lang.String*
-bin*
-
-java.exe®
-•
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javae e(N
-javaBinjava.nio.file.Path"__id*
-
-%7java.nio.file.PathÈ
-Ê
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaf f(+
-%8boolean"7java.nio.file.Files#isExecutable(Ljava/nio/file/Path;)Z*"
-java.nio.file.Files*
-
-javaBinjava.nio.file.Path*
-4
-1*°
-6b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javac c(›⁄
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javac c(/
-%3java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
-
-javaBinjava.nio.file.Path2
-toString()™
-ß
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javac c(/
-%4java.lang.String"__concat*
-"*
-
-%3java.lang.String™
-ß
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javac c(5
-%5java.lang.String"__concat*
-
-%4java.lang.String*
-""~
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javac c(6
-
-%5java.lang.String*å
-7b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaa a( ‡›
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaa% a(?
-%0java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
-
-javaHomejava.io.File2getAbsolutePath()†
-ù
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaa a(T
-%1java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-%0java.lang.String*
-bin*
-	javaw.exe®
-•
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javaa a(U
-javaBinjava.nio.file.Path"__id*
-
-%1java.nio.file.PathÈ
-Ê
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javab b(+
-%2boolean"7java.nio.file.Files#isExecutable(Ljava/nio/file/Path;)Z*"
-java.nio.file.Files*
-
-javaBinjava.nio.file.Path*
-5
-6*Å
-8b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.java_ _()è
-å
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.java_ _(8
-javaHomejava.io.File"__id*
-""*
-3
-7*◊
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javao o("n
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/launcher/LauncherWrapper.javao o(
-javaB&$
-"org.exist.launcher.LauncherWrapper

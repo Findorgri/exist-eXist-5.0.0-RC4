@@ -1,57 +1,0 @@
-
-Qorg.exist.fluent.QName#createElement(Lorg/w3c/dom/Document;)Lorg/w3c/dom/Element;h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java9 9("3*–
-2h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java: :( óð
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java:1 :(B
-%1java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*
-org.exist.fluent.QName2getNamespaceURI()°
-­
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java:D :(G
-%2java.lang.String"__id*#*!
-org.exist.fluent.QName"
-tagóð
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java: :(H
-%3org.w3c.dom.Element"_org.w3c.dom.Document#createElementNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document*
-
-%1java.lang.String*
-
-%2java.lang.String25createElementNS(Ljava/lang/String;Ljava/lang/String;)"‡
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java: :(I
-
-%3org.w3c.dom.Element*È
-3h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java: :(ÐÍ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java: :(
-%0boolean"&org.exist.fluent.QName#hasNamespace()Z*
-org.exist.fluent.QName2hasNamespace()*
-2
-1*Þ
-1h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java;	 ;(°
-­
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java; ;(
-%4java.lang.String"__id*#*!
-org.exist.fluent.QName"
-tag±®
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java;	 ;(
-%5org.w3c.dom.Element"Korg.w3c.dom.Document#createElement(Ljava/lang/String;)Lorg/w3c/dom/Element;*
-
-docorg.w3c.dom.Document*
-
-%4java.lang.String2!createElement(Ljava/lang/String;)"‡
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.java; ;( 
-
-%5org.w3c.dom.Element:
-docorg.w3c.dom.DocumentB
-org.exist.fluent.QName

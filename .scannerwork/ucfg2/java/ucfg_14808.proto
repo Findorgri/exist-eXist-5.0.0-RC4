@@ -1,70 +1,0 @@
-
-áorg.exist.xquery.modules.expathrepo.Deploy#installAndDeploy(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/util/Optional;
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java∏ ∏(-"19*æ
-15
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.javaº º(]≠
-™
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.javaº º(]
-xarjava.nio.file.Path"__id*
-
-%2*
-9
-10*†
-16
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.javaº º(\íè
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.javaº º(\
-%2"rorg.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader#load(Ljava/lang/String;LVersion;)Ljava/nio/file/Path;*H
-F
-loader<org.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader*
-
-pkgNamejava.lang.String*
-""2!load(Ljava/lang/String;LVersion;)*
-15*¶
-18
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java∫ ∫(Lò
-ï
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java∫ ∫(LF
-loader<org.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader"__id*D
-B
-%0<org.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader*
-16*‡
-19
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java∫C ∫(JÜÉ
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java∫1 ∫(BB
-%0<org.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader"<org.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader…
-∆
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java∫- ∫(K
-%1"Xorg.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader#<init>(Ljava/lang/String;)V*D
-B
-%0<org.exist.xquery.modules.expathrepo.Deploy$RepoPackageLoader*
-
-repoURIjava.lang.String*
-18*§
-8
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java¿ ¿($"ù
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java¿ ¿($
-
-%3java.util.Optional*Ú
-9
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java¿ ¿(Ê
-„
-
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.java¿ ¿(#
-%3java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
-java.util.Optional*
-8*ï
-10Ä
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.javaæ æ(Ç"ã
-Ä
-sC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/expathrepo/Deploy.javaæ æ(Ç
-"":
-pkgNamejava.lang.String:
-versionjava.lang.String:
-repoURIjava.lang.StringB.,
-*org.exist.xquery.modules.expathrepo.Deploy

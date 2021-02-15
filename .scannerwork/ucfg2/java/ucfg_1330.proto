@@ -1,56 +1,0 @@
-
-zorg.exist.storage.lock.LockManager#createDocumentLock(Ljava/lang/String;)Lorg/exist/storage/lock/LockManager$DocumentLock;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÅ  Å(2"3*®
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÉ4 É(CÒÓ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÉ É(3E
-%1?org.exist.storage.lock.LockManager$MultiLockDocumentLockAdapter"?org.exist.storage.lock.LockManager$MultiLockDocumentLockAdapterñ
-ì
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÉ É(D
-%2"Torg.exist.storage.lock.LockManager$MultiLockDocumentLockAdapter#<init>(LMultiLock;)V*G
-E
-%1?org.exist.storage.lock.LockManager$MultiLockDocumentLockAdapter*
-"""Ø
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÉ É(EG
-E
-%1?org.exist.storage.lock.LockManager$MultiLockDocumentLockAdapter*˙
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÇ Ç('Ü
-É
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÇ Ç('
-%0boolean"__id*
-""*
-2
-1*á
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÖA Ö(]’“
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÖE Ö([7
-%31java.util.concurrent.locks.ReentrantReadWriteLock"1java.util.concurrent.locks.ReentrantReadWriteLockÁ
-‰
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÖA Ö(]
-%4";java.util.concurrent.locks.ReentrantReadWriteLock#<init>()V*9
-7
-%31java.util.concurrent.locks.ReentrantReadWriteLockãà
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÖ Ö(@R
-%5Lorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter"Lorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapterå
-â
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÖ Ö(^
-%6"âorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter#<init>(Ljava/util/concurrent/locks/ReentrantReadWriteLock;)V*T
-R
-%5Lorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter*9
-7
-%31java.util.concurrent.locks.ReentrantReadWriteLock"º
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockManager.javaÖ Ö(_T
-R
-%5Lorg.exist.storage.lock.LockManager$ReentrantReadWriteLockDocumentLockAdapter: 
-documentPathjava.lang.StringB&"$
-"org.exist.storage.lock.LockManager

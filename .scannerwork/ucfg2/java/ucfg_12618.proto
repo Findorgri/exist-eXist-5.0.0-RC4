@@ -1,18 +1,0 @@
-
-Torg.exist.xquery.functions.fn.FunDeepEqual#getEffectiveNodeType(Lorg/w3c/dom/Node;)Il
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaµ µ(+"3*À
-3l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¶ ¶(ÇÄ
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.java¶ ¶(&
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-norg.w3c.dom.Node2getNodeType()*
-1*é
-1l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaº º("v
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunDeepEqual.javaº º(
-"":
-norg.w3c.dom.NodeB.",
-*org.exist.xquery.functions.fn.FunDeepEqual

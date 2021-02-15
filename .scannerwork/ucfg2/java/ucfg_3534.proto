@@ -1,16 +1,0 @@
-
-Dorg.exist.util.Configuration#getConfigFilePath()Ljava/util/Optional;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÁ Á(+"1*
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÂ Â(¹
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÂ Â(
-%0java.util.Optional"__id*4*2
-org.exist.util.Configuration"
-configFilePath"|
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÂ Â(
-
-%0java.util.OptionalB 
-org.exist.util.Configuration

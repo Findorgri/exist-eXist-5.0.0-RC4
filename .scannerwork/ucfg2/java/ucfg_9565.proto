@@ -1,29 +1,0 @@
-
-:org.exist.util.FixedByteArray#toString()Ljava/lang/String;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FixedByteArray.java! !("1*×
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FixedByteArray.java" "(£
- 
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FixedByteArray.java" "(
-%0byte[]"__id*+*)
-org.exist.util.FixedByteArray"
-dataŒ‰
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FixedByteArray.java" "(
-%1java.lang.String"java.lang.StringÂ
-¿
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FixedByteArray.java" "(+
-%2"java.lang.String#<init>([BII)V*
-
-%1java.lang.String*
-
-%0byte[]*
-""*
-"""y
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FixedByteArray.java" "(,
-
-%1java.lang.StringB!
-org.exist.util.FixedByteArray

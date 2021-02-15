@@ -1,34 +1,0 @@
-
-^org.exist.xquery.functions.request.GetCookieValue#decode(Ljava/lang/String;)Ljava/lang/String;q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java[ [("1*º
-1q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java\ \(§
-°
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java\) \(3
-%0java.nio.charset.Charset"__id*
-""¢ü
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java\ \(4
-%1byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
-
-valuejava.lang.String* 
-
-%0java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)†ù
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java\ \(
-%2java.lang.String"java.lang.Stringƒ
-¡
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java\ \(5
-%3"java.lang.String#<init>([B)V*
-
-%2java.lang.String*
-
-%1byte[]"ç
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/request/GetCookieValue.java\ \(6
-
-%2java.lang.String:
-valuejava.lang.StringB53
-1org.exist.xquery.functions.request.GetCookieValue

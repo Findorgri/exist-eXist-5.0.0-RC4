@@ -1,54 +1,0 @@
-
-Jorg.exist.fluent.ElementBuilder#createDocumentNode()Lorg/w3c/dom/Document;q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java. .(/"7*Š
-3q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java2 2(1"‘
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java2 2(1
-
-%3org.w3c.dom.Document*‘
-4q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java2
- 2(0“
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java2
- 2(0
-%3org.w3c.dom.Document"Ejavax.xml.parsers.DocumentBuilder#newDocument()Lorg/w3c/dom/Document;*)
-'
-%2!javax.xml.parsers.DocumentBuilder2newDocument()*
-3*È
-5q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java2
- 2(ÊÇ
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java2
- 2("'
-%2!javax.xml.parsers.DocumentBuilder"`javax.xml.parsers.DocumentBuilderFactory#newDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;*1
-/
-dbf(javax.xml.parsers.DocumentBuilderFactory2newDocumentBuilder()*
-4*ó
-6q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java0 0(Eß
-Ü
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java0 0(E/
-dbf(javax.xml.parsers.DocumentBuilderFactory"__id*0
-.
-%0(javax.xml.parsers.DocumentBuilderFactory“
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java1 1(
-
-%1void">javax.xml.parsers.DocumentBuilderFactory#setNamespaceAware(Z)V*1
-/
-dbf(javax.xml.parsers.DocumentBuilderFactory*
-""2setNamespaceAware(Z)*
-5*´
-7q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java0  0(6¶
-³
-q
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java0  0(D.
-%0(javax.xml.parsers.DocumentBuilderFactory"`javax.xml.parsers.DocumentBuilderFactory#newInstance()Ljavax/xml/parsers/DocumentBuilderFactory;*,"*
-(javax.xml.parsers.DocumentBuilderFactory*
-6B#"!
-org.exist.fluent.ElementBuilder

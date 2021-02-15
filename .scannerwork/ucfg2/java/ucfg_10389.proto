@@ -1,52 +1,0 @@
-
-Porg.exist.client.QueryDialog#doQuery()Lorg/exist/client/QueryDialog$QueryThread;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÊ Ê("3*Í
-2^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÍ Í("h
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÍ Í(
-""*®
-3^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaË Ë("Œ
-‰
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaË Ë(-
-xpathjava.lang.String"__id*
-""±®
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÌ Ì(	
-%0int"java.lang.String#length()I*
-
-xpathjava.lang.String2length()*
-2
-1*ê
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÏ Ï(½º
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÐ" Ð(-.
-%1(org.exist.client.QueryDialog$QueryThread"(org.exist.client.QueryDialog$QueryThreadœ
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÐ Ð(4
-%2"borg.exist.client.QueryDialog$QueryThread#<init>(Lorg/exist/client/QueryDialog;Ljava/lang/String;)V*0
-.
-%1(org.exist.client.QueryDialog$QueryThread*
-
-xpathjava.lang.StringÊ
-Ç
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÐ Ð(5-
-q(org.exist.client.QueryDialog$QueryThread"__id*0
-.
-%1(org.exist.client.QueryDialog$QueryThreadÄÁ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÑ Ñ(
-
-%3void"java.lang.Thread#start()V*/
--
-q(org.exist.client.QueryDialog$QueryThread2start()"‘
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/QueryDialog.javaÒ Ò(/
--
-q(org.exist.client.QueryDialog$QueryThreadB 
-org.exist.client.QueryDialog

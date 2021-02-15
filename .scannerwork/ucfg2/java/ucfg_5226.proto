@@ -1,57 +1,0 @@
-
-eorg.exist.security.AXSchemaType#valueOfNamespace(Ljava/lang/String;)Lorg/exist/security/AXSchemaType;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java9 9(/"5*é
-2_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java: :(+£
- 
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java: :(+/
-axSchemaTypeorg.exist.security.AXSchemaType"__id*
-""Ô
-Ñ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java: :(+/
-axSchemaTypeorg.exist.security.AXSchemaType"
-__arrayGet*)
-'
-%0!org.exist.security.AXSchemaType[]*
-""*
-4
-1*û
-3_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java< <(#"”
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java< <($1
-/
-axSchemaTypeorg.exist.security.AXSchemaType*ë
-4_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java; ;(þ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java; ;(*
-%1java.lang.String"@org.exist.security.AXSchemaType#getNamespace()Ljava/lang/String;*1
-/
-axSchemaTypeorg.exist.security.AXSchemaType2getNamespace()øõ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java; ;(<
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%1java.lang.String*
-
-	namespacejava.lang.String2equals(Ljava/lang/Object;)*
-2
-3*ê
-5_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java:. :(:þ
-û
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java:. :(C'
-%0!org.exist.security.AXSchemaType[]"Jorg.exist.security.AXSchemaType#values()[Lorg/exist/security/AXSchemaType;*#"!
-org.exist.security.AXSchemaType*
-2*Ï
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java? ?("i
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java? ?(
-"":
-	namespacejava.lang.StringB#"!
-org.exist.security.AXSchemaType

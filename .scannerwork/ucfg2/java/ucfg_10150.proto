@@ -1,57 +1,0 @@
-
-9org.exist.util.SingleInstanceConfiguration#isInWarFile()Zj
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaO O(%"5*ñ
-3j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaX X(Ï
-Ì
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaX X(
-%2java.util.Optional"__id*>*<,
-*org.exist.util.SingleInstanceConfiguration"
-
-_existHomeœ™
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaX X(H
-%3java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%2java.util.Optional*
-""2"map(Ljava/util/function/Function;)‰†
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaX X(V
-%4java.lang.Boolean"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%3java.util.Optional*
-""2orElse(Ljava/lang/Object;)*
-1*²
-4j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaU U(,»
-¸
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaU U(;<,
-*org.exist.util.SingleInstanceConfiguration"
-
-_existHome"__id*
-""*
-3*”
-5j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaQ Q(Ï
-Ì
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaT T(
-%0java.util.Optional"__id*>*<,
-*org.exist.util.SingleInstanceConfiguration"
-
-_existHomeÈÅ
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.javaT T(#
-%1boolean"java.util.Optional#isPresent()Z*
-
-%0java.util.Optional2isPresent()*
-3
-4*å
-1j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.java[ [("t
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/SingleInstanceConfiguration.java[ [(
-""B.",
-*org.exist.util.SingleInstanceConfiguration

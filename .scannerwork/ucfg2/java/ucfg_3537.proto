@@ -1,40 +1,0 @@
-
-`org.exist.util.Configuration#getProperty(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÏ Ï("1*¸
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÐ Ð(°
-­
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÐ& Ð(,
-%0java.util.HashMap"__id*,**
-org.exist.util.Configuration"
-config¼
-¹
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÐ& Ð(6
-%1java.lang.Object"__mapGet*
-
-%0java.util.HashMap*
-
-namejava.lang.Stringö
-ó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÐ Ð(7
-%2java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-%1java.lang.Objectú÷
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÐ Ð(L
-%3T"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%2java.util.Optional*
-
-defaultValueT2orElse(Ljava/lang/Object;)"k
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/Configuration.javaÐ Ð(M	
-
-%3T:
-namejava.lang.String:
-defaultValueTB 
-org.exist.util.Configuration

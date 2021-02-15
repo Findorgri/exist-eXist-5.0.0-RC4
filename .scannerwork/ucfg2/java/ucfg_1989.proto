@@ -1,19 +1,0 @@
-
-norg.exist.xquery.modules.persistentlogin.PersistentLoginFunctions#login(Ljava/lang/String;Ljava/lang/String;)Z—
-ŠC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLoginFunctions.java‰ ‰("4*Â
-2—
-ŠC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLoginFunctions.java‘ ‘("¢
-—
-ŠC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLoginFunctions.java‘ ‘(
-""*ñ
-4—
-ŠC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLoginFunctions.java‹ ‹(UÌ
-É
-—
-ŠC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/persistentlogin/PersistentLoginFunctions.java‹ ‹(U
-smjava.lang.SecurityManager"__id*
-""*
-2:
-userjava.lang.String:
-passjava.lang.StringBEC
-Aorg.exist.xquery.modules.persistentlogin.PersistentLoginFunctions

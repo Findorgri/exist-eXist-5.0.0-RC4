@@ -1,38 +1,0 @@
-
-xorg.exist.config.Configurator#getAnnotation(Ljava/lang/reflect/Field;Ljava/lang/Class;)Ljava/lang/annotation/Annotation;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javaq. q(;"3*þ
-2]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javas s(­ª
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javas s(2
-%1T"Yjava.lang.reflect.Field#getAnnotation(Ljava/lang/Class;)Ljava/lang/annotation/Annotation;*"
- 
-fieldjava.lang.reflect.Field*
-
-
-annotationjava.lang.Class2 getAnnotation(Ljava/lang/Class;)"j
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javas s(3	
-
-%1T*—
-3]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javar r(ª§
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javar r(1
-%0boolean"Jjava.lang.reflect.AccessibleObject#isAnnotationPresent(Ljava/lang/Class;)Z*"
- 
-fieldjava.lang.reflect.Field*
-
-
-annotationjava.lang.Class2&isAnnotationPresent(Ljava/lang/Class;)*
-2
-1*Ë
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javau u("g
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/Configurator.javau u(
-"": 
-fieldjava.lang.reflect.Field:
-
-annotationjava.lang.ClassB!"
-org.exist.config.Configurator

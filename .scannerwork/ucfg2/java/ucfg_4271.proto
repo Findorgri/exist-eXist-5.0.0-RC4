@@ -1,33 +1,0 @@
-
-Porg.exist.xmlrpc.RpcConnection#hasUserLock(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java© ©("startingBlock*Ì
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java© ©(8³
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java¨ ¨(
-%1"
-__annotate*
-java.lang.Override*"
- 
-documentPathjava.lang.String
-š
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java©+ ©(7 
-documentPathjava.lang.String"__annotation*
-
-%1*
-1*Þ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaª ª(Š‡
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaª ª(>
-%0"Porg.exist.xmlrpc.RpcConnection#hasUserLock(Ljava/lang/String;)Ljava/lang/String;*" 
-org.exist.xmlrpc.RpcConnection*
-""2hasUserLock(Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaª ª(?
-
-%0: 
-documentPathjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

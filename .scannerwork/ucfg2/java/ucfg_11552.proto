@@ -1,93 +1,0 @@
-
-Corg.exist.util.GZIPInputSource#getByteStream()Ljava/io/InputStream;^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java3 3(!"7*£
-2^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java7 7(:∏
-µ
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java7 7(:1 
-org.exist.util.GZIPInputSource"
-inputStream"__id*
-
-%6java.util.Optional*
-1*Ê
-4^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java7 7(:˚
-¯
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java7 7(:
-%6java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*%
-#
-%4java.util.zip.GZIPInputStream*
-2*¨
-5^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java6 6(R©
-¶
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java6 6(R
-isjava.io.InputStream"__id*#
-!
-%2java.io.BufferedInputStreamß§
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java7& 7(5#
-%4java.util.zip.GZIPInputStream"java.util.zip.GZIPInputStreamÎ
-Ë
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java7" 7(9
-%5"<java.util.zip.GZIPInputStream#<init>(Ljava/io/InputStream;)V*%
-#
-%4java.util.zip.GZIPInputStream*
-
-isjava.io.InputStream*
-4*¯
-6^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java6 6(Q£†
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java6 6(1!
-%2java.io.BufferedInputStream"java.io.BufferedInputStreamÁ
-‰
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java6 6(Q
-%3":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
-!
-%2java.io.BufferedInputStream*
-
-%1java.io.InputStream*
-5*¿
-7^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java62 6(7µ
-≤
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java6G 6(O
-%0java.nio.file.Path"__id*0*. 
-org.exist.util.GZIPInputSource"
-
-gzipFileù
-ö
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java62 6(P
-%1java.io.InputStream"hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;*"
-java.nio.file.Files*
-
-%0java.nio.file.Path*
-6*ü
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java<	 <(∏
-µ
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java<	 <(
-%8java.util.Optional"__id*3*1 
-org.exist.util.GZIPInputSource"
-inputStreamˇ¸
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java<	 <(!
-%9java.io.InputStream"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%8java.util.Optional*
-""2orElse(Ljava/lang/Object;)"}
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/GZIPInputSource.java< <("
-
-%9java.io.InputStreamB" 
-org.exist.util.GZIPInputSource

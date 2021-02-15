@@ -1,94 +1,0 @@
-
-Xorg.exist.util.io.FastByteArrayOutputStream#toFastByteInputStream()Ljava/io/InputStream;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaó( ó(="6"7*¼
-2m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaù ù(
-Œ
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaù ù(
-bufbyte[]"__id*
-""­
-ª
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaù ù(
-bufbyte[]"
-__arrayGet*
-
-%4java.util.List*
-""*
-4
-1*·
-4m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaú ú(º
-·
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaú ú(9	
-%5int"java.lang.Math#min(II)I*"
-java.lang.Math*
-""*
-""*
-2
-1*Æ
-5m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaù  ù('Ì
-É
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaù  ù('
-%4java.util.List"__id*<*:-
-+org.exist.util.io.FastByteArrayOutputStream"	
-buffers*
-2*¾
-6m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaøD ø(KÌ
-É
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaøD ø(K
-%0java.util.List"__id*<*:-
-+org.exist.util.io.FastByteArrayOutputStream"	
-buffersµ²
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaøD ø(R	
-%1int"java.util.List#size()I*
-
-%0java.util.List2size()Š
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaø8 ø(C
-%2"java.util.ArrayList­
-ª
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaø4 ø(S
-%3"java.util.ArrayList#<init>(I)V*
-
-%2*
-	
-%1int*
-5*ë
-7m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaö ö(*"w
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.javaö ö(+
-""*”
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java (í
-ê
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java‚' ‚(D
-%6"Pjava.util.Collections#enumeration(Ljava/util/Collection;)Ljava/util/Enumeration;*"
-java.util.Collections*
-""²¯
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java‚ ‚(&!
-%7java.io.SequenceInputStream"java.io.SequenceInputStreamã
-à
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java‚ ‚(E
-%8"<java.io.SequenceInputStream#<init>(Ljava/util/Enumeration;)V*#
-!
-%7java.io.SequenceInputStream*
-
-%6"”
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/FastByteArrayOutputStream.java‚ ‚(F#
-!
-%7java.io.SequenceInputStreamB/-
-+org.exist.util.io.FastByteArrayOutputStream

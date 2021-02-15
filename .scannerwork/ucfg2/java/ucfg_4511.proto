@@ -1,66 +1,0 @@
-
-6org.exist.xquery.NameTest#matches(Lorg/w3c/dom/Node;)ZY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaG G("startingBlock*√
-2Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaM M("c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaM M(
-""*°
-3Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaL L(∏µ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaL L()
-%2short"org.w3c.dom.Node#getNodeType()S*
-
-otherorg.w3c.dom.Node2getNodeType()*
-2
-1*©
-startingBlockY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaG G(,•
-¢
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaF F(
-%4"
-__annotate*
-java.lang.Override*
-
-otherorg.w3c.dom.Nodeè
-å
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaG& G(+
-otherorg.w3c.dom.Node"__annotation*
-
-%4*
-5*ò
-4Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaI I(“œ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaI I(B
-%1"/org.exist.xquery.NameTest#matches(LNodeProxy;)Z*
-org.exist.xquery.NameTest*
-""2matches(LNodeProxy;)"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaI I(C
-""*°
-5Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaH H(∏µ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaH H(
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-otherorg.w3c.dom.Node2getNodeType()*
-3
-4*Ã
-1Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaP P(ÜÉ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaP P(!
-%3boolean":org.exist.xquery.NameTest#matchesName(Lorg/w3c/dom/Node;)Z*
-org.exist.xquery.NameTest*
-
-otherorg.w3c.dom.Node2matchesName(Lorg/w3c/dom/Node;)"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/NameTest.javaP P("
-"":
-otherorg.w3c.dom.NodeB
-org.exist.xquery.NameTest

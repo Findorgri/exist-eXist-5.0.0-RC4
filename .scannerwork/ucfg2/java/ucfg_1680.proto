@@ -1,100 +1,0 @@
-
-_org.exist.xquery.functions.fn.FunNormalizeSpace#normalize(Ljava/lang/String;)Ljava/lang/String;q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaé é(%"6*É
-2q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaï ï(ÖÇ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaï ï(#
-%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- 2	append(C)*
-4*ü
-3q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaì ì(¯ı
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaì ì(*
-%6java.lang.String"7java.util.StringTokenizer#nextToken()Ljava/lang/String;*"
- 
-tokjava.util.StringTokenizer2nextToken()∫∑
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaì ì(+
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-%6java.lang.String2append(Ljava/lang/String;)Ê„
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaî î('
-%8boolean"*java.util.StringTokenizer#hasMoreTokens()Z*"
- 
-tokjava.util.StringTokenizer2hasMoreTokens()*
-2
-4*Á
-4q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaí í(Ê„
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaí í(&
-%5boolean"*java.util.StringTokenizer#hasMoreTokens()Z*"
- 
-tokjava.util.StringTokenizer2hasMoreTokens()*
-3
-1*Ë
-5q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaë< ë(?≤Ø
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaë, ë(;
-%3java.util.StringTokenizer"java.util.StringTokenizerÒ
-Ó
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaë( ë(@
-%4"5java.util.StringTokenizer#<init>(Ljava/lang/String;)V*!
-
-%3java.util.StringTokenizer*
-
-strjava.lang.String¡
-æ
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaë ë(A 
-tokjava.util.StringTokenizer"__id*!
-
-%3java.util.StringTokenizer*
-4*˝
-6q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaè" è(5Æ´
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaè& è(3
-%0java.lang.StringBuilder"java.lang.StringBuilder¿
-Ω
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaè" è(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderΩ
-∫
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaè è(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder»≈
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaê ê(
-%2boolean"java.lang.String#isEmpty()Z*
-
-strjava.lang.String2	isEmpty()*
-5
-1*˝
-1q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaô ô(Û
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaô ô(
-%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"é
-q
-eC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/fn/FunNormalizeSpace.javaô ô(
-
-%10java.lang.String:
-strjava.lang.StringB3"1
-/org.exist.xquery.functions.fn.FunNormalizeSpace

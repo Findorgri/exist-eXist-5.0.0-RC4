@@ -1,130 +1,0 @@
-
-Gorg.exist.client.InteractiveClient#getTraceWriter()Ljava/util/Optional;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaô ô(+"14"1*¹
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java†	 †	("Ç
-Ä
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java†	 †	("
-%13java.util.Optional"__id*;*9$
-"org.exist.client.InteractiveClient"
-lazyTraceWriter"ƒ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java†	 †	(#
-
-%13java.util.Optional*
-14d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaú ú(Æ
-Ã
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaú ú(
-%0java.util.Optional"__id*;*9$
-"org.exist.client.InteractiveClient"
-lazyTraceWriterÂ¿
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaú ú(+
-%1boolean"java.util.Optional#isPresent()Z*
-
-%0java.util.Optional2isPresent()*
-2
-11*¸
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÿ ÿ(CÇ
-Ä
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÿ ÿ(C9$
-"org.exist.client.InteractiveClient"
-lazyTraceWriter"__id*
-
-%10java.util.Optional*
-2*í
-8d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÿ+ ÿ(3ü
-ù
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaÿ+ ÿ(C
-%10java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-traceWriterjava.io.Writer*
-3*²
-9d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaş ş(
-Œ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaş6 ş(9
-%7java.lang.String"__id*
-""¶
-³
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaş& ş(9
-%8java.lang.String"__concat*
-<query-log>*
-
-%7java.lang.Stringöó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaş ş(:
-
-%9void")java.io.Writer#write(Ljava/lang/String;)V*
-
-traceWriterjava.io.Writer*
-
-%8java.lang.String2write(Ljava/lang/String;)*
-8*Ø
-10d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü ü(n–
-“
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü ü(n
-traceWriterjava.io.Writer"__id*
-
-%3
-Œ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaıB ı(E
-%4java.lang.String"__id*
-""Â
-¿
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaı& ı(E
-%5java.lang.String"__concat*
-<?xml version=\"1.0\"?>*
-
-%4java.lang.Stringöó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaı ı(F
-
-%6void")java.io.Writer#write(Ljava/lang/String;)V*
-
-traceWriterjava.io.Writer*
-
-%5java.lang.String2write(Ljava/lang/String;)*
-9*Ê
-11d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaüg ü(l—
-”
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaüg ü(l
-%2java.nio.charset.Charset"__id*
-""½
-º
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.javaü/ ü(m
-%3"ˆjava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;*"
-java.nio.file.Files*
-""* 
-
-%2java.nio.charset.Charset*
-10*¾
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‰	 ‰	(Ì
-É
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‰	 ‰	(#
-%14java.util.Optional".java.util.Optional#empty()Ljava/util/Optional;*"
-java.util.Optional"ƒ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/InteractiveClient.java‰	 ‰	($
-
-%14java.util.OptionalB&$
-"org.exist.client.InteractiveClient

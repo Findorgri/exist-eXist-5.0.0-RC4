@@ -1,22 +1,0 @@
-
-@org.exist.xmldb.FullXmldbURI#getRawAuthority()Ljava/lang/String;^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÝ Ý(!"1*ê
-1^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(¯
-¬
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(
-%0java.net.URI"__id*0*.
-org.exist.xmldb.FullXmldbURI"
-
-wrappedURIÖÓ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(+
-%1java.lang.String"0java.net.URI#getRawAuthority()Ljava/lang/String;*
-
-%0java.net.URI2getRawAuthority()"z
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/FullXmldbURI.javaÞ Þ(,
-
-%1java.lang.StringB 
-org.exist.xmldb.FullXmldbURI

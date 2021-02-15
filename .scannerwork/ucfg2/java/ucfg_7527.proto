@@ -1,28 +1,0 @@
-
-Iorg.exist.TestUtils#resolveSample(Ljava/lang/String;)Ljava/nio/file/Path;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÐ Ð($"1*×
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÑ Ñ(&Ê
-Ç
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÑ/ Ñ(=
-%0java.util.Optional"6org.exist.TestUtils#getEXistHome()Ljava/util/Optional;*"
-org.exist.TestUtilsŒ
-‰
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÑ Ñ(J
-samplesjava.nio.file.Path"__id*
-""Ÿœ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÒ Ò(,
-%1java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-samplesjava.nio.file.Path*"
- 
-relativePathjava.lang.String2resolve(Ljava/lang/String;)"x
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaÒ Ò(-
-
-%1java.nio.file.Path: 
-relativePathjava.lang.StringB"
-org.exist.TestUtils

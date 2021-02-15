@@ -1,94 +1,0 @@
-
-aorg.exist.extensions.exquery.restxq.impl.ExistXqueryRegistry#getDependenciesTree()Ljava/util/Map;¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaS$ S(7"5*Š
-2¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaU U(?Ü
-Ù
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaU U(?%
-dependencyTreejava.util.Map$Entry"__id*
-""ù
-ö
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaU U(?%
-dependencyTreejava.util.Map$Entry"
-__arrayGet*
-
-%3java.util.Set*
-""*
-3
-1*ù
-3¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaV V(¢Ÿ
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaV V(,
-%4java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*'
-%
-dependencyTreejava.util.Map$Entry2getKey()£ 
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaV< V(U
-%5java.util.Set"0java.util.Map$Entry#getValue()Ljava/lang/Object;*'
-%
-dependencyTreejava.util.Map$Entry2
-getValue()ÓÐ
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaV2 V(;
-%6java.util.HashSet"java.util.HashSet’
-
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaV. V(V
-%7"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
-
-%6java.util.HashSet*
-
-%5java.util.Set”
-‘
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaV V(W
-%8java.util.Set"__mapSet*
-
-copyjava.util.Map*
-
-%4java.lang.String*
-
-%6java.util.HashSet*
-2*„
-4¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaUB U(RÊ
-Ç
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaUB U(R
-%2java.util.Map"__id*
-""ˆ…
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaUB U(]
-%3java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
-
-%2java.util.Map2
-entrySet()*
-2*Ì
-5¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaT. T(=ÓÐ
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaT2 T(;
-%0java.util.HashMap"java.util.HashMapå
-â
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaT. T(=
-%1"java.util.HashMap#<init>()V*
-
-%0java.util.HashMapß
-Ü
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaT T(>
-copyjava.util.Map"__id*
-
-%0java.util.HashMap*
-4*ç
-1¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaX X("½
-¡
-–C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/ExistXqueryRegistry.javaX X(
-
-copyjava.util.MapB@>
-<org.exist.extensions.exquery.restxq.impl.ExistXqueryRegistry

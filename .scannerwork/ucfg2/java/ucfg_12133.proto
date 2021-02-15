@@ -1,16 +1,0 @@
-
-Korg.exist.management.impl.Database#getAllInstancesQuery()Ljava/lang/String;b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java* *(-"1*ê
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java+ +(€
-ý
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java+ +(
-%0java.lang.String"Porg.exist.management.impl.Database#getName(Ljava/lang/String;)Ljava/lang/String;*&"$
-"org.exist.management.impl.Database*
-*"~
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Database.java+ +(
-
-%0java.lang.StringB&"$
-"org.exist.management.impl.Database

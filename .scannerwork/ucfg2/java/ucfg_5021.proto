@@ -1,977 +1,0 @@
-
-'org.exist.ant.XMLDBStoreTask#execute()V\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaJ J("156"160"0*Ω
-68^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‘ ‘(2è
-å
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‘ ‘(2
-includedjava.lang.String"__id*
-""ª
-∏
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‘ ‘(2
-includedjava.lang.String"
-__arrayGet*$
-"
-includedDirsjava.lang.String[]*
-""*
-2
-86*Ï
-25`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≤Ö ≤(çz
-x
-`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≤Ö ≤(ô
-%81"__id*
-
-%83*
-20
-21*È
-26^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≤\ ≤(oy
-w
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≤O ≤(Å
-%81"__id*
-
-%82*
-20
-21*ù
-28^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞3 ∞(e∆
-√
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞3 ∞(e
-%79java.lang.String"__concat*#!
-Cannot find mime-type kind for *
-
-%78java.lang.String¬
-ø
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞3 ∞(Ñ
-%80java.lang.String"__concat*
-
-%79java.lang.String*
-. Treating it as a binary.û
-õ
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞  ∞(Ö
-msgjava.lang.String"__id*
-
-%80java.lang.String*
-25
-26*∂
-29^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞3 ∞(T…∆
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞W ∞(e
-%78java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()*
-28*¨
-130^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javañ ñ(Æ
-´
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javañ ñ(
-%11java.lang.String"__id***(
-org.exist.ant.XMLDBStoreTask"
-type*
-112
-113
-129
-118*—
-131^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaì# ì(2π
-∂
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaì# ì(2
-%10java.lang.String"__id*5*3
-org.exist.ant.XMLDBStoreTask"
-defaultMimeType¶
-£
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaì ì(2 
-baseMimeTypejava.lang.String"__id*
-
-%10java.lang.String*
-130*Ç
-132^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaê# ê('ì
-ê
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaê ê(1 
-baseMimeTypejava.lang.String"__id*
-""*
-130*Õ
-134^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaç# ç(0∂
-≥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaç# ç(0
-%9java.lang.String"__id*3*1
-org.exist.ant.XMLDBStoreTask"
-forceMimeType•
-¢
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaç ç(0 
-baseMimeTypejava.lang.String"__id*
-
-%9java.lang.String*
-130*´
-135^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaá á(¨
-©
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaá! á((
-%2java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile∆√
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaá! á(2
-%3java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-%2java.io.File2	getName()≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaá á(2
-%4java.lang.String"__concat*
-
-Storing *
-
-%3java.lang.String√
-¿
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâ  â(.
-%5"6org.exist.ant.XMLDBStoreTask#getMimeTable()LMimeTable;* 
-org.exist.ant.XMLDBStoreTask¨
-©
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâA â(H
-%6java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile∆√
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâA â(R
-%7java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-%6java.io.File2	getName()ì
-ê
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaä ä($ 
-baseMimeTypejava.lang.String"__id*
-""∂
-≥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaå å(!
-%8java.lang.String"__id*3*1
-org.exist.ant.XMLDBStoreTask"
-forceMimeType*
-134
-131
-132*√
-136^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÅ Å(ç
-ä
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÉ É(
-relDirjava.lang.String"__id*
-""é
-ã
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÑ Ñ("
-prevDirjava.lang.String"__id*
-""¨
-©
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÜ Ü(
-%1java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile*
-135
-90
-0*Û
-139\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javax x(,à
-Ö
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javax x(L
-msgjava.lang.String"__id*
-""*
-0*
-32`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java´â ´(ëz
-x
-`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java´â ´(ù
-%75"__id*
-
-%77*
-29
-20
-21*ë
-76^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÁ( Á(k§
-°
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaË( Ë(8
-prevDirjava.lang.String"__id*
-
-relDirjava.lang.String*
-68*Ì
-33^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java´` ´(sy
-w
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java´S ´(Ö
-%75"__id*
-
-%76*
-29
-20
-21*Î
-79^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‰X ‰(^˙˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‰X ‰(n
-%51boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-relDirjava.lang.String*
-
-prevDirjava.lang.String2equals(Ljava/lang/Object;)*
-68
-76*í
-36^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java™+ ™(3Æ
-´
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java™; ™(?
-%73java.lang.String"__id***(
-org.exist.ant.XMLDBStoreTask"
-type‰·
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java™+ ™(@
-%74boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-binary*
-
-%73java.lang.String2equals(Ljava/lang/Object;)*
-29
-20
-32
-21
-33*
-38`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©Ü ©(éz
-x
-`
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©Ü ©(ó
-%70"__id*
-
-%72*
-29
-20
-21*Ì
-39^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©` ©(sy
-w
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©S ©(Ç
-%70"__id*
-
-%71*
-29
-20
-21*ö
-102^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≥ ≥(≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≥' ≥(.
-%39java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile*
-0*À
-104^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÆ Æ(F≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞ ∞(
-%37java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile©¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∞ ∞((
-%38long"java.io.File#length()J*
-
-%37java.io.File2length()*
-102
-0*£
-105^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÆ Æ(¥
-±
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÆ- Æ(7
-%36java.lang.String"__id*0*.
-org.exist.ant.XMLDBStoreTask"
-
-targetFile*
-104*£
-108^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≠ ≠(¥
-±
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java≠/ ≠(9
-%35java.lang.String"__id*0*.
-org.exist.ant.XMLDBStoreTask"
-
-targetFile*
-105*ï
-81^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‚$ ‚(T†
-ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‚$ ‚(T
-relDirjava.lang.String"__id*
-
-%50java.lang.String*
-68
-79
-76*¸
-82^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaﬂ$ ﬂ(E†
-ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaﬂ$ ﬂ(E
-relDirjava.lang.String"__id*
-
-%48java.lang.String}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‚< ‚(N
-%49char"__id*
-""ÌÍ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‚- ‚(T
-%50java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
-
-relDirjava.lang.String*
-
-%49char*
-/2replace(CC)*
-81*÷
-83^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaﬂ- ﬂ(5ÈÊ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaﬂ- ﬂ(E
-%48java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-includedjava.lang.String*2 *
-""2substring(II)*
-82*¿
-85^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‹$ ‹(,}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‹9 ‹(K
-%46char"__id*
-""–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java‹$ ‹(L
-
-%47int" java.lang.String#lastIndexOf(I)I*
-
-includedjava.lang.String*
-
-%46char2lastIndexOf(I)*
-68
-83*“
-86^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java◊  ◊(#µ
-≤
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java◊$ ◊(:
-%44java.lang.String"__concat*
-	Creating *
-
-includedjava.lang.String≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java◊$ ◊(E
-%45java.lang.String"__concat*
-
-%44java.lang.String*
-
- ...\n*
-85*á
-42^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java®$ ®()Æ
-´
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java®1 ®(5
-%68java.lang.String"__id***(
-org.exist.ant.XMLDBStoreTask"
-type·ﬁ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java®$ ®(6
-%69boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-xml*
-
-%68java.lang.String2equals(Ljava/lang/Object;)*
-36
-38
-39*ß
-43^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶  ¶($Æ
-´
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶  ¶($
-%67java.lang.String"__id***(
-org.exist.ant.XMLDBStoreTask"
-type*
-29
-42
-20
-21*÷
-44^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¢6 ¢(Eπ
-∂
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¢6 ¢(E
-%66java.lang.String"__id*5*3
-org.exist.ant.XMLDBStoreTask"
-defaultMimeType≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¢  ¢(E'
-currentBaseMimeTypejava.lang.String"__id*
-
-%66java.lang.String*
-43*á
-45^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaü  ü(Kö
-ó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaü  ü(K'
-currentBaseMimeTypejava.lang.String"__id*
-""*
-43*‘
-48^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaú6 ú(C∑
-¥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaú6 ú(C
-%65java.lang.String"__id*3*1
-org.exist.ant.XMLDBStoreTask"
-forceMimeType≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaú  ú(C'
-currentBaseMimeTypejava.lang.String"__id*
-
-%65java.lang.String*
-43*…
-49^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaò ò(dö
-ó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaô ô(7'
-currentBaseMimeTypejava.lang.String"__id*
-""∑
-¥
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaõ  õ(-
-%64java.lang.String"__id*3*1
-org.exist.ant.XMLDBStoreTask"
-forceMimeType*
-48
-44
-45*û
-110^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©! ©((≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©! ©((
-%33java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile»≈
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java©! ©(2
-%34java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-%33java.io.File2	getName()¥
-±
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java© ©(2.
-org.exist.ant.XMLDBStoreTask"
-
-targetFile"__id*
-
-%34java.lang.String*
-108*˚
-154\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java` `(â
-Ü
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java` `('
-pathjava.lang.String"__id*
-""*
-
-136
-139*ø
-111^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶ ¶(xî
-ë
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶ ¶(x 
-resourceTypejava.lang.String"__id*
-
-%29¥
-±
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java® ®(
-%32java.lang.String"__id*0*.
-org.exist.ant.XMLDBStoreTask"
-
-targetFile*
-
-108
-110*˜
-155\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java^ ^(Ö
-Ç
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java^ ^(
-pathjava.lang.String"__id* *
-
-136
-139*Ê
-112^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶[ ¶(ix
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶[ ¶(w
-%29"__id*
-
-%31*
-111*ä
-156\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaZ Z("å
-â
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaZ Z(3
-baseURIjava.lang.String"__id*
-""â
-Ü
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java\ \(
-pathjava.lang.String"__id*
-""*
-
-154
-155*Ê
-113^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶? ¶(Jx
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java¶? ¶(X
-%29"__id*
-
-%30*
-111*Î
-116^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java£d £(lx
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java£d £(x
-%26"__id*
-
-%28*
-
-112
-113*‚	
-90^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java« «(ñ
-ì
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÃ Ã(N#
-includedFilesjava.lang.String[]"__id*
-""ï
-í
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÕ Õ(S"
-includedDirsjava.lang.String[]"__id*
-""ö
-ó
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaŒ Œ(6
-%40java.lang.String"__concat*
-
-Found *
-""∏
-µ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaŒ Œ(L
-%41java.lang.String"__concat*
-
-%40java.lang.String*
- directories and ©
-¶
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaŒ Œ(c
-%42java.lang.String"__concat*
-
-%41java.lang.String*
-""∞
-≠
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaŒ Œ(q
-%43java.lang.String"__concat*
-
-%42java.lang.String*
-	 files.\nä
-á
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java– –(>
-baseDirjava.io.File"__id*
-""*
-2
-68*Î
-117^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java£B £(Nx
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java£5 £(`
-%26"__id*
-
-%27*
-
-112
-113*ö
-118^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java°' °(I≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java°L °(S
-%22java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile»≈
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java°L °(]
-%23java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-%22java.io.File2	getName()«
-ƒ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java°' °(]
-%24java.lang.String"__concat*$"
- Cannot guess mime-type kind for *
-
-%23java.lang.String¡
-æ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java°' °(|
-%25java.lang.String"__concat*
-
-%24java.lang.String*
-. Treating it as a binary.ù
-ö
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java° °(}
-msgjava.lang.String"__id*
-
-%25java.lang.String*
-
-116
-117*∂
-51^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaòT ò(X…∆
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaòT ò(b
-%63java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()*
-49*±
-52^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaò3 ò(?ƒ
-¡
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaò3 ò(A
-%62"6org.exist.ant.XMLDBStoreTask#getMimeTable()LMimeTable;* 
-org.exist.ant.XMLDBStoreTask*
-51*ë
-54^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaé$ é(g§
-°
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaè$ è(4
-prevDirjava.lang.String"__id*
-
-relDirjava.lang.String*
-52*Î
-57^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaãT ã(Z˙˜
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaãT ã(j
-%61boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-relDirjava.lang.String*
-
-prevDirjava.lang.String2equals(Ljava/lang/Object;)*
-52
-54*µ
-15^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∑" ∑(%…∆
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∑5 ∑(C
-%88java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()*
-2*ï
-59^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâ  â(P†
-ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâ  â(P
-relDirjava.lang.String"__id*
-
-%60java.lang.String*
-57
-52
-54*œ
-19_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaµ µ(ãï
-í
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaµ µ(ã 
-resourceTypejava.lang.String"__id*
-
-%84…∆
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java∂7 ∂(E
-%87java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()*
-15*ö
-160\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaO& O(-™
-ß
-\
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaO& O(-
-%0java.io.File"__id*-*+
-org.exist.ant.XMLDBStoreTask"	
-srcFile*
-156
-0*|
-0 "u
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÕ Õ(
-implicit return*
-121^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaõh õ(px
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaõh õ(|
-%19"__id*
-
-%21*
-112
-113
-118*
-122^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaõF õ(Rx
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaõ9 õ(d
-%19"__id*
-
-%20*
-112
-113
-118*¡
-2^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˙ ˙(.è
-å
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˙ ˙(.
-includedjava.lang.String"__id*
-""º
-π
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˙ ˙(.
-includedjava.lang.String"
-__arrayGet*%
-#
-includedFilesjava.lang.String[]*
-""*
-90
-65
-0*ò
-124^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaö ö('Æ
-´
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaö/ ö(3
-%17java.lang.String"__id***(
-org.exist.ant.XMLDBStoreTask"
-type‰·
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaö ö(4
-%18boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-binary*
-
-%17java.lang.String2equals(Ljava/lang/Object;)*
-112
-113
-118
-121
-122*
-126^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaôe ô(mx
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaôe ô(v
-%14"__id*
-
-%16*
-112
-113
-118*
-127^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaôF ô(Rx
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaô9 ô(a
-%14"__id*
-
-%15*
-112
-113
-118*ã
-129^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaò ò(Æ
-´
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaò% ò()
-%12java.lang.String"__id***(
-org.exist.ant.XMLDBStoreTask"
-type·ﬁ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaò ò(*
-%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-xml*
-
-%12java.lang.String2equals(Ljava/lang/Object;)*
-124
-126
-127*¸
-60^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÜ  Ü(A†
-ù
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÜ  Ü(A
-relDirjava.lang.String"__id*
-
-%58java.lang.String}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâ8 â(J
-%59char"__id*
-""ÌÍ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaâ) â(P
-%60java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
-
-relDirjava.lang.String*
-
-%59char*
-/2replace(CC)*
-59*÷
-61^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÜ) Ü(1ÈÊ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÜ) Ü(A
-%58java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-includedjava.lang.String*2 *
-""2substring(II)*
-60*¿
-63^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÉ  É((}
-{
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÉ5 É(G
-%56char"__id*
-""–Õ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaÉ  É(H
-
-%57int" java.lang.String#lastIndexOf(I)I*
-
-includedjava.lang.String*
-
-%56char2lastIndexOf(I)*
-61
-52*Â
-20^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaµn µ(|y
-w
-_
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaµn µ(ä
-%84"__id*
-
-%86*
-19*Í
-64^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˝ ˝(Jñ
-ì
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˝ ˝(J
-filejava.io.File"__id*
-
-%52java.io.File¥
-±
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˛  ˛(5
-%54java.lang.String"__concat*
-
-Storing *
-
-includedjava.lang.String≠
-™
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˛  ˛(@
-%55java.lang.String"__concat*
-
-%54java.lang.String*
-
- ...\n*
-63*‰
-21^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaµR µ(]x
-v
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.javaµR µ(k
-%84"__id*
-
-%85*
-19*Í
-65^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˝7 ˝(>ÜÉ
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˝2 ˝(6
-%52java.io.File"java.io.FileÙ
-Ò
-^
-RC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBStoreTask.java˝. ˝(I
-%53"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
-
-%52java.io.File*
-
-baseDirjava.io.File*
-
-includedjava.lang.String*
-64B 
-org.exist.ant.XMLDBStoreTask

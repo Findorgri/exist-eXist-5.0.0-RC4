@@ -1,19 +1,0 @@
-
-Horg.exist.debuggee.dbgp.packets.Command#errorBytes(Ljava/lang/String;)[B{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.java_ _("1*Å
-1{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.java`	 `(ˆÛ
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.java`	 `(D
-%0"[org.exist.debuggee.dbgp.packets.Command#errorBytes(Ljava/lang/String;ILjava/lang/String;)[B*+)
-'org.exist.debuggee.dbgp.packets.Command*!
-
-commandNamejava.lang.String*
-""*
-""21errorBytes(Ljava/lang/String;ILjava/lang/String;)"Ö
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/Command.java` `(E
-
-%0:
-commandNamejava.lang.StringB+)
-'org.exist.debuggee.dbgp.packets.Command

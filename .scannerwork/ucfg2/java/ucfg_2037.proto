@@ -1,14 +1,0 @@
-
-@org.exist.dom.memtree.ElementImpl#getTagName()Ljava/lang/String;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java> >("1*Î
-1a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java? ?(æã
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java? ?(
-%0java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*%#
-!org.exist.dom.memtree.ElementImpl2getNodeName()"}
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java? ?(
-
-%0java.lang.StringB%#
-!org.exist.dom.memtree.ElementImpl

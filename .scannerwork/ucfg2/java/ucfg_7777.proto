@@ -1,9 +1,0 @@
-
-Worg.exist.xquery.modules.httpclient.HTTPClientModule#getDescription()Ljava/lang/String;‡
-}C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/HTTPClientModule.javac c( "1*Ñ
-1‡
-}C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/HTTPClientModule.javae e(C"Á
-‡
-}C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/httpclient/HTTPClientModule.javae e(F53
-1A module for performing HTTP requests as a clientB86
-4org.exist.xquery.modules.httpclient.HTTPClientModule

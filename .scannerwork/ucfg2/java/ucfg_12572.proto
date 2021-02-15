@@ -1,68 +1,0 @@
-
-âorg.exist.xquery.modules.compression.AbstractCompressFunction#removeLeadingOffset(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaU U(#"5*Å
-2ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java\	 \(èå
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java\	 \(
-%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-urijava.lang.String*22substring(I)–
-Õ
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java\ \(
-urijava.lang.String"__id*
-
-%4java.lang.String*
-1*º
-3ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java[ [(	öó
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java[ [(
-%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-urijava.lang.String*
-/2startsWith(Ljava/lang/String;)*
-2
-1*ˆ
-4ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaX	 X(ÎË
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaX X(+	
-%1int"java.lang.String#length()I*!
-
-stripOffsetjava.lang.String2length()ñì
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaX	 X(,
-%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-urijava.lang.String*
-	
-%1int2substring(I)–
-Õ
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaX X(,
-urijava.lang.String"__id*
-
-%2java.lang.String*
-3*ÿ
-5ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaW W(	∂≥
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.javaW W(!
-%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-urijava.lang.String*!
-
-stripOffsetjava.lang.String2startsWith(Ljava/lang/String;)*
-3
-4*…
-1ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java^	 ^("Ø
-ë
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/AbstractCompressFunction.java^ ^(
-
-urijava.lang.String:
-urijava.lang.String:
-stripOffsetjava.lang.StringBA?
-=org.exist.xquery.modules.compression.AbstractCompressFunction

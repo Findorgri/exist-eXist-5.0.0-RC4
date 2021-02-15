@@ -1,27 +1,0 @@
-
-Sorg.exist.http.servlets.HttpServletRequestWrapper#getIntHeader(Ljava/lang/String;)Is
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaë ë("startingBlock*õ
-startingBlocks
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaë ë(.¾
-»
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaê ê(
-%0"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¨
-¥
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaë) ë(-
-namejava.lang.String"__annotation*
-
-%0*
-1*÷
-1s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaì ì("}
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaì ì(*
-"":
-namejava.lang.StringB53
-1org.exist.http.servlets.HttpServletRequestWrapper

@@ -1,21 +1,0 @@
-
-Aorg.exist.collections.ManagedLocks$ManagedLockIterator#hasNext()Zb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaF F("1*è
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaG G(Ñ
-Î
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaG G(
-%0java.util.Iterator"__id*H*F8
-6org.exist.collections.ManagedLocks$ManagedLockIterator"
-
-iterator¼¹
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaG G(%
-%1boolean"java.util.Iterator#hasNext()Z*
-
-%0java.util.Iterator2	hasNext()"l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/ManagedLocks.javaG G(&
-""B:8
-6org.exist.collections.ManagedLocks$ManagedLockIterator

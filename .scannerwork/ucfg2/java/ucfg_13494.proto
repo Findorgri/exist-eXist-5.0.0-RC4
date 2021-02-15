@@ -1,45 +1,0 @@
-
-3org.exist.storage.dom.DOMFile#getOverflowValue(J)[B_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¤ ¤(%"5"8*×
-3_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaª ª(#"q
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaª ª(#
-
-%3byte[]*º
-4_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java© ©(JÜ
-Ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java© ©(J9
-overflow-org.exist.storage.dom.DOMFile$OverflowDOMPage"__id*5
-3
-%1-org.exist.storage.dom.DOMFile$OverflowDOMPageïì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaª ª("
-%3byte[]"6org.exist.storage.dom.DOMFile$OverflowDOMPage#read()[B*;
-9
-overflow-org.exist.storage.dom.DOMFile$OverflowDOMPage2read()*
-3*¹
-5_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©A ©(HÈÅ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©1 ©(@3
-%1-org.exist.storage.dom.DOMFile$OverflowDOMPage"-org.exist.storage.dom.DOMFile$OverflowDOMPage‚
-ÿ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©- ©(I
-%2"Worg.exist.storage.dom.DOMFile$OverflowDOMPage#<init>(Lorg/exist/storage/dom/DOMFile;J)V*5
-3
-%1-org.exist.storage.dom.DOMFile$OverflowDOMPage*
-""*
-4*Ù
-8_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¥$ ¥(/íê
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¥> ¥(K
-%0java.lang.String"=org.exist.storage.dom.DOMFile#getLockName()Ljava/lang/String;*!
-org.exist.storage.dom.DOMFile2getLockName()*
-5:
-""B!
-org.exist.storage.dom.DOMFile

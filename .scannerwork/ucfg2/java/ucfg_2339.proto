@@ -1,54 +1,0 @@
-
-]org.exist.http.servlets.ScaleImageJAI#getAbsolutePath(Ljava/lang/String;)Ljava/nio/file/Path;w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java| |("3*ÿ
-2w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java (!¤
-¡
-w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java (I
-pathjava.lang.String"__id*
-""¿
-¼
-y
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java€
- €(!
-%2java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-pathjava.lang.String*
-
-dirStrjava.lang.String"—
-y
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java€ €("
-
-%2java.nio.file.Path*¿
-3w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java} }(¡
-ž
-w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java} }(
-%0java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-dirStrjava.lang.String¹
-¶
-w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java} }(
-dirjava.nio.file.Path"__id*
-
-%0java.nio.file.PathØÕ
-w
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java~ ~(
-%1boolean" java.nio.file.Path#isAbsolute()Z*
-
-dirjava.nio.file.Path2isAbsolute()*
-2
-1*™
-1y
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java‚	 ‚("˜
-y
-mC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/images/src/org/exist/http/servlets/ScaleImageJAI.java‚ ‚(
-
-dirjava.nio.file.Path:
-dirStrjava.lang.StringB)'
-%org.exist.http.servlets.ScaleImageJAI

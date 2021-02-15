@@ -1,15 +1,0 @@
-
-Borg.exist.dom.persistent.AttrImpl#getNodeValue()Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaµ µ("1*ß
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¶ ¶(óð
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¶ ¶(
-%0java.lang.String">org.exist.dom.persistent.AttrImpl#getValue()Ljava/lang/String;*%#
-!org.exist.dom.persistent.AttrImpl2
-getValue()"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¶ ¶(
-
-%0java.lang.StringB%#
-!org.exist.dom.persistent.AttrImpl

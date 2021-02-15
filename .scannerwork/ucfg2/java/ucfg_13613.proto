@@ -1,54 +1,0 @@
-
-Lorg.exist.dom.persistent.SymbolTable#getOutputStream()Ljava/io/OutputStream;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java   (("3*¬
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¢ ¢(þû
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¢' ¢(0
-%1java.nio.file.Path"Borg.exist.dom.persistent.SymbolTable#getFile()Ljava/nio/file/Path;*(&
-$org.exist.dom.persistent.SymbolTable2	getFile()¡
-ž
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¢2 ¢(K&
-%2 java.nio.file.StandardOpenOption"__id*
-""Ò
-Ï
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¢ ¢(L
-%3java.io.OutputStream"jjava.nio.file.Files#newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;*"
-java.nio.file.Files*
-
-%1java.nio.file.Path*(
-&
-%2 java.nio.file.StandardOpenOption¿
-¼
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¢ ¢(L.&
-$org.exist.dom.persistent.SymbolTable"
-os"__id*
-
-%3java.io.OutputStream*
-1*µ
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¡ ¡(¿
-¼
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¡ ¡(
-%0java.io.OutputStream"__id*0*.&
-$org.exist.dom.persistent.SymbolTable"
-os*
-2
-1*¶
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¤ ¤(¿
-¼
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¤ ¤(
-%4java.io.OutputStream"__id*0*.&
-$org.exist.dom.persistent.SymbolTable"
-os"†
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/SymbolTable.java¤ ¤(
-
-%4java.io.OutputStreamB(&
-$org.exist.dom.persistent.SymbolTable

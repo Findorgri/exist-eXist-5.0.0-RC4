@@ -1,28 +1,0 @@
-
-Eorg.exist.debuggee.SessionImpl#containsAttribute(Ljava/lang/Object;)Zr
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaO O(!"startingBlock*ò
-startingBlockr
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaO! O(.½
-º
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaN N(
-
-%0"
-__annotate*
-java.lang.Override*
-
-arg0java.lang.Object§
-¤
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaO) O(-
-arg0java.lang.Object"__annotation*
-
-%0*
-1*õ
-1r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaQ	 Q("|
-r
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/SessionImpl.javaQ Q(
-"":
-arg0java.lang.ObjectB" 
-org.exist.debuggee.SessionImpl

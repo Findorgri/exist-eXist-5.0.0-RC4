@@ -1,27 +1,0 @@
-
-Jorg.exist.fluent.Source#blob(Ljava/io/File;)Lorg/exist/fluent/Source$Blob;k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÄ Ä("1*˙
-1k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÅ Å(’“
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÅ Å( 
-%0java.lang.String"(java.io.File#getName()Ljava/lang/String;*
-
-filejava.io.File2	getName()¨©
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÅ Å(
-%1org.exist.fluent.Source$2"org.exist.fluent.Source$2Ì
-Í
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÅ	 ã(
-%2"8org.exist.fluent.Source$Blob#<init>(Ljava/lang/String;)V*!
-
-%1org.exist.fluent.Source$2*
-
-%0java.lang.String"ê
-k
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javaÅ ã(!
-
-%1org.exist.fluent.Source$2:
-filejava.io.FileB"
-org.exist.fluent.Source

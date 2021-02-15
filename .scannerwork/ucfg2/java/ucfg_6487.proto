@@ -1,59 +1,0 @@
-
-gorg.exist.config.ConfigurationImpl#getPropertyLong(Ljava/lang/String;Ljava/lang/Long;Z)Ljava/lang/Long;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÐ Ð("6*£
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java× ×(Á¾
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java× ×(+
-
-%2long"java.lang.Long#longValue()J* 
-
-defaultValuejava.lang.Long2longValue()"t
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java× ×(,
-
-
-%2long*É
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÕ Õ( Õ
-Ò
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÕ Õ(1
-
-%1long"-java.lang.Long#parseLong(Ljava/lang/String;)J*"
-java.lang.Long*
-
-valuejava.lang.String*
-2
-1*ô
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÓ Ó("ˆ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÓ Ó(  
-
-defaultValuejava.lang.Long*×
-6d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ((¼¹
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ(.
-%0java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
-"org.exist.config.ConfigurationImpl*
-
-namejava.lang.String2getProperty(Ljava/lang/String;)¤
-¡
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÑ Ñ(/
-valuejava.lang.String"__id*
-
-%0java.lang.String*
-4
-5*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÙ Ù("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÙ Ù(
-"":
-namejava.lang.String:
-defaultValuejava.lang.Long:
-""B&$
-"org.exist.config.ConfigurationImpl

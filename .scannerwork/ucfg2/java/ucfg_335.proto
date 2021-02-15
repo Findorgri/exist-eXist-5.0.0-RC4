@@ -1,102 +1,0 @@
-
-\org.exist.collections.triggers.CSVExtractingTrigger$NodePath#toLocalPath()Ljava/lang/String;u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java‚ ‚(!"6*´
-3u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java‰ ‰(²¯
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java‰ ‰()
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*&
-$
-	localPathjava.lang.StringBuilder*
-/2append(Ljava/lang/String;)*
-5*ñ
-4u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java‡ ‡(ìé
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java‡! ‡(*
-%6javax.xml.namespace.QName"+java.util.Iterator#next()Ljava/lang/Object;*
-
-itjava.util.Iterator2next()ÍÊ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java‡ ‡(+
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*&
-$
-	localPathjava.lang.StringBuilder*!
-
-%6javax.xml.namespace.QName2append(Ljava/lang/Object;)ë
-è
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaˆ ˆ('
-%8java.util.Deque"__id*R*P>
-<org.exist.collections.triggers.CSVExtractingTrigger$NodePath"
-pathSegments¿¼
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaˆ ˆ(.	
-%9int"java.util.Deque#size()I*
-
-%8java.util.Deque2size()*
-3
-5*Ô
-5u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java†O †(QÏÌ
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java†O †([
-%5boolean"java.util.Iterator#hasNext()Z*
-
-itjava.util.Iterator2	hasNext()*
-4
-1* 
-6u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaƒ, ƒ(?²¯
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaƒ0 ƒ(=
-%0java.lang.StringBuilder"java.lang.StringBuilderÄ
-Á
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaƒ, ƒ(?
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderÇ
-Ä
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaƒ ƒ(@$
-	localPathjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder±®
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java„ „(!
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*&
-$
-	localPathjava.lang.StringBuilder*
-/2append(Ljava/lang/String;)ë
-è
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java†, †(8
-%3java.util.Deque"__id*R*P>
-<org.exist.collections.triggers.CSVExtractingTrigger$NodePath"
-pathSegmentsýú
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java†, †(M
-%4java.util.Iterator"8java.util.Deque#descendingIterator()Ljava/util/Iterator;*
-
-%3java.util.Deque2descendingIterator()¶
-³
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.java† †(M
-itjava.util.Iterator"__id*
-
-%4java.util.Iterator*
-5*
-1u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaŽ Ž(ýú
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaŽ Ž('
-%11java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*&
-$
-	localPathjava.lang.StringBuilder2
-toString()"’
-u
-iC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/collections/triggers/CSVExtractingTrigger.javaŽ Ž((
-
-%11java.lang.StringB@>
-<org.exist.collections.triggers.CSVExtractingTrigger$NodePath

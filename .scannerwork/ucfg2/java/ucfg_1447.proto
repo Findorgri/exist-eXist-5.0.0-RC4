@@ -1,40 +1,0 @@
-
-Eorg.exist.security.SimpleACLPermission#getACEWho(I)Ljava/lang/String;h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaë ë("1*á
-2h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javañ ò("r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaò ò(
-""*Ò
-3h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaï ð(>îë
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javað# ð(2	
-%2int"3org.exist.security.SimpleACLPermission#getACEId(I)I**(
-&org.exist.security.SimpleACLPermission*
-""2getACEId(I)"r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javað ð(>
-""*Ò
-4h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaí î(@îë
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaî% î(4	
-%1int"3org.exist.security.SimpleACLPermission#getACEId(I)I**(
-&org.exist.security.SimpleACLPermission*
-""2getACEId(I)"r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaî î(@
-""*÷
-1h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaì ì(üù
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/SimpleACLPermission.javaì ì(#
-%0"Borg.exist.security.SimpleACLPermission#getACETarget(I)LACE_TARGET;**(
-&org.exist.security.SimpleACLPermission*
-""2getACETarget(I)*	
-2
-3
-4:
-""B*(
-&org.exist.security.SimpleACLPermission

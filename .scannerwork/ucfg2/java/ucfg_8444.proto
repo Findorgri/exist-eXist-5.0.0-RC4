@@ -1,67 +1,0 @@
-
-Xorg.exist.xquery.GeneralComparison#getRegexp(Ljava/lang/String;)Ljava/lang/CharSequence;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÈ È(""2"3"4*î
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÔ Ö("‚
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÕ Õ(
-
-exprjava.lang.String*ø
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÐ Ò(¡ž
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÑ Ñ()
-%4java.lang.StringBuilder"java.lang.StringBuilder³
-°
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÑ Ñ(+
-%5"!java.lang.StringBuilder#<init>()V*
-
-%4java.lang.StringBuilder÷ô
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÑ Ñ(9
-%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
-
-%4java.lang.StringBuilder*
-^2	append(C)®«
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÑ Ñ(H
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%6java.lang.StringBuilder*
-
-exprjava.lang.String2append(Ljava/lang/String;)"‡
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÑ Ñ(K
-
-%7java.lang.StringBuilder*ø
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÌ Î(¡ž
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÍ Í()
-%0java.lang.StringBuilder"java.lang.StringBuilder³
-°
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÍ Í(+
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder®«
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÍ Í(:
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%0java.lang.StringBuilder*
-
-exprjava.lang.String2append(Ljava/lang/String;)÷ô
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÍ Í(H
-%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-$2	append(C)"‡
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/GeneralComparison.javaÍ Í(K
-
-%3java.lang.StringBuilder:
-exprjava.lang.StringB&$
-"org.exist.xquery.GeneralComparison

@@ -1,83 +1,0 @@
-
-<org.exist.util.ValueOccurrences#toString()Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javab b("10*è
-7_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javae e(8üù
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javae e(8
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-1*ˆ
-9_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javae e(œ™
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javae e(
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-Value: '2append(Ljava/lang/String;)*
-7*è
-10_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javac c(/œ™
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javac  c(-
-%0java.lang.StringBuilder"java.lang.StringBuilder®
-«
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javac c(/
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder«
-¨
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javac c(0
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-9*œ
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javai i(¢Ÿ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javai i(
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- occurences: '2append(Ljava/lang/String;)óð
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javai i(2
-%7java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*
-
-%6java.lang.StringBuilder*
-""2	append(I)”‘
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javai i(>
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%7java.lang.StringBuilder*
-'2append(Ljava/lang/String;)¡ž
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javaj j(
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- documents: '2append(Ljava/lang/String;)ýú
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javaj j(=
-%10"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-%9java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)áÞ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javak	 k(
-%11java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"|
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ValueOccurrences.javak k(
-
-%11java.lang.StringB#!
-org.exist.util.ValueOccurrences

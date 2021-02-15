@@ -1,22 +1,0 @@
-
-?org.exist.xmldb.RemoteXMLResource#getNodeId()Ljava/lang/String;c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java° °("1*¦
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java± ±(·
-´
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java± ±(
-%0java.util.Optional"__id*-*+#
-!org.exist.xmldb.RemoteXMLResource"
-id€ý
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java± ±(
-%1java.lang.String"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%0java.util.Optional*
-12orElse(Ljava/lang/Object;)"
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteXMLResource.java± ±(
-
-%1java.lang.StringB%#
-!org.exist.xmldb.RemoteXMLResource

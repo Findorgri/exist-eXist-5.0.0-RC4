@@ -1,50 +1,0 @@
-
-Porg.exist.xquery.modules.mail.SendEmailFunction#eXistVersion()Ljava/lang/String;„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÀ À("1*¬
-1„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÂ# Â(3¼¹
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÂ' Â(1
-%0java.util.Properties"java.util.PropertiesÎ
-Ë
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÂ# Â(3
-%1"java.util.Properties#<init>()V*
-
-%0java.util.PropertiesÕ
-Ò
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÂ Â(4%
-sysPropertiesjava.util.Properties"__id*
-
-%0java.util.Propertiesú÷
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ Ã(<
-%2java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
-""2getClassLoader()âß
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ Ã(o
-%3java.io.InputStream"Rjava.lang.ClassLoader#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
-
-%2java.lang.ClassLoader*
-org/exist/system.properties2'getResourceAsStream(Ljava/lang/String;)¬©
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÃ Ã(p
-
-%4void"1java.util.Properties#load(Ljava/io/InputStream;)V*'
-%
-sysPropertiesjava.util.Properties*
-
-%3java.io.InputStream2load(Ljava/io/InputStream;)‚ÿ
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ Ä(N
-%5java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*'
-%
-sysPropertiesjava.util.Properties*
-product-version*
-unknown version21getProperty(Ljava/lang/String;Ljava/lang/String;)"¡
-„
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaÄ Ä(O
-
-%5java.lang.StringB31
-/org.exist.xquery.modules.mail.SendEmailFunction

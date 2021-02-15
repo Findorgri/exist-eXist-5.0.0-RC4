@@ -1,15 +1,0 @@
-
-Zorg.exist.client.security.UserDialog#getUsernameInputVerifier()Ljavax/swing/InputVerifier;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaß ß(2"1*¬
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaà' à(3Ì
-É
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaà' à(3
-%0java.util.regex.Pattern"__id*:*8&
-$org.exist.client.security.UserDialog"
-PTN_USERNAME"p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaà à(5
-""B(&
-$org.exist.client.security.UserDialog

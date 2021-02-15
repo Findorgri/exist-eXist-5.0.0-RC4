@@ -1,124 +1,0 @@
-
-Qorg.exist.backup.FileSystemBackupDescriptor#getProperties()Ljava/util/Properties;k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javax x(#"8*ä
-2m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÖ Ö(%"ï
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÖ Ö(&$
-"
-
-propertiesjava.util.Properties*æ
-3m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÇ Ç(N∞
-≠
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÇ Ç(N
-isjava.io.InputStream"__id*
-
-%7java.io.InputStreamëé
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÉ É(+
-
-%8void"1java.util.Properties#load(Ljava/io/InputStream;)V*$
-"
-
-propertiesjava.util.Properties*
-
-isjava.io.InputStream2load(Ljava/io/InputStream;)*
-2*¨
-4m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÇ0 Ç(5≤
-Ø
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÇ0 Ç(N
-%7java.io.InputStream"hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;*"
-java.nio.file.Files* 
-
-propFilejava.nio.file.Path*
-3*î
-5m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÅ2 Å(B§°
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÅ6 Å(@
-%5java.util.Properties"java.util.Properties∂
-≥
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÅ2 Å(B
-%6"java.util.Properties#<init>()V*
-
-%5java.util.Properties∫
-∑
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÅ Å(C"
-
-propertiesjava.util.Properties"__id*
-
-%5java.util.Properties*
-4*©
-6k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java  (#Ä˝
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java  (>
-%3"Djava.nio.file.Path#resolve(Ljava/nio/file/Path;)Ljava/nio/file/Path;*
-
-dirjava.nio.file.Path*
-""2resolve(Ljava/nio/file/Path;)û
-õ
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java
- (?
-propFilejava.nio.file.Path"__id*
-
-%3ä
-á
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaÄ Ä()
-%4boolean"Ljava.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*"
-java.nio.file.Files* 
-
-propFilejava.nio.file.Path*
-5
-1*ì
-7k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java} }(ËÂ
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java} }(
-%2java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
-
-dirjava.nio.file.Path2getParent()≠
-™
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.java}	 }(
-dirjava.nio.file.Path"__id*
-
-%2java.nio.file.Path*
-6
-1*Ê
-8k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaz z(—
-Œ
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaz z(
-%0java.nio.file.Path"__id*?*=-
-+org.exist.backup.FileSystemBackupDescriptor"
-
-descriptorÁ‰
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaz z()
-%1java.nio.file.Path"2java.nio.file.Path#getParent()Ljava/nio/file/Path;*
-
-%0java.nio.file.Path2getParent()≠
-™
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaz z(*
-dirjava.nio.file.Path"__id*
-
-%1java.nio.file.Path*
-7
-1*Î
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaâ â("w
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemBackupDescriptor.javaâ â(
-""B/-
-+org.exist.backup.FileSystemBackupDescriptor

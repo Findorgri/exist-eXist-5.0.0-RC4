@@ -1,22 +1,0 @@
-
-Yorg.exist.fluent.ElementBuilder#text(Ljava/lang/Object;)Lorg/exist/fluent/ElementBuilder;s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java£ £("1*Þ
-1s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¤ ¤(×
-Ô
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¤ ¤(
-
-%0void",org.exist.fluent.ElementBuilder#checkDone()V*#!
-org.exist.fluent.ElementBuilderì
-é
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¥ ¥()
-%1"?org.exist.fluent.ElementBuilder#appendText(Ljava/lang/String;)V*#!
-org.exist.fluent.ElementBuilder*
-"""š
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/ElementBuilder.java¦ ¦(#!
-org.exist.fluent.ElementBuilder:
-textjava.lang.ObjectB#!
-org.exist.fluent.ElementBuilder

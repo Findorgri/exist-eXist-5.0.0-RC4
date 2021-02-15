@@ -1,63 +1,0 @@
-
-Dorg.exist.security.internal.SubjectImpl#toString()Ljava/lang/String;g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.java? ?("4*ö
-2g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaD D(¶£
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaD D(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-sbjava.lang.StringBuilder*
-[NOT auth] 2append(Ljava/lang/String;)*
-1*ñ
-3g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaB B(¢ü
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaB B(
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-sbjava.lang.StringBuilder*	
-[auth] 2append(Ljava/lang/String;)*
-1*É
-4g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.java@ @(.§°
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.java@ @(,
-%0java.lang.StringBuilder"java.lang.StringBuilder∂
-≥
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.java@ @(.
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder≤
-Ø
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.java@ @(/
-sbjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder˜Ù
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaA A(
-%2boolean":org.exist.security.internal.SubjectImpl#isAuthenticated()Z*+)
-'org.exist.security.internal.SubjectImpl2isAuthenticated()*
-2
-3*„
-1g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaF F(ÑÅ
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaF F(
-%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-sbjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)Á‰
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaH	 H(
-%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
-
-sbjava.lang.StringBuilder2
-toString()"É
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/SubjectImpl.javaH H(
-
-%6java.lang.StringB+)
-'org.exist.security.internal.SubjectImpl

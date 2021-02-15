@@ -1,52 +1,0 @@
-
-[org.exist.security.RestApiSecurityTest#createQueryUri(Ljava/lang/String;)Ljava/lang/String;m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaª ª(!"1*î
-1m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº º(ˇ
-¸
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº º(
-%0java.lang.String"Gorg.exist.security.RestApiSecurityTest#getServerUri()Ljava/lang/String;**"(
-&org.exist.security.RestApiSecurityTestò
-ï
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº  º('
-%1java.lang.String"__id*
-""»
-≈
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº º('
-%2java.lang.String"__concat*
-
-%0java.lang.String*
-
-%1java.lang.StringΩ
-∫
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº º(5
-%3java.lang.String"__concat*
-
-%2java.lang.String*
-	/?_query=†
-ù
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº8 º(Z
-%4java.lang.String"Rjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
-java.net.URLEncoder*
-
-xqueryjava.lang.String*	
-UTF-8»
-≈
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº º(Z
-%5java.lang.String"__concat*
-
-%3java.lang.String*
-
-%4java.lang.String"â
-m
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/security/RestApiSecurityTest.javaº º([
-
-%5java.lang.String:
-xqueryjava.lang.StringB*(
-&org.exist.security.RestApiSecurityTest

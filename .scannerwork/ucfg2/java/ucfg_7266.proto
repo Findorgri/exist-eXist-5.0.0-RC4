@@ -1,191 +1,0 @@
-
-Dorg.exist.xquery.Dependency#getDependenciesName(I)Ljava/lang/String;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java: :(/"15*å
-13[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java= =(x
-v
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java= =()	
-%1int"__id*
-""*
-11
-12*Í
-14[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java< <("j
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java< <(	
-UNKNOWN*å
-15[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java; ;(x
-v
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java; ;(.	
-%0int"__id*
-""*
-13
-14*î
-
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaK K(ÆÃ
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaK K(
-
-%15int")java.lang.AbstractStringBuilder#length()I*#
-!
-resultjava.lang.StringBuilder2length()ÆÃ
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaK% K(4
-
-%16int")java.lang.AbstractStringBuilder#length()I*#
-!
-resultjava.lang.StringBuilder2length()„
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaK K(5
-%17java.lang.StringBuilder";java.lang.StringBuilder#delete(II)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""*
-
-
-%16int2
-delete(II)•’
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaL L(
-%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-]2append(Ljava/lang/String;)àÝ
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaM	 M(
-%19java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"x
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaM M(
-
-%19java.lang.String*
-2[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaJ J(
-§¤
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaJ J((
-%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-CONTEXT_POSITION | 2append(Ljava/lang/String;)*
-1*ã
-3[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaI I(y
-w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaI I(&
-
-%13int"__id*
-""*
-2
-1*‹
-4[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaH H(
-£ 
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaH H($
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-CONTEXT_VARS | 2append(Ljava/lang/String;)*
-3*ã
-5[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaG G(y
-w
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaG G("
-
-%11int"__id*
-""*
-3
-4*‰
-6[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaF F(
-¡ž
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaF F("
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-LOCAL_VARS | 2append(Ljava/lang/String;)*
-5*â
-7[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaE E(x
-v
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaE E( 	
-%9int"__id*
-""*
-5
-6*Š
-8[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaD D(
-¢Ÿ
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaD D($
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-CONTEXT_ITEM | 2append(Ljava/lang/String;)*
-7*â
-9[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaC C(x
-v
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaC C("	
-%7int"__id*
-""*
-7
-8*Š
-10[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaB B(¡ž
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaB B(,
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-CONTEXT_SET | 2append(Ljava/lang/String;)*
-9*ð
-11[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java? ?(2˜•
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java?# ?(0
-%2java.lang.StringBuilder"java.lang.StringBuilderª
-§
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java? ?(2
-%3"!java.lang.StringBuilder#<init>()V*
-
-%2java.lang.StringBuilderª
-§
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java? ?(3!
-resultjava.lang.StringBuilder"__id*
-
-%2java.lang.StringBuilder”‘
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java@ @(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-[2append(Ljava/lang/String;)x
-v
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.javaA A('	
-%5int"__id*
-""*
-9
-10*Ó
-12[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java> >(#"p
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/Dependency.java> >($
-NO_DEPENDENCY:
-""B"
-org.exist.xquery.Dependency

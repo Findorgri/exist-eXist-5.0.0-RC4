@@ -1,112 +1,0 @@
-
-Forg.exist.client.MimeTypeFileFilter#getDescription()Ljava/lang/String;c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaI I( "5*ð
-2c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaQ Q(€ý
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaQ Q('
-%10java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*(
-&
-descriptionjava.lang.StringBuilder*
- 2	append(C)*
-4*Ï
-3c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaO O(ÛØ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaO O(2
-%7java.lang.String"+java.util.Iterator#next()Ljava/lang/Object;*$
-"
-itExtensionsjava.util.Iterator2next()´±
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaO O(3
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-descriptionjava.lang.StringBuilder*
-
-%7java.lang.String2append(Ljava/lang/String;)ÇÄ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaP P(%
-%9boolean"java.util.Iterator#hasNext()Z*$
-"
-itExtensionsjava.util.Iterator2	hasNext()*
-2
-4*º
-4c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaNI N(UÇÄ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaNI N(_
-%6boolean"java.util.Iterator#hasNext()Z*$
-"
-itExtensionsjava.util.Iterator2	hasNext()*
-3
-1*Ü
-5c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaJ< J(@À
-½
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaJ< J(L
-%0java.lang.String"__id*8*6%
-#org.exist.client.MimeTypeFileFilter"
-description 
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaJ. J(;
-%1java.lang.StringBuilder"java.lang.StringBuilderÞ
-Û
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaJ* J(M
-%2"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
-
-%1java.lang.StringBuilder*
-
-%0java.lang.String·
-´
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaJ J(N&
-descriptionjava.lang.StringBuilder"__id*
-
-%1java.lang.StringBuilder¢Ÿ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaL L( 
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-descriptionjava.lang.StringBuilder*
- (2append(Ljava/lang/String;)½
-º
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaN2 N(<
-%4java.util.List"__id*7*5%
-#org.exist.client.MimeTypeFileFilter"
-
-extensionsÕÒ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaN2 N(G
-%5java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
-
-%4java.util.List2
-iterator()®
-«
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaN N(G"
-itExtensionsjava.util.Iterator"__id*
-
-%5java.util.Iterator*
-4*€
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaU U(¢Ÿ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaU U(
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*(
-&
-descriptionjava.lang.StringBuilder*
-)2append(Ljava/lang/String;)íê
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaW W(%
-%12java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*(
-&
-descriptionjava.lang.StringBuilder2
-toString()"€
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/MimeTypeFileFilter.javaW W(&
-
-%12java.lang.StringB'%
-#org.exist.client.MimeTypeFileFilter

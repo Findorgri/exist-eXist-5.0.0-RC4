@@ -1,44 +1,0 @@
-
-<org.exist.storage.btree.Value#compareTo(Ljava/lang/Object;)I_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java² ²("2"1*ö
-2_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java´ ´(¤¡
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java´ ´(*	
-%0int"Iorg.exist.storage.btree.Value#compareTo(Lorg/exist/storage/btree/Value;)I*!
-org.exist.storage.btree.Value*
-
-objjava.lang.Object2*compareTo(Lorg/exist/storage/btree/Value;)"i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java´ ´(+
-""*ë
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¶ ¶(ÒÏ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¶( ¶(6
-%1java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-objjava.lang.Object2
-toString()¨¥
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¶" ¶('#
-%2org.exist.storage.btree.Value"org.exist.storage.btree.Valueæ
-ã
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¶ ¶(7
-%3"9org.exist.storage.btree.Value#<init>(Ljava/lang/String;)V*%
-#
-%2org.exist.storage.btree.Value*
-
-%1java.lang.String°­
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¶ ¶(8	
-%4int"Iorg.exist.storage.btree.Value#compareTo(Lorg/exist/storage/btree/Value;)I*!
-org.exist.storage.btree.Value*%
-#
-%2org.exist.storage.btree.Value2*compareTo(Lorg/exist/storage/btree/Value;)"i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java¶ ¶(9
-"":
-objjava.lang.ObjectB!
-org.exist.storage.btree.Value

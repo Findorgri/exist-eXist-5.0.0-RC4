@@ -1,16 +1,0 @@
-
-@org.exist.backup.RestoreDialog#getObserver()Ljava/util/Observer;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/RestoreDialog.java¼ ¼("1*§
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/RestoreDialog.java¾ ¾( ¿
-¼
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/RestoreDialog.java¾ ¾( 
-%0java.util.Observer"__id*8*6 
-org.exist.backup.RestoreDialog"
-progressObserver"~
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/RestoreDialog.java¾ ¾(#
-
-%0java.util.ObserverB" 
-org.exist.backup.RestoreDialog

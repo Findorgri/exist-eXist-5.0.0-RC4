@@ -1,47 +1,0 @@
-
-vorg.exist.xquery.functions.util.GetFragmentBetween#getCommentTag(Ljavax/xml/stream/XMLStreamReader;)Ljava/lang/String;t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≤ ≤( "1*™
-1t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≥ ≥(#Çˇ
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≥ ≥(7
-%0char[]"6javax.xml.stream.XMLStreamReader#getTextCharacters()[C*,
-*
-reader javax.xml.stream.XMLStreamReader2getTextCharacters()†
-ù
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java≥ ≥(8
-charschar[]"__id*
-
-%0char[]£†
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¥ ¥("
-%1java.lang.String"java.lang.String 
-«
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¥ ¥()
-%2"java.lang.String#<init>([C)V*
-
-%1java.lang.String*
-
-charschar[]ø
-º
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¥ ¥()
-%3java.lang.String"__concat*
-<!--*
-
-%1java.lang.Stringæ
-ª
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¥ ¥(1
-%4java.lang.String"__concat*
-
-%3java.lang.String*
--->"ê
-t
-hC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/util/GetFragmentBetween.java¥ ¥(2
-
-%4java.lang.String:*
-reader javax.xml.stream.XMLStreamReaderB64
-2org.exist.xquery.functions.util.GetFragmentBetween

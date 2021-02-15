@@ -1,34 +1,0 @@
-
-forg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java± ±("3*ú
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java´% ´(5"Ž
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java´ ´(6&
-$
-default_propertyjava.lang.String*Ú
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java²  ²(+¼¹
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java²  ²(1
-%0java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
-"org.exist.config.ConfigurationImpl*
-
-namejava.lang.String2getProperty(Ljava/lang/String;)§
-¤
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java² ²(2
-propertyjava.lang.String"__id*
-
-%0java.lang.String*
-2
-1*ò
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¶ ¶("†
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.java¶ ¶(
-
-propertyjava.lang.String:
-namejava.lang.String:$
-default_propertyjava.lang.StringB&$
-"org.exist.config.ConfigurationImpl

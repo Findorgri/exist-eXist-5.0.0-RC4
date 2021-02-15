@@ -1,99 +1,0 @@
-
-Yorg.exist.dom.persistent.XMLUtil#readFile([BLjava/nio/charset/Charset;)Ljava/lang/String;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÖ Ö(!"startingBlock*û
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÖ! Ö(Q£
-†
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÑ Ñ(
-%7"
-__annotate*
-java.lang.Deprecated*
-
-inbyte[]ã
-à
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÖ/ Ö(1
-inbyte[]"__annotation*
-
-%7¬
-ø
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÑ Ñ(
-%8"
-__annotate*
-java.lang.Deprecated*-
-+
-defaultEncodingjava.nio.charset.Charset™
-ß
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÖA Ö(P+
-defaultEncodingjava.nio.charset.Charset"__annotation*
-
-%8*
-1*∏
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaà à()ç
-ä
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaà à()
-%0java.lang.String"__id*
-""¯
-ı
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaà à(-
-%1java.lang.String"Aorg.exist.dom.persistent.XMLUtil#getXMLDecl([B)Ljava/lang/String;*$""
- org.exist.dom.persistent.XMLUtil*
-
-inbyte[]§
-°
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaà à(.
-xmlDecljava.lang.String"__id*
-
-%1java.lang.Stringè
-å
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaâ â('
-%2java.util.Optional"__id*
-""ú
-ô
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaâ â(0
-%3java.util.Optional"Torg.exist.dom.persistent.XMLUtil#getEncoding(Ljava/lang/String;)Ljava/util/Optional;*$""
- org.exist.dom.persistent.XMLUtil*
-
-xmlDecljava.lang.StringØ¨
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaâ â(H
-%4java.nio.charset.Charset"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%3java.util.Optional*-
-+
-defaultEncodingjava.nio.charset.Charset2orElse(Ljava/lang/Object;)∞
-≠
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaâ â(I
-encjava.nio.charset.Charset"__id* 
-
-%4java.nio.charset.Charsetëé
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaä ä(
-%5java.lang.String"java.lang.StringÚ
-Ô
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaä ä("
-%6"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
-
-%5java.lang.String*
-
-inbyte[]*!
-
-encjava.nio.charset.Charset"~
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaä ä(#
-
-%5java.lang.String:
-inbyte[]:+
-defaultEncodingjava.nio.charset.CharsetB$""
- org.exist.dom.persistent.XMLUtil

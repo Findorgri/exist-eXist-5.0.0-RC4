@@ -1,25 +1,0 @@
-
-Uorg.exist.client.TriggersDialog$TriggersTableModel#getColumnName(I)Ljava/lang/String;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/TriggersDialog.javaÜ Ü(#"1*è
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/TriggersDialog.javaÝ Ý(Ï
-Ì
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/TriggersDialog.javaÝ Ý(
-%0java.lang.String[]"__id*G*E4
-2org.exist.client.TriggersDialog$TriggersTableModel"
-columnNames®
-«
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/TriggersDialog.javaÝ Ý(&
-%1java.lang.String"
-__arrayGet*
-
-%0java.lang.String[]*
-"""}
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/TriggersDialog.javaÝ Ý('
-
-%1java.lang.String:
-""B64
-2org.exist.client.TriggersDialog$TriggersTableModel

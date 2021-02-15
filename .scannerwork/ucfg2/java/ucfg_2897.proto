@@ -1,67 +1,0 @@
-
-Eorg.exist.storage.index.BFile$DataPage#compareTo(Ljava/lang/Object;)I_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaˆ ˆ("startingBlock*Ï
-2_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŒ Œ( "i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŒ Œ(*
-""*£
-3_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‹ ‹(!àÝ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‹ ‹(#
-
-%2long"4org.exist.storage.index.BFile$DataPage#getPageNum()J**(
-&org.exist.storage.index.BFile$DataPage2getPageNum()ÑÎ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‹& ‹(E
-
-%3long"4org.exist.storage.index.BFile$DataPage#getPageNum()J*
-
-otherjava.lang.Object2getPageNum()*
-2
-1*»
-startingBlock_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaˆ ˆ(0«
-¨
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‡ ‡(
-%4"
-__annotate*
-java.lang.Override*
-
-otherjava.lang.Object•
-’
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaˆ* ˆ(/
-otherjava.lang.Object"__annotation*
-
-%4*
-5*Ï
-4_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŠ Š( "i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŠ Š('
-""*£
-5_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‰ ‰(àÝ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‰ ‰(
-
-%0long"4org.exist.storage.index.BFile$DataPage#getPageNum()J**(
-&org.exist.storage.index.BFile$DataPage2getPageNum()ÑÎ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.java‰  ‰(?
-
-%1long"4org.exist.storage.index.BFile$DataPage#getPageNum()J*
-
-otherjava.lang.Object2getPageNum()*
-3
-4*Ï
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŽ Ž( "i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/index/BFile.javaŽ Ž(*
-"":
-otherjava.lang.ObjectB*(
-&org.exist.storage.index.BFile$DataPage

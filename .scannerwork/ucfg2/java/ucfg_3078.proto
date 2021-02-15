@@ -1,27 +1,0 @@
-
-Lorg.exist.http.servlets.HttpRequestWrapper#isUserInRole(Ljava/lang/String;)Zl
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaá á("startingBlock*à
-startingBlockl
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaá á(,·
-´
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaà à(
-%0"
-__annotate*
-java.lang.Override*
-
-arg0java.lang.String¡
-ž
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaá' á(+
-arg0java.lang.String"__annotation*
-
-%0*
-1*é
-1l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaâ â("v
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpRequestWrapper.javaâ â(1
-"":
-arg0java.lang.StringB.,
-*org.exist.http.servlets.HttpRequestWrapper

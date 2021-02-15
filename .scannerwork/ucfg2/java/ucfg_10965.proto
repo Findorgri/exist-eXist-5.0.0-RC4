@@ -1,25 +1,0 @@
-
-aorg.exist.security.realm.ldap.LDAPRealm#buildSearchCriteria(Ljava/lang/String;)Ljava/lang/String;‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java“ “(&"1*Ñ
-1‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java” ”(Ö
-Ó
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java” ”("
-%0java.lang.String"__concat*
-&(*"
- 
-searchPrefixjava.lang.StringË
-È
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java” ”((
-%1java.lang.String"__concat*
-
-%0java.lang.String*
-)"Ÿ
-‚
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.java” ”()
-
-%1java.lang.String: 
-searchPrefixjava.lang.StringB+)
-'org.exist.security.realm.ldap.LDAPRealm

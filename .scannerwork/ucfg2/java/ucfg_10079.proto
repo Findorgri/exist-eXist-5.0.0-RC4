@@ -1,1183 +1,0 @@
-
-Dorg.exist.util.serializer.DOMStreamer#startNode(Lorg/w3c/dom/Node;)Vg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaê ê("1*µ
-46g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaº% º(1ì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaº% º(C
-%52java.lang.String"__id*
-""©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaº º(C
-prefixjava.lang.String"__id*
-
-%52java.lang.String*
-45*à
-47g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∫! ∫()‚ﬂ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∫! ∫(5
-%51java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2getPrefix()©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∫ ∫(5
-prefixjava.lang.String"__id*
-
-%51java.lang.String*
-46
-45*Í
-25g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÊ Ê(Ê„
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÈ È(2
-%90java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2getNodeName()‡›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÎ Î(/
-%91java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2
-getValue()®•
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÊ Ï(
-%92void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*0
-.
-saxAttrs"org.xml.sax.helpers.AttributesImpl*
-
-attrNSjava.lang.String*#
-!
-attrLocalNamejava.lang.String*
-
-%90java.lang.String*	
-CDATA*
-
-%91java.lang.String2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)*
-35*√
-48g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaπ π('…∆
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaπ π(4
-
-%50int"java.lang.String#indexOf(I)I*
-
-attrNamejava.lang.String*
-:2
-indexOf(I)*
-47
-55*ì
-26g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java· ·(Zù
-ö
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java· ·(Z!
-attrLocalNamejava.lang.String"__id*
-""*
-25*ˇ
-49g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaµ" µ(*‡›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaµ" µ(5
-%45java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2
-getValue()¶
-£
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaµ µ(5
-urijava.lang.String"__id*
-
-%45java.lang.String«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∂ ∂(*
-%46java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDecls‡
-›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∂ ∂(;
-%47java.lang.String"__mapSet*
-
-%46java.util.Map*
-
-prefixjava.lang.String*
-
-urijava.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∑ ∑(%+
-%48$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupportÙÒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∑ ∑(@
-%49boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%48$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-55*∞
-50g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≥! ≥()ÍÁ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≥! ≥(6
-%42java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-attrNamejava.lang.String*22substring(I)©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≥ ≥(6
-prefixjava.lang.String"__id*
-
-%42java.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¥ ¥(%+
-%43$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupport¡æ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¥ ¥(4
-%44java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%43$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String2getURI(Ljava/lang/String;)*
-49
-55*Õ
-51g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≤ ≤('ì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≤3 ≤(O
-%39java.lang.String"__id*
-""±
-Æ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≤3 ≤(U
-%40java.lang.String"__concat*
-
-%39java.lang.String*
-:âÜ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≤ ≤(V
-%41boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-attrNamejava.lang.String*
-
-%40java.lang.String2startsWith(Ljava/lang/String;)*
-48
-50*•
-52g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÆ" Æ(*‡›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÆ" Æ(5
-%32java.lang.String"-org.w3c.dom.Attr#getValue()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2
-getValue()¶
-£
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÆ Æ(5
-urijava.lang.String"__id*
-
-%32java.lang.String«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaØ Ø(*
-%33java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDeclsì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaØ/ Ø(M
-%34java.lang.String"__id*
-""›
-⁄
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaØ Ø(S
-%35java.lang.String"__mapSet*
-
-%33java.util.Map*
-
-%34java.lang.String*
-
-urijava.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∞ ∞(%+
-%36$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupportì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∞4 ∞(R
-%37java.lang.String"__id*
-""ÒÓ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∞ ∞(X
-%38boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%36$org.xml.sax.helpers.NamespaceSupport*
-
-%37java.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-55*‹
-30g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java·, ·(1Ê„
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java·C ·(Y
-%87java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2getNodeName()*
-26*™
-53g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≠ ≠(%Ÿ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≠ ≠(%+
-%29$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupportì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≠- ≠(E
-%30java.lang.String"__id*
-""æª
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≠ ≠(F
-%31java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%29$org.xml.sax.helpers.NamespaceSupport*
-
-%30java.lang.String2getURI(Ljava/lang/String;)*
-52
-55*Ω	
-10g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÜ Ü(’
-“
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÜ Ü("
-%111org.xml.sax.ContentHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-contentHandler «
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÜ* Ü(=
-%112char[]" java.lang.String#toCharArray()[C*
-
-cdatajava.lang.String2toCharArray()ºπ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÜB Ü(P
-%113int"java.lang.String#length()I*
-
-cdatajava.lang.String2length()ÖÇ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÜ Ü(Q
-%114void",org.xml.sax.ContentHandler#characters([CII)V*$
-"
-%111org.xml.sax.ContentHandler*
-
-%112char[]*2 *
-
-%113int2characters([CII)Ÿ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaá á("&
-%115org.xml.sax.ext.LexicalHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-lexicalHandler*
-9
-0*¿
-
-54g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java™& ™(+ÔÏ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java™& ™(3
-%25org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*#
-!
-attrsorg.w3c.dom.NamedNodeMap*
-""2item(I)´
-®
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java™ ™(3
-nextAttrorg.w3c.dom.Attr"__id*
-
-%25org.w3c.dom.Nodeﬁ€
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java´ ´(1
-%26java.lang.String",org.w3c.dom.Attr#getName()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2	getName()´
-®
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java´ ´(1
-attrNamejava.lang.String"__id*
-
-%26java.lang.Stringì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¨ ¨(4
-%27java.lang.String"__id*
-""Å˛
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¨ ¨(E
-%28boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%27java.lang.String*
-
-attrNamejava.lang.String2equals(Ljava/lang/Object;)*
-51
-53*ï
-32g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaﬁ$ ﬁ(,ËÂ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaﬁ$ ﬁ(;
-%86java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2getLocalName()∞
-≠
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaﬁ ﬁ(;!
-attrLocalNamejava.lang.String"__id*
-
-%86java.lang.String*
-25
-30*≤
-11g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÑ Ñ("Ÿ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÑ Ñ("&
-%109org.xml.sax.ext.LexicalHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-lexicalHandler‡›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÑ Ñ(/
-%110void",org.xml.sax.ext.LexicalHandler#startCDATA()V*(
-&
-%109org.xml.sax.ext.LexicalHandler2startCDATA()*
-10*À
-55g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java©  ©(!—Œ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java©$ ©(5
-
-%24int"%org.w3c.dom.NamedNodeMap#getLength()I*#
-!
-attrsorg.w3c.dom.NamedNodeMap2getLength()*
-42
-54*µ
-33g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java‹! ‹(-ì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java‹! ‹(9
-%85java.lang.String"__id*
-""©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java‹ ‹(9
-attrNSjava.lang.String"__id*
-
-%85java.lang.String*
-32*¥
-34g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaŸ& Ÿ(+ÔÏ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaŸ& Ÿ(3
-%83org.w3c.dom.Node"2org.w3c.dom.NamedNodeMap#item(I)Lorg/w3c/dom/Node;*#
-!
-attrsorg.w3c.dom.NamedNodeMap*
-""2item(I)´
-®
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaŸ Ÿ(3
-nextAttrorg.w3c.dom.Attr"__id*
-
-%83org.w3c.dom.NodeÓÎ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java⁄ ⁄(7
-%84java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2getNamespaceURI()©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java⁄ ⁄(7
-attrNSjava.lang.String"__id*
-
-%84java.lang.String*
-32
-33*Ê
-12g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÅ ä(‰·
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÇ Ç(8
-%107java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2	getData()©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÇ Ç(8
-cdatajava.lang.String"__id*
-
-%107java.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÉ É("&
-%108org.xml.sax.ext.LexicalHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-lexicalHandler*
-10
-11*›
-56g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¶+ ¶(/ˆÛ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¶+ ¶(?
-%23org.w3c.dom.NamedNodeMap":org.w3c.dom.Node#getAttributes()Lorg/w3c/dom/NamedNodeMap;*
-
-nodeorg.w3c.dom.Node2getAttributes()∏
-µ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¶ ¶(@!
-attrsorg.w3c.dom.NamedNodeMap"__id*!
-
-%23org.w3c.dom.NamedNodeMapò
-ï
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaß ß(
-nextAttrorg.w3c.dom.Attr"__id*
-""ò
-ï
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java® ®( 
-attrNamejava.lang.String"__id*
-""*
-55*À
-35g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÿ  ÿ(!—Œ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÿ$ ÿ(5
-
-%82int"%org.w3c.dom.NamedNodeMap#getLength()I*#
-!
-attrsorg.w3c.dom.NamedNodeMap2getLength()*
-23
-34*Ò
-
-13g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˝ Ä(‰·
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˛ ˛(8
-%102java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2	getData()©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˛ ˛(8
-cdatajava.lang.String"__id*
-
-%102java.lang.String’
-“
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˇ ˇ("
-%103org.xml.sax.ContentHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-contentHandler «
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˇ* ˇ(=
-%104char[]" java.lang.String#toCharArray()[C*
-
-cdatajava.lang.String2toCharArray()ºπ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˇB ˇ(P
-%105int"java.lang.String#length()I*
-
-cdatajava.lang.String2length()ÖÇ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˇ ˇ(Q
-%106void",org.xml.sax.ContentHandler#characters([CII)V*$
-"
-%103org.xml.sax.ContentHandler*
-
-%104char[]*2 *
-
-%105int2characters([CII)*
-0*Û
-57g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¢ ¢("«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¢ ¢("
-%19java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDecls‡
-›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¢ ¢(3
-%20java.lang.String"__mapSet*
-
-%19java.util.Map*
-
-prefixjava.lang.String*
-
-urijava.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java£ £(+
-%21$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupportÙÒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java£ £(8
-%22boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%21$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-56*–
-36g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java“ “(Â
-‚
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java“ “(0G
-9
-info1org.exist.util.serializer.DOMStreamer$ElementInfo"
-
-prefixes"__id*(
-&
-declaredPrefixesjava.lang.String[]¿
-Ω
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java” ”(
-%78java.util.Deque"__id*4*2'
-%org.exist.util.serializer.DOMStreamer"
-stackïí
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java” ”( 
-%79void")java.util.Deque#push(Ljava/lang/Object;)V*
-
-%78java.util.Deque*;
-9
-info1org.exist.util.serializer.DOMStreamer$ElementInfo2push(Ljava/lang/Object;)ª∏
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java’4 ’(B)
-%80"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImplŒ
-À
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java’0 ’(D
-%81",org.xml.sax.helpers.AttributesImpl#<init>()V*+
-)
-%80"org.xml.sax.helpers.AttributesImplœ
-Ã
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java’ ’(E.
-saxAttrs"org.xml.sax.helpers.AttributesImpl"__id*+
-)
-%80"org.xml.sax.helpers.AttributesImplñ
-ì
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java÷ ÷(
-attrNSjava.lang.String"__id*
-""ù
-ö
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java◊ ◊(%!
-attrLocalNamejava.lang.String"__id*
-""*
-35*ó
-58g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java° °(Ÿ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java° °(+
-%17$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupport¡æ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java° °(,
-%18java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%17$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String2getURI(Ljava/lang/String;)*
-57
-56*º
-14g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˙ ˙(‘
-—
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˙ ˙(!
-%99org.xml.sax.ContentHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-contentHandler„‡
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˚ ˚(*
-%100java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getNodeName()äá
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˙ ˚(5
-%101void"xorg.xml.sax.ContentHandler#startElement(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/xml/sax/Attributes;)V*#
-!
-%99org.xml.sax.ContentHandler*"
- 
-namespaceURIjava.lang.String*
-
-	localNamejava.lang.String*
-
-%100java.lang.String*0
-.
-saxAttrs"org.xml.sax.helpers.AttributesImpl2\startElement(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/xml/sax/Attributes;)*
-0*µ
-59g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaü ü()ì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaü ü(;
-%16java.lang.String"__id*
-""©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaü ü(;
-prefixjava.lang.String"__id*
-
-%16java.lang.String*
-58*ª
-15g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¯# ¯(/ì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¯# ¯(;
-%98java.lang.String"__id*
-""Ø
-¨
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¯ ¯(; 
-namespaceURIjava.lang.String"__id*
-
-%98java.lang.String*
-14*†
-38g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaŒ Œ(ÿ’
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaŒ Œ(&
-%71java.util.Map$Entry"+java.util.Iterator#next()Ljava/lang/Object;*
-
-ijava.util.Iterator2next()∞
-≠
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaŒ Œ(&
-nsEntryjava.util.Map$Entry"__id*
-
-%71java.util.Map$Entry·ﬁ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaœ* œ(:
-%72java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;* 
-
-nsEntryjava.util.Map$Entry2getKey()Ã
-…
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaœ œ(:
-%73"
-__arraySet*(
-&
-declaredPrefixesjava.lang.String[]*
-""*
-
-%72java.lang.String‘
-—
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java– –("!
-%74org.xml.sax.ContentHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-contentHandler√
-¿
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java–6 –(I
-%75java.lang.String"
-__arrayGet*(
-&
-declaredPrefixesjava.lang.String[]*
-""Â‚
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java–K –(]
-%76java.lang.String"0java.util.Map$Entry#getValue()Ljava/lang/Object;* 
-
-nsEntryjava.util.Map$Entry2
-getValue()‰·
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java– –(^
-%77void"Torg.xml.sax.ContentHandler#startPrefixMapping(Ljava/lang/String;Ljava/lang/String;)V*#
-!
-%74org.xml.sax.ContentHandler*
-
-%75java.lang.String*
-
-%76java.lang.String28startPrefixMapping(Ljava/lang/String;Ljava/lang/String;)*
-39*ñ
-16g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˆ& ˆ(*ÍÁ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˆ& ˆ(<
-%97java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getNamespaceURI()Ø
-¨
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaˆ ˆ(= 
-namespaceURIjava.lang.String"__id*
-
-%97java.lang.String*
-14
-15*ª
-39g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÕi Õ(j¡æ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÕi Õ(t
-%70boolean"java.util.Iterator#hasNext()Z*
-
-ijava.util.Iterator2	hasNext()*
-36
-38*è
-17g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÒ Ò(Nô
-ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÒ Ò(N
-	localNamejava.lang.String"__id*
-""*
-16*Ö
-0 "~
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaù ù(
-implicit return*∂
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaë ë(ï
-í
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaë ë(
-cdatajava.lang.String"__id*
-""≈¬
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaí í("
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-nodeorg.w3c.dom.Node2getNodeType()á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaì ì(#
-%1short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaî î(,
-%2short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javañ ñ("
-%3short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java˝ ˝(
-%4short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÅ Å((
-%5short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaã ã($
-%6short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaç ç(1
-%7short"__id*
-""á
-Ñ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaí í("
-%8short"__id*
-""*
-2
-13
-5
-6
-62
-0
-12*¸
-2g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaò õ(Å
-
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaö ö(
-%128"__id*
-""«ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaö2 ö(D
-%129short"org.w3c.dom.Node#getNodeType()S*
-
-nodeorg.w3c.dom.Node2getNodeType()∫
-∑
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaö ö(D
-%130java.lang.String"__concat*
-Unknown node type: *
-
-%129short*
-0*ˆ
-
-4g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaî' î(+‰·
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaî î(6
-%123java.lang.String"5org.w3c.dom.CharacterData#getData()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2	getData()©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaî î(6
-cdatajava.lang.String"__id*
-
-%123java.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaï ï("&
-%124org.xml.sax.ext.LexicalHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-lexicalHandler «
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaï+ ï(>
-%125char[]" java.lang.String#toCharArray()[C*
-
-cdatajava.lang.String2toCharArray()ºπ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaïC ï(Q
-%126int"java.lang.String#length()I*
-
-cdatajava.lang.String2length()áÑ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaï ï(R
-%127void"-org.xml.sax.ext.LexicalHandler#comment([CII)V*(
-&
-%124org.xml.sax.ext.LexicalHandler*
-
-%125char[]*2 *
-
-%126int2comment([CII)*
-0*–
-5g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaí ó(Ÿ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaì ì("&
-%122org.xml.sax.ext.LexicalHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-lexicalHandler*
-4
-0*ú	
-6g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaç ë(’
-“
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaé é("
-%118org.xml.sax.ContentHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-contentHandlerÌ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaè è(B
-%119java.lang.String"?org.w3c.dom.ProcessingInstruction#getTarget()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getTarget()ÏÈ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaê ê(@
-%120java.lang.String"=org.w3c.dom.ProcessingInstruction#getData()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2	getData()ÓÎ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaé ê(A
-%121void"Worg.xml.sax.ContentHandler#processingInstruction(Ljava/lang/String;Ljava/lang/String;)V*$
-"
-%118org.xml.sax.ContentHandler*
-
-%119java.lang.String*
-
-%120java.lang.String2;processingInstruction(Ljava/lang/String;Ljava/lang/String;)*
-0*¨
-9g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaà à("Ÿ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaà à("&
-%116org.xml.sax.ext.LexicalHandler"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-lexicalHandler‹Ÿ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaà à(-
-%117void"*org.xml.sax.ext.LexicalHandler#endCDATA()V*(
-&
-%116org.xml.sax.ext.LexicalHandler2
-endCDATA()*
-0*∂
-61g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaú ú(&ì
-ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaú ú(1
-%15java.lang.String"__id*
-""¶
-£
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaú ú(1
-urijava.lang.String"__id*
-
-%15java.lang.String*
-58
-59*≥
-40g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÀ À(2ö
-ó
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÀ À(2
-nsEntryjava.util.Map$Entry"__id*
-""«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÕC Õ(Q
-%67java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDeclsœÃ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÕC Õ(\
-%68java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
-
-%67java.util.Map2
-entrySet()Ÿ÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÕC Õ(g
-%69java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*
-
-%68java.util.Set2
-iterator()®
-•
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÕ Õ(g
-ijava.util.Iterator"__id*
-
-%69java.util.Iterator*
-39*—
-62g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javañ ¸(∆
-√
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaó ó(
-%9java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDeclsú
-ô
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaó ó(&
-%10void"
-__mapClear*
-
-%9java.util.MapŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaò ò(+
-%11$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupportÏÈ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaò ò('
-%12void"3org.xml.sax.helpers.NamespaceSupport#pushContext()V*-
-+
-%11$org.xml.sax.helpers.NamespaceSupport2pushContext()ÍÁ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaô ô(3
-%13java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getNamespaceURI()¶
-£
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaô ô(4
-urijava.lang.String"__id*
-
-%13java.lang.Stringﬁ€
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaö  ö(0
-%14java.lang.String".org.w3c.dom.Node#getPrefix()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getPrefix()©
-¶
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaö ö(1
-prefixjava.lang.String"__id*
-
-%14java.lang.String*
-58
-59
-61*«
-41g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java»2 »(@«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java»2 »(@
-%64java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDeclsØ¨
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java»2 »(G
-
-%65int"java.util.Map#size()I*
-
-%64java.util.Map2size()õò
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java»' »(H
-%66java.lang.String[]"java.lang.String[]∑
-¥
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java» »(H&
-declaredPrefixesjava.lang.String[]"__id*
-
-%66java.lang.String[]*
-40*˝
-
-42g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≈9 ≈(=Ÿ÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≈- ≈(88
-%601org.exist.util.serializer.DOMStreamer$ElementInfo"1org.exist.util.serializer.DOMStreamer$ElementInfoö
-ó
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≈) ≈(>
-%61"Morg.exist.util.serializer.DOMStreamer$ElementInfo#<init>(Lorg/w3c/dom/Node;)V*:
-8
-%601org.exist.util.serializer.DOMStreamer$ElementInfo*
-
-nodeorg.w3c.dom.NodeÈ
-Ê
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java≈ ≈(?9
-info1org.exist.util.serializer.DOMStreamer$ElementInfo"__id*:
-8
-%601org.exist.util.serializer.DOMStreamer$ElementInfo¢
-ü
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java∆ ∆(1&
-declaredPrefixesjava.lang.String[]"__id*
-""«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java« «("
-%62java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDeclsØ¨
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java« «()
-
-%63int"java.util.Map#size()I*
-
-%62java.util.Map2size()*
-40
-41*ÿ
-21g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÒ$ Ò()‚ﬂ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÒ; Ò(M
-%94java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getNodeName()*
-17*Û
-44g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¿ ¿(*«
-ƒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¿ ¿(*
-%56java.util.Map"__id*=*;'
-%org.exist.util.serializer.DOMStreamer"
-namespaceDecls‡
-›
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¿ ¿(;
-%57java.lang.String"__mapSet*
-
-%56java.util.Map*
-
-prefixjava.lang.String*
-
-urijava.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¡ ¡(%+
-%58$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupportÙÒ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.java¡ ¡(@
-%59boolean"Yorg.xml.sax.helpers.NamespaceSupport#declarePrefix(Ljava/lang/String;Ljava/lang/String;)Z*-
-+
-%58$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String*
-
-urijava.lang.String23declarePrefix(Ljava/lang/String;Ljava/lang/String;)*
-55*±
-45g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaæ æ(&ÓÎ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaæ æ(8
-%53java.lang.String"4org.w3c.dom.Node#getNamespaceURI()Ljava/lang/String;*
-
-nextAttrorg.w3c.dom.Attr2getNamespaceURI()¶
-£
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaæ æ(8
-urijava.lang.String"__id*
-
-%53java.lang.StringŸ
-÷
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaø ø(%+
-%54$org.xml.sax.helpers.NamespaceSupport"__id*8*6'
-%org.exist.util.serializer.DOMStreamer"
-	nsSupport¡æ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaø ø(4
-%55java.lang.String"Qorg.xml.sax.helpers.NamespaceSupport#getURI(Ljava/lang/String;)Ljava/lang/String;*-
-+
-%54$org.xml.sax.helpers.NamespaceSupport*
-
-prefixjava.lang.String2getURI(Ljava/lang/String;)*
-44
-55*ç
-23g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÓ# Ó('‰·
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÓ# Ó(6
-%93java.lang.String"1org.w3c.dom.Node#getLocalName()Ljava/lang/String;*
-
-nodeorg.w3c.dom.Node2getLocalName()¨
-©
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/DOMStreamer.javaÓ Ó(7
-	localNamejava.lang.String"__id*
-
-%93java.lang.String*
-16
-21:
-nodeorg.w3c.dom.NodeB)'
-%org.exist.util.serializer.DOMStreamer

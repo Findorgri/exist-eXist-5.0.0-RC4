@@ -1,49 +1,0 @@
-
-9org.exist.storage.btree.Value#equals(Ljava/lang/Object;)Z_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.java˜ ˜("2"4"1*ô
-2_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaœ œ(¢Ÿ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaœ œ('
-%0boolean"Forg.exist.storage.btree.Value#equals(Lorg/exist/storage/btree/Value;)Z*!
-org.exist.storage.btree.Value*
-
-objjava.lang.Object2'equals(Lorg/exist/storage/btree/Value;)"i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaœ œ((
-""*Ï
-4_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaš š("i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaš š(
-""*é
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaž ž(ÒÏ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaž% ž(3
-%1java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-objjava.lang.Object2
-toString()¨¥
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaž ž($#
-%2org.exist.storage.btree.Value"org.exist.storage.btree.Valueæ
-ã
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaž ž(4
-%3"9org.exist.storage.btree.Value#<init>(Ljava/lang/String;)V*%
-#
-%2org.exist.storage.btree.Value*
-
-%1java.lang.String®«
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaž ž(5
-%4boolean"Forg.exist.storage.btree.Value#equals(Lorg/exist/storage/btree/Value;)Z*!
-org.exist.storage.btree.Value*%
-#
-%2org.exist.storage.btree.Value2'equals(Lorg/exist/storage/btree/Value;)"i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/btree/Value.javaž ž(6
-"":
-objjava.lang.ObjectB!
-org.exist.storage.btree.Value

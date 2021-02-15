@@ -1,23 +1,0 @@
-
-,org.exist.xquery.value.DoubleValue#isZero()Zb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaq q("1*Ã
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javar r(©
-¦
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javar r(-
-%0double"java.lang.Math#abs(D)D*"
-java.lang.Math*
-""¿
-¼
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javar r(3	
-%1int"java.lang.Double#compare(DD)I*"
-java.lang.Double*
-
-%0double*
-"""l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javar r(G
-""B&$
-"org.exist.xquery.value.DoubleValue

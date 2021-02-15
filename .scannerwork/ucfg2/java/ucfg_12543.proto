@@ -1,9 +1,0 @@
-
-Sorg.exist.xquery.modules.datetime.DateTimeModule#getDescription()Ljava/lang/String;ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/datetime/DateTimeModule.javaT T( "1*È
-1ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/datetime/DateTimeModule.javaV V(A"¼
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/datetime/DateTimeModule.javaV V(B42
-0A module for performing date and time operationsB42
-0org.exist.xquery.modules.datetime.DateTimeModule

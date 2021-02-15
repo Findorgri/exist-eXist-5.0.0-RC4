@@ -1,125 +1,0 @@
-
-?org.exist.xquery.FunctionSignature#toString()Ljava/lang/String;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÂ Â("13*Ö	
-13d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÊ" Ê(5°û
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÊ& Ê(3
-%0java.lang.StringBuilder"java.lang.StringBuilder≥
-∞
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÊ" Ê(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder∞
-≠
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÊ Ê(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÇˇ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÁ Á()
-%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)¯ı
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaË Ë(
-%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-(2	append(C)*
-2
-8
-9
-1*ê
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java˙ ˙(üú
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java˙ ˙(#
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*	
-, ...2append(Ljava/lang/String;)*
-1*ú
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaı ı(ùö
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaı ı("
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- as 2append(Ljava/lang/String;)Çˇ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaˆ ˆ(3
-%9"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-2
-8
-9
-1*Í
-6d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÛ Û(˘ˆ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÛ Û(/
-%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2	append(C)*
-5*Û
-7d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÒ Ò(Çˇ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÒ Ò(`
-%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-5*Ï
-8d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÔ Ô(¯ı
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÔ Ô(
-%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-$2	append(C)*
-6
-7*å
-9d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÌ Ì(õò
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÌ Ì($
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-, 2append(Ljava/lang/String;)*
-8*˚
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java˝ ˝(úô
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java˝ ˝(
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-) 2append(Ljava/lang/String;)ÉÄ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.java˛ ˛()
-%12"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)Ê„
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÄ Ä(
-%13java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"Å
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/FunctionSignature.javaÄ Ä(
-
-%13java.lang.StringB&$
-"org.exist.xquery.FunctionSignature

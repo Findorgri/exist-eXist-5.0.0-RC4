@@ -1,65 +1,0 @@
-
-Torg.exist.backup.FileSystemWriter#newEntry(Ljava/lang/String;)Ljava/io/OutputStream;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javai i( "startingBlock*ø
-startingBlocka
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javai  i(3¨
-©
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javah h(
-%4"
-__annotate*
-java.lang.Override*
-
-namejava.lang.Stringñ
-ì
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javai. i(2
-namejava.lang.String"__annotation*
-
-%4*
-1*
-
-1a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javaj j(Ω
-∫
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javaj+ j(5
-%0java.nio.file.Path"__id*5*3#
-!org.exist.backup.FileSystemWriter"
-
-currentDirôñ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javaj+ j(C
-%1java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-%0java.nio.file.Path*
-
-namejava.lang.String2resolve(Ljava/lang/String;)£
-†
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javaj j(D
-%2java.io.OutputStream"jjava.nio.file.Files#newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;*"
-java.nio.file.Files*
-
-%1java.nio.file.Pathø
-º
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javaj j(D3#
-!org.exist.backup.FileSystemWriter"
-
-currentOut"__id*
-
-%2java.io.OutputStreamø
-º
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javal l(
-%3java.io.OutputStream"__id*5*3#
-!org.exist.backup.FileSystemWriter"
-
-currentOut"Å
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/FileSystemWriter.javal l(
-
-%3java.io.OutputStream:
-namejava.lang.StringB%#
-!org.exist.backup.FileSystemWriter

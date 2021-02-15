@@ -1,42 +1,0 @@
-
-‡org.exist.dom.memtree.DocumentImpl#createProcessingInstruction(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/ProcessingInstruction;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaì! ì(<"startingBlock*š
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaì< ì(d±
-®
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaë ë(
-%0"
-__annotate*
-java.lang.Override*
-
-targetjava.lang.String›
-˜
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaìJ ì(P
-targetjava.lang.String"__annotation*
-
-%0¯
-¬
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaë ë(
-%1"
-__annotate*
-java.lang.Override*
-
-datajava.lang.String™
-–
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaì_ ì(c
-datajava.lang.String"__annotation*
-
-%1*
-1*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaî î("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaî î(
-"":
-targetjava.lang.String:
-datajava.lang.StringB&$
-"org.exist.dom.memtree.DocumentImpl

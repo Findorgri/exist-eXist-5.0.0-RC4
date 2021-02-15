@@ -1,133 +1,0 @@
-
-4org.exist.util.XMLString#equals(Ljava/lang/Object;)ZZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÉ É("startingBlock*Ä
-13Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÐ Ð(
-š
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÑ" Ñ((
-%0char[]"__id*(*&
-org.exist.util.XMLString"
-value_ƒ
-€
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÑ Ñ()
-v1char[]"__id*
-
-%0char[]¬
-©
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÒ" Ò(6
-%1char[]"__id*7*5
-)
-anotherStringorg.exist.util.XMLString"
-value_ƒ
-€
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÒ Ò(7
-v2char[]"__id*
-
-%1char[]*
-9
-10*Å
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaæ æ("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaæ æ(
-""*œ
-14Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÎ8 Î(@°
-­
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÎ Î(A)
-anotherStringorg.exist.util.XMLString"__id*
-
-anObjectjava.lang.Object*
-13
-1*º
-startingBlockZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÉ É(0©
-¦
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÈ È(
-%6"
-__annotate*
-java.lang.Override*
-
-anObjectjava.lang.Object“
-
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÉ' É(/
-anObjectjava.lang.Object"__annotation*
-
-%6*
-14
-16
-8*Å
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaã ã($"d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaã ã(%
-""*Æ
-16Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaË Ë("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaË Ë(
-""*Í
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaâ â(
-š
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaâ â(
-%4char[]"__id*(*&
-org.exist.util.XMLString"
-value_À½
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaâ' â(>
-
-%5char"java.lang.String#charAt(I)C*#
-!
-anotherStringjava.lang.String*
-""2	charAt(I)*	
-2
-4
-5*œ
-8Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÞ) Þ(1ÒÏ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÞ) Þ(<
-%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-
-anObjectjava.lang.Object2
-toString()¢
-Ÿ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÞ Þ(=!
-anotherStringjava.lang.String"__id*
-
-%2java.lang.Stringµ²
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaß ß(1	
-%3int"java.lang.String#length()I*#
-!
-anotherStringjava.lang.String2length()*	
-2
-5
-1*Å
-9Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÛ Û("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaÛ Û(
-""*Æ
-10Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaØ Ø($"d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaØ Ø(%
-""*Å
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaé é("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaé é(
-"":
-anObjectjava.lang.ObjectB
-org.exist.util.XMLString

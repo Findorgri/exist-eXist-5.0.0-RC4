@@ -1,36 +1,0 @@
-
-morg.exist.security.AbstractRealm#findGroupnamesWhereGroupnameStarts(Ljava/lang/String;)Ljava/util/Collection;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java€2 €(T"startingBlock*Œ
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java€T €(m≥
-∞
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java⁄ ⁄(
-%1"
-__annotate*
-java.lang.Override* 
-
-
-startsWithjava.lang.Stringù
-ö
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java€b €(l
-
-startsWithjava.lang.String"__annotation*
-
-%1*
-1*≥
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java‹ ‹(À
-»
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java‹ ‹(&
-%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
-java.util.Collections"|
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AbstractRealm.java‹ ‹('
-
-%0java.util.List:
-
-startsWithjava.lang.StringB$"
- org.exist.security.AbstractRealm

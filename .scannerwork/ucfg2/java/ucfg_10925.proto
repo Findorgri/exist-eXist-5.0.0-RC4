@@ -1,53 +1,0 @@
-
-0org.exist.http.servlets.XSLTServlet#isCaching()Zc
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javan n("5*š
-2c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javat t(ª
-§
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javat t(2%
-#org.exist.http.servlets.XSLTServlet"	
-caching"__id*
-""*
-1*²
-3c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javar$ r(,Â
-¿
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javar r(,2%
-#org.exist.http.servlets.XSLTServlet"	
-caching"__id*
-
-propertyjava.lang.Object*
-1*ˆ
-4c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javap$ p((•
-’
-d
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javap p(€
-propertyjava.lang.Object"__id*
-""*
-2
-3*°
-5c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javao o(½
-º
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javao o(
-%0java.lang.Boolean"__id*4*2%
-#org.exist.http.servlets.XSLTServlet"	
-caching*
-4
-1*—
-1c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javaw w(½
-º
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javaw w(
-%1java.lang.Boolean"__id*4*2%
-#org.exist.http.servlets.XSLTServlet"	
-caching"m
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/XSLTServlet.javaw w(
-""B'%
-#org.exist.http.servlets.XSLTServlet

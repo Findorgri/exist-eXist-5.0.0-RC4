@@ -1,65 +1,0 @@
-
-Korg.exist.dom.memtree.NodeImpl#compareTo(Lorg/exist/dom/memtree/NodeImpl;)I`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaè è("startingBlock*Ñ
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaò ò(&
-""*æ
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaè è(.º
-·
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaç ç(
-%2"
-__annotate*
-java.lang.Override*)
-'
-otherorg.exist.dom.memtree.NodeImpl¤
-¡
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaè( è(-'
-otherorg.exist.dom.memtree.NodeImpl"__annotation*
-
-%2*
-2
-4
-5
-8
-1*Ñ
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaï ï( "j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaï ï(*
-""*Ñ
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaí í( "j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaí í(*
-""*Ñ
-7`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaë ë( "j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaë ë('
-""*¥
-8`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaê1 ê(<ÔÑ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaê1 ê(>
-%0short"-org.exist.dom.memtree.NodeImpl#getNodeType()S*" 
-org.exist.dom.memtree.NodeImpl2getNodeType()ÛØ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaêB ê(U
-%1short"-org.exist.dom.memtree.NodeImpl#getNodeType()S*)
-'
-otherorg.exist.dom.memtree.NodeImpl2getNodeType()*	
-4
-5
-7*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaô ô("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/NodeImpl.javaô ô(&
-"":'
-otherorg.exist.dom.memtree.NodeImplB" 
-org.exist.dom.memtree.NodeImpl

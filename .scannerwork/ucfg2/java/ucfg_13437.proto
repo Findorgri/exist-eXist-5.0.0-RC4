@@ -1,27 +1,0 @@
-
-_org.exist.xquery.modules.compression.TarFunction#newEntry(Ljava/lang/String;)Ljava/lang/Object;ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/TarFunction.javaa a("startingBlock*¨
-startingBlockƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/TarFunction.javaa a(*Ï
-Ì
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/TarFunction.java` `(
-%0"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¹
-¶
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/TarFunction.javaa% a()
-namejava.lang.String"__annotation*
-
-%0*
-1*š
-1ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/TarFunction.javac' c(+"Ž
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/TarFunction.javac c(-
-"":
-namejava.lang.StringB42
-0org.exist.xquery.modules.compression.TarFunction

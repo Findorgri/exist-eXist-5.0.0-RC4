@@ -1,33 +1,0 @@
-
-Torg.exist.indexing.range.ComplexRangeIndexConfigElement#getType(Ljava/lang/String;)Iì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaå å("startingBlock*∫
-2ì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaè è("û
-ì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaè è(#
-""*Â
-startingBlockì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaå å((‰
-·
-ì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaã ã(
-%0"
-__annotate*
-java.lang.Override*
-
-	fieldNamejava.lang.StringŒ
-À
-ì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaå å('
-	fieldNamejava.lang.String"__annotation*
-
-%0*
-2
-1*∫
-1ì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaë ë("û
-ì
-ÜC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/range/src/org/exist/indexing/range/ComplexRangeIndexConfigElement.javaë ë(
-"":
-	fieldNamejava.lang.StringB;9
-7org.exist.indexing.range.ComplexRangeIndexConfigElement

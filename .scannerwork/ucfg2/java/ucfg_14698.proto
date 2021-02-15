@@ -1,69 +1,0 @@
-
-Lorg.exist.dom.memtree.MemTreeBuilder#cdataSection(Ljava/lang/CharSequence;)If
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaù ù("8"1*Ý
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java ("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java ($
-""*ý
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java‹K ‹(N‡
-„
-g
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java‹n ‹(…
-%3short"__id*
-""*
-2
-1*ü
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java‰ ‰(!†
-ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java‹7 ‹(E
-%2short"__id*
-""*
-2
-3*Ý
-6f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java‚ ‚("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaƒ ƒ( 
-""*ÿ
-7f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaþA þ(D†
-ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaþ^ þ(u
-%1short"__id*
-""*	
-4
-6
-1*ü
-8f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaþ þ(†
-ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.javaþ- þ(;
-%0short"__id*
-""*
-6
-7*Å
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java• •(†
-ƒ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java•' •(>
-%4short"__id*
-""Ü
-Ù
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java— —(
-
-%5void"1org.exist.dom.memtree.MemTreeBuilder#linkNode(I)V*(&
-$org.exist.dom.memtree.MemTreeBuilder*
-"""p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/MemTreeBuilder.java˜ ˜(
-"":
-datajava.lang.CharSequenceB(&
-$org.exist.dom.memtree.MemTreeBuilder

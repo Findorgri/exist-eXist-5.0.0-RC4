@@ -1,42 +1,0 @@
-
-<org.exist.xmlrpc.RpcConnection#shutdown(Ljava/lang/String;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî î("startingBlock*¾
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî î(/¬
-©
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaí í(
-%2"
-__annotate*
-java.lang.Override*
-
-delayjava.lang.String–
-“
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî) î(.
-delayjava.lang.String"__annotation*
-
-%2*
-1*ˆ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(Ñ
-Î
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(-
-
-%0long"-java.lang.Long#parseLong(Ljava/lang/String;)J*"
-java.lang.Long*
-
-delayjava.lang.StringàÝ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(.
-%1boolean"+org.exist.xmlrpc.RpcConnection#shutdown(J)Z*" 
-org.exist.xmlrpc.RpcConnection*
-
-
-%0long2shutdown(J)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(/
-"":
-delayjava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

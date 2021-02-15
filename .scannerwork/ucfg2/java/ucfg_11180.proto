@@ -1,20 +1,0 @@
-
-@org.exist.util.io.Resource#getInputStream()Ljava/io/InputStream;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaá á(%"1*³
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaâ â(ã
-à
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaâ â(
-%0java.net.URLConnection"Borg.exist.util.io.Resource#getConnection()Ljava/net/URLConnection;*
-org.exist.util.io.Resourceìé
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaâ â(/
-%1java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*
-
-%0java.net.URLConnection2getInputStream()"{
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/Resource.javaâ â(0
-
-%1java.io.InputStreamB
-org.exist.util.io.Resource

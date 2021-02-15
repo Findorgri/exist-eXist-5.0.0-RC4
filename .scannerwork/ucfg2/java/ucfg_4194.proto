@@ -1,33 +1,0 @@
-
-Forg.exist.xmlrpc.RpcConnection#getBinaryResource(Ljava/lang/String;)[B`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‰ ‰(#"startingBlock*¼
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‰# ‰(6«
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaˆ ˆ(
-%1"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String•
-’
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‰1 ‰(5
-namejava.lang.String"__annotation*
-
-%1*
-1*Ú
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‹ ‹( †ƒ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‹ ‹(<
-%0"Forg.exist.xmlrpc.RpcConnection#getBinaryResource(Ljava/lang/String;)[B*" 
-org.exist.xmlrpc.RpcConnection*
-""2%getBinaryResource(Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java‹ ‹(=
-
-%0:
-namejava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

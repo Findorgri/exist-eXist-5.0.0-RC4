@@ -1,161 +1,0 @@
-
-Torg.exist.xquery.XQueryContext#getPrefixForURI(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÌ Ì(!"startingBlock*Ë
-2`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¯ ¯("Ä
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java¯ ¯(
-
-prefixjava.lang.String*ë
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaı ı(b°
-û
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaı ı(b
-prefixjava.lang.String"__id*
-
-%6java.lang.String*
-2
-1*Ω
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÌ! Ì(3´
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÏ Ï(
-%12"
-__annotate*
-java.lang.Override*
-
-urijava.lang.Stringï
-í
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÌ/ Ì(2
-urijava.lang.String"__annotation*
-
-%12*
-12*ã
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaıA ı(Y¬
-ø
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaıA ı(Y
-%9java.util.Map"__id*@*> 
-org.exist.xquery.XQueryContext"
-inheritedInScopePrefixesπ
-∂
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaıA ı(b
-%8java.lang.String"__mapGet*
-
-%9java.util.Map*
-
-urijava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaıA ı(b
-%6java.lang.String"__id*
-
-%8java.lang.String*
-3*Ñ
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaı: ı(>ó
-î
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaı: ı(>
-%6java.lang.String"__id*
-
-%7
-<nulltype>*
-3*≤
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaı ı(.¬
-ø
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaı ı(.
-%5java.util.Map"__id*@*> 
-org.exist.xquery.XQueryContext"
-inheritedInScopePrefixes*
-4
-5*Ë
-8`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÒ Ò("Ä
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÒ Ò(
-
-prefixjava.lang.String*î
-9`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ Ó(T°
-û
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ Ó(T
-prefixjava.lang.String"__id*
-
-%1java.lang.String*	
-6
-8
-1*É
-10`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ; Ó(Jπ
-∂
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ; Ó(J
-%4java.util.Map"__id*7*5 
-org.exist.xquery.XQueryContext"
-inScopePrefixesπ
-∂
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ; Ó(S
-%3java.lang.String"__mapGet*
-
-%4java.util.Map*
-
-urijava.lang.Stringù
-ö
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ; Ó(S
-%1java.lang.String"__id*
-
-%3java.lang.String*
-9*Ö
-11`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ4 Ó(8ó
-î
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ4 Ó(8
-%1java.lang.String"__id*
-
-%2
-<nulltype>*
-9*¨
-12`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ Ó((π
-∂
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.javaÓ Ó((
-%0java.util.Map"__id*7*5 
-org.exist.xquery.XQueryContext"
-inScopePrefixes*
-10
-11*ﬁ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java˚ ˚(π
-∂
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java˚ ˚(
-%10java.util.Map"__id*6*4 
-org.exist.xquery.XQueryContext"
-staticPrefixesª
-∏
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java˚ ˚(&
-%11java.lang.String"__mapGet*
-
-%10java.util.Map*
-
-urijava.lang.String"}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XQueryContext.java˚ ˚('
-
-%11java.lang.String:
-urijava.lang.StringB" 
-org.exist.xquery.XQueryContext

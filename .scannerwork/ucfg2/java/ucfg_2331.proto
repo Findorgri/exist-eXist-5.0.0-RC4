@@ -1,141 +1,0 @@
-
-Uorg.exist.repo.ExistRepository#instantiateModule(Ljava/lang/Class;)Ljava/lang/Module;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaó ó($"32*à
-24`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaù ü(yôñ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaù ü(y
-%10java.lang.Object"Pjava.lang.invoke.MethodHandle#invokeExact([Ljava/lang/Object;)Ljava/lang/Object;*%
-#
-%9java.lang.invoke.MethodHandle2 invokeExact([Ljava/lang/Object;)*
-23*Ô
-25`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaù ü(kÄ˝
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaù ü(k#
-%9java.lang.invoke.MethodHandle"Djava.lang.invoke.CallSite#getTarget()Ljava/lang/invoke/MethodHandle;*!
-
-%8java.lang.invoke.CallSite2getTarget()*
-24*Ù
-26`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaù ü(_Ö
-Ç
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaù ü(_
-%8java.lang.invoke.CallSite"˙java.lang.invoke.LambdaMetafactory#metafactory(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/CallSite;*&"$
-"java.lang.invoke.LambdaMetafactory*-
-+
-%3%java.lang.invoke.MethodHandles$Lookup*	
-apply*#
-!
-%4java.lang.invoke.MethodType*#
-!
-%6java.lang.invoke.MethodType*/
--
-methodHandlejava.lang.invoke.MethodHandle*#
-!
-%7java.lang.invoke.MethodType*
-25*Û
-27`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaü= ü(IÑÅ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaüK ü(^!
-%7java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
--
-methodHandlejava.lang.invoke.MethodHandle2type()*
-26*Á
-28`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaü  ü(;¯ı
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaü  ü(;!
-%6java.lang.invoke.MethodType"@java.lang.invoke.MethodType#erase()Ljava/lang/invoke/MethodType;*#
-!
-%5java.lang.invoke.MethodType2erase()*
-27*Û
-29`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaü  ü(,ÑÅ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaü  ü(3!
-%5java.lang.invoke.MethodType"Ajava.lang.invoke.MethodHandle#type()Ljava/lang/invoke/MethodType;*/
--
-methodHandlejava.lang.invoke.MethodHandle2type()*
-28*ﬂ
-30`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõ õ(s¡
-æ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõ õ(s-
-methodHandlejava.lang.invoke.MethodHandle"__id*%
-#
-%2java.lang.invoke.MethodHandle†
-ù
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaû  û(&+
-%3%java.lang.invoke.MethodHandles$Lookup"__id*
-""â
-Ü
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaû1 û(K!
-%4java.lang.invoke.MethodType"Vjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
-java.lang.invoke.MethodType*
-""*
-29*±
-31`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõ2 õ(r¬ø
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõ2 õ(r#
-%2java.lang.invoke.MethodHandle"Ñjava.lang.invoke.MethodHandles$Lookup#findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;*-
-+
-%0%java.lang.invoke.MethodHandles$Lookup*
-
-clazzjava.lang.Class*#
-!
-%1java.lang.invoke.MethodType2?findConstructor(Ljava/lang/Class;Ljava/lang/invoke/MethodType;)*
-30*¥
-32`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõ2 õ(8†
-ù
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõ2 õ(8+
-%0%java.lang.invoke.MethodHandles$Lookup"__id*
-""¢
-ü
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaõP õ(q!
-%1java.lang.invoke.MethodType"gjava.lang.invoke.MethodType#methodType(Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/invoke/MethodType;*"
-java.lang.invoke.MethodType*
-""*
-""*
-31*Â
-21`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java† †(:"}
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java† †(:
-
-%12java.lang.Module*ê
-22`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java† †(9°û
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java† †(9
-%12java.lang.Module"Gjava.util.function.Function#apply(Ljava/lang/Object;)Ljava/lang/Object;*%
-#
-ctorjava.util.function.Function*
-
-%11java.util.Map2apply(Ljava/lang/Object;)*
-21*‰
-23`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaú3 ü(y´
-®
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.javaú ü(z#
-ctorjava.util.function.Function"__id*
-
-%10java.lang.Object«
-ƒ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/repo/ExistRepository.java†" †(8
-%11java.util.Map"/java.util.Collections#emptyMap()Ljava/util/Map;*"
-java.util.Collections*
-22:
-clazzjava.lang.ClassB" 
-org.exist.repo.ExistRepository

@@ -1,33 +1,0 @@
-
-Corg.exist.dom.persistent.StoredNode#isSameNode(Lorg/w3c/dom/Node;)Ze
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.java÷ ÷("startingBlock*İ
-2f
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaú û("p
-f
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaú û(
-""*Ğ
-startingBlocke
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.java÷ ÷(/±
-®
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaö ö(
-%0"
-__annotate*
-java.lang.Override*
-
-otherorg.w3c.dom.Node›
-˜
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.java÷) ÷(.
-otherorg.w3c.dom.Node"__annotation*
-
-%0*
-2
-1*Û
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaı ı("o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/StoredNode.javaı ı(
-"":
-otherorg.w3c.dom.NodeB'%
-#org.exist.dom.persistent.StoredNode

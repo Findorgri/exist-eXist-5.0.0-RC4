@@ -1,111 +1,0 @@
-
-=org.exist.util.XMLString#compareTo(Ljava/lang/CharSequence;)IZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∑ ∑("startingBlock*≈
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¬ ¬("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¬ ¬(&
-""*†
-3Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¡ ¡(∂≥
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¡ ¡((	
-%6int" java.lang.CharSequence#length()I*
-
-csjava.lang.CharSequence2length()*
-2
-1*∂
-startingBlockZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∑ ∑(5©
-¶
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∂ ∂(
-%7"
-__annotate*
-java.lang.Override*
-
-csjava.lang.CharSequenceì
-ê
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∑2 ∑(4
-csjava.lang.CharSequence"__annotation*
-
-%7*
-5
-11*≈
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¿ ¿("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java¿ ¿(&
-""*†
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaø ø(∂≥
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaø ø(!	
-%5int" java.lang.CharSequence#length()I*
-
-csjava.lang.CharSequence2length()*
-3
-4*≈
-7Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaº º( "d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaº º(*
-""*œ
-8Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaª ª(ù
-ö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaª ª(
-%3char[]"__id*(*&
-org.exist.util.XMLString"
-value_¡æ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaª, ª(8
-
-%4char"!java.lang.CharSequence#charAt(I)C*
-
-csjava.lang.CharSequence*
-""2	charAt(I)*
-
-5
-7
-11*≈
-9Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∫ ∫( "d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∫ ∫(*
-""*Ã
-10Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaπ π(ù
-ö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaπ π(
-%1char[]"__id*(*&
-org.exist.util.XMLString"
-value_¡æ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaπ% π(1
-
-%2char"!java.lang.CharSequence#charAt(I)C*
-
-csjava.lang.CharSequence*
-""2	charAt(I)*
-8
-9*¢
-11Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∏' ∏((∂≥
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.java∏+ ∏(6	
-%0int" java.lang.CharSequence#length()I*
-
-csjava.lang.CharSequence2length()*
-5
-10*≈
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaƒ ƒ("d
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLString.javaƒ ƒ(#
-"":
-csjava.lang.CharSequenceB
-org.exist.util.XMLString

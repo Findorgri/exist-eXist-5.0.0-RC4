@@ -1,57 +1,0 @@
-
-porg.exist.stax.EmbeddedXMLStreamReader#getAttributeValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaà à(#"startingBlock*á
-3h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaå å(!"r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaå å(.
-""*Ä
-startingBlockh
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaà# à(V»
-¸
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaß ß(
-%1"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String¥
-¢
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaà1 à(= 
-namespaceURIjava.lang.String"__annotation*
-
-%1¸
-µ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaß ß(
-%2"
-__annotate*
-java.lang.Override*
-
-	localNamejava.lang.String¢
-Ÿ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaàL à(U
-	localNamejava.lang.String"__annotation*
-
-%2*
-7*×
-7h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaá á(ß
-Ü
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaá á(
-
-%0void"8org.exist.stax.EmbeddedXMLStreamReader#readAttributes()V**(
-&org.exist.stax.EmbeddedXMLStreamReader*
-3
-1*á
-1h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaè è("r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaè è(
-"": 
-namespaceURIjava.lang.String:
-	localNamejava.lang.StringB*(
-&org.exist.stax.EmbeddedXMLStreamReader

@@ -1,152 +1,0 @@
-
-Borg.exist.source.URLSource#getEncoding()Ljava/nio/charset/Charset;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÑ Ñ("14*®
-13\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÜ Ü(§
-°
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÜ Ü(
-%1java.net.URL"__id*'*%
-org.exist.source.URLSource"
-urlﬁ€
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÜ Ü($
-%2java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
-
-%1java.net.URL2openConnection()µ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÜ Ü($,
-org.exist.source.URLSource"
-
-connection"__id*
-
-%2java.net.URLConnection*
-12*¯
-2\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaì ì(ê
-ç
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaì ì(&
-%13java.nio.charset.Charset"__id*
-"""Å
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaì ì('!
-
-%13java.nio.charset.Charset*§
-14\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÖ Ö(µ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaÖ Ö(
-%0java.net.URLConnection"__id*.*,
-org.exist.source.URLSource"
-
-connection*
-13
-12*›
-3\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaí í(ÒÓ
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaí í(-
-%12boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*!
-
-contentTypejava.lang.String*	
-text/2startsWith(Ljava/lang/String;)*
-2
-1*Â
-5\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(C"Å
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(C!
-
-%11java.nio.charset.Charset*Ù
-6\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(Bã
-à
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(B
-%11java.nio.charset.Charset"Njava.nio.charset.Charset#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*"
-java.nio.charset.Charset*
-
-%10java.lang.String*
-5*æ
-7\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(A’“
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(A
-%10java.lang.String"0java.lang.String#toUpperCase()Ljava/lang/String;*
-
-%9java.lang.String2toUpperCase()*
-6*Ø
-8\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(3∆√
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(3
-%9java.lang.String")java.lang.String#trim()Ljava/lang/String;*
-
-%8java.lang.String2trim()*
-7*Ã
-9\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(„‡
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaç ç(,
-%8java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*$
-"
-matcherjava.util.regex.Matcher*22group(I)*
-8*™
-11\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaä ä(&é
-ã
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaä ä(&
-%5java.util.regex.Pattern"__id*
-""ª∏
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaä ä(;
-%6java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%5java.util.regex.Pattern*!
-
-contentTypejava.lang.String2!matcher(Ljava/lang/CharSequence;)¨
-©
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaä ä(<"
-matcherjava.util.regex.Matcher"__id*
-
-%6java.util.regex.Matcherøº
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaã ã(
-%7boolean"java.util.regex.Matcher#find()Z*$
-"
-matcherjava.util.regex.Matcher2find()*
-3
-9*±
-12\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaà à('µ
-≤
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaà à('
-%3java.net.URLConnection"__id*.*,
-org.exist.source.URLSource"
-
-connectionÊ„
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaà à(8
-%4java.lang.String"9java.net.URLConnection#getContentType()Ljava/lang/String;*
-
-%3java.net.URLConnection2getContentType()¢
-ü
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javaà à(9
-contentTypejava.lang.String"__id*
-
-%4java.lang.String*
-11
-1*…
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javañ	 ñ("f
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/URLSource.javañ ñ(
-""B
-org.exist.source.URLSource

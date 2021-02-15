@@ -1,92 +1,0 @@
-
-/org.exist.dom.QName#equals(Ljava/lang/Object;)ZU
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java∑ ∑("startingBlock*ò
-2U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaø ø(†
-ù
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaø ø(%
-%3java.lang.String"__id*&*$
-org.exist.dom.QName"
-	localPart©
-¶
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaø- ø(>
-%4java.lang.String"__id*/*-
-
-qnOtherorg.exist.dom.QName"
-	localPartÁ‰
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaø ø(?
-%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%3java.lang.String*
-
-%4java.lang.String2equals(Ljava/lang/Object;)*
-1*¡
-3U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaΩ) Ω(.ù
-ö
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaΩ Ω(/
-qnOtherorg.exist.dom.QName"__id*
-
-otherjava.lang.Object£
-†
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaæ æ($
-%0java.lang.String"__id*)*'
-org.exist.dom.QName"
-namespaceURI¨
-©
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaæ, æ(@
-%1java.lang.String"__id*2*0
-
-qnOtherorg.exist.dom.QName"
-namespaceURIÁ‰
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaæ æ(A
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.String*
-
-%1java.lang.String2equals(Ljava/lang/Object;)*
-2
-1*£
-startingBlockU
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java∑ ∑(-°
-û
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java∂ ∂(
-%6"
-__annotate*
-java.lang.Override*
-
-otherjava.lang.Objectã
-à
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.java∑' ∑(,
-otherjava.lang.Object"__annotation*
-
-%6*	
-3
-4
-6*ª
-4U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaª ª("_
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaª ª(
-""*ª
-6U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaπ π("_
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaπ π(
-""*ª
-1U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaæ ø(@"_
-U
-IC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/QName.javaæ ø(@
-"":
-otherjava.lang.ObjectB
-org.exist.dom.QName

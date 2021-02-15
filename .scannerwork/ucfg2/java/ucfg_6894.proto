@@ -1,90 +1,0 @@
-
-Uorg.exist.storage.NativeValueIndex$CollatorMatcher#matches(Ljava/lang/CharSequence;)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÇ	 Ç	("startingBlock*°
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaí	 ï	(Q‰·
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaï	: ï	(I
-%6java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;* 
-
-termjava.lang.CharSequence2
-toString()…
-∆
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaï	K ï	(O
-%7java.lang.String"__id*@*>4
-2org.exist.storage.NativeValueIndex$CollatorMatcher"
-expr*
-1*›
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÇ	 Ç	(7µ
-≤
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÅ	 Å	(
-%8"
-__annotate*
-java.lang.Override* 
-
-termjava.lang.CharSequenceü
-ú
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÇ	2 Ç	(6
-termjava.lang.CharSequence"__annotation*
-
-%8*
-3
-4
-5
-6*°
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaé	 ê	(‰·
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaè	< è	(K
-%4java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;* 
-
-termjava.lang.CharSequence2
-toString()…
-∆
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaè	M è	(Q
-%5java.lang.String"__id*@*>4
-2org.exist.storage.NativeValueIndex$CollatorMatcher"
-expr*
-1*°
-5d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaä	 å	(‰·
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaã	> ã	(M
-%2java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;* 
-
-termjava.lang.CharSequence2
-toString()…
-∆
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaã	O ã	(S
-%3java.lang.String"__id*@*>4
-2org.exist.storage.NativeValueIndex$CollatorMatcher"
-expr*
-1*°
-6d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaÜ	 à	(‰·
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaá	< á	(K
-%0java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;* 
-
-termjava.lang.CharSequence2
-toString()…
-∆
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaá	M á	(Q
-%1java.lang.String"__id*@*>4
-2org.exist.storage.NativeValueIndex$CollatorMatcher"
-expr*
-1*Ÿ
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaò	 ò	("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeValueIndex.javaò	 ò	(
-"":
-termjava.lang.CharSequenceB64
-2org.exist.storage.NativeValueIndex$CollatorMatcher

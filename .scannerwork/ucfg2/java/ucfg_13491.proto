@@ -1,1069 +1,0 @@
-
-jorg.exist.storage.dom.DOMFile#debugPageContents(Lorg/exist/storage/dom/DOMFile$DOMPage;)Ljava/lang/String;_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java® ®(#"108*—
-24_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	> ©	(B¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	> ©	(G
-%91byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-dataì
-ê
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	w ©	(|
-%92java.nio.charset.Charset"__id*
-""èå
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	7 ©	(=
-%93java.lang.String"java.lang.StringÑ
-Å
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	3 ©	(}
-%94"8java.lang.String#<init>([BIILjava/nio/charset/Charset;)V*
-
-%93java.lang.String*
-
-%91byte[]*
-""*
-""*!
-
-%92java.nio.charset.Charset*
-23*ü
-68_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¯E ¯(J±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¯E ¯(J
-%50java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-66*Ñ
-25_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	X ß	([ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	$ ß	(\
-%90java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%89java.lang.StringBuilder*
-}2append(Ljava/lang/String;)*
-24*ö
-26_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	J ß	(O¨©
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	$ ß	(P
-%89java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%88java.lang.StringBuilder*
-
-NsURIjava.lang.String2append(Ljava/lang/String;)*
-25*Ñ
-27_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	> ß	(Añì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	$ ß	(B
-%88java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%87java.lang.StringBuilder*
-{2append(Ljava/lang/String;)*
-26*´
-28_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java•	$ ¶	(Iç
-ä
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java•	$ ¶	(I
-NsURIjava.lang.String"__id*
-""≠™
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaß	$ ß	(6
-%87java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-prefixjava.lang.String2append(Ljava/lang/String;)*
-27*¢
-70_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaı ı(µ≤
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaı ı(J
-%49java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*$"
- (Can't read data, owner is null)2append(Ljava/lang/String;)*
-9*⁄
-71_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÔ) Ô(,¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÒF Ò(O
-%47byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÙ Ù(!
-%48java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-68
-70*â
-72_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÌ Ì(õò
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÌ Ì(0
-%46java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-CDATA 2append(Ljava/lang/String;)*
-71*à
-73_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÎ Î(öó
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÎ Î(/
-%45java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*	
-text 2append(Ljava/lang/String;)*
-71*ß
-74_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÁ à	(¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÍ/ Í(8
-%43byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data
-}
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÍB Í(P
-%44short"__id*
-""*
-72
-73*≈
-31`
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java£	$ £	(ã¢
-ü
-`
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java£	$ £	(ã
-prefixjava.lang.String"__id*
-
-%84java.lang.String±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java•	H •	(M
-%86java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-28*‘
-32_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java°	$ °	(n¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java£	E £	(N
-%82byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-dataï
-í
-a
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java£	Ñ £	(â
-%83java.nio.charset.Charset"__id*
-""èå
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java£	> £	(D
-%84java.lang.String"java.lang.StringÖ
-Ç
-`
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java£	: £	(ä
-%85"8java.lang.String#<init>([BIILjava/nio/charset/Charset;)V*
-
-%84java.lang.String*
-
-%82byte[]*
-""*
-""*!
-
-%83java.nio.charset.Charset*
-31*¢
-33_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaü	$ ü	(i¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java°	W °	(`
-%81byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-32*¢
-34_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaü	7 ü	(E¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaü	R ü	([
-%80byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-33*
-38_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaõ	  õ	(I˛˚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaõ	  õ	(I
-%79"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-%78java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-24
-34*Ø
-100_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaº* º(8¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaºE º(N
-%18byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-6
-106
-10
-99*Ø
-101_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∏) ∏(7¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∏C ∏(L
-%14byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-dataÙÒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaπ π(
-%15java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-:2	append(C)ıÚ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaπ π(3
-%16java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;* 
-
-%15java.lang.StringBuilder*
-""2	append(J)ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaπ π(?
-%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%16java.lang.StringBuilder*
- 2append(Ljava/lang/String;)*
-6
-106*ã
-103_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaµ µ(ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaµ µ(
-%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-R2append(Ljava/lang/String;)*
-
-101
-100*ã
-105_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java≥ ≥(ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java≥ ≥(
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-L2append(Ljava/lang/String;)*
-
-101
-100*¬
-106_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ Æ(ÙÒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ Æ(
-%8java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2	append(I)îë
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ Æ('
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%8java.lang.StringBuilder*
-/2append(Ljava/lang/String;)¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaØ= Ø(F
-%10byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data˛˚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java± ±(-
-%11"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-101
-103
-105
-100*À
-108_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©" ©(5úô
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©& ©(3
-%0java.lang.StringBuilder"java.lang.StringBuilderÆ
-´
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©" ©(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder´
-®
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java© ©(6
-bufjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderôñ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java™ ™(
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*	
-Page 2append(Ljava/lang/String;)‰·
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java™# ™(4
-
-%3long"3org.exist.storage.dom.DOMFile$DOMPage#getPageNum()J*/
--
-page%org.exist.storage.dom.DOMFile$DOMPage2getPageNum()˘ˆ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java™ ™(5
-%4java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-
-
-%3long2	append(J)ïí
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java™ ™(B
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%4java.lang.StringBuilder*
-: 2append(Ljava/lang/String;)≈¬
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¨ ¨(35
-%6/org.exist.storage.dom.DOMFile$DOMFilePageHeader"forg.exist.storage.dom.DOMFile$DOMPage#getPageHeader()Lorg/exist/storage/dom/DOMFile$DOMFilePageHeader;*/
--
-page%org.exist.storage.dom.DOMFile$DOMPage2getPageHeader()˚¯
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¨ ¨(C	
-%7int"@org.exist.storage.dom.DOMFile$DOMFilePageHeader#getDataLength()I*7
-5
-%6/org.exist.storage.dom.DOMFile$DOMFilePageHeader2getDataLength()*
-6
-106*‚
-81_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java‹C ‹(MıÚ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java‹  ‹(N
-%37java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
-
-%36java.lang.StringBuilder*
-""2	append(I)*
-9*ê
-82_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java‹  ‹(#¢ü
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java‹  ‹(;
-%36java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- attributes: 2append(Ljava/lang/String;)*
-81*„
-83_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java€A €(IıÚ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java€  €(J
-%35java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
-
-%34java.lang.StringBuilder*
-""2	append(I)*
-82*é
-84_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java⁄  ⁄(k†ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java€  €(9
-%34java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- children: 2append(Ljava/lang/String;)*
-83*Ñ
-40_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaö	  ö	(;ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaõ	  õ	(/
-%78java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-(2append(Ljava/lang/String;)*
-38*¢
-85_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java⁄9 ⁄(G¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java⁄T ⁄(]
-%33byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-84*¢
-42_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaô	E ô	(K¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaô	M ô	(V
-%77byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-40*Ï
-87_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaŸ  Ÿ(I˛˚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaŸ  Ÿ(I
-%32"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-%31java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-85*ü
-44_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaò	E ò	(J±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaò	E ò	(J
-%76java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-42*Ñ
-89_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÿ  ÿ(;ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaŸ  Ÿ(/
-%31java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-(2append(Ljava/lang/String;)*
-87*£
-46_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaï	 ï	(µ≤
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaï	 ï	(J
-%75java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*$"
- (can't read data, owner is null)2append(Ljava/lang/String;)*
-12*É
-47_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaâ	 ∂	(ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaã	 ã	('
-%69java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-[2append(Ljava/lang/String;)üú
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaå	 å	(0
-%70java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-attribute 2append(Ljava/lang/String;)¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaé	8 é	(A
-%71byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaè	6 è	(?
-%72byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaë	F ë	(O
-%73byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaî	 î	(!
-%74java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-46
-44*¢
-91_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java◊E ◊(K¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java◊M ◊(V
-%30byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-89*ü
-93_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java÷E ÷(J±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java÷E ÷(J
-%29java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-91*¢
-95_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java” ”(µ≤
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java” ”(J
-%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*$"
- (Can't read data, owner is null)2append(Ljava/lang/String;)*
-9*É
-51_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÅ	F Å	(Iñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÅ	  Å	(J
-%66java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%65java.lang.StringBuilder*
-'2append(Ljava/lang/String;)*
-9*±
-96_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java» Ê(ùö
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java   (.
-%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-
-element 2append(Ljava/lang/String;)¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÕF Õ(O
-%25byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaœF œ(O
-%26byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java“ “(!
-%27java.lang.Object"__id*,**
-org.exist.storage.dom.DOMFile"
-owner*
-93
-95*ö
-52_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÅ	8 Å	(=¨©
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÅ	  Å	(>
-%65java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%64java.lang.StringBuilder*
-
-valuejava.lang.String2append(Ljava/lang/String;)*
-51*Ö
-53_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÅ	  Å	(#óî
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÅ	  Å	(0
-%64java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-:'2append(Ljava/lang/String;)*
-52*’
-10_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∆ ∆(óî
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∆ ∆(#
-%108java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-[2append(Ljava/lang/String;)µ
-≤
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java«/ «(8
-%109byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-dataÄ
-~
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java» »(*
-%110short"__id*
-""Ä
-~
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÁ Á('
-%111short"__id*
-""Ä
-~
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaË Ë(0
-%112short"__id*
-""Ä
-~
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaâ	 â	(,
-%113short"__id*
-""*
-47
-74
-96
-11*Œ
-54_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛, ˛(nΩ
-∫
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛, ˛(n
-%63java.lang.String"__concat*
-
-%60java.lang.String*
-
-%62java.lang.String†
-ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛$ ˛(n
-valuejava.lang.String"__id*
-
-%63java.lang.String*
-53*´
-99_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø ø(•
-¢
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø ø(=
-%19java.lang.String"__concat*
-Illegal length: *
-""ß§
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿ ¿(;
-%20java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-[Illegal length : 2append(Ljava/lang/String;)ıÚ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿ ¿(O
-%21java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;* 
-
-%20java.lang.StringBuilder*
-""2	append(I)óî
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿ ¿(\
-%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%21java.lang.StringBuilder*
-] 2append(Ljava/lang/String;)·ﬁ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿ ¿(g
-%23java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-%22java.lang.StringBuilder2
-toString()"|
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿ ¿(h
-
-%23java.lang.String*ñ
-11_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∑	 ∏	(:©¶
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∏	 ∏	(9
-%107java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-Unknown node type !2append(Ljava/lang/String;)*
-9*œ
-55_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛l ˛(m·ﬁ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛K ˛(n
-%62java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-valuejava.lang.String*
-""2substring(I)*
-54*Ö
-12_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¥	 ¥	(òï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¥	 ¥	(,
-%106java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-] 2append(Ljava/lang/String;)*
-9*œ
-56_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛C ˛(H´
-®
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛, ˛(H
-%60java.lang.String"__concat*
-
-%59java.lang.String*
-...≥∞
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛[ ˛(i
-
-%61int"java.lang.String#length()I*
-
-valuejava.lang.String2length()*
-55*”
-57_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛, ˛(1Â‚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˛, ˛(@
-%59java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-valuejava.lang.String*2 *22substring(II)*
-56*Ü
-15_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ	J Æ	(Mòï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ	$ Æ	(N
-%103java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*!
-
-%102java.lang.StringBuilder*
-'2append(Ljava/lang/String;)*
-12*»
-59_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸  ¸(z†
-ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸  ¸(z
-valuejava.lang.String"__id*
-
-%56java.lang.String≥∞
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˝$ ˝(2
-
-%58int"java.lang.String#length()I*
-
-valuejava.lang.String2length()*
-57
-53*ú
-16_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ	< Æ	(AÆ´
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ	$ Æ	(B
-%102java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*!
-
-%101java.lang.StringBuilder*
-
-valuejava.lang.String2append(Ljava/lang/String;)*
-15*Ü
-17_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ	$ Æ	('òï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaÆ	$ Æ	(4
-%101java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-:'2append(Ljava/lang/String;)*
-16*–
-18_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	0 ´	(sæ
-ª
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	0 ´	(s
-%100java.lang.String"__concat*
-
-%97java.lang.String*
-
-%99java.lang.String°
-û
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	( ´	(s
-valuejava.lang.String"__id*
-
-%100java.lang.String*
-17*œ
-19_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	q ´	(r·ﬁ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	P ´	(s
-%99java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
-
-valuejava.lang.String*
-""2substring(I)*
-18*»
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java»	 »	(‚ﬂ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java»	 »	(
-%135java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-bufjava.lang.StringBuilder2
-toString()"}
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java»	 »	(
-
-%135java.lang.String*≠
-3_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaƒ	 ƒ	(¨©
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaƒ	 ƒ	(4
-%132java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
- (last non-zero byte: 2append(Ljava/lang/String;)˜Ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaƒ	 ƒ	(>
-%133java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*!
-
-%132java.lang.StringBuilder*
-""2	append(I)òï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaƒ	 ƒ	(J
-%134java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*!
-
-%133java.lang.StringBuilder*
-)2append(Ljava/lang/String;)*
-1*ß
-4_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java√	 √	(µ
-≤
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java√	 √	(
-%131byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*	
-3
-4
-1*€#
-6_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	 ø	(©¶
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	 ø	()
-%115java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-; records in page: 2append(Ljava/lang/String;)˜Ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	 ø	(7
-%116java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*!
-
-%115java.lang.StringBuilder*
-""2	append(I)¶£
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	 ø	(Q
-%117java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*!
-
-%116java.lang.StringBuilder*
- (header says: 2append(Ljava/lang/String;)«ƒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	Y ø	(m7
-%118/org.exist.storage.dom.DOMFile$DOMFilePageHeader"forg.exist.storage.dom.DOMFile$DOMPage#getPageHeader()Lorg/exist/storage/dom/DOMFile$DOMFilePageHeader;*/
--
-page%org.exist.storage.dom.DOMFile$DOMPage2getPageHeader()ÉÄ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	Y ø	(~
-%119short"Aorg.exist.storage.dom.DOMFile$DOMFilePageHeader#getRecordCount()S*9
-7
-%118/org.exist.storage.dom.DOMFile$DOMFilePageHeader2getRecordCount()Ä˝
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	 ø	(
-%120java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*!
-
-%117java.lang.StringBuilder*
-
-%119short2	append(I)ôñ
-`
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.javaø	 ø	(ã
-%121java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*!
-
-%120java.lang.StringBuilder*
-)2append(Ljava/lang/String;)®•
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿	 ¿	((
-%122java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-; currentTupleID: 2append(Ljava/lang/String;)«ƒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿	0 ¿	(D7
-%123/org.exist.storage.dom.DOMFile$DOMFilePageHeader"forg.exist.storage.dom.DOMFile$DOMPage#getPageHeader()Lorg/exist/storage/dom/DOMFile$DOMFilePageHeader;*/
--
-page%org.exist.storage.dom.DOMFile$DOMPage2getPageHeader()âÜ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿	0 ¿	(X
-%124short"Dorg.exist.storage.dom.DOMFile$DOMFilePageHeader#getCurrentTupleID()S*9
-7
-%123/org.exist.storage.dom.DOMFile$DOMFilePageHeader2getCurrentTupleID()Ä˝
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¿	 ¿	(Y
-%125java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*!
-
-%122java.lang.StringBuilder*
-
-%124short2	append(I)•¢
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¡	 ¡	(%
-%126java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-; data length: 2append(Ljava/lang/String;)«ƒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¡	- ¡	(A7
-%127/org.exist.storage.dom.DOMFile$DOMFilePageHeader"forg.exist.storage.dom.DOMFile$DOMPage#getPageHeader()Lorg/exist/storage/dom/DOMFile$DOMFilePageHeader;*/
--
-page%org.exist.storage.dom.DOMFile$DOMPage2getPageHeader()ˇ¸
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¡	- ¡	(Q
-%128int"@org.exist.storage.dom.DOMFile$DOMFilePageHeader#getDataLength()I*9
-7
-%127/org.exist.storage.dom.DOMFile$DOMFilePageHeader2getDataLength()˛˚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¡	 ¡	(R
-%129java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*!
-
-%126java.lang.StringBuilder*
-
-%128int2	append(I)µ
-≤
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¬	 ¬	(
-%130byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-4
-1*â
-9_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∫	 ∫	(òï
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java∫	 ∫	(%
-%114java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-] 2append(Ljava/lang/String;)*
-6
-106*—
-60_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸: ¸(>¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸: ¸(C
-%54byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-dataì
-ê
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸s ¸(x
-%55java.nio.charset.Charset"__id*
-""èå
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸3 ¸(9
-%56java.lang.String"java.lang.StringÑ
-Å
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java¸/ ¸(y
-%57"8java.lang.String#<init>([BIILjava/nio/charset/Charset;)V*
-
-%56java.lang.String*
-
-%54byte[]*
-""*
-""*!
-
-%55java.nio.charset.Charset*
-59*Ï
-62_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˚  ˚(I˛˚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˚  ˚(I
-%53"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;* 
-
-%52java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-60*œ
-20_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	H ´	(M´
-®
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	0 ´	(M
-%97java.lang.String"__concat*
-
-%96java.lang.String*
-...≥∞
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	` ´	(n
-
-%98int"java.lang.String#length()I*
-
-valuejava.lang.String2length()*
-19*Ñ
-64_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˙  ˙(;ñì
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˚  ˚(/
-%52java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-bufjava.lang.StringBuilder*
-(2append(Ljava/lang/String;)*
-62*”
-21_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	0 ´	(5Â‚
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java´	0 ´	(E
-%96java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-valuejava.lang.String*2 *22substring(II)*
-20*¢
-66_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˘E ˘(K¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java˘M ˘(V
-%51byte[]"__id*9*7
--
-page%org.exist.storage.dom.DOMFile$DOMPage"
-data*
-64*»
-23_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	$ ©	(~†
-ù
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java©	$ ©	(~
-valuejava.lang.String"__id*
-
-%93java.lang.String≥∞
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/dom/DOMFile.java™	( ™	(6
-
-%95int"java.lang.String#length()I*
-
-valuejava.lang.String2length()*
-17
-21:-
-page%org.exist.storage.dom.DOMFile$DOMPageB!
-org.exist.storage.dom.DOMFile

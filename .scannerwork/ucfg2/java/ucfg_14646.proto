@@ -1,20 +1,0 @@
-
-\org.exist.util.ParametersExtractor#parseProperties(Lorg/w3c/dom/Node;)Ljava/util/Properties;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ParametersExtractor.java¤ ¤(,"1*Á
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ParametersExtractor.java¥ ¥(Î
-Ë
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ParametersExtractor.java¥ ¥(7
-%0java.util.Properties"norg.exist.util.ParametersExtractor#parseProperties(Lorg/w3c/dom/Node;Ljava/lang/String;)Ljava/util/Properties;*&"$
-"org.exist.util.ParametersExtractor*!
-
-nPropertiesorg.w3c.dom.Node*
-
-property"„
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/ParametersExtractor.java¥ ¥(8
-
-%0java.util.Properties:
-nPropertiesorg.w3c.dom.NodeB&"$
-"org.exist.util.ParametersExtractor

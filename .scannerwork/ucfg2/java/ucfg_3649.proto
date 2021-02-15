@@ -1,68 +1,0 @@
-
-]org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper#getReader()Ljava/io/BufferedReader;l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÇ	 Ç	('"3"4*ô
-2l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	B Ì	(EÄÁ
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	G Ì	(]
-%1java.lang.String"borg.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper#getCharacterEncoding()Ljava/lang/String;*=;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper2getCharacterEncoding()­ª
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	0 Ì	(A
-%2java.io.InputStreamReader"java.io.InputStreamReaderˆ
-…
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	, Ì	(^
-%3"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
-
-%2java.io.InputStreamReader*
-""*
-
-%1java.lang.String§¤
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	 Ì	(+
-%4java.io.BufferedReader"java.io.BufferedReaderì
-é
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	 Ì	(_
-%5"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
-
-%4java.io.BufferedReader*!
-
-%2java.io.InputStreamReaderà
-Ý
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÌ	 Ì	(_G;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper"
-reader"__id*
-
-%4java.io.BufferedReader*
-1*Ü
-3l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaË	 Ë	(à
-Ý
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaË	 Ë	(
-%0java.io.BufferedReader"__id*I*G;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper"
-reader*
-2
-1*é
-4l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÉ	 É	("v
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÉ	 É	()
-""*å
-1l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÎ	 Î	(à
-Ý
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÎ	 Î	(
-%6java.io.BufferedReader"__id*I*G;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper"
-reader"Ž
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/XQueryURLRewrite.javaÎ	 Î	(
-
-%6java.io.BufferedReaderB=;
-9org.exist.http.urlrewrite.XQueryURLRewrite$RequestWrapper

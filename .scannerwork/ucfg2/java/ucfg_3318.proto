@@ -1,105 +1,0 @@
-
-Qorg.exist.dom.persistent.Match#expandForward(III)Lorg/exist/dom/persistent/Match;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaò ò("12*Û
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaş ş(ëè
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaş ş(A
-
-%7void"-org.exist.dom.persistent.Match#addOffset(II)V**
-(
-resultorg.exist.dom.persistent.Match*
-""*
-""2addOffset(II)*
-9
-1*Ç
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaü ü(+åâ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaü= ü(O
-%5java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
-"
-matchedjava.lang.StringBuilder2
-toString()ÒÏ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaü ü(P
-%6"jorg.exist.dom.persistent.Match#createInstance(ILNodeId;Ljava/lang/String;)Lorg/exist/dom/persistent/Match;*" 
-org.exist.dom.persistent.Match*
-""*
-""*
-
-%5java.lang.String2+createInstance(ILNodeId;Ljava/lang/String;)
-š
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaü ü(P(
-resultorg.exist.dom.persistent.Match"__id*
-
-%6*
-3*è
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaú ú(øõ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaú ú(+
-%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
-"
-matchedjava.lang.StringBuilder*
-?2	append(C)*
-4
-6*×
-8`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaøD ø(M¶
-³
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaøD ø(M
-%1java.lang.String"__id*1*/ 
-org.exist.dom.persistent.Match"
-	matchTermš
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaø6 ø(C
-%2java.lang.StringBuilder"java.lang.StringBuilderÛ
-Ø
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaø2 ø(N
-%3"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
-
-%2java.lang.StringBuilder*
-
-%1java.lang.String°
-­
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaø ø(O"
-matchedjava.lang.StringBuilder"__id*
-
-%2java.lang.StringBuilder*
-4
-6*
-9`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaö# ö('­
-ª
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaö# ö(\	
-%0int"java.lang.Math#min(II)I*"
-java.lang.Math*
-""*
-""*
-3
-8*
-12`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaó ó(
-š
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaó ó((
-resultorg.exist.dom.persistent.Match"__id*
-""*
-9
-1*ö
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java ("
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java (*
-(
-resultorg.exist.dom.persistent.Match:
-"":
-"":
-""B" 
-org.exist.dom.persistent.Match

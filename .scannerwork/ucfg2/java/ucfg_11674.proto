@@ -1,54 +1,0 @@
-
-gorg.exist.util.MimeTable#getInstance(Ljava/io/InputStream;Ljava/lang/String;)Lorg/exist/util/MimeTable;X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javad d('"3*Ω
-2X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaf% f(+óî
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaf f($
-%1org.exist.util.MimeTable"org.exist.util.MimeTableå
-â
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaf f(1
-%2"Iorg.exist.util.MimeTable#<init>(Ljava/io/InputStream;Ljava/lang/String;)V* 
-
-%1org.exist.util.MimeTable*
-
-streamjava.io.InputStream*
-
-srcjava.lang.StringØ
-¨
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javaf f(1(
-org.exist.util.MimeTable"
-
-instance"__id* 
-
-%1org.exist.util.MimeTable*
-1*ó
-3X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javae e(Ø
-¨
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javae e(
-%0org.exist.util.MimeTable"__id***(
-org.exist.util.MimeTable"
-
-instance*
-2
-1*ç
-1X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javah h(Ø
-¨
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javah h(
-%3org.exist.util.MimeTable"__id***(
-org.exist.util.MimeTable"
-
-instance"|
-X
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/MimeTable.javah h( 
-
-%3org.exist.util.MimeTable:
-streamjava.io.InputStream:
-srcjava.lang.StringB"
-org.exist.util.MimeTable

@@ -1,102 +1,0 @@
-
-Eorg.exist.debuggee.dbgp.packets.StackGet#toString()Ljava/lang/String;|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.javaz z("9*œ
-3~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java… …(¬
-©
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java… …((
-%7java.lang.StringBuilder"Rorg.exist.debuggee.dbgp.packets.StackGet#stackToString(I)Ljava/lang/StringBuilder;*,*
-(org.exist.debuggee.dbgp.packets.StackGet*
-""ßÜ
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java… …()
-%8java.lang.StringBuilder"Qjava.lang.StringBuilder#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder;*%
-#
-responsejava.lang.StringBuilder*
-
-%7java.lang.StringBuilder2 append(Ljava/lang/CharSequence;)*
-3
-1*™
-6~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java‚ ‚(¬
-©
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java‚ ‚((
-%5java.lang.StringBuilder"Rorg.exist.debuggee.dbgp.packets.StackGet#stackToString(I)Ljava/lang/StringBuilder;*,*
-(org.exist.debuggee.dbgp.packets.StackGet*
-""ßÜ
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java‚ ‚()
-%6java.lang.StringBuilder"Qjava.lang.StringBuilder#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder;*%
-#
-responsejava.lang.StringBuilder*
-
-%5java.lang.StringBuilder2 append(Ljava/lang/CharSequence;)*
-1*î
-8~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java€ €(à
-Ý
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java€# €(-
-%4java.lang.Integer"__id*<*:*
-(org.exist.debuggee.dbgp.packets.StackGet"
-
-stackDepth*
-6
-1*Š
-
-9|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java| |(.¹¶
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java| |(,
-%0java.lang.StringBuilder"java.lang.StringBuilderË
-È
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java| |(.
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilderÍ
-Ê
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java| |(/#
-responsejava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderÀ½
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java} }(
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
-#
-responsejava.lang.StringBuilder*
-
-stack_get 2append(Ljava/lang/String;)Þ
-Û
-|
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.java (
-%3java.lang.Integer"__id*<*:*
-(org.exist.debuggee.dbgp.packets.StackGet"
-
-stackDepth*	
-3
-8
-1*Í
-1~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.javaˆ ˆ(
-¡ž
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.javaˆ ˆ((
-%9"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
-#
-responsejava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)…‚
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.javaŠ	 Š(
-%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
-#
-responsejava.lang.StringBuilder2
-toString()"›
-~
-rC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/debuggee/src/org/exist/debuggee/dbgp/packets/StackGet.javaŠ Š(
-
-%10java.lang.StringB,*
-(org.exist.debuggee.dbgp.packets.StackGet

@@ -1,33 +1,0 @@
-
-Corg.exist.dom.memtree.ElementImpl#hasAttribute(Ljava/lang/String;)Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÝ Ý("startingBlock*Å
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÝ Ý(2®
-«
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÜ Ü(
-%1"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String˜
-•
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÝ- Ý(1
-namejava.lang.String"__annotation*
-
-%1*
-1*•
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÞ Þ(»¸
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÞ Þ(!
-%0java.lang.String"Torg.exist.dom.memtree.ElementImpl#getAttribute(Ljava/lang/String;)Ljava/lang/String;*%#
-!org.exist.dom.memtree.ElementImpl*
-
-namejava.lang.String2 getAttribute(Ljava/lang/String;)"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaÞ Þ(*
-"":
-namejava.lang.StringB%#
-!org.exist.dom.memtree.ElementImpl

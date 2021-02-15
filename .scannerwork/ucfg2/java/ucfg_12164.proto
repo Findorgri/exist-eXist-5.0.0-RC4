@@ -1,42 +1,0 @@
-
-6org.exist.xquery.TypeTest#matches(Lorg/w3c/dom/Node;)ZY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaz z("startingBlock*ñ
-2Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java{  {((¸µ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java{) {(<
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-otherorg.w3c.dom.Node2getNodeType()ÐÍ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java{  {(=
-%1boolean"&org.exist.xquery.TypeTest#isOfType(S)Z*
-org.exist.xquery.TypeTest*
-
-%0short2isOfType(S)*
-1*¬
-startingBlockY
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaz z(,¥
-¢
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javay y(
-%2"
-__annotate*
-java.lang.Override*
-
-otherorg.w3c.dom.Node
-Œ
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.javaz& z(+
-otherorg.w3c.dom.Node"__annotation*
-
-%2*
-2
-1*Ã
-1Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java{ {(>"c
-Y
-OC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/TypeTest.java{ {(>
-"":
-otherorg.w3c.dom.NodeB
-org.exist.xquery.TypeTest

@@ -1,456 +1,0 @@
-
-(org.exist.ant.XMLDBXQueryTask#execute()V]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaQ Q("79"0*£
-46_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÖ Ö($±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÖ Ö($
-%27java.io.File"__id*0*.
-org.exist.ant.XMLDBXQueryTask"
-	queryFile*
-40
-45*Ù
-69]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaf# f(0â
-Ü
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaf f(P
-msgjava.lang.String"__id*
-""*
-0*ˆ
-49_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÉ7 É(?¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÉ7 É(?
-%24java.lang.String"__id*/*-
-org.exist.ant.XMLDBXQueryTask"
-
-queryUriáÑ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÉ3 É(6
-%25java.net.URL"java.net.URL«
-ƒ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÉ/ É(@
-%26"(java.net.URL#<init>(Ljava/lang/String;)V*
-
-%25java.net.URL*
-
-%24java.lang.String*
-34*∂
-28_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaî î(S≈
-¬
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaî î(S
-%42java.lang.String"__concat*!
-Writing results to directory *
-
-%41java.lang.String*
-0
-22*˘
-29_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaí í(HØ
-¨
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaî: î(A
-%40java.io.File"__id*.*,
-org.exist.ant.XMLDBXQueryTask"	
-destDirŸ÷
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaî: î(S
-%41java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
-
-%40java.io.File2getAbsolutePath()*
-28*¢
-53_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÄ2 Ä(6¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÄC Ä(K
-%23java.lang.String"__id*/*-
-org.exist.ant.XMLDBXQueryTask"
-
-queryUri*
-34*§
-75]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java[2 [(:±
-Æ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java[2 [(:
-%4java.lang.String"__id*/*-
-org.exist.ant.XMLDBXQueryTask"
-
-queryUri*
-69
-64
-0*±
-31_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaë ë(Q√
-¿
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaë ë(Q
-%39java.lang.String"__concat*
-write results to directory *
-
-%38java.lang.String*
-29*¢
-76]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java[! [(&Æ
-´
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java[! [(&
-%3java.lang.String"__id*,**
-org.exist.ant.XMLDBXQueryTask"
-query*
-69
-75
-64*˘
-32_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaë ë(Ø
-¨
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaë8 ë(?
-%37java.io.File"__id*.*,
-org.exist.ant.XMLDBXQueryTask"	
-destDirŸ÷
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaë8 ë(Q
-%38java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
-
-%37java.io.File2getAbsolutePath()*
-31*É
-55]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java ( ≤
-Ø
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java ( 
-%21java.lang.String"__id*/*-
-org.exist.ant.XMLDBXQueryTask"
-
-queryUriﬁ€
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java (F
-%22"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-%21java.lang.String*
-""2startsWith(Ljava/lang/String;)*
-49
-53*ß
-11_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java§0 §(>∫
-∑
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java§0 §(>
-%46java.lang.String"__id*5*3
-org.exist.ant.XMLDBXQueryTask"
-outputproperty*
-0*¢
-77]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java[ [(Æ
-´
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java[ [(
-%2java.io.File"__id*0*.
-org.exist.ant.XMLDBXQueryTask"
-	queryFile*
-69
-64
-76*∏
-78]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaW* W(8≠
-™
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaX3 X(7
-%1java.lang.String"__id*+*)
-org.exist.ant.XMLDBXQueryTask"
-textú
-ô
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaX X(>*
-org.exist.ant.XMLDBXQueryTask"
-query"__id*
-""*
-77*°
-34_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaê ê(Ø
-¨
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaê ê(
-%36java.io.File"__id*.*,
-org.exist.ant.XMLDBXQueryTask"	
-destDir*
-21
-32*“
-56]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java} }(≤
-Ø
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java}( }(0
-%19java.lang.String"__id*/*-
-org.exist.ant.XMLDBXQueryTask"
-
-queryUri±
-Æ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java} }(0
-%20java.lang.String"__concat*
-XQuery url *
-
-%19java.lang.String*
-55*ù
-79]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaV V(≠
-™
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaV V(
-%0java.lang.String"__id*+*)
-org.exist.ant.XMLDBXQueryTask"
-text*
-77
-78*¢
-57]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java{ {($≤
-Ø
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java| |(
-%18java.lang.String"__id*/*-
-org.exist.ant.XMLDBXQueryTask"
-
-queryUri*
-46
-56*Ä
-13_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java¢ ¢(<é
-ã
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java¢ ¢(<
-resultjava.lang.String"__id*
-""*
-13
-11*œ
-58]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javau u('ü
-ú
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javau u('-
-var&org.exist.ant.XMLDBXQueryTask$Variable"__id*
-""Ω
-∫
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javau u('-
-var&org.exist.ant.XMLDBXQueryTask$Variable"
-__arrayGet*
-
-%7java.util.List*
-""*
-57
-61*Ë
-59]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javax x(º
-π
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javax, x(4
-%16java.lang.String"__id*9*7
--
-var&org.exist.ant.XMLDBXQueryTask$Variable"
-nameΩ
-∫
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javax6 x(?
-%17java.lang.String"__id*:*8
--
-var&org.exist.ant.XMLDBXQueryTask$Variable"
-value*
-58*ü
-39_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaä. ä(3±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaä. ä(3
-%35java.lang.String"__id*,**
-org.exist.ant.XMLDBXQueryTask"
-query*
-34*Ä
-19_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaù ù(Hé
-ã
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaû û()
-resultjava.lang.String"__id*
-""*
-13
-11*}
-0 "v
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.java∫ ∫(
-implicit return*‚
-60]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaw w(å
-â
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaw w(
-%12java.io.PrintStream"__id*
-""Ω
-∫
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaw3 w(<
-%13java.lang.String"__id*:*8
--
-var&org.exist.ant.XMLDBXQueryTask$Variable"
-value≠
-™
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaw' w(<
-%14java.lang.String"__concat*	
-Value: *
-
-%13java.lang.String˜Ù
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaw w(=
-%15void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%12java.io.PrintStream*
-
-%14java.lang.String2println(Ljava/lang/String;)*
-59*‹
-61]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javav v(ã
-à
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javav v(
-%8java.io.PrintStream"__id*
-""ª
-∏
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javav2 v(:
-%9java.lang.String"__id*9*7
--
-var&org.exist.ant.XMLDBXQueryTask$Variable"
-name´
-®
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javav' v(:
-%10java.lang.String"__concat*
-
-Name: *
-
-%9java.lang.StringˆÛ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javav v(;
-%11void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%8java.io.PrintStream*
-
-%10java.lang.String2println(Ljava/lang/String;)*
-60*Ÿ
-40_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaâ â(±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaâ, â(1
-%33java.lang.String"__id*,**
-org.exist.ant.XMLDBXQueryTask"
-query∑
-¥
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaâ â(1
-%34java.lang.String"__concat*
-XQuery string: *
-
-%33java.lang.String*
-39*ú
-62]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javau* u(3∞
-≠
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javau* u(3
-%7java.util.List"__id*0*.
-org.exist.ant.XMLDBXQueryTask"
-	variables*
-58*Ù
-63]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javas s(à
-Ö
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javas$ s(7
-%6java.lang.String"__id*
-""*
-62*Ù
-64]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javao3 o(oà
-Ö
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javar$ r(5
-%5java.lang.String"__id*
-""*
-63*Ì
-43_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaá, á(5±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaá, á(5
-%31java.io.File"__id*0*.
-org.exist.ant.XMLDBXQueryTask"
-	queryFileÀ»
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaá, á(>
-%32java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*
-
-%31java.io.File2toPath()*
-34*´
-21_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaú ú()∫
-∑
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaú ú()
-%45java.lang.String"__id*5*3
-org.exist.ant.XMLDBXQueryTask"
-outputproperty*
-19
-0*¢
-44_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÜ Ü(D¥
-±
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÜ Ü(D
-%30java.lang.String"__concat*
-XQuery file *
-
-%29java.lang.String*
-43*õ
-22_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaô ô(%Ø
-¨
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaô+ ô(2
-%43java.io.File"__id*.*,
-org.exist.ant.XMLDBXQueryTask"	
-destDir¯
-ı
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaô ô(3
-%44"Iorg.exist.ant.XMLDBXQueryTask#writeResource(LXMLResource;Ljava/io/File;)V*!
-org.exist.ant.XMLDBXQueryTask*
-""*
-
-%43java.io.File*
-0
-22*˚
-45_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÜ Ü(±
-Æ
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÜ) Ü(2
-%28java.io.File"__id*0*.
-org.exist.ant.XMLDBXQueryTask"
-	queryFileŸ÷
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/ant/XMLDBXQueryTask.javaÜ) Ü(D
-%29java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
-
-%28java.io.File2getAbsolutePath()*
-44B!
-org.exist.ant.XMLDBXQueryTask

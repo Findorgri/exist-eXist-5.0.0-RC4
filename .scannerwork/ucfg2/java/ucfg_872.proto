@@ -1,17 +1,0 @@
-
-uorg.exist.xquery.value.AbstractDateTimeValue#getCanonicalOrTrimmedCalendar()Ljavax/xml/datatype/XMLGregorianCalendar;n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÑ# Ñ(@"4*—
-3n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÓ Ó(*"¡
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÓ Ó(*/
--
-%0'javax.xml.datatype.XMLGregorianCalendar*Õ
-4n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÓ Ó('Ú×
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaÓ Ó()-
-%0'javax.xml.datatype.XMLGregorianCalendar"lorg.exist.xquery.value.AbstractDateTimeValue#getCanonicalCalendar()Ljavax/xml/datatype/XMLGregorianCalendar;*0.
-,org.exist.xquery.value.AbstractDateTimeValue2getCanonicalCalendar()*
-3B0.
-,org.exist.xquery.value.AbstractDateTimeValue

@@ -1,54 +1,0 @@
-
-Oorg.exist.performance.actions.StoreFromFile#getResourceType()Ljava/lang/String;p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javai i(""6*¢
-2p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javam m(N¥
-¢
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javam m(N 
-resourceTypejava.lang.String"__id*
-
-%1*
-1*˜
-3p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javam> m(N›
-˜
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javam> m(N
-%1"__id*
-
-%3java.lang.String*
-2*˜
-4p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javam. m(;›
-˜
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javam. m(;
-%1"__id*
-
-%2java.lang.String*
-2*†
-6p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javaj j(+®
-«
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javaj j(, 
-resourceTypejava.lang.String"__id*
-XMLResourceÒ
-Ï
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javak? k(G
-%0java.lang.String"__id*=*;-
-+org.exist.performance.actions.StoreFromFile"
-
-mimeType*	
-3
-4
-1*Ž
-1p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javan n("–
-p
-fC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/performance/actions/StoreFromFile.javan n("
- 
-resourceTypejava.lang.StringB/-
-+org.exist.performance.actions.StoreFromFile

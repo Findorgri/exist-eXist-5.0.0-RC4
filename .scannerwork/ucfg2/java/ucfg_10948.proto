@@ -1,20 +1,0 @@
-
-§org.exist.security.realm.ldap.LDAPRealm#executeAsSystemUser(Ljavax/naming/ldap/LdapContext;Lorg/exist/security/realm/ldap/LDAPRealm$LDAPFunction;)Ljava/lang/Object;Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaë ë(%"4*˝
-4Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaí7 í(kÌ
-Í
-Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaí7 í(k
-%0"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-""*
-1*ò
-1Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaî î(3"ç
-Ç
-vC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/security/ldap/src/org/exist/security/realm/ldap/LDAPRealm.javaî î(3
-"":$
-ctxjavax.naming.ldap.LdapContext:D
-ldapFunction4org.exist.security.realm.ldap.LDAPRealm$LDAPFunctionB+)
-'org.exist.security.realm.ldap.LDAPRealm

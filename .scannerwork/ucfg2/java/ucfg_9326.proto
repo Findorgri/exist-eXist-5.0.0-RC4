@@ -1,19 +1,0 @@
-
-eorg.exist.xquery.value.BinaryValueType#getEncoder(Ljava/io/OutputStream;)Ljava/io/FilterOutputStream;f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java" "("1*—
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java# #(´
-±
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java# #()
-%0T"lorg.exist.xquery.value.BinaryValueType#instantiateCoder(Ljava/io/OutputStream;Z)Ljava/io/FilterOutputStream;**(
-&org.exist.xquery.value.BinaryValueType*
-
-osjava.io.OutputStream*
-"""s
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueType.java# #(*	
-
-%0T:
-osjava.io.OutputStreamB*(
-&org.exist.xquery.value.BinaryValueType

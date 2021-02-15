@@ -1,16 +1,0 @@
-
-Borg.exist.management.impl.Error#getDescription()Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java) )( "1*œ
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java* *(¸
-µ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java* *(
-%0java.lang.String"__id*4*2!
-org.exist.management.impl.Error"
-description"{
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/management/impl/Error.java* *(
-
-%0java.lang.StringB#!
-org.exist.management.impl.Error

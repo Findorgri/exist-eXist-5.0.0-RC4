@@ -1,23 +1,0 @@
-
-dorg.exist.xquery.value.Base64BinaryValueType#getMatcher(Ljava/lang/String;)Ljava/util/regex/Matcher;l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java ("1*Ó
-1l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java (û
-õ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java (
-%0java.util.regex.Pattern"__id*
-""«ƒ
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java (-
-%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Pattern*
-
-toMatchjava.lang.String2!matcher(Ljava/lang/CharSequence;)"è
-l
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/Base64BinaryValueType.java (.
-
-%1java.util.regex.Matcher:
-toMatchjava.lang.StringB0.
-,org.exist.xquery.value.Base64BinaryValueType

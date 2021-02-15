@@ -1,22 +1,0 @@
-
-&org.exist.backup.BackupFile#before(J)Z[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaE E("1*ž
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaG G(§
-¤
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaG G(
-%0java.util.Date"__id*)*'
-org.exist.backup.BackupFile"
-dateª§
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaG G(%
-
-%1long"java.util.Date#getTime()J*
-
-%0java.util.Date2	getTime()"e
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/backup/BackupFile.javaG G((
-"":
-""B
-org.exist.backup.BackupFile

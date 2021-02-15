@@ -1,33 +1,0 @@
-
-Yorg.exist.xmlrpc.RpcConnection#listDocumentPermissions(Ljava/lang/String;)Ljava/util/Map;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java¯ ¯(4"startingBlock*¼
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java¯4 ¯(G«
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java® ®(
-%1"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String•
-’
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java¯B ¯(F
-namejava.lang.String"__annotation*
-
-%1*
-1*ó
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java± ±(&Ÿœ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java± ±(B
-%0"Yorg.exist.xmlrpc.RpcConnection#listDocumentPermissions(Ljava/lang/String;)Ljava/util/Map;*" 
-org.exist.xmlrpc.RpcConnection*
-""2+listDocumentPermissions(Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java± ±(C
-
-%0:
-namejava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

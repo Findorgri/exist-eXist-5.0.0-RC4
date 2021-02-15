@@ -1,16 +1,0 @@
-
-=org.exist.storage.NativeBroker#getFsDir()Ljava/nio/file/Path;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java¬ ¬("1*œ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java­ ­(´
-±
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java­ ­(
-%0java.nio.file.Path"__id*-*+ 
-org.exist.storage.NativeBroker"
-fsDir"~
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/NativeBroker.java­ ­(
-
-%0java.nio.file.PathB" 
-org.exist.storage.NativeBroker

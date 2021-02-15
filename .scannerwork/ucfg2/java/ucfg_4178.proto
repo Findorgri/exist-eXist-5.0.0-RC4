@@ -1,16 +1,0 @@
-
-Morg.exist.xmlrpc.RpcConnection#createId(Ljava/lang/String;)Ljava/lang/String;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÃ Ã("1*ÿ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÕ Õ(ÑÅ
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÕ Õ(7
-%0"Morg.exist.xmlrpc.RpcConnection#createId(Ljava/lang/String;)Ljava/lang/String;*" 
-org.exist.xmlrpc.RpcConnection*
-""2createId(Ljava/lang/String;)"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaÕ Õ(8
-
-%0:
-collNamejava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

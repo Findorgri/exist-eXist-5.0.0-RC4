@@ -1,20 +1,0 @@
-
-:org.exist.xmldb.RemoteResourceIterator#hasMoreResources()Zf
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceIterator.java= =(#"1*Ó
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceIterator.java> >(Â
-¿
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceIterator.java> >(
-%0java.util.List"__id*9*7(
-&org.exist.xmldb.RemoteResourceIterator"
-	resources®«
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceIterator.java> >(%	
-%1int"java.util.List#size()I*
-
-%0java.util.List2size()"p
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/RemoteResourceIterator.java> >(&
-""B*(
-&org.exist.xmldb.RemoteResourceIterator

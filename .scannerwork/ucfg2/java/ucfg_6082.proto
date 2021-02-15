@@ -1,67 +1,0 @@
-
-:org.exist.xquery.LiteralValue#toString()Ljava/lang/String;]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaT T("4*è
-2]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.java[
- [(þû
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.java[
- [()
-%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-1*œ
-3]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaW	 W(—”
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaW	 W(
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-\"2append(Ljava/lang/String;)þû
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaX	 X((
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)—”
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaY	 Y(
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-\"2append(Ljava/lang/String;)*
-1*å
-4]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaU" U(5š—
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaU& U(3
-%0java.lang.StringBuilder"java.lang.StringBuilder¬
-©
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaU" U(5
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder¬
-©
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.javaU U(6!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-2
-3*Á
-1]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.java\ \(áÞ
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.java\ \( 
-%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"y
-]
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LiteralValue.java\ \(!
-
-%6java.lang.StringB!
-org.exist.xquery.LiteralValue

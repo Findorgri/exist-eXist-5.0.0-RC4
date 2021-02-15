@@ -1,176 +1,0 @@
-
-Worg.exist.dom.persistent.XMLUtil#decodeAttrMarkup(Ljava/lang/String;)Ljava/lang/String;`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaf f(/"16*∏
-13`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javan n(∆√
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javan n('	
-%5int"java.lang.String#indexOf(II)I*
-
-strjava.lang.String*
-;*
-""2indexOf(II)*
-3
-12*Æ
-14`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javal l(ºπ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javal l(
-
-%4char"java.lang.String#charAt(I)C*
-
-strjava.lang.String*
-""2	charAt(I)*
-13
-3*£
-15`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javak k(±Æ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javak k('	
-%3int"java.lang.String#length()I*
-
-strjava.lang.String2length()*
-14
-1*æ
-16`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javag4 g(7±Æ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javag4 g(@	
-%0int"java.lang.String#length()I*
-
-strjava.lang.String2length()ùö
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javag& g(3
-%1java.lang.StringBuilder"java.lang.StringBuilderΩ
-∫
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javag" g(A
-%2""java.lang.StringBuilder#<init>(I)V*
-
-%1java.lang.StringBuilder*
-	
-%0int¨
-©
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javag g(B
-outjava.lang.StringBuilder"__id*
-
-%1java.lang.StringBuilderå
-â
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javai i(
-entjava.lang.String"__id*
-""*
-15*œ
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÄ Ä(‰·
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÄ Ä(
-%16java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
-
-outjava.lang.StringBuilder2
-toString()"
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaÄ Ä(
-
-%16java.lang.String*‰
-3`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java~ ~(ˆÛ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.java~ ~(
-%15java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-outjava.lang.StringBuilder*
-""2	append(C)*
-15*„
-5`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javax x(ıÚ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javax x('
-%14java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-outjava.lang.StringBuilder*
-"2	append(C)*
-15*’
-6`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaw w($‰·
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaw w(0
-%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-quot*
-
-entjava.lang.String2equals(Ljava/lang/Object;)*
-15
-5*„
-7`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javav v(ıÚ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javav v('
-%12java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-outjava.lang.StringBuilder*
->2	append(C)*
-15*“
-8`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javau u("‚ﬂ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javau u(.
-%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-gt*
-
-entjava.lang.String2equals(Ljava/lang/Object;)*
-6
-7*„
-9`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javat t(ıÚ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javat t('
-%10java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-outjava.lang.StringBuilder*
-<2	append(C)*
-15*“
-10`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javas s("·ﬁ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javas s(.
-%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-lt*
-
-entjava.lang.String2equals(Ljava/lang/Object;)*
-8
-9*„
-11`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javar r(ÙÒ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javar r('
-%8java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
-
-outjava.lang.StringBuilder*
-&2	append(C)*
-15*‚
-12`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javap p(ÈÊ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javap p(1
-%6java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
-
-strjava.lang.String*
-""*
-""2substring(II)û
-õ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javap p(1
-entjava.lang.String"__id*
-
-%6java.lang.String‚ﬂ
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/XMLUtil.javaq q((
-%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-amp*
-
-entjava.lang.String2equals(Ljava/lang/Object;)*
-10
-11:
-strjava.lang.StringB$""
- org.exist.dom.persistent.XMLUtil

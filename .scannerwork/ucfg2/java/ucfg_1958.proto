@@ -1,48 +1,0 @@
-
-Zorg.exist.dom.persistent.ElementImpl#hasAttributeNS(Ljava/lang/String;Ljava/lang/String;)Zf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaœ œ(!"startingBlock*∫
-startingBlockf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaœ! œ(Tπ
-∂
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaŒ Œ(
-%1"
-__annotate*
-java.lang.Override*"
- 
-namespaceURIjava.lang.String£
-†
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaœ/ œ(; 
-namespaceURIjava.lang.String"__annotation*
-
-%1∂
-≥
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaŒ Œ(
-%2"
-__annotate*
-java.lang.Override*
-
-	localNamejava.lang.String†
-ù
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.javaœJ œ(S
-	localNamejava.lang.String"__annotation*
-
-%2*
-1*’
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java– –(ı
-Ú
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java– –(@
-%0"Porg.exist.dom.persistent.ElementImpl#findAttribute(Ljava/lang/String;)LAttrImpl;*(&
-$org.exist.dom.persistent.ElementImpl*
-"""p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/ElementImpl.java– –(I
-"": 
-namespaceURIjava.lang.String:
-	localNamejava.lang.StringB(&
-$org.exist.dom.persistent.ElementImpl

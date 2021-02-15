@@ -1,28 +1,0 @@
-
-Gorg.exist.dom.memtree.ElementImpl#getChildNodes()Lorg/w3c/dom/NodeList;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaR R(!"4"1*¾
-4a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaV V(#‹
-ˆ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaV V(6
-norg.w3c.dom.Node"__id*
-""¼¹
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaW W(
-%0short"org.w3c.dom.Node#getNodeType()S*
-
-norg.w3c.dom.Node2getNodeType()€
-~
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.javaW" W(5
-%1short"__id*
-""*
-4
-1*Ó
-1a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java\ \("k
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/ElementImpl.java\ \(
-""B%#
-!org.exist.dom.memtree.ElementImpl

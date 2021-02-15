@@ -1,104 +1,0 @@
-
-Uorg.exist.util.serializer.json.JSONValue#escape(Ljava/lang/String;)Ljava/lang/String;h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java] ](""11*…
-3h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java` `(ƒ¡
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java` `()
-
-%8char"java.lang.String#charAt(I)C*
-
-strjava.lang.String*
-""2	charAt(I)*
-4
-5
-6
-7
-9
-10*˜
-4h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javap r(Å˛
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javaq q(&
-%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-""2	append(C)*
-10*õ
-5h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javam o(•¢
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javan n(*
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-\\\\2append(Ljava/lang/String;)*
-10*õ
-6h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javaj l(•¢
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javak k(*
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-\\\"2append(Ljava/lang/String;)*
-10*ö
-7h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javag i(§°
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javah h()
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-\\t2append(Ljava/lang/String;)*
-10*ö
-9h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javab d(§°
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javac c()
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-\\n2append(Ljava/lang/String;)*
-10*≤
-10h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java_ _(π∂
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java_ _('	
-%2int"java.lang.String#length()I*
-
-strjava.lang.String2length()*
-3
-1*ë
-11h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java^& ^(9•¢
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java^* ^(7
-%0java.lang.StringBuilder"java.lang.StringBuilder∑
-¥
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java^& ^(9
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder∏
-µ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.java^ ^(:"
-builderjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*
-10*‰
-1h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javau u(ÌÍ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javau u(!
-%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
-"
-builderjava.lang.StringBuilder2
-toString()"Ñ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/serializer/json/JSONValue.javau u("
-
-%9java.lang.String:
-strjava.lang.StringB,"*
-(org.exist.util.serializer.json.JSONValue

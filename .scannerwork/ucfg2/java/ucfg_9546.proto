@@ -1,10 +1,0 @@
-
-Korg.exist.xquery.modules.file.FileModule#getDescription()Ljava/lang/String;{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModule.java\ \("1*ë
-1{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModule.java^
- ^(q"è
-{
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/file/FileModule.java^ ^(tig
-eA module for performing various operations on files and directories stored in the server file system.B,*
-(org.exist.xquery.modules.file.FileModule

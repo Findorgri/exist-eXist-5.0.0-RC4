@@ -1,23 +1,0 @@
-
-]org.exist.xquery.modules.mail.SendEmailFunction$Mail#attachmentIterator()Ljava/util/Iterator;Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaé( é(:"1*ù
-1Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê ê(!
-Ì
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê ê(!
-%0java.util.List"__id*H*F6
-4org.exist.xquery.modules.mail.SendEmailFunction$Mail"
-
-attachment˜Ù
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê ê(,
-%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
-
-%0java.util.List2
-iterator()"£
-Ñ
-xC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/mail/SendEmailFunction.javaê ê(-
-
-%1java.util.IteratorB86
-4org.exist.xquery.modules.mail.SendEmailFunction$Mail

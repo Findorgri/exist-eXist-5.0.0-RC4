@@ -1,62 +1,0 @@
-
-porg.exist.xquery.functions.system.LibFunction#getLib(Ljava/nio/file/Path;Ljava/lang/String;)Ljava/util/Optional;m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaH H(!"1*π
-1m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaI" I((˜Ù
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaI" I(9
-%0java.nio.file.Path"7java.nio.file.Path#toAbsolutePath()Ljava/nio/file/Path;*
-
-folderjava.nio.file.Path2toAbsolutePath()∞≠
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaI" I(R
-%1java.nio.file.Path"Bjava.nio.file.Path#resolve(Ljava/lang/String;)Ljava/nio/file/Path;*
-
-%0java.nio.file.Path*%
-#
-libFileBaseNamejava.lang.String2resolve(Ljava/lang/String;)„‡
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaI" I(]
-%2java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*
-
-%1java.nio.file.Path2
-toString()≤
-Ø
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaI I(^
-
-fileToFindjava.lang.String"__id*
-
-%2java.lang.String¢
-ü
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaJ J(T 
-resolvedFilejava.lang.String"__id*
-""ù
-ö
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaK K(2
-%3java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*"
- 
-resolvedFilejava.lang.Stringˇ
-¸
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaK K(3
-%4java.util.Optional"=java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-%3java.nio.file.Pathß§
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaK K(I
-%5java.util.Optional"Mjava.util.Optional#filter(Ljava/util/function/Predicate;)Ljava/util/Optional;*
-
-%4java.util.Optional*
-""2&filter(Ljava/util/function/Predicate;)"ã
-m
-cC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/system/LibFunction.javaK K(J
-
-%5java.util.Optional:
-folderjava.nio.file.Path:#
-libFileBaseNamejava.lang.StringB1/
--org.exist.xquery.functions.system.LibFunction

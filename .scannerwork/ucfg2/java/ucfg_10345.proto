@@ -1,58 +1,0 @@
-
-=org.exist.dom.persistent.AttrImpl#equals(Ljava/lang/Object;)Zc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¶ ¶("startingBlock*×
-2c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java½ ¾(1"m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java½ ¾(1
-""*Ã
-startingBlockc
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¶ ¶(+­
-ª
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaµ µ(
-%1"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Object—
-”
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¶' ¶(*
-objjava.lang.Object"__annotation*
-
-%1*
-7*¥
-4c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¼. ¼(1µ
-²
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¼ ¼(3*
-other!org.exist.dom.persistent.AttrImpl"__id*
-
-objjava.lang.Object*
-2*×
-6c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¸ ¸("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java¸ ¸(
-""*¾
-7c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java· ·(È
-Å
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.java· ·(
-%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
-""*
-
-objjava.lang.Object*	
-4
-6
-1*×
-1c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÁ Á("m
-c
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AttrImpl.javaÁ Á(
-"":
-objjava.lang.ObjectB%#
-!org.exist.dom.persistent.AttrImpl

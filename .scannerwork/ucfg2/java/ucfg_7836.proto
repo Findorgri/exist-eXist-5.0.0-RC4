@@ -1,64 +1,0 @@
-
-`org.exist.indexing.lucene.LuceneIndexWorker#isDocumentMatch(Ljava/lang/String;Ljava/util/List;)Z‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÀ À(#"2"6"8*®
-2‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÌ Ì(´
-±
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÌ Ì(
-docjava.lang.String"__id*
-""ß
-Ü
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÌ Ì(
-docjava.lang.String"
-__arrayGet*#
-!
-toBeMatchedUrisjava.util.List*
-""*
-4
-1*¢
-3‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÎ Î("’
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÎ Î(
-""*¿
-4‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÍ Í(§¤
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÍ Í(&
-%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-docUrijava.lang.String*
-
-docjava.lang.String2startsWith(Ljava/lang/String;)*
-2
-3*Æ
-6‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÈ È(¡
-ž
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÈ È(
-%1"__id*
-"""’
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÉ É(
-""*Æ
-8‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÃ Ã(¡
-ž
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÃ Ã(
-%0"__id*
-"""’
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÄ Ä(
-""*¢
-1‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÑ Ñ("’
-‡
-{C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/indexes/lucene/src/org/exist/indexing/lucene/LuceneIndexWorker.javaÑ Ñ(
-"":
-docUrijava.lang.String:!
-toBeMatchedUrisjava.util.ListB/-
-+org.exist.indexing.lucene.LuceneIndexWorker

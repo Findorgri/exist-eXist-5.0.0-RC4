@@ -1,16 +1,0 @@
-
-@org.exist.http.jaxb.Result#getExecutionTime()Ljava/lang/Integer;\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.javaé é(#"1*’
-1\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.javaê ê(³
-°
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.javaê ê(
-%0java.lang.Integer"__id*1*/
-org.exist.http.jaxb.Result"
-executionTime"y
-\
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/jaxb/Result.javaê ê(
-
-%0java.lang.IntegerB
-org.exist.http.jaxb.Result

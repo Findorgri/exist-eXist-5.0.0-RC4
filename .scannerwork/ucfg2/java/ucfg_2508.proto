@@ -1,18 +1,0 @@
-
-=org.exist.xquery.RangeSequence$RangeSequenceIterator#skip(J)J^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/RangeSequence.javaS S("1*ü
-1^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/RangeSequence.javaT T("¬
-©
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/RangeSequence.javaT T(<
-
-%0long"java.lang.Math#min(JJ)J*"
-java.lang.Math*
-""*
-"""h
-^
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/RangeSequence.javaV V(
-"":
-""B86
-4org.exist.xquery.RangeSequence$RangeSequenceIterator

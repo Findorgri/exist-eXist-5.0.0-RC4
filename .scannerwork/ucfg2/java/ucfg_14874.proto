@@ -1,22 +1,0 @@
-
--org.exist.storage.BrokerPools#isConfigured()Z_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPools.javaÇ Ç(&"1*†
-1_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPools.javaÈ È(À
-½
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPools.javaÈ È(1
-%0java.lang.String"__id*<*:
-org.exist.storage.BrokerPools"
-DEFAULT_INSTANCE_NAMEñ
-î
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPools.javaÈ È(2
-%1boolean"?org.exist.storage.BrokerPools#isConfigured(Ljava/lang/String;)Z*!"
-org.exist.storage.BrokerPools*
-
-%0java.lang.String"i
-_
-SC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/BrokerPools.javaÈ È(3
-""B!"
-org.exist.storage.BrokerPools

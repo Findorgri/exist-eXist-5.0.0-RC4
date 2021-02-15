@@ -1,62 +1,0 @@
-
-Torg.exist.client.ConnectionDialog#getFavouritesModel()Ljavax/swing/DefaultListModel;a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaZ Z(/"6*¸
-3a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java^ ^(Ì
-É
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java^ ^("
-%3javax.swing.DefaultListModel"__id*:*8#
-!org.exist.client.ConnectionDialog"
-favouritesModeløõ
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java^ ^(5
-%4"<javax.swing.DefaultListModel#addElement(Ljava/lang/Object;)V*$
-"
-%3javax.swing.DefaultListModel*
-""2addElement(Ljava/lang/Object;)*
-3
-1*¥
-5a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java\ \(4¨¥
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java\" \(2"
-%1javax.swing.DefaultListModel"javax.swing.DefaultListModelº
-·
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java\ \(4
-%2"&javax.swing.DefaultListModel#<init>()V*$
-"
-%1javax.swing.DefaultListModelÌ
-É
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java\ \(48#
-!org.exist.client.ConnectionDialog"
-favouritesModel"__id*$
-"
-%1javax.swing.DefaultListModel*
-3
-1*½
-6a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java[ [(Ì
-É
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.java[ [("
-%0javax.swing.DefaultListModel"__id*:*8#
-!org.exist.client.ConnectionDialog"
-favouritesModel*
-5
-1*Á
-1a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaa a(Ì
-É
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaa a("
-%5javax.swing.DefaultListModel"__id*:*8#
-!org.exist.client.ConnectionDialog"
-favouritesModel"‰
-a
-WC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/ConnectionDialog.javaa a($
-"
-%5javax.swing.DefaultListModelB%#
-!org.exist.client.ConnectionDialog

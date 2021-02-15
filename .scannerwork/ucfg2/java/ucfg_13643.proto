@@ -1,16 +1,0 @@
-
->org.exist.xquery.XPathException#getCallStack()Ljava/util/List;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.javaª& ª(2"1*œ
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java« «(¶
-³
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java« «(
-%0java.util.List"__id*2*0!
-org.exist.xquery.XPathException"
-	callStack"{
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/XPathException.java« «(
-
-%0java.util.ListB#!
-org.exist.xquery.XPathException

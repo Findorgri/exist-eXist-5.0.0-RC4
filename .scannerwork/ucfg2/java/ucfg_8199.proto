@@ -1,79 +1,0 @@
-
-?org.exist.xquery.value.SubSequence#toString()Ljava/lang/String;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaù ù("1*á
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaû& û(9°û
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaû* û(7
-%0java.lang.StringBuilder"java.lang.StringBuilder≥
-∞
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaû& û(9
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder¥
-±
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaû û(:"
-builderjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder©¶
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü ü(&
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-builderjava.lang.StringBuilder*
-SubSequence(2append(Ljava/lang/String;)õò
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü †(
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-fi=2append(Ljava/lang/String;)¯ı
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü †(,
-%4java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;*
-
-%3java.lang.StringBuilder*
-""2	append(J)öó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü °(
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%4java.lang.StringBuilder*
-, 2append(Ljava/lang/String;)õò
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü ¢(
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%5java.lang.StringBuilder*
-te=2append(Ljava/lang/String;)¯ı
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü ¢(*
-%7java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;*
-
-%6java.lang.StringBuilder*
-""2	append(J)öó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü £(
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%7java.lang.StringBuilder*
-, 2append(Ljava/lang/String;)Å˛
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.javaü §($
-%9"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-%8java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)ÍÁ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.java¶ ¶(!
-%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
-"
-builderjava.lang.StringBuilder2
-toString()"Å
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/SubSequence.java¶ ¶("
-
-%10java.lang.StringB&$
-"org.exist.xquery.value.SubSequence

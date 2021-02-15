@@ -1,68 +1,0 @@
-
-3org.exist.util.io.ByteBufferInputStream#read([BII)Ig
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaV V("startingBlock*€
-2g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.java^ ^(Á‰
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.java^ ^(	
-%4int"4org.exist.util.io.ByteBufferInputStream#available()I*+)
-'org.exist.util.io.ByteBufferInputStream2available()*
-1*ﬁ
-3g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.java] ](Á‰
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.java] ](	
-%3int"4org.exist.util.io.ByteBufferInputStream#available()I*+)
-'org.exist.util.io.ByteBufferInputStream2available()*
-2
-1*∑
-startingBlockg
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaV V(;•
-¢
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaU U(
-%5"
-__annotate*
-java.lang.Override*
-
-bbyte[]è
-å
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaV! V("
-bbyte[]"__annotation*
-
-%5*
-5*Á
-4g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaZ Z( Ö
-Ç
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaZ Z( 	
-%2int"__id*
-"""q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaZ Z(!
-""*ª
-5g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaW W(⁄
-◊
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaW W(
-
-%0void"3org.exist.util.io.ByteBufferInputStream#isClosed()V*+)
-'org.exist.util.io.ByteBufferInputStreamÁ‰
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaY Y(	
-%1int"4org.exist.util.io.ByteBufferInputStream#available()I*+)
-'org.exist.util.io.ByteBufferInputStream2available()*
-3
-4*ﬂ
-1g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javaa$ a(/"q
-g
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/io/ByteBufferInputStream.javab b(U
-"":
-bbyte[]:
-"":
-""B+)
-'org.exist.util.io.ByteBufferInputStream

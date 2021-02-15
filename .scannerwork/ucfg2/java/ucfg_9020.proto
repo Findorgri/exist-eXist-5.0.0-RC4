@@ -1,284 +1,0 @@
-
-üorg.exist.validation.XmlLibraryChecker#hasValidClassVersion(Ljava/lang/String;[Lorg/exist/validation/XmlLibraryChecker$ClassVersion;Ljava/lang/StringBuilder;)Zh
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaœ œ(."9*∆
-2h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java÷ ÷(*æ
-ª
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java÷ ÷(*A
-
-validClass3org.exist.validation.XmlLibraryChecker$ClassVersion"__id*
-""ç
-ä
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java÷ ÷(*A
-
-validClass3org.exist.validation.XmlLibraryChecker$ClassVersion"
-__arrayGet*G
-E
-validClasses5org.exist.validation.XmlLibraryChecker$ClassVersion[]*
-""*
-7
-1*Ÿ
-3h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÁ Á(Æ´
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÁ Á(.
-%20java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
-, not found!2append(Ljava/lang/String;)≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÁ Á(:
-%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%20java.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)*
-2*”
-
-4h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java„ „(≤Ø
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java„ „(6
-%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
- needed version 2append(Ljava/lang/String;)Ω∫
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java„> „(]
-%17java.lang.String"Zorg.exist.validation.XmlLibraryChecker$ClassVersion#getRequiredVersion()Ljava/lang/String;*C
-A
-
-validClass3org.exist.validation.XmlLibraryChecker$ClassVersion2getRequiredVersion()≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java„ „(^
-%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%16java.lang.StringBuilder*
-
-%17java.lang.String2append(Ljava/lang/String;)≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java„ „(j
-%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%18java.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)*
-2*ı
-5h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‡ ‡(∑¥
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‡ ‡('
-%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)°û
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‡ ‡(5
-%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%13java.lang.StringBuilder*
-OK!2append(Ljava/lang/String;)≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‡ ‡(A
-%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%14java.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)"r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java· ·( 
-""*»
-
-6h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‹ ‹(±Æ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‹ ‹(2
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
-, found version 2append(Ljava/lang/String;)ºπ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‹ ‹(H
-%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%9java.lang.StringBuilder*#
-!
-actualVersionjava.lang.String2append(Ljava/lang/String;)Ω∫
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaﬂ  ﬂ(?
-%11java.lang.String"Zorg.exist.validation.XmlLibraryChecker$ClassVersion#getRequiredVersion()Ljava/lang/String;*C
-A
-
-validClass3org.exist.validation.XmlLibraryChecker$ClassVersion2getRequiredVersion()ùö
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaﬁ ﬂ(@
-
-%12int"9java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I*#
-!
-actualVersionjava.lang.String*
-
-%11java.lang.String2'compareToIgnoreCase(Ljava/lang/String;)*
-4
-5*¸
-7h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java◊) ◊(3∏µ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java◊) ◊(F
-%5java.lang.String"Xorg.exist.validation.XmlLibraryChecker$ClassVersion#getActualVersion()Ljava/lang/String;*C
-A
-
-validClass3org.exist.validation.XmlLibraryChecker$ClassVersion2getActualVersion()∞
-≠
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java◊ ◊(G!
-actualVersionjava.lang.String"__id*
-
-%5java.lang.StringÆ´
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaŸ Ÿ(+
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
-Checking for 2append(Ljava/lang/String;)≤Ø
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaŸ3 Ÿ(M
-%7java.lang.String"Uorg.exist.validation.XmlLibraryChecker$ClassVersion#getSimpleName()Ljava/lang/String;*C
-A
-
-validClass3org.exist.validation.XmlLibraryChecker$ClassVersion2getSimpleName()∞≠
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaŸ Ÿ(N
-%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%6java.lang.StringBuilder*
-
-%7java.lang.String2append(Ljava/lang/String;)*
-3
-6*‘
-9h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java“ “(!Û
-
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java“ “(?
-%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-line.separator¶
-£
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java“ “(@
-sepjava.lang.String"__id*
-
-%0java.lang.Stringµ≤
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‘ ‘(.
-%1java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
-Looking for a valid 2append(Ljava/lang/String;)≤Ø
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‘ ‘(;
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%1java.lang.StringBuilder*
-
-typejava.lang.String2append(Ljava/lang/String;)üú
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‘ ‘(I
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
-...2append(Ljava/lang/String;)±Æ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.java‘ ‘(U
-%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%3java.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)*
-2*è
-1h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÎ Î(øº
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÎ Î(7
-%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*!
-Warning: Failed find a valid 2append(Ljava/lang/String;)¥±
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÎ Î(D
-%23java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%22java.lang.StringBuilder*
-
-typejava.lang.String2append(Ljava/lang/String;)üú
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÎ Î(P
-%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%23java.lang.StringBuilder*
-!2append(Ljava/lang/String;)≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÎ Î(\
-%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%24java.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)∑¥
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÏ Ï(
-%26java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
-"
-messagejava.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)∏µ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÏ Ï(@
-%27java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%26java.lang.StringBuilder*
-Please add an appropriate 2append(Ljava/lang/String;)¥±
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÏ Ï(M
-%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%27java.lang.StringBuilder*
-
-typejava.lang.String2append(Ljava/lang/String;)—
-Œ
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÌ Ì(S
-%29java.lang.String"__concat*
-
- to the *1/
--class-path, e.g. in the 'endorsed' folder of Ó
-Î
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÌ Ó(Q
-%30java.lang.String"__concat*
-
-%29java.lang.String*A?
-=the servlet container or in the 'endorsed' folder of the JRE.≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÏ Ó(R
-%31java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%28java.lang.StringBuilder*
-
-%30java.lang.String2append(Ljava/lang/String;)≥∞
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÏ Ô(
-%32java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
-
-%31java.lang.StringBuilder*
-
-sepjava.lang.String2append(Ljava/lang/String;)"r
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/validation/XmlLibraryChecker.javaÒ Ò(
-"":
-typejava.lang.String:E
-validClasses5org.exist.validation.XmlLibraryChecker$ClassVersion[]:"
-messagejava.lang.StringBuilderB*"(
-&org.exist.validation.XmlLibraryChecker

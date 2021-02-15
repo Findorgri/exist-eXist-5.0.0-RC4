@@ -1,42 +1,0 @@
-
-norg.exist.dom.memtree.DOMImplementationImpl#getFeature(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java7 7("startingBlock*Å
-startingBlockk
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java7 7(H¹
-¶
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java6 6(
-%0"
-__annotate*
-java.lang.Override*
-
-featurejava.lang.String£
- 
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java7* 7(1
-featurejava.lang.String"__annotation*
-
-%0¹
-¶
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java6 6(
-%1"
-__annotate*
-java.lang.Override*
-
-versionjava.lang.String£
- 
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java7@ 7(G
-versionjava.lang.String"__annotation*
-
-%1*
-1*ç
-1k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java8 8("u
-k
-aC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DOMImplementationImpl.java8 8(
-"":
-featurejava.lang.String:
-versionjava.lang.StringB/-
-+org.exist.dom.memtree.DOMImplementationImpl

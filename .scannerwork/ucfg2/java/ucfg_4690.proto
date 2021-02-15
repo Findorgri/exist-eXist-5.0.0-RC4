@@ -1,45 +1,0 @@
-
-7org.exist.xquery.value.DoubleValue#hasFractionalPart()Zb
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaW W($"5*Õ
-2b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java\ \("l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java\ \(
-""*Ð
-3b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java[ [(ÞÛ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java[ [(
-%1boolean"0org.exist.xquery.value.DoubleValue#isInfinite()Z*&$
-"org.exist.xquery.value.DoubleValue2isInfinite()*
-2
-1*Õ
-4b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaY Y("l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaY Y(
-""*Æ
-5b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaX X(ÔÑ
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.javaX X(
-%0boolean"+org.exist.xquery.value.DoubleValue#isNaN()Z*&$
-"org.exist.xquery.value.DoubleValue2isNaN()*
-3
-4*¨
-1b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java^/ ^(4™–
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java^$ ^(.
-%2java.math.BigDecimal"java.math.BigDecimal´
-±
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java^  ^(5
-%3"java.math.BigDecimal#<init>(D)V*
-
-%2java.math.BigDecimal*
-"""l
-b
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/DoubleValue.java^ ^(K
-""B&$
-"org.exist.xquery.value.DoubleValue

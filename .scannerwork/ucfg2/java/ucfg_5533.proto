@@ -1,58 +1,0 @@
-
-Korg.exist.stax.EmbeddedXMLStreamReader#getName()Ljavax/xml/namespace/QName;h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaº% º(,"8*¥
-2h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÂ Â(°
-­
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÂ Â(R3(
-&org.exist.stax.EmbeddedXMLStreamReader"
-qname"__id*
-""*
-1*Ğ
-3h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÀ À(Û
-Ø
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÀ À(
-
-%2void"4org.exist.stax.EmbeddedXMLStreamReader#readNodeId()V**(
-&org.exist.stax.EmbeddedXMLStreamReader*
-2*Ë
-7h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¼ ¼(Ë
-È
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¼ ¼(
-%1javax.xml.namespace.QName"__id*5*3(
-&org.exist.stax.EmbeddedXMLStreamReader"
-qname"
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java¼ ¼(!
-
-%1javax.xml.namespace.QName*É
-8h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java» »(Ë
-È
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.java» »(
-%0javax.xml.namespace.QName"__id*5*3(
-&org.exist.stax.EmbeddedXMLStreamReader"
-qname*
-2
-3
-7
-1*Ë
-1h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÄ Ä(Ë
-È
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÄ Ä(
-%3javax.xml.namespace.QName"__id*5*3(
-&org.exist.stax.EmbeddedXMLStreamReader"
-qname"
-h
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/stax/EmbeddedXMLStreamReader.javaÄ Ä(!
-
-%3javax.xml.namespace.QNameB*(
-&org.exist.stax.EmbeddedXMLStreamReader

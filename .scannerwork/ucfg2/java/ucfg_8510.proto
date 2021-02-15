@@ -1,23 +1,0 @@
-
-aorg.exist.xquery.value.HexBinaryValueType#getMatcher(Ljava/lang/String;)Ljava/util/regex/Matcher;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java+ +("1*â
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java, ,(›
-˜
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java, ,(
-%0java.util.regex.Pattern"__id*
-""ÄÁ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java, ,(*
-%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
-
-%0java.util.regex.Pattern*
-
-toMatchjava.lang.String2!matcher(Ljava/lang/CharSequence;)"Œ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/HexBinaryValueType.java, ,(+
-
-%1java.util.regex.Matcher:
-toMatchjava.lang.StringB-+
-)org.exist.xquery.value.HexBinaryValueType

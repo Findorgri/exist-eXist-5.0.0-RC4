@@ -1,33 +1,0 @@
-
-Oorg.exist.xslt.EXistURIResolver#normalize(Ljava/lang/String;)Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java> >("3*ž
-2_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java@ @(ÌÉ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java@ @(H
-%1"/java.lang.String#substring(I)Ljava/lang/String;*
-
-urijava.lang.String*
-""2substring(I)"i
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java@ @(I
-
-%1*Î
-3_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java? ?(ßÜ
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.java? ?(;
-%0"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-urijava.lang.String*
-""2startsWith(Ljava/lang/String;)*
-2
-1*â
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.javaC C("|
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xslt/EXistURIResolver.javaC C(
-
-urijava.lang.String:
-urijava.lang.StringB#!
-org.exist.xslt.EXistURIResolver

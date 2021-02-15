@@ -1,57 +1,0 @@
-
-Porg.exist.fluent.QName#createAttribute(Lorg/w3c/dom/Document;)Lorg/w3c/dom/Attr;h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaF F("3*‘
-2h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaG G( óð
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaG3 G(D
-%1java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*
-org.exist.fluent.QName2getNamespaceURI()°
-­
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaGF G(I
-%2java.lang.String"__id*#*!
-org.exist.fluent.QName"
-tagñî
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaG G(J
-%3org.w3c.dom.Attr"^org.w3c.dom.Document#createAttributeNS(Ljava/lang/String;Ljava/lang/String;)Lorg/w3c/dom/Attr;*
-
-docorg.w3c.dom.Document*
-
-%1java.lang.String*
-
-%2java.lang.String27createAttributeNS(Ljava/lang/String;Ljava/lang/String;)"„
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaG G(K
-
-%3org.w3c.dom.Attr*È
-3h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaG G(ÐÍ
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaG G(
-%0boolean"&org.exist.fluent.QName#hasNamespace()Z*
-org.exist.fluent.QName2hasNamespace()*
-2
-1*Ù
-1h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaH	 H(°
-­
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaH H( 
-%4java.lang.String"__id*#*!
-org.exist.fluent.QName"
-tag¯¬
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaH	 H(!
-%5org.w3c.dom.Attr"Jorg.w3c.dom.Document#createAttribute(Ljava/lang/String;)Lorg/w3c/dom/Attr;*
-
-docorg.w3c.dom.Document*
-
-%4java.lang.String2#createAttribute(Ljava/lang/String;)"„
-h
-^C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/QName.javaH H("
-
-%5org.w3c.dom.Attr:
-docorg.w3c.dom.DocumentB
-org.exist.fluent.QName

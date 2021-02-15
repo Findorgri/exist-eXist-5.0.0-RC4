@@ -1,28 +1,0 @@
-
-lorg.exist.util.PropertiesBuilder#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/exist/util/PropertiesBuilder;`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java, ,( "1*ê
-1`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java- -(Ω
-∫
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java- -(
-%0java.util.Properties"__id*4*2"
- org.exist.util.PropertiesBuilder"
-
-properties›
-⁄
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java- -("
-%1java.lang.Object"__mapSet*
-
-%0java.util.Properties*
-
-keyjava.lang.String*
-
-valuejava.lang.Object"à
-`
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/PropertiesBuilder.java. .($"
- org.exist.util.PropertiesBuilder:
-keyjava.lang.String:
-valuejava.lang.ObjectB$"
- org.exist.util.PropertiesBuilder

@@ -1,16 +1,0 @@
-
-@org.exist.security.AXSchemaType#getNamespace()Ljava/lang/String;_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java0 0("1*š
-1_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java1 1(¶
-³
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java1 1(
-%0java.lang.String"__id*2*0!
-org.exist.security.AXSchemaType"
-	namespace"{
-_
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/AXSchemaType.java1 1(
-
-%0java.lang.StringB#!
-org.exist.security.AXSchemaType

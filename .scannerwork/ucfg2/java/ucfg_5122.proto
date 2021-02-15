@@ -1,23 +1,0 @@
-
-Aorg.exist.source.FileSource#getInputStream()Ljava/io/InputStream;[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javar r(%"1*§
-1[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javas s(«
-¨
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javas$ s((
-%0java.nio.file.Path"__id*)*'
-org.exist.source.FileSource"
-pathš
-—
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javas s()
-%1java.io.InputStream"hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;*"
-java.nio.file.Files*
-
-%0java.nio.file.Path"z
-[
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/source/FileSource.javas s(*
-
-%1java.io.InputStreamB
-org.exist.source.FileSource

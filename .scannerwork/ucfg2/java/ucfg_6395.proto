@@ -1,55 +1,0 @@
-
-:org.exist.util.XMLChar#isValidNmtoken(Ljava/lang/String;)ZX
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaì ì(("8*Á
-3X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaò ò("b
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaò ò(
-""*Ö
-4X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javað ð("¸µ
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javað ð(,
-
-%2char"java.lang.String#charAt(I)C*
-
-nmtokenjava.lang.String*
-""2	charAt(I)³
-°
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javañ ñ(
-%3boolean"!org.exist.util.XMLChar#isName(I)Z*"
-org.exist.util.XMLChar*
-""*
-3
-5*•
-5X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaï ï(­ª
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaï ï(,	
-%1int"java.lang.String#length()I*
-
-nmtokenjava.lang.String2length()*
-4
-1*Á
-7X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaî î("b
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaî î(
-""*•
-8X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaí í(­ª
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaí í(	
-%0int"java.lang.String#length()I*
-
-nmtokenjava.lang.String2length()*
-5
-7*Á
-1X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaõ õ("b
-X
-LC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/XMLChar.javaõ õ(
-"":
-nmtokenjava.lang.StringB"
-org.exist.util.XMLChar

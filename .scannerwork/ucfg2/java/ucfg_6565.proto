@@ -1,71 +1,0 @@
-
-?org.exist.dom.memtree.DocumentImpl#toString()Ljava/lang/String;d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaà à("7*à
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaç ç(äá
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaç ç(.
-%4"7org.exist.dom.memtree.DocumentImpl#getNode(I)LNodeImpl;*&$
-"org.exist.dom.memtree.DocumentImpl*
-""2
-getNode(I)…‚
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaç ç(:
-%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-4
-1*Ó	
-7d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaá% á(8¡ž
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaá) á(6
-%0java.lang.StringBuilder"java.lang.StringBuilder³
-°
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaá% á(8
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder³
-°
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaá á(9!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder¦£
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaâ â(#
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-
-in-memory#2append(Ljava/lang/String;)¦£
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaã ã(#
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-
-document {2append(Ljava/lang/String;)*
-4
-1*ø
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaî î(ž›
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaî î(
-%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-} 2append(Ljava/lang/String;)èå
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaï ï( 
-%7java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"€
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/memtree/DocumentImpl.javaï ï(!
-
-%7java.lang.StringB&$
-"org.exist.dom.memtree.DocumentImpl

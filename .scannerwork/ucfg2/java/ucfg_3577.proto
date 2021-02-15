@@ -1,63 +1,0 @@
-
-borg.exist.dom.persistent.AVLTreeNodeSet#getMaxNode()Lorg/exist/dom/persistent/AVLTreeNodeSet$Node;i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.javaŸ Ÿ("6*¸
-2i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¥ ¥(ÛØ
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¥ ¥(/2
-%3,org.exist.dom.persistent.AVLTreeNodeSet$Node"jorg.exist.dom.persistent.AVLTreeNodeSet$Node#getRightChild()Lorg/exist/dom/persistent/AVLTreeNodeSet$Node;*:
-8
-tempNode,org.exist.dom.persistent.AVLTreeNodeSet$Node2getRightChild()ä
-á
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¥ ¥(/8
-tempNode,org.exist.dom.persistent.AVLTreeNodeSet$Node"__id*4
-2
-%3,org.exist.dom.persistent.AVLTreeNodeSet$Node*
-3*‚
-3i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¤ ¤(‰†
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¤ ¤(&
-%2boolean"=org.exist.dom.persistent.AVLTreeNodeSet$Node#hasRightChild()Z*:
-8
-tempNode,org.exist.dom.persistent.AVLTreeNodeSet$Node2hasRightChild()*
-2
-1*¼
-4i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java£ £(ß
-Ü
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java£ £(2
-%1,org.exist.dom.persistent.AVLTreeNodeSet$Node"__id*5*3)
-'org.exist.dom.persistent.AVLTreeNodeSet"
-rootä
-á
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java£ £(8
-tempNode,org.exist.dom.persistent.AVLTreeNodeSet$Node"__id*4
-2
-%1,org.exist.dom.persistent.AVLTreeNodeSet$Node*
-3*ã
-5i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¡ ¡("s
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java¡ ¡(
-""*Ø
-6i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java   (ß
-Ü
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java   (2
-%0,org.exist.dom.persistent.AVLTreeNodeSet$Node"__id*5*3)
-'org.exist.dom.persistent.AVLTreeNodeSet"
-root*
-4
-5*˜
-1i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java§ §("§
-i
-]C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/AVLTreeNodeSet.java§ §(:
-8
-tempNode,org.exist.dom.persistent.AVLTreeNodeSet$NodeB+)
-'org.exist.dom.persistent.AVLTreeNodeSet

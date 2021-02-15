@@ -1,79 +1,0 @@
-
-xorg.exist.xmlrpc.RpcConnection#setPermissions(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java³ ³(!"startingBlock*š
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java³! ³(s¯
-¬
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java² ²(
-%1"
-__annotate*
-java.lang.Override*
-
-resourcejava.lang.String™
-–
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java³/ ³(7
-resourcejava.lang.String"__annotation*
-
-%1¬
-©
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java² ²(
-%2"
-__annotate*
-java.lang.Override*
-
-ownerjava.lang.String–
-“
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java³F ³(K
-ownerjava.lang.String"__annotation*
-
-%2¬
-©
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java² ²(
-%3"
-__annotate*
-java.lang.Override*
-
-groupjava.lang.String–
-“
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java³Z ³(_
-groupjava.lang.String"__annotation*
-
-%3«
-¨
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java² ²(
-%4"
-__annotate*
-java.lang.Override*
-
-modejava.lang.String•
-’
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java³n ³(r
-modejava.lang.String"__annotation*
-
-%4*
-1*¶
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.java´ ´(%â
-ß
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaµ ¹(
-
-%0"Iorg.exist.xmlrpc.RpcConnection#withDb(LXmlRpcFunction;)Ljava/lang/Object;*" 
-org.exist.xmlrpc.RpcConnection*
-"""j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaµ ¹(
-"":
-resourcejava.lang.String:
-ownerjava.lang.String:
-groupjava.lang.String:
-modejava.lang.StringB" 
-org.exist.xmlrpc.RpcConnection

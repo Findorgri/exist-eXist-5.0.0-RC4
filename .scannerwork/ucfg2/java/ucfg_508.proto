@@ -1,55 +1,0 @@
-
--org.exist.numbering.DLNBase#getLevelCount(I)I]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java· ·("5"1*†
-4]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¿ ¿(¡
-ž
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¿ ¿(
-%3byte[]"__id*)*'
-org.exist.numbering.DLNBase"
-bitsz
-x
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¿! ¿(+	
-%4int"__id*
-""z
-x
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java¿L ¿([	
-%5int"__id*
-""*
-5
-1*ª
-5]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java» »('¡
-ž
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java»- »(1
-%0byte[]"__id*)*'
-org.exist.numbering.DLNBase"
-bitsÓ
-Ð
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java» »(2	
-%1int"+org.exist.numbering.DLNBase#unitsUsed(I[B)I*"
-org.exist.numbering.DLNBase*
-""*
-
-%0byte[]À
-½
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.java½ ½("	
-%2int"(org.exist.numbering.DLNBase#bitWidth(I)I*"
-org.exist.numbering.DLNBase*
-""*	
-4
-5
-1*Ë
-1]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaÆ Æ("g
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/numbering/DLNBase.javaÆ Æ(
-"":
-""B
-org.exist.numbering.DLNBase

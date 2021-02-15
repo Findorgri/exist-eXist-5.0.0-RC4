@@ -1,37 +1,0 @@
-
-5org.exist.client.security.UserDialog#isValidGroups()Zf
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÖ Ö(!"4*Ý
-2f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaØ Ø("p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaØ Ø(
-""*—
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.java× ×(Í
-Ê
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.java× ×(
-%0javax.swing.JCheckBox"__id*=*;&
-$org.exist.client.security.UserDialog"
-cbPersonalGroupÑÎ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.java× ×('
-%1boolean"(javax.swing.AbstractButton#isSelected()Z*
-
-%0javax.swing.JCheckBox2isSelected()*
-2
-1*Î
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÛ Û(î
-ë
-g
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÛ Û(„
-
-%2void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
-javax.swing.JOptionPane*(&
-$org.exist.client.security.UserDialog*YW
-UThe user must be in at least one group, or a personal group must be created for them."p
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/client/security/UserDialog.javaÜ Ü(
-""B(&
-$org.exist.client.security.UserDialog

@@ -1,40 +1,0 @@
-
-Uorg.exist.http.servlets.HttpServletRequestWrapper#getReader()Ljava/io/BufferedReader;s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaì ì(#"9*ê
-3s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaö ö(i"ï
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaö ö(i
-
-%0java.io.BufferedReader*â
-4s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaö ö(hÆ´
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaö ö(%
-%0java.io.BufferedReader"java.io.BufferedReaderÿ
-’
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaö ö(h
-%1"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
-
-%0java.io.BufferedReader*
-""*
-3*ß
-8s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javañ ñ(ß
-§
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javañ ñ(
-encodingjava.lang.String"__id*	
-UTF-8*
-4*ß
-9s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaî î(!§
-°
-s
-gC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/servlets/HttpServletRequestWrapper.javaî î(9
-encodingjava.lang.String"__id*
-""*
-4
-8B53
-1org.exist.http.servlets.HttpServletRequestWrapper

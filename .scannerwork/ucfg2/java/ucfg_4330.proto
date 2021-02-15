@@ -1,51 +1,0 @@
-
-Uorg.exist.xmlrpc.RpcConnection#getEncoding(Ljava/util/Map;)Ljava/nio/charset/Charset;`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaî î("1*â
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(ã
-à
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï2 ï(E
-%0java.lang.String"__id*
-""¿
-Ω
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï# ï(F
-%1java.lang.Object"__mapGet*
-
-
-parametersjava.util.Map*
-
-%0java.lang.String¯
-ı
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(G
-%2java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-%1java.lang.Objectíè
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(o
-%3java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-%2java.util.Optional*
-""2"map(Ljava/util/function/Function;)î
-ë
-a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaïw ï(á
-%4java.nio.charset.Charset"__id*
-""°û
-a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(à
-%5java.nio.charset.Charset"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%3java.util.Optional* 
-
-%4java.nio.charset.Charset2orElse(Ljava/lang/Object;)"Ö
-a
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmlrpc/RpcConnection.javaï ï(â 
-
-%5java.nio.charset.Charset:
-
-parametersjava.util.MapB" 
-org.exist.xmlrpc.RpcConnection

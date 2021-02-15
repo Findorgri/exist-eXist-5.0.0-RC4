@@ -1,37 +1,0 @@
-
-?org.exist.http.underheavyload.Client#getURL()Ljava/lang/String;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.javaY Y("2"1*ì
-2i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java[ [( ð
-í
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java[# [(C
-%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
-java.lang.System*
-
-jetty.portÁ
-¾
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java[ [(C
-%1java.lang.String"__concat*
-http://localhost:*
-
-%0java.lang.String¼
-¹
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java[ [(T
-%2java.lang.String"__concat*
-
-%1java.lang.String*
-/exist/admin"…
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java[ [(U
-
-%2java.lang.String*ã
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java]
- ]("s
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/http/underheavyload/Client.java] ](
-""B(&
-$org.exist.http.underheavyload.Client

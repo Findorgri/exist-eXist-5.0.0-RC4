@@ -1,42 +1,0 @@
-
-6org.exist.fluent.Source$1#toString()Ljava/lang/String;i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javat t(#"1*»	
-1i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau u(È
-Å
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau u(
-%0java.lang.String"8org.exist.fluent.Source$XML#toString()Ljava/lang/String;*
-""¶
-³
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau u(&
-%1java.lang.String"__concat*
-
-%0java.lang.String*
-
-file 'ÃÀ
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau) u(7
-%2java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
-""2	getPath()Ä
-Á
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau u(7
-%3java.lang.String"__concat*
-
-%1java.lang.String*
-
-%2java.lang.String±
-®
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau u(=
-%4java.lang.String"__concat*
-
-%3java.lang.String*
-'"…
-i
-_C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/fluent/src/org/exist/fluent/Source.javau u(>
-
-%4java.lang.StringB
-org.exist.fluent.Source$1

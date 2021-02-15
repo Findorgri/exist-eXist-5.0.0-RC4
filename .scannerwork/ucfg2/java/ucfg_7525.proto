@@ -1,22 +1,0 @@
-
-3org.exist.TestUtils#readRomeoAndJulietSampleXml()[BZ
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.java¹ ¹(4"1*„
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaº º(Ù
-Ö
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaº º(5
-%0java.nio.file.Path"Eorg.exist.TestUtils#resolveRomeoAndJulietSample()Ljava/nio/file/Path;*"
-org.exist.TestUtilsØ
-Õ
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaº º(6
-%1byte[]"4org.exist.TestUtils#readFile(Ljava/nio/file/Path;)[B*"
-org.exist.TestUtils*
-
-%0java.nio.file.Path"l
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/test/src/org/exist/TestUtils.javaº º(7
-
-%1byte[]B"
-org.exist.TestUtils

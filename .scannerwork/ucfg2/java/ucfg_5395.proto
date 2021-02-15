@@ -1,28 +1,0 @@
-
-corg.exist.xmldb.LocalCollection#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.java™ ™("1*•
-1a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaš š(½
-º
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaš š(
-%0java.util.Properties"__id*3*1!
-org.exist.xmldb.LocalCollection"
-
-propertiesíê
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaš š(=
-%1java.lang.String"Xjava.util.Properties#getProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
-
-%0java.util.Properties*
-
-propertyjava.lang.String*"
- 
-defaultValuejava.lang.String21getProperty(Ljava/lang/String;Ljava/lang/String;)"}
-a
-UC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalCollection.javaš š(>
-
-%1java.lang.String:
-propertyjava.lang.String: 
-defaultValuejava.lang.StringB#!
-org.exist.xmldb.LocalCollection

@@ -1,43 +1,0 @@
-
-^org.exist.xquery.modules.process.Execute#getWorkingDir(Ljava/lang/String;)Ljava/nio/file/Path;}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÄ Ä("3*¢
-2}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÉ É("ù
-}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÉ É(
-
-filejava.nio.file.Path*÷
-3}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÅ Å(§
-°
-}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÅ Å((
-%0java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
-java.nio.file.Paths*
-
-argjava.lang.String¿
-Ω
-}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÅ Å()
-filejava.nio.file.Path"__id*
-
-%0java.nio.file.Pathﬂ‹
-}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÇ Ç(
-%1boolean" java.nio.file.Path#isAbsolute()Z*
-
-filejava.nio.file.Path2isAbsolute()*
-2
-1*ª
-1}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÖ$ Ö(+¨
-©
-}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÖ Ö(Z
-homejava.util.Optional"__id*
-"""á
-}
-qC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/process/Execute.javaÜ Ü(,
-"":
-argjava.lang.StringB,*
-(org.exist.xquery.modules.process.Execute

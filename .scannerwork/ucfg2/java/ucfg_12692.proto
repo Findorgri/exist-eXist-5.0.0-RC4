@@ -1,43 +1,0 @@
-
-Oorg.exist.xquery.value.JavaObjectValue#conversionPreference(Ljava/lang/Class;)If
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javah h(#"3*›
-2f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javaj j("p
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javaj j(
-""*°
-3f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javai i(¡
-æ
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javai' i(-
-%0java.lang.Object"__id*6*4(
-&org.exist.xquery.value.JavaObjectValue"
-object÷”
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javai' i(8
-%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
-
-%0java.lang.Object2
-getClass()éã
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javai i(9
-%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-
-%1java.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
-2
-1*‰
-1f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javam m(Ñ
-Å
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javam m( 	
-%3int"__id*
-"""p
-f
-\C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/JavaObjectValue.javam m(!
-"":
-	javaClassjava.lang.ClassB*(
-&org.exist.xquery.value.JavaObjectValue

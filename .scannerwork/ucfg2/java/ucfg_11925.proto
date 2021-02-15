@@ -1,65 +1,0 @@
-
-Äorg.exist.xquery.modules.xslfo.ApacheFopProcessorAdapter$ExistSchemeRewriter#rewriteScheme(Ljava/lang/String;)Ljava/lang/String;é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java• •($"5"1*Ó
-2é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java™ ™(Çˇ
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java™ ™(C
-%3java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
-
-urijava.lang.String*
-
-exist://*
-xmldb:exist://29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Õ
- 
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java™ ™(C
-urijava.lang.String"__id*
-
-%3java.lang.String*
-1*Ω
-3é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java© ©(ûõ
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java© ©(5
-%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-urijava.lang.String*
-
-exist://2startsWith(Ljava/lang/String;)*
-2
-1*Ô
-4é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java® ®(ÉÄ
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java® ®(D
-%1java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
-
-urijava.lang.String*
-exist://localhost/db*
-/db29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Õ
- 
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.java® ®(D
-urijava.lang.String"__id*
-
-%1java.lang.String*
-1*∆
-5é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.javaß ß(ß§
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.javaß ß(7
-%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
-
-urijava.lang.String*
-exist://localhost2startsWith(Ljava/lang/String;)*
-3
-4*√
-1é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.javaÆ Æ("¨
-é
-ÅC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/xslfo/ApacheFopProcessorAdapter.javaÆ Æ(
-
-urijava.lang.String:
-urijava.lang.StringBPN
-Lorg.exist.xquery.modules.xslfo.ApacheFopProcessorAdapter$ExistSchemeRewriter

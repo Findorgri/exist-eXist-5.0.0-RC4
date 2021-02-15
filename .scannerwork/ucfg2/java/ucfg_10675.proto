@@ -1,39 +1,0 @@
-
-_org.exist.xquery.modules.compression.ZipFunction#newEntry(Ljava/lang/String;)Ljava/lang/Object;ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javab b("startingBlock*¨
-startingBlockƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javab b(*Ï
-Ì
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javaa a(
-%2"
-__annotate*
-java.lang.Override*
-
-namejava.lang.String¹
-¶
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javab% b()
-namejava.lang.String"__annotation*
-
-%2*
-1*ö
-1ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javad d( ¿¼
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javad d(
-%0java.util.zip.ZipEntry"java.util.zip.ZipEntryÿ
-ü
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javad d(!
-%1"2java.util.zip.ZipEntry#<init>(Ljava/lang/String;)V*
-
-%0java.util.zip.ZipEntry*
-
-namejava.lang.String"¦
-ƒ
-yC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/modules/src/org/exist/xquery/modules/compression/ZipFunction.javad d("
-
-%0java.util.zip.ZipEntry:
-namejava.lang.StringB42
-0org.exist.xquery.modules.compression.ZipFunction

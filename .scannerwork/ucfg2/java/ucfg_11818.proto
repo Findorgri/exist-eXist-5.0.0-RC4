@@ -1,86 +1,0 @@
-
-‡org.exist.xquery.functions.validation.Jaxp#preparseDTD(Ljavax/xml/transform/stream/StreamSource;Ljava/lang/String;)Ljava/nio/file/Path;l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaã ã("1*’
-1l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaç: ç(Nš
-—
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaè è(A
-tmpjava.nio.file.Path"__id*
-""×Ô
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaê5 ê(A
-%0java.io.File")java.nio.file.Path#toFile()Ljava/io/File;*
-
-tmpjava.nio.file.Path2toFile()ÉÆ
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaê( ê(4-
-%1'javax.xml.transform.stream.StreamResult"'javax.xml.transform.stream.StreamResultÿ
-ü
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaê$ ê(B
-%2"?javax.xml.transform.stream.StreamResult#<init>(Ljava/io/File;)V*/
--
-%1'javax.xml.transform.stream.StreamResult*
-
-%0java.io.FileÛ
-Ø
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaê ê(C1
-result'javax.xml.transform.stream.StreamResult"__id*/
--
-%1'javax.xml.transform.stream.StreamResult©
-¦
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaì& ì(F,
-%3&javax.xml.transform.TransformerFactory"\javax.xml.transform.TransformerFactory#newInstance()Ljavax/xml/transform/TransformerFactory;**"(
-&javax.xml.transform.TransformerFactoryÕ
-Ò
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaì ì(G,
-tf&javax.xml.transform.TransformerFactory"__id*.
-,
-%3&javax.xml.transform.TransformerFactory´±
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaî( î(;%
-%4javax.xml.transform.Transformer"Xjavax.xml.transform.TransformerFactory#newTransformer()Ljavax/xml/transform/Transformer;*.
-,
-tf&javax.xml.transform.TransformerFactory2newTransformer()Ð
-Í
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaî î(<.
-transformerjavax.xml.transform.Transformer"__id*'
-%
-%4javax.xml.transform.Transformer—
-”
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javað& ð(?
-%5java.lang.String"__id*
-""üù
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javað ð(J
-
-%6void"Xjavax.xml.transform.Transformer#setOutputProperty(Ljava/lang/String;Ljava/lang/String;)V*0
-.
-transformerjavax.xml.transform.Transformer*
-
-%5java.lang.String*
-
-systemIdjava.lang.String27setOutputProperty(Ljava/lang/String;Ljava/lang/String;)ÆÃ
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javañ ñ(/
-
-%7void"djavax.xml.transform.Transformer#transform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)V*0
-.
-transformerjavax.xml.transform.Transformer*5
-3
-instance'javax.xml.transform.stream.StreamSource*3
-1
-result'javax.xml.transform.stream.StreamResult2Ctransform(Ljavax/xml/transform/Source;Ljavax/xml/transform/Result;)"‹
-l
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/functions/validation/Jaxp.javaó ó(
-
-tmpjava.nio.file.Path:3
-instance'javax.xml.transform.stream.StreamSource:
-systemIdjava.lang.StringB.,
-*org.exist.xquery.functions.validation.Jaxp

@@ -1,92 +1,0 @@
-
-Xorg.exist.http.urlrewrite.URLRewrite#normalizePath(Ljava/lang/String;)Ljava/lang/String;f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaˇ ˇ()"9*Ì
-3f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaà à(˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaà à(
-%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
-
-sbjava.lang.StringBuilder*
-""2	append(C)*
-8*Ì
-4f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÖ Ö(˙˜
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÖ Ö( 
-%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
-
-sbjava.lang.StringBuilder*
-""2	append(C)*
-8*π
-5f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÑ Ñ("√¿
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÑ Ñ(0
-
-%5char"java.lang.String#charAt(I)C*
-
-pathjava.lang.String*
-""2	charAt(I)*
-4
-8*º
-7f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÇ Ç(√¿
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÇ Ç()
-
-%4char"java.lang.String#charAt(I)C*
-
-pathjava.lang.String*
-""2	charAt(I)*	
-3
-4
-5*Æ
-8f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÅ Å(∏µ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÅ Å()	
-%3int"java.lang.String#length()I*
-
-pathjava.lang.String2length()*
-7
-1*À
-9f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÄ3 Ä(7∏µ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÄ3 Ä(@	
-%0int"java.lang.String#length()I*
-
-pathjava.lang.String2length()£†
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÄ% Ä(2
-%1java.lang.StringBuilder"java.lang.StringBuilder√
-¿
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÄ! Ä(A
-%2""java.lang.StringBuilder#<init>(I)V*
-
-%1java.lang.StringBuilder*
-	
-%0int±
-Æ
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaÄ Ä(B
-sbjava.lang.StringBuilder"__id*
-
-%1java.lang.StringBuilder*
-8*Ÿ
-1f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaã ã(Ê„
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaã ã(
-%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
-
-sbjava.lang.StringBuilder2
-toString()"Ç
-f
-ZC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/http/urlrewrite/URLRewrite.javaã ã(
-
-%8java.lang.String:
-pathjava.lang.StringB("&
-$org.exist.http.urlrewrite.URLRewrite

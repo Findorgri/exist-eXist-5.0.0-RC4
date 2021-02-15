@@ -1,27 +1,0 @@
-
-porg.exist.extensions.exquery.restxq.impl.adapters.HttpServletResponseAdapter#containsHeader(Ljava/lang/String;)Z±
-¦C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletResponseAdapter.java? ?(!"startingBlock*²
-startingBlock±
-¦C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletResponseAdapter.java?! ?(4ý
-ú
-±
-¦C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletResponseAdapter.java> >(
-%0"
-__annotate*
-java.lang.Override*
-
-namejava.lang.Stringç
-ä
-±
-¦C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletResponseAdapter.java?/ ?(3
-namejava.lang.String"__annotation*
-
-%0*
-1*ö
-1±
-¦C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletResponseAdapter.java@ @("¼
-±
-¦C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletResponseAdapter.java@ @(-
-"":
-namejava.lang.StringBPN
-Lorg.exist.extensions.exquery.restxq.impl.adapters.HttpServletResponseAdapter

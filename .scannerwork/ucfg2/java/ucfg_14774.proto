@@ -1,55 +1,0 @@
-
-5org.exist.util.FileInputSource#getByteStreamLength()J`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java‚ ‚( "7*Ñ
-3`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †(""j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †("
-""*Ä
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †(!×
-Ô
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †(!
-
-%4long"/java.nio.file.Files#size(Ljava/nio/file/Path;)J*"
-java.nio.file.Files*
-
-%3java.nio.file.Path*
-3*ñ
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †(³
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †(
-%2java.util.Optional"__id*,** 
-org.exist.util.FileInputSource"
-fileÎË
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java† †( 
-%3java.nio.file.Path"*java.util.Optional#get()Ljava/lang/Object;*
-
-%2java.util.Optional2get()*
-4*ä
-7`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaƒ ƒ(³
-°
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java„ „(	
-%0java.util.Optional"__id*,** 
-org.exist.util.FileInputSource"
-file¾»
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.java„ „(
-%1boolean"java.util.Optional#isPresent()Z*
-
-%0java.util.Optional2isPresent()*
-5
-1*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaŒ
- Œ("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/util/FileInputSource.javaŒ Œ(
-""B" 
-org.exist.util.FileInputSource

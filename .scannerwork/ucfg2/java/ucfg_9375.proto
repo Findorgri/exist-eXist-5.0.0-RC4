@@ -1,157 +1,0 @@
-
-5org.exist.xquery.ForExpr#toString()Ljava/lang/String;Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java¥ ¥("10*Å
-2Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java« «(öó
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java« «(%
-%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*	
-return 2append(Ljava/lang/String;)*
-1*˚
-3Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java≈ ≈(îë
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java≈ ≈(
-%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- 2append(Ljava/lang/String;)*
-1*ó
-4Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java¿ ¿(óî
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java¿ ¿(
-%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- in 2append(Ljava/lang/String;)¸˘
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java¡ ¡(/
-%13"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)îë
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java¬ ¬(
-%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- 2append(Ljava/lang/String;)*
-2
-3*€
-5Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaæ æ(ñì
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaæ æ(!
-%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- at 2append(Ljava/lang/String;)¥
-±
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaæ) æ(;
-%10java.lang.String"__id*4*2
-org.exist.xquery.ForExpr"
-positionalVariable§°
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaæ æ(<
-%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%9java.lang.StringBuilder*
-
-%10java.lang.String2append(Ljava/lang/String;)*
-4*ù
-6Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaΩ Ω(≥
-∞
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaΩ Ω(
-%8java.lang.String"__id*4*2
-org.exist.xquery.ForExpr"
-positionalVariable*
-4
-5*â
-7Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaª ª(¢ü
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaª ª(-
-%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- allowing empty 2append(Ljava/lang/String;)*
-6*˙
-9Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaπ π(ñì
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaπ π("
-%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
- as 2append(Ljava/lang/String;)˜Ù
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaπ π(7
-%6"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-%5java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-6
-7*Ü
-10Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaµ% µ(8óî
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaµ) µ(6
-%0java.lang.StringBuilder"java.lang.StringBuilder©
-¶
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaµ% µ(8
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder©
-¶
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.javaµ µ(9!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilderñì
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java∂ ∂(
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-for 2append(Ljava/lang/String;)ìê
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java∑ ∑(
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-$2append(Ljava/lang/String;)˜Ù
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java∑ ∑(*
-%4"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
-
-%3java.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*	
-6
-7
-9*π
-1Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java» »(¸˘
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java» »(,
-%17"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)ﬂ‹
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java… …( 
-%18java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"w
-Z
-NC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/ForExpr.java… …(!
-
-%18java.lang.StringB
-org.exist.xquery.ForExpr

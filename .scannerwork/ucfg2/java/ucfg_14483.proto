@@ -1,28 +1,0 @@
-
-lorg.exist.security.internal.RealmImpl#findGroupnamesWhereGroupnameStarts(Ljava/lang/String;)Ljava/util/List;g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaç ç(:"startingBlock*’
-startingBlockg
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaç: ç(O¥
-±
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaå å(
-%0"
-__annotate*
-java.lang.Override*
-
-prefixjava.lang.Stringû
-õ
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaçH ç(N
-prefixjava.lang.String"__annotation*
-
-%0*
-1*ﬂ
-1g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaé é("q
-g
-[C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/security/internal/RealmImpl.javaé ì(
-
-"":
-prefixjava.lang.StringB)'
-%org.exist.security.internal.RealmImpl

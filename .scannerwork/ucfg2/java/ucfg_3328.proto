@@ -1,73 +1,0 @@
-
-:org.exist.dom.persistent.Match#equals(Ljava/lang/Object;)Z`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaƒ ƒ("startingBlock*Á
-startingBlock`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaƒ ƒ(-¬
-©
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‚ ‚(
-%4"
-__annotate*
-java.lang.Override*
-
-otherjava.lang.Object–
-“
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaƒ' ƒ(,
-otherjava.lang.Object"__annotation*
-
-%4*
-5
-6*Õ
-4`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‰ ‰(º
-·
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‰ ‰(
-%1java.lang.String"__id*5*3
-$
-omorg.exist.dom.persistent.Match"
-	matchTerm¶
-³
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‰  ‰()
-%2java.lang.String"__id*1*/ 
-org.exist.dom.persistent.Match"
-	matchTermòï
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‰ ‰(*
-%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%1java.lang.String*
-
-%2java.lang.String2equals(Ljava/lang/Object;)*
-1*Û
-5`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‡! ‡(&®
-«
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java‡ ‡('$
-omorg.exist.dom.persistent.Match"__id*
-
-otherjava.lang.Objectº
-·
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaˆ ˆ(
-%0java.lang.String"__id*5*3
-$
-omorg.exist.dom.persistent.Match"
-	matchTerm*
-4
-1*Ñ
-6`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java… …("j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.java… …(
-""*Ñ
-1`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaˆ Š(%"j
-`
-TC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/dom/persistent/Match.javaˆ Š(%
-"":
-otherjava.lang.ObjectB" 
-org.exist.dom.persistent.Match

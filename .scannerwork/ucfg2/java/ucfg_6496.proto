@@ -1,122 +1,0 @@
-
-Rorg.exist.config.ConfigurationImpl#equals(Ljava/lang/Object;Ljava/util/Optional;)Zd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÖ Ö("startingBlock*ñ
-2d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÝ  Ý((öó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÝ  Ý(A
-%3"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;* 
-
-propertyjava.util.Optional*
-""2orElse(Ljava/lang/Object;)‘
-Ž
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÝ Ý(B
-namejava.lang.String"__id*
-
-%3¼¹
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÞ? Þ(P
-%4java.lang.String"Torg.exist.config.ConfigurationImpl#getProperty(Ljava/lang/String;)Ljava/lang/String;*&$
-"org.exist.config.ConfigurationImpl*
-
-namejava.lang.String2getProperty(Ljava/lang/String;)ü
-ù
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÞ+ Þ(Q
-%5java.util.Optional"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
-java.util.Optional*
-
-%4java.lang.String¨
-¥
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÞ Þ(R
-valuejava.util.Optional"__id*
-
-%5java.util.Optional™–
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaà à(C
-%6java.util.Optional"Ijava.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;*
-
-valuejava.util.Optional*
-""2"map(Ljava/util/function/Function;)ƒ€
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaà à(Q
-%7java.lang.Boolean"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
-
-%6java.util.Optional*
-""2orElse(Ljava/lang/Object;)"n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaà à(R
-""*Ù
-3d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÚ Ú("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÚ Ú(
-""*£
-startingBlockd
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÖ Ö(L®
-«
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÕ Õ(
-%8"
-__annotate*
-java.lang.Override*
-
-objjava.lang.Object˜
-•
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÖ' Ö(*
-objjava.lang.Object"__annotation*
-
-%8µ
-²
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÕ Õ(
-%9"
-__annotate*
-java.lang.Override* 
-
-propertyjava.util.OptionalŸ
-œ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÖC Ö(K
-propertyjava.util.Optional"__annotation*
-
-%9*
-4
-1*—
-4d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaØ> Ø(A¶
-³
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaØ Ø(B*
-conf"org.exist.config.ConfigurationImpl"__id*
-
-objjava.lang.Objectôñ
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÙ Ù(
-%0java.lang.String">org.exist.config.ConfigurationImpl#getName()Ljava/lang/String;*&$
-"org.exist.config.ConfigurationImpl2	getName()ú÷
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÙ# Ù(1
-%1java.lang.String">org.exist.config.ConfigurationImpl#getName()Ljava/lang/String;*,
-*
-conf"org.exist.config.ConfigurationImpl2	getName()öó
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaÙ Ù(2
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%0java.lang.String*
-
-%1java.lang.String2equals(Ljava/lang/Object;)*
-2
-3*Ù
-1d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaã ã("n
-d
-XC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/config/ConfigurationImpl.javaã ã(
-"":
-objjava.lang.Object:
-propertyjava.util.OptionalB&$
-"org.exist.config.ConfigurationImpl

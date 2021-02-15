@@ -1,52 +1,0 @@
-
-)org.exist.xquery.LogicalOp#returnsType()IZ
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.javaY Y("2"6*Ø
-2Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.javaa a(r
-p
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.javaa a(
-%0"__id*
-
-%2*
-1*Ø
-3Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java_ _(r
-p
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java_ _(
-%0"__id*
-
-%6*
-1*Ø
-4Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java_ _(r
-p
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java_ _(
-%0"__id*
-
-%5*
-1*°
-5Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java^ ^(ÆÃ
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java^ ^(
-%4"2org.exist.xquery.LogicalOp#getParent()LExpression;*
-org.exist.xquery.LogicalOp2getParent()*
-3
-4*°
-6Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java\ \(ÆÃ
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.java\ \(
-%3"2org.exist.xquery.LogicalOp#getParent()LExpression;*
-org.exist.xquery.LogicalOp2getParent()*
-4
-5*Å
-1Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.javaZ a("d
-Z
-PC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/LogicalOp.javaZ a(
-""B
-org.exist.xquery.LogicalOp

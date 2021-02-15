@@ -1,20 +1,0 @@
-
-6org.exist.xquery.value.BinaryValueFromFile#isClosed()Zj
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaX X("1*¯
-1j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaY Y(×
-Ô
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaY Y(#
-%0java.nio.channels.FileChannel"__id*;*9,
-*org.exist.xquery.value.BinaryValueFromFile"	
-channelíê
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaY Y( 
-%1boolean"<java.nio.channels.spi.AbstractInterruptibleChannel#isOpen()Z*%
-#
-%0java.nio.channels.FileChannel2isOpen()"t
-j
-`C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/BinaryValueFromFile.javaY Y(!
-""B.,
-*org.exist.xquery.value.BinaryValueFromFile

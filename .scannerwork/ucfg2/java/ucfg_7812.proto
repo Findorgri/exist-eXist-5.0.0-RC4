@@ -1,88 +1,0 @@
-
-Torg.exist.xmldb.LocalBinaryResource#getContent(Ljava/lang/Object;)Ljava/lang/Object;c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javas s("24"6"18"20"22"1"12*ã
-24c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javav v(€
-ý
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javav v(*
-%0byte[]"Dorg.exist.xmldb.LocalBinaryResource#readFile(Ljava/nio/file/Path;)[B*'%
-#org.exist.xmldb.LocalBinaryResource*
-
-resjava.lang.Object"u
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javav v(+
-
-%0byte[]*ã
-5e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java† †(("w
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java† †((
-
-%5byte[]* 
-6e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java…8 …(;¦
-£
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java… …(;
-isjava.io.InputStream"__id*
-
-resjava.lang.Object…
-‚
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java† †('
-%5byte[]"Eorg.exist.xmldb.LocalBinaryResource#readFile(Ljava/io/InputStream;)[B*'%
-#org.exist.xmldb.LocalBinaryResource*
-
-isjava.io.InputStream*
-5*ì
-18c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java| |("€
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java| |(
-
-resjava.lang.Object*è
-20c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaz z(…
-‚
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaz z(2
-%3byte[]"Iorg.exist.xmldb.LocalBinaryResource#readFile(Lorg/xml/sax/InputSource;)[B*'%
-#org.exist.xmldb.LocalBinaryResource*
-
-resjava.lang.Object"u
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaz z(3
-
-%3byte[]*¹
-22c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javax x(ÒÏ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javax  x(<
-%1java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*
-
-resjava.lang.Object2toPath()
-þ
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javax x(=
-%2byte[]"Dorg.exist.xmldb.LocalBinaryResource#readFile(Ljava/nio/file/Path;)[B*'%
-#org.exist.xmldb.LocalBinaryResource*
-
-%1java.nio.file.Path"u
-c
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javax x(>
-
-%2byte[]*Ü
-12e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java€ €(."o
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.java€ €(.
-""*ï
-1e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaŒ Œ("‚
-e
-YC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xmldb/LocalBinaryResource.javaŒ Œ(
-
-resjava.lang.Object:
-resjava.lang.ObjectB'%
-#org.exist.xmldb.LocalBinaryResource

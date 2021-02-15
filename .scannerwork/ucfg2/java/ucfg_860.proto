@@ -1,35 +1,0 @@
-
-org.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getQueryParam(Ljava/lang/String;)Ljava/lang/Object;²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÍ Í("startingBlock*³
-startingBlock²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÍ Í(1ý
-ú
-²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÌ Ì(
-%1"
-__annotate*
-java.lang.Override*
-
-keyjava.lang.Stringç
-ä
-²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÍ- Í(0
-keyjava.lang.String"__annotation*
-
-%1*
-1*Î
-1²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÏ Ï(Á
-¾
-²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÏ Ï($
-%0java.lang.Object"‚org.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter#getGetParameters(Ljava/lang/String;)Ljava/lang/Object;*OM
-Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter*
-
-keyjava.lang.String"Ï
-²
-¥C:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/extensions/exquery/restxq/src/main/java/org/exist/extensions/exquery/restxq/impl/adapters/HttpServletRequestAdapter.javaÏ Ï(%
-
-%0java.lang.Object:
-keyjava.lang.StringBOM
-Korg.exist.extensions.exquery.restxq.impl.adapters.HttpServletRequestAdapter

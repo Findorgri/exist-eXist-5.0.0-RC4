@@ -1,66 +1,0 @@
-
-Uorg.exist.xquery.value.AbstractDateTimeValue#conversionPreference(Ljava/lang/Class;)In
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaç ç(#"9*Ì
-2n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaò ò("x
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaò ò(
-""*Ì
-4n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaï ï("x
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaï ï(
-""*Ü
-5n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaî î(ÖÇ
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaî î(?
-%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*	
-2
-4
-1*Ì
-6n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaí í("x
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaí í(
-""*É
-7n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaë ë(ÖÇ
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaë ë(B
-%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*
-5
-6*Ì
-8n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaè è("x
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaè è(
-""*É
-9n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaé é(ÖÇ
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaé é(7
-%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
-
-	javaClassjava.lang.Class*
-""2#isAssignableFrom(Ljava/lang/Class;)*
-7
-8*¸
-1n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaö ö(å
-â
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaö ö( 	
-%3int"__id*
-"""x
-n
-bC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/xquery/value/AbstractDateTimeValue.javaö ö(!
-"":
-	javaClassjava.lang.ClassB0.
-,org.exist.xquery.value.AbstractDateTimeValue

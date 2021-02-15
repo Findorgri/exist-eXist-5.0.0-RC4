@@ -1,57 +1,0 @@
-
-8org.exist.storage.IndexSpec#toString()Ljava/lang/String;]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÏ Ï("9*ë
-3]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÙ Ù(þû
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÙ Ù(:
-%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*
-3
-1*î
-6]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÔ Ô(þû
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÔ Ô(2
-%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
-!
-resultjava.lang.StringBuilder*
-""2append(Ljava/lang/Object;)*	
-3
-6
-1*è
-9]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÐ% Ð(8š—
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÐ) Ð(6
-%0java.lang.StringBuilder"java.lang.StringBuilder¬
-©
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÐ% Ð(8
-%1"!java.lang.StringBuilder#<init>()V*
-
-%0java.lang.StringBuilder¬
-©
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÐ Ð(9!
-resultjava.lang.StringBuilder"__id*
-
-%0java.lang.StringBuilder*	
-3
-6
-1*Á
-1]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÛ Û(áÞ
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÛ Û( 
-%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
-!
-resultjava.lang.StringBuilder2
-toString()"y
-]
-QC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/IndexSpec.javaÛ Û(!
-
-%4java.lang.StringB
-org.exist.storage.IndexSpec

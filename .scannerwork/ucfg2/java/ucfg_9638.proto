@@ -1,68 +1,0 @@
-
-`org.exist.storage.lock.LockTable#getStackTrace(Ljava/lang/Thread;)[Ljava/lang/StackTraceElement;b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÒ  Ò(-"startingBlock*¿
-startingBlockb
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÒ- Ò(B¥
-¢
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÑ Ñ(
-%3"
-__annotate*
-
-Nullable*
-
-threadjava.lang.Thread™
-–
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÒ; Ò(A
-threadjava.lang.Thread"__annotation*
-
-%3*
-6
-7*Ò
-6b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÖ3 Ö(9ûø
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÖ3 Ö(I#
-%0java.lang.StackTraceElement[]">java.lang.Thread#getStackTrace()[Ljava/lang/StackTraceElement;*
-
-threadjava.lang.Thread2getStackTrace()Á
-¾
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÖ Ö(J+
-
-stackTracejava.lang.StackTraceElement[]"__id*%
-#
-%0java.lang.StackTraceElement[]¡
-ž
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÙ Ù(?	
-%1int"Xorg.exist.storage.lock.LockTable#findFirstExternalFrame([Ljava/lang/StackTraceElement;)I*$"
- org.exist.storage.lock.LockTable*-
-+
-
-stackTracejava.lang.StackTraceElement[]*
-1*Õ
-7b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÔ Ô("l
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaÔ Ô(
-""*¡
-1b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaæ æ(©
-¦
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaæ æ(;#
-%2java.lang.StackTraceElement[]"Fjava.util.Arrays#copyOfRange([Ljava/lang/Object;II)[Ljava/lang/Object;*"
-java.util.Arrays*-
-+
-
-stackTracejava.lang.StackTraceElement[]*
-""*
-"""‹
-b
-VC:/Users/Findorgri/git/exist-eXist-5.0.0-RC4/src/org/exist/storage/lock/LockTable.javaæ æ(<%
-#
-%2java.lang.StackTraceElement[]:
-threadjava.lang.ThreadB$"
- org.exist.storage.lock.LockTable
